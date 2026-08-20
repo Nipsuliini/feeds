@@ -4,203 +4,40 @@
     <title>miseva</title>
     <link>https://www.miseva.fi/</link>
     <description>Product feed – miseva</description>
-    <lastBuildDate>Wed, 19 Aug 2026 22:38:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 22:38:07 +0000</lastBuildDate>
     <item>
-            <g:id>725dcce4364e</g:id>
-            <g:title>Tabbert Da Vinci</g:title>
-            <g:description>Tässä siististi pidetyssä matkailuvaunussa arki jää taakse heti oven sulkeutuessa. Käytännöllinen pohjaratkaisu tarjoaa viihtyisän oleskelutilan, toimivan keittiön ja mukavat erillisvuoteet.</g:description>
-            <g:link>https://www.miseva.fi/autot/tabbert-da-vinci-2/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-tabbert-da-vinci-2057773881-178332590245953.jpg?m=1783328534</g:image_link>
-            <g:price>13950.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Tabbert</g:brand>
-            <g:mpn>DGM-814</g:mpn>
-            <g:product_type>Matkailuvaunu</g:product_type>
-            <g:custom_label_0>Turenki</g:custom_label_0>
-            <g:custom_label_1>2012</g:custom_label_1>
-            <g:custom_label_3>256.44 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>79b267cae259</g:id>
-            <g:title>Skoda Octavia</g:title>
-            <g:description>Vanha slogan pitää hyvin kutinsa. Skoda edustaa käytännölisyyttä, luotettavuutta ja monipuolisuutta. Siksipä näillä ajellaankin vähän pidempään. Tässä kyseisessä yksilössä huoltokirjaa on täytelty…</g:description>
-            <g:link>https://www.miseva.fi/autot/skoda-octavia-3/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-henkiloauto-farmari-skoda-octavia-1683177669-177822887250085.jpg?m=1778231040</g:image_link>
-            <g:price>3790.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Skoda</g:brand>
-            <g:mpn>NIH-344</g:mpn>
-            <g:product_type>Henkilöauto</g:product_type>
-            <g:custom_label_0>Turenki</g:custom_label_0>
-            <g:custom_label_1>2011</g:custom_label_1>
-            <g:custom_label_2>400000 km</g:custom_label_2>
-            <g:custom_label_3>75.42 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>3ff6095b65ad</g:id>
-            <g:title>Hobby 650</g:title>
-            <g:description>Tässä Hobby Prestigessä on sitä vanhan koulukunnan matkailuvaunutunnelmaa, jota ei tarvitse turhaan selitellä. Kiinteä parisänky odottaa valmiina, keittiössä syntyy muutakin kuin huoltoaseman hodari…</g:description>
-            <g:link>https://www.miseva.fi/autot/hobby-650-33/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-hobby-650-1290017300-178712094641937.jpg?m=1787122932</g:image_link>
-            <g:price>19480.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Hobby</g:brand>
-            <g:mpn>DFA-851</g:mpn>
-            <g:product_type>Matkailuvaunu</g:product_type>
-            <g:custom_label_0>Turenki</g:custom_label_0>
-            <g:custom_label_1>2013</g:custom_label_1>
-            <g:custom_label_3>354.97 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>d87d55589141</g:id>
-            <g:title>Hobby 560</g:title>
-            <g:description>Tyylikäs Hobby suosituilla erillisvuoteilla ja Alde-lämmityksellä. Erinomainen talvilämmin vaihtoehto niin ympärivuotiseen matkailuun kuin kausipaikalle. Alde-nestekiertolämmitys takaa miellyttävän…</g:description>
-            <g:link>https://www.miseva.fi/autot/hobby-560-87/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-hobby-560-2305234529-178392709367828.jpg?m=1783929732</g:image_link>
-            <g:price>19980.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Hobby</g:brand>
-            <g:mpn>DEN-626</g:mpn>
-            <g:product_type>Matkailuvaunu</g:product_type>
-            <g:custom_label_0>Turku</g:custom_label_0>
-            <g:custom_label_1>2015</g:custom_label_1>
-            <g:custom_label_3>363.88 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>a8de582535f6</g:id>
-            <g:title>Opel Karl</g:title>
-            <g:description>Kaikki autot eivät tarvitse satoja hevosvoimia tehdäkseen vaikutuksen. Opel Karl vakuuttaa käytännöllisyydellään, taloudellisuudellaan ja vaivattomalla ajettavuudellaan.</g:description>
-            <g:link>https://www.miseva.fi/autot/opel-karl/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-henkiloauto-viistopera-opel-karl-199188608-178480090159115.jpg?m=1784804536</g:image_link>
-            <g:price>6250.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Opel</g:brand>
-            <g:mpn>LNP-597</g:mpn>
-            <g:product_type>Henkilöauto</g:product_type>
-            <g:custom_label_0>Turenki</g:custom_label_0>
-            <g:custom_label_1>2016</g:custom_label_1>
-            <g:custom_label_2>77030 km</g:custom_label_2>
-            <g:custom_label_3>119.25 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>769c9f909604</g:id>
-            <g:title>Hobby 560</g:title>
-            <g:description>Nyt tarjolla Hobby Prestige hyvällä ja käytännöllisellä pohjaratkaisulla! Tässä Hobby Prestigessä on pohjaratkaisu, joka toimii niin viikonloppureissuilla kuin pidemmilläkin matkoilla.</g:description>
-            <g:link>https://www.miseva.fi/autot/hobby-560-90/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-hobby-560-2851477095-178653970264950.jpg?m=1786604684</g:image_link>
-            <g:price>16980.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Hobby</g:brand>
-            <g:mpn>WZJ-524</g:mpn>
-            <g:product_type>Matkailuvaunu</g:product_type>
-            <g:custom_label_0>Vantaa</g:custom_label_0>
-            <g:custom_label_1>2012</g:custom_label_1>
-            <g:custom_label_3>310.43 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>d98e10b497da</g:id>
-            <g:title>Hobby 400</g:title>
-            <g:description>Näppärä pikku-Hobby valmiina reissuun ja vaikka puskaparkkeihin. Kompaktiin kokoon on saatu mukavasti varustelua ja omavaraisuutta. Tupla-akut sekä aurinkopaneelit pitävät laitteet toiminnassa myös…</g:description>
-            <g:link>https://www.miseva.fi/autot/hobby-400-31/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-hobby-400-1858134822-178713800740422.jpg?m=1787140936</g:image_link>
-            <g:price>11980.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Hobby</g:brand>
-            <g:mpn>WTM-378</g:mpn>
-            <g:product_type>Matkailuvaunu</g:product_type>
-            <g:custom_label_0>Turku</g:custom_label_0>
-            <g:custom_label_1>2008</g:custom_label_1>
-            <g:custom_label_3>221.34 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>77fb128dd3ef</g:id>
-            <g:title>Dethleffs Camper</g:title>
-            <g:description>Huippuvarusteltu ja ketterä vaunu erillisvuoteilla Tämä mukavan kokoinen ja helposti vedettävä vaunu tarjoaa luksusta matkantekoon. Nestekiertoinen Alde-lämmitys pitää sisätilat tasaisen lämpiminä…</g:description>
-            <g:link>https://www.miseva.fi/autot/dethleffs-camper-59/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-dethleffs-camper-2372913081-177753576716551.jpg?m=1777536147</g:image_link>
-            <g:price>19980.00 EUR</g:price>
+            <g:id>211872926de4</g:id>
+            <g:title>Dethleffs Globebus II</g:title>
+            <g:description>Dethleffs Globebus on näppärän kokoinen matkailuauto, jossa on kaikki onnistuneeseen reissuun. Toimiva pohjaratkaisu tarjoaa viihtyisän ruokailuryhmän, käytännöllisen keittiön…</g:description>
+            <g:link>https://www.miseva.fi/autot/dethleffs-globebus-ii/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-puoli-integroitu-dethleffs-globebus-ii-1596259301-178402433833045.jpg?m=1784030533</g:image_link>
+            <g:price>22950.00 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
             <g:brand>Dethleffs</g:brand>
-            <g:mpn>DCN-749</g:mpn>
-            <g:product_type>Matkailuvaunu</g:product_type>
-            <g:custom_label_0>Turku</g:custom_label_0>
-            <g:custom_label_1>2014</g:custom_label_1>
-            <g:custom_label_3>363.88 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>5f84506f0667</g:id>
-            <g:title>Swift Mondial</g:title>
-            <g:description>On olemassa retkeilyautoja, ja sitten on niitä, joihin on helppo ihastua. Tämä Swift Mondial tarjoaa kompaktin ulkomitan, mutta sisältä löytyy kaikki onnistuneeseen matkailuun tarvittava.</g:description>
-            <g:link>https://www.miseva.fi/autot/swift-mondial-5/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-retkeilyauto-swift-mondial-1809450132-178428748669438.jpg?m=1784289736</g:image_link>
-            <g:price>15950.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Swift</g:brand>
-            <g:mpn>OYG-195</g:mpn>
+            <g:mpn>EMC-409</g:mpn>
             <g:product_type>Matkailuauto</g:product_type>
             <g:custom_label_0>Turenki</g:custom_label_0>
-            <g:custom_label_1>2000</g:custom_label_1>
-            <g:custom_label_2>195000 km</g:custom_label_2>
-            <g:custom_label_3>292.08 €/kk</g:custom_label_3>
+            <g:custom_label_1>2005</g:custom_label_1>
+            <g:custom_label_2>201000 km</g:custom_label_2>
+            <g:custom_label_3>416.79 €/kk</g:custom_label_3>
     </item>
     <item>
-            <g:id>9636478f7dd1</g:id>
-            <g:title>Kabe Safir</g:title>
-            <g:description>Kaben perhevankkuri ja vieläpä oikein siistinä yksilönä ja hyvillä varusteilla ryyditettynä. Tilaa on todellakin majoitella vaikkapa kuusi henkeä. Vaunun takana on pitkittäissuuntaisesti sijoitetut…</g:description>
-            <g:link>https://www.miseva.fi/autot/kabe-safir-27/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-kabe-safir-2267525246-178651893913395.jpg?m=1786521730</g:image_link>
-            <g:price>18990.00 EUR</g:price>
+            <g:id>39dccecb79af</g:id>
+            <g:title>Mercedes-Benz Sprinter</g:title>
+            <g:description>Nyt olisi tarjolla se kuuluisa ”monien mahdollisuuksien” monikäyttöajoneuvo! Rekisteröity M1 henkilöauto / matkailuauto mistä löytyy ”retkimoodissa” matkustusapaikat viidelle henkilölle ja 150 x 190…</g:description>
+            <g:link>https://www.miseva.fi/autot/mercedes-benz-sprinter-24/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-pakettiauto-puolipitka-korkea-mercedes-benz-sprinter-2800724744-178540530954134.jpg?m=1785409374</g:image_link>
+            <g:price>19900.00 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>Kabe</g:brand>
-            <g:mpn>WNN-903</g:mpn>
-            <g:product_type>Matkailuvaunu</g:product_type>
+            <g:brand>Mercedes-Benz</g:brand>
+            <g:mpn>JHS-441</g:mpn>
+            <g:product_type>Henkilöauto</g:product_type>
             <g:custom_label_0>Turenki</g:custom_label_0>
-            <g:custom_label_1>2006</g:custom_label_1>
-            <g:custom_label_3>346.24 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>db32bbb83f69</g:id>
-            <g:title>Chevrolet Volt</g:title>
-            <g:description>Sähköautohengessä, mutta tarvittaessa bensan voimalla. Näin taittuu matka ladattavalla Chevrolet Voltilla ilman suurempia kompromisseja. Ja mukavasti taittuukin. Opel Amperan sisarmalli Volt täyttää…</g:description>
-            <g:link>https://www.miseva.fi/autot/chevrolet-volt/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-henkiloauto-viistopera-chevrolet-volt-2340342667-178177262833029.jpg?m=1781773484</g:image_link>
-            <g:price>7950.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Chevrolet</g:brand>
-            <g:mpn>CLR-376</g:mpn>
-            <g:product_type>Henkilöauto</g:product_type>
-            <g:custom_label_0>Vantaa</g:custom_label_0>
-            <g:custom_label_1>2013</g:custom_label_1>
-            <g:custom_label_2>141000 km</g:custom_label_2>
-            <g:custom_label_3>149.54 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>fc4acc4ec25e</g:id>
-            <g:title>Suzuki Swift</g:title>
-            <g:description>Tässä on auto, joka kulkee vaivattomasti niin kaupungin kaduilla kuin talven liukkaillakin. Hybriditekniikka pitää kulutuksen kurissa ja neliveto tuo varmuutta ajoon ympäri vuoden.</g:description>
-            <g:link>https://www.miseva.fi/autot/suzuki-swift-3/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-henkiloauto-viistopera-suzuki-swift-2783389046-178548463498921.jpg?m=1785488632</g:image_link>
-            <g:price>11950.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Suzuki</g:brand>
-            <g:mpn>SYZ-154</g:mpn>
-            <g:product_type>Henkilöauto</g:product_type>
-            <g:custom_label_0>Vantaa</g:custom_label_0>
-            <g:custom_label_1>2021</g:custom_label_1>
-            <g:custom_label_2>104000 km</g:custom_label_2>
-            <g:custom_label_3>220.81 €/kk</g:custom_label_3>
+            <g:custom_label_1>2007</g:custom_label_1>
+            <g:custom_label_2>301000 km</g:custom_label_2>
+            <g:custom_label_3>362.45 €/kk</g:custom_label_3>
     </item>
     <item>
             <g:id>e742ac7d3e80</g:id>
@@ -220,21 +57,203 @@
             <g:custom_label_3>274.26 €/kk</g:custom_label_3>
     </item>
     <item>
-            <g:id>39dccecb79af</g:id>
-            <g:title>Mercedes-Benz Sprinter</g:title>
-            <g:description>Nyt olisi tarjolla se kuuluisa ”monien mahdollisuuksien” monikäyttöajoneuvo! Rekisteröity M1 henkilöauto / matkailuauto mistä löytyy ”retkimoodissa” matkustusapaikat viidelle henkilölle ja 150 x 190…</g:description>
-            <g:link>https://www.miseva.fi/autot/mercedes-benz-sprinter-24/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-pakettiauto-puolipitka-korkea-mercedes-benz-sprinter-2800724744-178540530954134.jpg?m=1785409374</g:image_link>
-            <g:price>19900.00 EUR</g:price>
+            <g:id>725dcce4364e</g:id>
+            <g:title>Tabbert Da Vinci</g:title>
+            <g:description>Tässä siististi pidetyssä matkailuvaunussa arki jää taakse heti oven sulkeutuessa. Käytännöllinen pohjaratkaisu tarjoaa viihtyisän oleskelutilan, toimivan keittiön ja mukavat erillisvuoteet.</g:description>
+            <g:link>https://www.miseva.fi/autot/tabbert-da-vinci-2/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-tabbert-da-vinci-2057773881-178332590245953.jpg?m=1783328534</g:image_link>
+            <g:price>13950.00 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>Mercedes-Benz</g:brand>
-            <g:mpn>JHS-441</g:mpn>
+            <g:brand>Tabbert</g:brand>
+            <g:mpn>DGM-814</g:mpn>
+            <g:product_type>Matkailuvaunu</g:product_type>
+            <g:custom_label_0>Turenki</g:custom_label_0>
+            <g:custom_label_1>2012</g:custom_label_1>
+            <g:custom_label_3>256.44 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>9636478f7dd1</g:id>
+            <g:title>Kabe Safir</g:title>
+            <g:description>Kaben perhevankkuri ja vieläpä oikein siistinä yksilönä ja hyvillä varusteilla ryyditettynä. Tilaa on todellakin majoitella vaikkapa kuusi henkeä. Vaunun takana on pitkittäissuuntaisesti sijoitetut…</g:description>
+            <g:link>https://www.miseva.fi/autot/kabe-safir-27/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-kabe-safir-2267525246-178651893913395.jpg?m=1786521730</g:image_link>
+            <g:price>18990.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Kabe</g:brand>
+            <g:mpn>WNN-903</g:mpn>
+            <g:product_type>Matkailuvaunu</g:product_type>
+            <g:custom_label_0>Turenki</g:custom_label_0>
+            <g:custom_label_1>2006</g:custom_label_1>
+            <g:custom_label_3>346.24 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>fc4acc4ec25e</g:id>
+            <g:title>Suzuki Swift</g:title>
+            <g:description>Tässä on auto, joka kulkee vaivattomasti niin kaupungin kaduilla kuin talven liukkaillakin. Hybriditekniikka pitää kulutuksen kurissa ja neliveto tuo varmuutta ajoon ympäri vuoden.</g:description>
+            <g:link>https://www.miseva.fi/autot/suzuki-swift-3/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-henkiloauto-viistopera-suzuki-swift-2783389046-178548463498921.jpg?m=1785488632</g:image_link>
+            <g:price>11950.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Suzuki</g:brand>
+            <g:mpn>SYZ-154</g:mpn>
+            <g:product_type>Henkilöauto</g:product_type>
+            <g:custom_label_0>Vantaa</g:custom_label_0>
+            <g:custom_label_1>2021</g:custom_label_1>
+            <g:custom_label_2>104000 km</g:custom_label_2>
+            <g:custom_label_3>220.81 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>5f84506f0667</g:id>
+            <g:title>Swift Mondial</g:title>
+            <g:description>On olemassa retkeilyautoja, ja sitten on niitä, joihin on helppo ihastua. Tämä Swift Mondial tarjoaa kompaktin ulkomitan, mutta sisältä löytyy kaikki onnistuneeseen matkailuun tarvittava.</g:description>
+            <g:link>https://www.miseva.fi/autot/swift-mondial-5/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-retkeilyauto-swift-mondial-1809450132-178428748669438.jpg?m=1784289736</g:image_link>
+            <g:price>15950.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Swift</g:brand>
+            <g:mpn>OYG-195</g:mpn>
+            <g:product_type>Matkailuauto</g:product_type>
+            <g:custom_label_0>Turenki</g:custom_label_0>
+            <g:custom_label_1>2000</g:custom_label_1>
+            <g:custom_label_2>195000 km</g:custom_label_2>
+            <g:custom_label_3>292.08 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>d87d55589141</g:id>
+            <g:title>Hobby 560</g:title>
+            <g:description>Tyylikäs Hobby suosituilla erillisvuoteilla ja Alde-lämmityksellä. Erinomainen talvilämmin vaihtoehto niin ympärivuotiseen matkailuun kuin kausipaikalle. Alde-nestekiertolämmitys takaa miellyttävän…</g:description>
+            <g:link>https://www.miseva.fi/autot/hobby-560-87/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-hobby-560-2305234529-178392709367828.jpg?m=1783929732</g:image_link>
+            <g:price>19980.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Hobby</g:brand>
+            <g:mpn>DEN-626</g:mpn>
+            <g:product_type>Matkailuvaunu</g:product_type>
+            <g:custom_label_0>Turku</g:custom_label_0>
+            <g:custom_label_1>2015</g:custom_label_1>
+            <g:custom_label_3>363.88 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>118db71828f7</g:id>
+            <g:title>Casa Car Ford Transit</g:title>
+            <g:description>Upeassa kunnossa oleva Casa Car Transit valmiina uusiin seikkailuihin! Tyylikäs ja erittäin siistikuntoinen Casa Car tarjoaa toimivan pohjaratkaisun ja viihtyisät tilat kompaktissa koossa.</g:description>
+            <g:link>https://www.miseva.fi/autot/casa-car-ford-transit/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-retkeilyauto-casa-car-ford-transit-139774441-178522668394818.jpg?m=1785229470</g:image_link>
+            <g:price>17980.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Casa</g:brand>
+            <g:mpn>AZM-653</g:mpn>
+            <g:product_type>Matkailuauto</g:product_type>
+            <g:custom_label_0>Turku</g:custom_label_0>
+            <g:custom_label_1>2002</g:custom_label_1>
+            <g:custom_label_2>228000 km</g:custom_label_2>
+            <g:custom_label_3>328.25 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>f753c2840459</g:id>
+            <g:title>LMC Cas Familia</g:title>
+            <g:description>Hieno LMC:n perhemallin vaunu kerrosvuoteilla. Tähän majoittaa hienosti jopa kuusi henkilöä ja vaunusta löytyy myös runsaasti säilytystiloja. Etuosassa on pitkittäinen parivuode, sekä kylppäritilat.</g:description>
+            <g:link>https://www.miseva.fi/autot/lmc-cas-familia/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-lmc-cas-familia-1186449226-178238371883455.jpg?m=1782385351</g:image_link>
+            <g:price>14950.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>LMC</g:brand>
+            <g:mpn>WTL-364</g:mpn>
+            <g:product_type>Matkailuvaunu</g:product_type>
+            <g:custom_label_0>Turenki</g:custom_label_0>
+            <g:custom_label_1>2008</g:custom_label_1>
+            <g:custom_label_3>274.26 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>0bc44177cc1e</g:id>
+            <g:title>Fendt Platin</g:title>
+            <g:description>VAIHTOMARKKINAT KÄYNNISSÄ NYT! Tutustu kampanjaetuihin osoitteessa https://www.helsinkicaravan.fi/vaihtomarkkinat/ Tämäkin on Vaihtomarkkinoiden kampanjatuote. Kysy tuotekohtaiset edut myyjiltämme.</g:description>
+            <g:link>https://www.miseva.fi/autot/fendt-platin-7/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-fendt-platin-2256556663-177908799682613.jpg?m=1779091338</g:image_link>
+            <g:price>10980.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Fendt</g:brand>
+            <g:mpn>WKM-854</g:mpn>
+            <g:product_type>Matkailuvaunu</g:product_type>
+            <g:custom_label_0>Vantaa</g:custom_label_0>
+            <g:custom_label_1>2005</g:custom_label_1>
+            <g:custom_label_3>203.53 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>6115e7b431a7</g:id>
+            <g:title>BMW X3</g:title>
+            <g:description>Siistikuntoinen ja näyttävä MSport- varusteltu pikkumaasturi edullisesti. Tässä X3 on sopivasti kaikkea: nelivetoa, tilaa, mukavuutta ja BMW tuttua ajamisen fiilistä. Valkoinen ulkoväri…</g:description>
+            <g:link>https://www.miseva.fi/autot/bmw-x3-5/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-henkiloauto-maastoauto-bmw-x3-2357008087-178654135749909.jpg?m=1786608376</g:image_link>
+            <g:price>8450.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>BMW</g:brand>
+            <g:mpn>FKT-870</g:mpn>
+            <g:product_type>Henkilöauto</g:product_type>
+            <g:custom_label_0>Vantaa</g:custom_label_0>
+            <g:custom_label_1>2012</g:custom_label_1>
+            <g:custom_label_2>295000 km</g:custom_label_2>
+            <g:custom_label_3>158.45 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>79b267cae259</g:id>
+            <g:title>Skoda Octavia</g:title>
+            <g:description>Vanha slogan pitää hyvin kutinsa. Skoda edustaa käytännölisyyttä, luotettavuutta ja monipuolisuutta. Siksipä näillä ajellaankin vähän pidempään. Tässä kyseisessä yksilössä huoltokirjaa on täytelty…</g:description>
+            <g:link>https://www.miseva.fi/autot/skoda-octavia-3/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-henkiloauto-farmari-skoda-octavia-1683177669-177822887250085.jpg?m=1778231040</g:image_link>
+            <g:price>3790.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Skoda</g:brand>
+            <g:mpn>NIH-344</g:mpn>
             <g:product_type>Henkilöauto</g:product_type>
             <g:custom_label_0>Turenki</g:custom_label_0>
-            <g:custom_label_1>2007</g:custom_label_1>
-            <g:custom_label_2>301000 km</g:custom_label_2>
-            <g:custom_label_3>362.45 €/kk</g:custom_label_3>
+            <g:custom_label_1>2011</g:custom_label_1>
+            <g:custom_label_2>400000 km</g:custom_label_2>
+            <g:custom_label_3>75.42 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>d74bff60c5e7</g:id>
+            <g:title>Hymer B544</g:title>
+            <g:description>Voiko -97 vuoden Hymerillä ajaa Suomesta Afrikkaan, Marokkoon ja asua siinä useamman kuukauden. Kyllä voi ja tässä siitä todiste. Maailmalla näkee monenlaista kulkinetta ja tässä Hymerissä on yksi…</g:description>
+            <g:link>https://www.miseva.fi/autot/hymer-b544-3/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-integroitu-hymer-b544-1498212128-178669745054813.jpg?m=1786701736</g:image_link>
+            <g:price>17480.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Hymer</g:brand>
+            <g:mpn>EIE-965</g:mpn>
+            <g:product_type>Matkailuauto</g:product_type>
+            <g:custom_label_0>Turenki</g:custom_label_0>
+            <g:custom_label_1>1997</g:custom_label_1>
+            <g:custom_label_2>179000 km</g:custom_label_2>
+            <g:custom_label_3>319.34 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>90318fbecbba</g:id>
+            <g:title>Audi A4 allroad quattro</g:title>
+            <g:description>Tässä on auto, joka viihtyy yhtä hyvin työmatkalla kuin mökkitiellä. Audi A4 Allroad yhdistää nelivedon, reilun maavaran ja ajomukavuuden tavalla, joka saa soratienkin tuntumaan asfaltilta.</g:description>
+            <g:link>https://www.miseva.fi/autot/audi-a4-allroad-quattro/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-henkiloauto-farmari-audi-a4-allroad-quattro-2938555303-178366294011235.jpg?m=1783666937</g:image_link>
+            <g:price>13950.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Audi</g:brand>
+            <g:mpn>LZR-845</g:mpn>
+            <g:product_type>Henkilöauto</g:product_type>
+            <g:custom_label_0>Turenki</g:custom_label_0>
+            <g:custom_label_1>2011</g:custom_label_1>
+            <g:custom_label_2>145000 km</g:custom_label_2>
+            <g:custom_label_3>256.44 €/kk</g:custom_label_3>
     </item>
     <item>
             <g:id>6f5795a76e2b</g:id>
@@ -270,21 +289,20 @@
             <g:custom_label_3>363.88 €/kk</g:custom_label_3>
     </item>
     <item>
-            <g:id>118db71828f7</g:id>
-            <g:title>Casa Car Ford Transit</g:title>
-            <g:description>Upeassa kunnossa oleva Casa Car Transit valmiina uusiin seikkailuihin! Tyylikäs ja erittäin siistikuntoinen Casa Car tarjoaa toimivan pohjaratkaisun ja viihtyisät tilat kompaktissa koossa.</g:description>
-            <g:link>https://www.miseva.fi/autot/casa-car-ford-transit/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-retkeilyauto-casa-car-ford-transit-139774441-178522668394818.jpg?m=1785229470</g:image_link>
-            <g:price>17980.00 EUR</g:price>
+            <g:id>06902a3eadd4</g:id>
+            <g:title>Dethleffs Beduin</g:title>
+            <g:description>Tässä Dethleffs Beduinissa on erittäin toimiva ja käytännöllinen pohjaratkaisu, joka tekee vaunusta mukavan käyttää niin matkalla kuin pidempään paikallaan ollessa. Tilat on jaettu selkeästi kolmeen…</g:description>
+            <g:link>https://www.miseva.fi/autot/dethleffs-beduin-25/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-dethleffs-beduin-811183209-178428100123070.jpg?m=1784286132</g:image_link>
+            <g:price>16950.00 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>Casa</g:brand>
-            <g:mpn>AZM-653</g:mpn>
-            <g:product_type>Matkailuauto</g:product_type>
-            <g:custom_label_0>Turku</g:custom_label_0>
-            <g:custom_label_1>2002</g:custom_label_1>
-            <g:custom_label_2>228000 km</g:custom_label_2>
-            <g:custom_label_3>328.25 €/kk</g:custom_label_3>
+            <g:brand>Dethleffs</g:brand>
+            <g:mpn>WYC-735</g:mpn>
+            <g:product_type>Matkailuvaunu</g:product_type>
+            <g:custom_label_0>Turenki</g:custom_label_0>
+            <g:custom_label_1>2000</g:custom_label_1>
+            <g:custom_label_3>309.89 €/kk</g:custom_label_3>
     </item>
     <item>
             <g:id>365ab630d5d1</g:id>
@@ -301,56 +319,6 @@
             <g:custom_label_0>Turenki</g:custom_label_0>
             <g:custom_label_1>2008</g:custom_label_1>
             <g:custom_label_3>239.16 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>90318fbecbba</g:id>
-            <g:title>Audi A4 allroad quattro</g:title>
-            <g:description>Tässä on auto, joka viihtyy yhtä hyvin työmatkalla kuin mökkitiellä. Audi A4 Allroad yhdistää nelivedon, reilun maavaran ja ajomukavuuden tavalla, joka saa soratienkin tuntumaan asfaltilta.</g:description>
-            <g:link>https://www.miseva.fi/autot/audi-a4-allroad-quattro/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-henkiloauto-farmari-audi-a4-allroad-quattro-2938555303-178366294011235.jpg?m=1783666937</g:image_link>
-            <g:price>13950.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Audi</g:brand>
-            <g:mpn>LZR-845</g:mpn>
-            <g:product_type>Henkilöauto</g:product_type>
-            <g:custom_label_0>Turenki</g:custom_label_0>
-            <g:custom_label_1>2011</g:custom_label_1>
-            <g:custom_label_2>145000 km</g:custom_label_2>
-            <g:custom_label_3>256.44 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>6115e7b431a7</g:id>
-            <g:title>BMW X3</g:title>
-            <g:description>Siistikuntoinen ja näyttävä MSport- varusteltu pikkumaasturi edullisesti. Tässä X3 on sopivasti kaikkea: nelivetoa, tilaa, mukavuutta ja BMW tuttua ajamisen fiilistä. Valkoinen ulkoväri…</g:description>
-            <g:link>https://www.miseva.fi/autot/bmw-x3-5/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-henkiloauto-maastoauto-bmw-x3-2357008087-178654135749909.jpg?m=1786608376</g:image_link>
-            <g:price>8450.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>BMW</g:brand>
-            <g:mpn>FKT-870</g:mpn>
-            <g:product_type>Henkilöauto</g:product_type>
-            <g:custom_label_0>Vantaa</g:custom_label_0>
-            <g:custom_label_1>2012</g:custom_label_1>
-            <g:custom_label_2>295000 km</g:custom_label_2>
-            <g:custom_label_3>158.45 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>f753c2840459</g:id>
-            <g:title>LMC Cas Familia</g:title>
-            <g:description>Hieno LMC:n perhemallin vaunu kerrosvuoteilla. Tähän majoittaa hienosti jopa kuusi henkilöä ja vaunusta löytyy myös runsaasti säilytystiloja. Etuosassa on pitkittäinen parivuode, sekä kylppäritilat.</g:description>
-            <g:link>https://www.miseva.fi/autot/lmc-cas-familia/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-lmc-cas-familia-1186449226-178238371883455.jpg?m=1782385351</g:image_link>
-            <g:price>14950.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>LMC</g:brand>
-            <g:mpn>WTL-364</g:mpn>
-            <g:product_type>Matkailuvaunu</g:product_type>
-            <g:custom_label_0>Turenki</g:custom_label_0>
-            <g:custom_label_1>2008</g:custom_label_1>
-            <g:custom_label_3>274.26 €/kk</g:custom_label_3>
     </item>
     <item>
             <g:id>20909216c839</g:id>
@@ -370,6 +338,121 @@
             <g:custom_label_3>78.28 €/kk</g:custom_label_3>
     </item>
     <item>
+            <g:id>3ff6095b65ad</g:id>
+            <g:title>Hobby 650</g:title>
+            <g:description>Tässä Hobby Prestigessä on sitä vanhan koulukunnan matkailuvaunutunnelmaa, jota ei tarvitse turhaan selitellä. Kiinteä parisänky odottaa valmiina, keittiössä syntyy muutakin kuin huoltoaseman hodari…</g:description>
+            <g:link>https://www.miseva.fi/autot/hobby-650-33/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-hobby-650-1290017300-178712094641937.jpg?m=1787122932</g:image_link>
+            <g:price>19480.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Hobby</g:brand>
+            <g:mpn>DFA-851</g:mpn>
+            <g:product_type>Matkailuvaunu</g:product_type>
+            <g:custom_label_0>Turenki</g:custom_label_0>
+            <g:custom_label_1>2013</g:custom_label_1>
+            <g:custom_label_3>354.97 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>d98e10b497da</g:id>
+            <g:title>Hobby 400</g:title>
+            <g:description>Näppärä pikku-Hobby valmiina reissuun ja vaikka puskaparkkeihin. Kompaktiin kokoon on saatu mukavasti varustelua ja omavaraisuutta. Tupla-akut sekä aurinkopaneelit pitävät laitteet toiminnassa myös…</g:description>
+            <g:link>https://www.miseva.fi/autot/hobby-400-31/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-hobby-400-1858134822-178713800740422.jpg?m=1787140936</g:image_link>
+            <g:price>11980.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Hobby</g:brand>
+            <g:mpn>WTM-378</g:mpn>
+            <g:product_type>Matkailuvaunu</g:product_type>
+            <g:custom_label_0>Turku</g:custom_label_0>
+            <g:custom_label_1>2008</g:custom_label_1>
+            <g:custom_label_3>221.34 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>db32bbb83f69</g:id>
+            <g:title>Chevrolet Volt</g:title>
+            <g:description>Sähköautohengessä, mutta tarvittaessa bensan voimalla. Näin taittuu matka ladattavalla Chevrolet Voltilla ilman suurempia kompromisseja. Ja mukavasti taittuukin. Opel Amperan sisarmalli Volt täyttää…</g:description>
+            <g:link>https://www.miseva.fi/autot/chevrolet-volt/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-henkiloauto-viistopera-chevrolet-volt-2340342667-178177262833029.jpg?m=1781773484</g:image_link>
+            <g:price>7950.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Chevrolet</g:brand>
+            <g:mpn>CLR-376</g:mpn>
+            <g:product_type>Henkilöauto</g:product_type>
+            <g:custom_label_0>Vantaa</g:custom_label_0>
+            <g:custom_label_1>2013</g:custom_label_1>
+            <g:custom_label_2>141000 km</g:custom_label_2>
+            <g:custom_label_3>149.54 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>769c9f909604</g:id>
+            <g:title>Hobby 560</g:title>
+            <g:description>Nyt tarjolla Hobby Prestige hyvällä ja käytännöllisellä pohjaratkaisulla! Tässä Hobby Prestigessä on pohjaratkaisu, joka toimii niin viikonloppureissuilla kuin pidemmilläkin matkoilla.</g:description>
+            <g:link>https://www.miseva.fi/autot/hobby-560-90/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-hobby-560-2851477095-178653970264950.jpg?m=1786604684</g:image_link>
+            <g:price>16980.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Hobby</g:brand>
+            <g:mpn>WZJ-524</g:mpn>
+            <g:product_type>Matkailuvaunu</g:product_type>
+            <g:custom_label_0>Vantaa</g:custom_label_0>
+            <g:custom_label_1>2012</g:custom_label_1>
+            <g:custom_label_3>310.43 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>f9eb6fba10da</g:id>
+            <g:title>Hobby 560</g:title>
+            <g:description>Taas yksi hieno Hobby myyntiin. Vaaleat sohvan tekstiilit tekevät tästä vaunusta raikkaan näköisen ja valoisan. Takaosan ruokaryhmän ympärille mahtuu helposti neljän hengen seurue viettämään iltaa.</g:description>
+            <g:link>https://www.miseva.fi/autot/hobby-560-88/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-hobby-excellent-4022996570-174833161726509.jpg?m=1787265313</g:image_link>
+            <g:price>22950.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Hobby</g:brand>
+            <g:mpn>DFE-899</g:mpn>
+            <g:product_type>Matkailuvaunu</g:product_type>
+            <g:custom_label_0>Turenki</g:custom_label_0>
+            <g:custom_label_1>2016</g:custom_label_1>
+            <g:custom_label_3>416.79 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>a8de582535f6</g:id>
+            <g:title>Opel Karl</g:title>
+            <g:description>Kaikki autot eivät tarvitse satoja hevosvoimia tehdäkseen vaikutuksen. Opel Karl vakuuttaa käytännöllisyydellään, taloudellisuudellaan ja vaivattomalla ajettavuudellaan.</g:description>
+            <g:link>https://www.miseva.fi/autot/opel-karl/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-henkiloauto-viistopera-opel-karl-199188608-178480090159115.jpg?m=1784804536</g:image_link>
+            <g:price>6250.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Opel</g:brand>
+            <g:mpn>LNP-597</g:mpn>
+            <g:product_type>Henkilöauto</g:product_type>
+            <g:custom_label_0>Turenki</g:custom_label_0>
+            <g:custom_label_1>2016</g:custom_label_1>
+            <g:custom_label_2>77030 km</g:custom_label_2>
+            <g:custom_label_3>119.25 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>ea57b9eccabc</g:id>
+            <g:title>LMC 560</g:title>
+            <g:description>Tästä toimiva mukavankuntoinen käyttöauto keskuslämmöllä syysreissuihin…</g:description>
+            <g:link>https://www.miseva.fi/autot/lmc-560/</g:link>
+            <g:image_link>https://cdn.miseva.fi/20241214173626/miseva-matkailuauto-lmc-560-1183534672-168715598845333.jpg?m=1787265092</g:image_link>
+            <g:price>15980.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>LMC</g:brand>
+            <g:mpn>IYA-141</g:mpn>
+            <g:product_type>Matkailuauto</g:product_type>
+            <g:custom_label_0>Turku</g:custom_label_0>
+            <g:custom_label_1>1999</g:custom_label_1>
+            <g:custom_label_2>194000 km</g:custom_label_2>
+            <g:custom_label_3>292.61 €/kk</g:custom_label_3>
+    </item>
+    <item>
             <g:id>45beabe5c94d</g:id>
             <g:title>Kabe Royal</g:title>
             <g:description>Tässä on vaunu, joka tekee vaikutuksen heti ovella. KABE Royal tunnetaan laadustaan, erinomaisesta talvivarustelustaan ja viihtyisästä tunnelmastaan eikä syyttä. Vaunun avara pohjaratkaisu yhdistää…</g:description>
@@ -386,68 +469,20 @@
             <g:custom_label_3>433.54 €/kk</g:custom_label_3>
     </item>
     <item>
-            <g:id>06902a3eadd4</g:id>
-            <g:title>Dethleffs Beduin</g:title>
-            <g:description>Tässä Dethleffs Beduinissa on erittäin toimiva ja käytännöllinen pohjaratkaisu, joka tekee vaunusta mukavan käyttää niin matkalla kuin pidempään paikallaan ollessa. Tilat on jaettu selkeästi kolmeen…</g:description>
-            <g:link>https://www.miseva.fi/autot/dethleffs-beduin-25/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-dethleffs-beduin-811183209-178428100123070.jpg?m=1784286132</g:image_link>
-            <g:price>16950.00 EUR</g:price>
+            <g:id>77fb128dd3ef</g:id>
+            <g:title>Dethleffs Camper</g:title>
+            <g:description>Huippuvarusteltu ja ketterä vaunu erillisvuoteilla Tämä mukavan kokoinen ja helposti vedettävä vaunu tarjoaa luksusta matkantekoon. Nestekiertoinen Alde-lämmitys pitää sisätilat tasaisen lämpiminä…</g:description>
+            <g:link>https://www.miseva.fi/autot/dethleffs-camper-59/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-dethleffs-camper-2372913081-177753576716551.jpg?m=1777536147</g:image_link>
+            <g:price>19980.00 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
             <g:brand>Dethleffs</g:brand>
-            <g:mpn>WYC-735</g:mpn>
+            <g:mpn>DCN-749</g:mpn>
             <g:product_type>Matkailuvaunu</g:product_type>
-            <g:custom_label_0>Turenki</g:custom_label_0>
-            <g:custom_label_1>2000</g:custom_label_1>
-            <g:custom_label_3>309.89 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>0bc44177cc1e</g:id>
-            <g:title>Fendt Platin</g:title>
-            <g:description>VAIHTOMARKKINAT KÄYNNISSÄ NYT! Tutustu kampanjaetuihin osoitteessa https://www.helsinkicaravan.fi/vaihtomarkkinat/ Tämäkin on Vaihtomarkkinoiden kampanjatuote. Kysy tuotekohtaiset edut myyjiltämme.</g:description>
-            <g:link>https://www.miseva.fi/autot/fendt-platin-7/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-fendt-platin-2256556663-177908799682613.jpg?m=1779091338</g:image_link>
-            <g:price>10980.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Fendt</g:brand>
-            <g:mpn>WKM-854</g:mpn>
-            <g:product_type>Matkailuvaunu</g:product_type>
-            <g:custom_label_0>Vantaa</g:custom_label_0>
-            <g:custom_label_1>2005</g:custom_label_1>
-            <g:custom_label_3>203.53 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>de76edcb3219</g:id>
-            <g:title>Cabby 650</g:title>
-            <g:description>Tyylikäs ja erittäin viihtyisä Cabby-matkailuvaunu, jossa on toimiva pohjaratkaisu sekä erinomainen asumismukavuus. Vaunu soveltuu erinomaisesti niin aktiiviselle matkailijalle…</g:description>
-            <g:link>https://www.miseva.fi/autot/cabby-650-12/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-cabby-650-1962309850-178065907317858.jpg?m=1780660954</g:image_link>
-            <g:price>23950.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Cabby</g:brand>
-            <g:mpn>DBI-389</g:mpn>
-            <g:product_type>Matkailuvaunu</g:product_type>
-            <g:custom_label_0>Turenki</g:custom_label_0>
-            <g:custom_label_1>2013</g:custom_label_1>
-            <g:custom_label_3>434.61 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>f9eb6fba10da</g:id>
-            <g:title>Hobby 560</g:title>
-            <g:description>Taas yksi hieno Hobby myyntiin. Vaaleat sohvan tekstiilit tekevät tästä vaunusta raikkaan näköisen ja valoisan. Takaosan ruokaryhmän ympärille mahtuu helposti neljän hengen seurue viettämään iltaa.</g:description>
-            <g:link>https://www.miseva.fi/autot/hobby-560-88/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-hobby-excellent-4022996570-174833161726509.jpg?m=1787178922</g:image_link>
-            <g:price>22950.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Hobby</g:brand>
-            <g:mpn>DFE-899</g:mpn>
-            <g:product_type>Matkailuvaunu</g:product_type>
-            <g:custom_label_0>Turenki</g:custom_label_0>
-            <g:custom_label_1>2016</g:custom_label_1>
-            <g:custom_label_3>416.79 €/kk</g:custom_label_3>
+            <g:custom_label_0>Turku</g:custom_label_0>
+            <g:custom_label_1>2014</g:custom_label_1>
+            <g:custom_label_3>363.88 €/kk</g:custom_label_3>
     </item>
     <item>
             <g:id>d024ac72c116</g:id>
@@ -466,23 +501,6 @@
             <g:custom_label_3>444.05 €/kk</g:custom_label_3>
     </item>
     <item>
-            <g:id>211872926de4</g:id>
-            <g:title>Dethleffs Globebus II</g:title>
-            <g:description>Dethleffs Globebus on näppärän kokoinen matkailuauto, jossa on kaikki onnistuneeseen reissuun. Toimiva pohjaratkaisu tarjoaa viihtyisän ruokailuryhmän, käytännöllisen keittiön…</g:description>
-            <g:link>https://www.miseva.fi/autot/dethleffs-globebus-ii/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-puoli-integroitu-dethleffs-globebus-ii-1596259301-178402433833045.jpg?m=1784030533</g:image_link>
-            <g:price>22950.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Dethleffs</g:brand>
-            <g:mpn>EMC-409</g:mpn>
-            <g:product_type>Matkailuauto</g:product_type>
-            <g:custom_label_0>Turenki</g:custom_label_0>
-            <g:custom_label_1>2005</g:custom_label_1>
-            <g:custom_label_2>201000 km</g:custom_label_2>
-            <g:custom_label_3>416.79 €/kk</g:custom_label_3>
-    </item>
-    <item>
             <g:id>1bcd0af16502</g:id>
             <g:title>Adria Aviva</g:title>
             <g:description>Kevyen ja kodikkaan Avivan lämmin tunnelma syntyy sen modernista, tyylikkäästä ja valoisasta sisustuksesta. Vaunussa laadukkaat kaapistot ja hyvin suunnitellut säilytystilat. Olohuoneessa on tilaa ja…</g:description>
@@ -499,53 +517,20 @@
             <g:custom_label_3>447.97 €/kk</g:custom_label_3>
     </item>
     <item>
-            <g:id>d74bff60c5e7</g:id>
-            <g:title>Hymer B544</g:title>
-            <g:description>Voiko -97 vuoden Hymerillä ajaa Suomesta Afrikkaan, Marokkoon ja asua siinä useamman kuukauden. Kyllä voi ja tässä siitä todiste. Maailmalla näkee monenlaista kulkinetta ja tässä Hymerissä on yksi…</g:description>
-            <g:link>https://www.miseva.fi/autot/hymer-b544-3/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-integroitu-hymer-b544-1498212128-178669745054813.jpg?m=1786701736</g:image_link>
-            <g:price>17480.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Hymer</g:brand>
-            <g:mpn>EIE-965</g:mpn>
-            <g:product_type>Matkailuauto</g:product_type>
-            <g:custom_label_0>Turenki</g:custom_label_0>
-            <g:custom_label_1>1997</g:custom_label_1>
-            <g:custom_label_2>179000 km</g:custom_label_2>
-            <g:custom_label_3>319.34 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>b7d81d978270</g:id>
-            <g:title>Cabby 52</g:title>
-            <g:description>Cabby 520 Laadukas vaunu mukavuuksia arvostavalle Nyt tarjolla todella viihtyisä ja laadukas Cabby 520 -matkailuvaunu. Cabby tunnetaan erinomaisesta laadustaan…</g:description>
-            <g:link>https://www.miseva.fi/autot/cabby-52-3/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-cabby-52-3421646657-177857359435501.jpg?m=1778576562</g:image_link>
-            <g:price>24850.00 EUR</g:price>
+            <g:id>de76edcb3219</g:id>
+            <g:title>Cabby 650</g:title>
+            <g:description>Tyylikäs ja erittäin viihtyisä Cabby-matkailuvaunu, jossa on toimiva pohjaratkaisu sekä erinomainen asumismukavuus. Vaunu soveltuu erinomaisesti niin aktiiviselle matkailijalle…</g:description>
+            <g:link>https://www.miseva.fi/autot/cabby-650-12/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-cabby-650-1962309850-178065907317858.jpg?m=1780660954</g:image_link>
+            <g:price>23950.00 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
             <g:brand>Cabby</g:brand>
-            <g:mpn>DSB-529</g:mpn>
+            <g:mpn>DBI-389</g:mpn>
             <g:product_type>Matkailuvaunu</g:product_type>
-            <g:custom_label_0>Vantaa</g:custom_label_0>
-            <g:custom_label_1>2014</g:custom_label_1>
-            <g:custom_label_3>450.65 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>5a37e5f8e124</g:id>
-            <g:title>Knaus Sport</g:title>
-            <g:description>Uudenakarhea kevyt matkavaunu tehdastakuulla edullisesti. Sopii loistavasti esim. sähköauton perään. Edessä on leveä parivuode minkä alla reilu säilytystila, jota päästään operoimaan ulkopuolisen…</g:description>
-            <g:link>https://www.miseva.fi/autot/knaus-sport-18/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-knaus-sport-2690416576-175500534964291.jpg?m=1760610500</g:image_link>
-            <g:price>25480.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Knaus</g:brand>
-            <g:mpn>DUV-629</g:mpn>
-            <g:product_type>Matkailuvaunu</g:product_type>
-            <g:custom_label_0>Turku</g:custom_label_0>
-            <g:custom_label_1>2025</g:custom_label_1>
-            <g:custom_label_3>461.87 €/kk</g:custom_label_3>
+            <g:custom_label_0>Turenki</g:custom_label_0>
+            <g:custom_label_1>2013</g:custom_label_1>
+            <g:custom_label_3>434.61 €/kk</g:custom_label_3>
     </item>
     <item>
             <g:id>83b0ba815320</g:id>
@@ -564,20 +549,20 @@
             <g:custom_label_3>452.96 €/kk</g:custom_label_3>
     </item>
     <item>
-            <g:id>23b68639dc2d</g:id>
-            <g:title>Adria Action</g:title>
-            <g:description>VAIHTOMARKKINAT KÄYNNISSÄ NYT! Tutustu kampanjaetuihin osoitteessa https://www.helsinkicaravan.fi/vaihtomarkkinat/ Tämäkin on Vaihtomarkkinoiden kampanjatuote. Kysy tuotekohtaiset edut myyjiltämme.</g:description>
-            <g:link>https://www.miseva.fi/autot/adria-action-20/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-adria-action-3320752661-178540644697134.jpg?m=1785409330</g:image_link>
-            <g:price>25480.00 EUR</g:price>
+            <g:id>b7d81d978270</g:id>
+            <g:title>Cabby 52</g:title>
+            <g:description>Cabby 520 Laadukas vaunu mukavuuksia arvostavalle Nyt tarjolla todella viihtyisä ja laadukas Cabby 520 -matkailuvaunu. Cabby tunnetaan erinomaisesta laadustaan…</g:description>
+            <g:link>https://www.miseva.fi/autot/cabby-52-3/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-cabby-52-3421646657-177857359435501.jpg?m=1778576562</g:image_link>
+            <g:price>24850.00 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>Adria</g:brand>
-            <g:mpn>DTK-835</g:mpn>
+            <g:brand>Cabby</g:brand>
+            <g:mpn>DSB-529</g:mpn>
             <g:product_type>Matkailuvaunu</g:product_type>
-            <g:custom_label_0>Turku</g:custom_label_0>
-            <g:custom_label_1>2024</g:custom_label_1>
-            <g:custom_label_3>461.87 €/kk</g:custom_label_3>
+            <g:custom_label_0>Vantaa</g:custom_label_0>
+            <g:custom_label_1>2014</g:custom_label_1>
+            <g:custom_label_3>450.65 €/kk</g:custom_label_3>
     </item>
     <item>
             <g:id>2b81da66417f</g:id>
@@ -597,20 +582,53 @@
             <g:custom_label_3>452.96 €/kk</g:custom_label_3>
     </item>
     <item>
-            <g:id>67ea99b89c55</g:id>
-            <g:title>Dethleffs Nomad</g:title>
-            <g:description>Tässä Dethleffs Nomadissa lomailu sujuu rennosti. Vaunun avara pohjaratkaisu tarjoaa viihtyisät puitteet niin pariskunnalle kuin pidemmillekin matkailuille. Erillisvuoteet tuovat nukkumiseen omaa…</g:description>
-            <g:link>https://www.miseva.fi/autot/dethleffs-nomad-21/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-dethleffs-nomad-1692041594-178530673384791.jpg?m=1785308530</g:image_link>
-            <g:price>26450.00 EUR</g:price>
+            <g:id>5a37e5f8e124</g:id>
+            <g:title>Knaus Sport</g:title>
+            <g:description>Uudenakarhea kevyt matkavaunu tehdastakuulla edullisesti. Sopii loistavasti esim. sähköauton perään. Edessä on leveä parivuode minkä alla reilu säilytystila, jota päästään operoimaan ulkopuolisen…</g:description>
+            <g:link>https://www.miseva.fi/autot/knaus-sport-18/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-knaus-sport-2690416576-175500534964291.jpg?m=1760610500</g:image_link>
+            <g:price>25480.00 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>Dethleffs</g:brand>
-            <g:mpn>DET-840</g:mpn>
+            <g:brand>Knaus</g:brand>
+            <g:mpn>DUV-629</g:mpn>
             <g:product_type>Matkailuvaunu</g:product_type>
+            <g:custom_label_0>Turku</g:custom_label_0>
+            <g:custom_label_1>2025</g:custom_label_1>
+            <g:custom_label_3>461.87 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>23b68639dc2d</g:id>
+            <g:title>Adria Action</g:title>
+            <g:description>VAIHTOMARKKINAT KÄYNNISSÄ NYT! Tutustu kampanjaetuihin osoitteessa https://www.helsinkicaravan.fi/vaihtomarkkinat/ Tämäkin on Vaihtomarkkinoiden kampanjatuote. Kysy tuotekohtaiset edut myyjiltämme.</g:description>
+            <g:link>https://www.miseva.fi/autot/adria-action-20/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-adria-action-3320752661-178540644697134.jpg?m=1785409330</g:image_link>
+            <g:price>25480.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Adria</g:brand>
+            <g:mpn>DTK-835</g:mpn>
+            <g:product_type>Matkailuvaunu</g:product_type>
+            <g:custom_label_0>Turku</g:custom_label_0>
+            <g:custom_label_1>2024</g:custom_label_1>
+            <g:custom_label_3>461.87 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>e14ef5520f25</g:id>
+            <g:title>Casa Car Boxer</g:title>
+            <g:description>Kotimainen Casa Car käytännöllinen retkeilyauto valmiina matkaan. Laadukas kotimainen retkeilyauto, jossa matkustusmukavuudesta huolehtivat sekä ohjaamon että asuintilan dieselkäyttöiset Webastot.</g:description>
+            <g:link>https://www.miseva.fi/autot/casa-car-boxer-14/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-retkeilyauto-casa-car-boxer-2079572673-178306790346970.jpg?m=1783083975</g:image_link>
+            <g:price>26480.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Casa</g:brand>
+            <g:mpn>VNY-361</g:mpn>
+            <g:product_type>Matkailuauto</g:product_type>
             <g:custom_label_0>Turenki</g:custom_label_0>
-            <g:custom_label_1>2018</g:custom_label_1>
-            <g:custom_label_3>479.15 €/kk</g:custom_label_3>
+            <g:custom_label_1>2007</g:custom_label_1>
+            <g:custom_label_2>184000 km</g:custom_label_2>
+            <g:custom_label_3>479.69 €/kk</g:custom_label_3>
     </item>
     <item>
             <g:id>d50a0879d18a</g:id>
@@ -645,21 +663,20 @@
             <g:custom_label_3>488.6 €/kk</g:custom_label_3>
     </item>
     <item>
-            <g:id>e14ef5520f25</g:id>
-            <g:title>Casa Car Boxer</g:title>
-            <g:description>Kotimainen Casa Car käytännöllinen retkeilyauto valmiina matkaan. Laadukas kotimainen retkeilyauto, jossa matkustusmukavuudesta huolehtivat sekä ohjaamon että asuintilan dieselkäyttöiset Webastot.</g:description>
-            <g:link>https://www.miseva.fi/autot/casa-car-boxer-14/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-retkeilyauto-casa-car-boxer-2079572673-178306790346970.jpg?m=1783083975</g:image_link>
-            <g:price>26480.00 EUR</g:price>
+            <g:id>67ea99b89c55</g:id>
+            <g:title>Dethleffs Nomad</g:title>
+            <g:description>Tässä Dethleffs Nomadissa lomailu sujuu rennosti. Vaunun avara pohjaratkaisu tarjoaa viihtyisät puitteet niin pariskunnalle kuin pidemmillekin matkailuille. Erillisvuoteet tuovat nukkumiseen omaa…</g:description>
+            <g:link>https://www.miseva.fi/autot/dethleffs-nomad-21/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-dethleffs-nomad-1692041594-178530673384791.jpg?m=1785308530</g:image_link>
+            <g:price>26450.00 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>Casa</g:brand>
-            <g:mpn>VNY-361</g:mpn>
-            <g:product_type>Matkailuauto</g:product_type>
+            <g:brand>Dethleffs</g:brand>
+            <g:mpn>DET-840</g:mpn>
+            <g:product_type>Matkailuvaunu</g:product_type>
             <g:custom_label_0>Turenki</g:custom_label_0>
-            <g:custom_label_1>2007</g:custom_label_1>
-            <g:custom_label_2>184000 km</g:custom_label_2>
-            <g:custom_label_3>479.69 €/kk</g:custom_label_3>
+            <g:custom_label_1>2018</g:custom_label_1>
+            <g:custom_label_3>479.15 €/kk</g:custom_label_3>
     </item>
     <item>
             <g:id>c4bd8c84e435</g:id>
@@ -672,6 +689,22 @@
             <g:condition>new</g:condition>
             <g:brand>Kabe</g:brand>
             <g:mpn>DEE-789</g:mpn>
+            <g:product_type>Matkailuvaunu</g:product_type>
+            <g:custom_label_0>Turku</g:custom_label_0>
+            <g:custom_label_1>2013</g:custom_label_1>
+            <g:custom_label_3>488.6 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>7c0dc3ede326</g:id>
+            <g:title>Kabe Ametist</g:title>
+            <g:description>Nyt tarjolla leirintäalueiden kestosuosikki eikä syyttä. Erillisvuoteinen KABE, jossa tunnettu Kabe-laatu näkyy ja tuntuu vuodesta toiseen. Tässä vaunussa viihdyt pidempäänkin…</g:description>
+            <g:link>https://www.miseva.fi/autot/kabe-ametist-89/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-kabe-ametist-3930411810-177926797017333.jpg?m=1779278536</g:image_link>
+            <g:price>26980.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Kabe</g:brand>
+            <g:mpn>DAM-135</g:mpn>
             <g:product_type>Matkailuvaunu</g:product_type>
             <g:custom_label_0>Turku</g:custom_label_0>
             <g:custom_label_1>2013</g:custom_label_1>
@@ -694,20 +727,20 @@
             <g:custom_label_3>480.58 €/kk</g:custom_label_3>
     </item>
     <item>
-            <g:id>7c0dc3ede326</g:id>
-            <g:title>Kabe Ametist</g:title>
-            <g:description>Nyt tarjolla leirintäalueiden kestosuosikki eikä syyttä. Erillisvuoteinen KABE, jossa tunnettu Kabe-laatu näkyy ja tuntuu vuodesta toiseen. Tässä vaunussa viihdyt pidempäänkin…</g:description>
-            <g:link>https://www.miseva.fi/autot/kabe-ametist-89/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-kabe-ametist-3930411810-177926797017333.jpg?m=1779278536</g:image_link>
-            <g:price>26980.00 EUR</g:price>
+            <g:id>71f0f1ffa262</g:id>
+            <g:title>LMC Musica</g:title>
+            <g:description>Erittäin siistikuntoinen ja laadukas LMC Musica 582 E etsii uutta omistajaa! Tämä tilava ja hyvin varusteltu vaunu tarjoaa mukavuutta sekä lyhyille että pitkille reissuille. Kori on LMC:n tunnettu…</g:description>
+            <g:link>https://www.miseva.fi/autot/lmc-musica-6/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-lmc-musica-59080344-178531545317120.jpg?m=1785315942</g:image_link>
+            <g:price>27950.00 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>Kabe</g:brand>
-            <g:mpn>DAM-135</g:mpn>
+            <g:brand>LMC</g:brand>
+            <g:mpn>DIF-223</g:mpn>
             <g:product_type>Matkailuvaunu</g:product_type>
-            <g:custom_label_0>Turku</g:custom_label_0>
-            <g:custom_label_1>2013</g:custom_label_1>
-            <g:custom_label_3>488.6 €/kk</g:custom_label_3>
+            <g:custom_label_0>Turenki</g:custom_label_0>
+            <g:custom_label_1>2019</g:custom_label_1>
+            <g:custom_label_3>505.88 €/kk</g:custom_label_3>
     </item>
     <item>
             <g:id>4cff183c4101</g:id>
@@ -726,22 +759,6 @@
             <g:custom_label_3>506.41 €/kk</g:custom_label_3>
     </item>
     <item>
-            <g:id>71f0f1ffa262</g:id>
-            <g:title>LMC Musica</g:title>
-            <g:description>Erittäin siistikuntoinen ja laadukas LMC Musica 582 E etsii uutta omistajaa! Tämä tilava ja hyvin varusteltu vaunu tarjoaa mukavuutta sekä lyhyille että pitkille reissuille. Kori on LMC:n tunnettu…</g:description>
-            <g:link>https://www.miseva.fi/autot/lmc-musica-6/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-lmc-musica-59080344-178531545317120.jpg?m=1785315942</g:image_link>
-            <g:price>27950.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>LMC</g:brand>
-            <g:mpn>DIF-223</g:mpn>
-            <g:product_type>Matkailuvaunu</g:product_type>
-            <g:custom_label_0>Turenki</g:custom_label_0>
-            <g:custom_label_1>2019</g:custom_label_1>
-            <g:custom_label_3>505.88 €/kk</g:custom_label_3>
-    </item>
-    <item>
             <g:id>76d97a2e1c3e</g:id>
             <g:title>Sunlight T57</g:title>
             <g:description>VAIHTOMARKKINAT KÄYNNISSÄ NYT! Tutustu kampanjaetuihin osoitteessa https://www.helsinkicaravan.fi/vaihtomarkkinat/ Tämäkin on Vaihtomarkkinoiden kampanjatuote. Kysy tuotekohtaiset edut myyjiltämme.</g:description>
@@ -756,6 +773,23 @@
             <g:custom_label_0>Turku</g:custom_label_0>
             <g:custom_label_1>2009</g:custom_label_1>
             <g:custom_label_2>137000 km</g:custom_label_2>
+            <g:custom_label_3>542.05 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>afb0de41f3e8</g:id>
+            <g:title>Rimor Katamarano</g:title>
+            <g:description>Jos matkailuautolta toivotaan ennen kaikkea tilaa, kunnollisia nukkumapaikkoja ja toimivaa pohjaratkaisua, tässä olisi varsin mielenkiintoinen vaihtoehto. Rekisteröity 7hlö!</g:description>
+            <g:link>https://www.miseva.fi/autot/rimor-katamarano-12/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-alkovi-rimor-katamarano-1532445278-178712599568723.jpg?m=1787130129</g:image_link>
+            <g:price>29980.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Rimor</g:brand>
+            <g:mpn>CIL-605</g:mpn>
+            <g:product_type>Matkailuauto</g:product_type>
+            <g:custom_label_0>Turenki</g:custom_label_0>
+            <g:custom_label_1>2011</g:custom_label_1>
+            <g:custom_label_2>124000 km</g:custom_label_2>
             <g:custom_label_3>542.05 €/kk</g:custom_label_3>
     </item>
     <item>
@@ -810,21 +844,20 @@
             <g:custom_label_3>542.05 €/kk</g:custom_label_3>
     </item>
     <item>
-            <g:id>afb0de41f3e8</g:id>
-            <g:title>Rimor Katamarano</g:title>
-            <g:description>Jos matkailuautolta toivotaan ennen kaikkea tilaa, kunnollisia nukkumapaikkoja ja toimivaa pohjaratkaisua, tässä olisi varsin mielenkiintoinen vaihtoehto. Rekisteröity 7hlö!</g:description>
-            <g:link>https://www.miseva.fi/autot/rimor-katamarano-12/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-alkovi-rimor-katamarano-1532445278-178712599568723.jpg?m=1787130129</g:image_link>
-            <g:price>29980.00 EUR</g:price>
+            <g:id>e5389336f571</g:id>
+            <g:title>Adria Adora</g:title>
+            <g:description>Nyt tarjolla hyvin varusteltu etukeittiöllinen Adria! Etukeittiöpohjaratkaisu kasvattaa hiljalleen suosiotaan eikä tämänkään vaunun kohdalla tarvitse ihmetellä miksi. Mikäs siinä kokkaillessa ja…</g:description>
+            <g:link>https://www.miseva.fi/autot/adria-adora-105/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-matkailuperavaunu-se-adria-adora-838230829-177736127154244.jpg?m=1777438944</g:image_link>
+            <g:price>31480.00 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>Rimor</g:brand>
-            <g:mpn>CIL-605</g:mpn>
-            <g:product_type>Matkailuauto</g:product_type>
-            <g:custom_label_0>Turenki</g:custom_label_0>
-            <g:custom_label_1>2011</g:custom_label_1>
-            <g:custom_label_2>124000 km</g:custom_label_2>
-            <g:custom_label_3>542.05 €/kk</g:custom_label_3>
+            <g:brand>Adria</g:brand>
+            <g:mpn>DMU-815</g:mpn>
+            <g:product_type>Matkailuvaunu</g:product_type>
+            <g:custom_label_0>Vantaa</g:custom_label_0>
+            <g:custom_label_1>2021</g:custom_label_1>
+            <g:custom_label_3>568.77 €/kk</g:custom_label_3>
     </item>
     <item>
             <g:id>1bffbd0a0d80</g:id>
@@ -840,22 +873,6 @@
             <g:custom_label_0>Turenki</g:custom_label_0>
             <g:custom_label_1>2008</g:custom_label_1>
             <g:custom_label_2>156000 km</g:custom_label_2>
-            <g:custom_label_3>568.77 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>e5389336f571</g:id>
-            <g:title>Adria Adora</g:title>
-            <g:description>Nyt tarjolla hyvin varusteltu etukeittiöllinen Adria! Etukeittiöpohjaratkaisu kasvattaa hiljalleen suosiotaan eikä tämänkään vaunun kohdalla tarvitse ihmetellä miksi. Mikäs siinä kokkaillessa ja…</g:description>
-            <g:link>https://www.miseva.fi/autot/adria-adora-105/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-matkailuperavaunu-se-adria-adora-838230829-177736127154244.jpg?m=1777438944</g:image_link>
-            <g:price>31480.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Adria</g:brand>
-            <g:mpn>DMU-815</g:mpn>
-            <g:product_type>Matkailuvaunu</g:product_type>
-            <g:custom_label_0>Vantaa</g:custom_label_0>
-            <g:custom_label_1>2021</g:custom_label_1>
             <g:custom_label_3>568.77 €/kk</g:custom_label_3>
     </item>
     <item>
@@ -891,23 +908,6 @@
             <g:custom_label_3>576.26 €/kk</g:custom_label_3>
     </item>
     <item>
-            <g:id>e437a8eeec7d</g:id>
-            <g:title>Mc Louis SLOOP 1</g:title>
-            <g:description>Tässä helpotusta retkiautokuumeeseen, Sloop 1. Vaalealla puulla sisustettu McLouis on valmiina tien päälle. Sisältä löytyy perus retkiksen sisusta, eikä mitään olennaista puutu.</g:description>
-            <g:link>https://www.miseva.fi/autot/mc-louis-sloop-1/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-retkeilyauto-mc-louis-sloop-1-2293092047-177867626443635.jpg?m=1778677532</g:image_link>
-            <g:price>32850.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Mc</g:brand>
-            <g:mpn>YGU-531</g:mpn>
-            <g:product_type>Matkailuauto</g:product_type>
-            <g:custom_label_0>Turenki</g:custom_label_0>
-            <g:custom_label_1>2008</g:custom_label_1>
-            <g:custom_label_2>204000 km</g:custom_label_2>
-            <g:custom_label_3>593.18 €/kk</g:custom_label_3>
-    </item>
-    <item>
             <g:id>d7f1a4b98e6c</g:id>
             <g:title>Hobby 720</g:title>
             <g:description>Aika mintin kunnon omaava mukavasti tilaa tarjoava teli-Hobby. Vaunun takaosaan on sijoitettu WC -ja kylpyhuonetilat, missä suihkutila erillisenä omana tilanaan.</g:description>
@@ -924,37 +924,21 @@
             <g:custom_label_3>595.5 €/kk</g:custom_label_3>
     </item>
     <item>
-            <g:id>a35328912932</g:id>
-            <g:title>Hymer Star-Line</g:title>
-            <g:description>Hymer Star-Line 655 on matkailuauto sinulle, joka haluat reissuun oikean sängyn, kunnollisen keittiön ja mahdollisuuden ottaa muutakin mukaan kuin vaihtosukat. Takana odottaa kiinteä parivuode…</g:description>
-            <g:link>https://www.miseva.fi/autot/hymer-star-line-3/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-integroitu-hymer-star-line-1859471197-178652687788442.jpg?m=1786528937</g:image_link>
-            <g:price>33950.00 EUR</g:price>
+            <g:id>e437a8eeec7d</g:id>
+            <g:title>Mc Louis SLOOP 1</g:title>
+            <g:description>Tässä helpotusta retkiautokuumeeseen, Sloop 1. Vaalealla puulla sisustettu McLouis on valmiina tien päälle. Sisältä löytyy perus retkiksen sisusta, eikä mitään olennaista puutu.</g:description>
+            <g:link>https://www.miseva.fi/autot/mc-louis-sloop-1/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-retkeilyauto-mc-louis-sloop-1-2293092047-177867626443635.jpg?m=1778677532</g:image_link>
+            <g:price>32850.00 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>Hymer</g:brand>
-            <g:mpn>THG-228</g:mpn>
+            <g:brand>Mc</g:brand>
+            <g:mpn>YGU-531</g:mpn>
             <g:product_type>Matkailuauto</g:product_type>
             <g:custom_label_0>Turenki</g:custom_label_0>
-            <g:custom_label_1>2004</g:custom_label_1>
-            <g:custom_label_2>159000 km</g:custom_label_2>
-            <g:custom_label_3>612.78 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>926c589582b5</g:id>
-            <g:title>Kabe Smaragd</g:title>
-            <g:description>Myynnissä nyt tyylikäs ja viihtyisä erillisvuoteellinen pariskuntavaunu, jossa matkustat ja lomailet mukavasti ympäri vuoden. Tässä laadukkaassa Kabe-vaunussa yhdistyvät käytännöllisyys…</g:description>
-            <g:link>https://www.miseva.fi/autot/kabe-smaragd-60/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-kabe-smaragd-2302526173-177910393531101.jpg?m=1779105740</g:image_link>
-            <g:price>34980.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Kabe</g:brand>
-            <g:mpn>DUM-976</g:mpn>
-            <g:product_type>Matkailuvaunu</g:product_type>
-            <g:custom_label_0>Turku</g:custom_label_0>
-            <g:custom_label_1>2020</g:custom_label_1>
-            <g:custom_label_3>631.13 €/kk</g:custom_label_3>
+            <g:custom_label_1>2008</g:custom_label_1>
+            <g:custom_label_2>204000 km</g:custom_label_2>
+            <g:custom_label_3>593.18 €/kk</g:custom_label_3>
     </item>
     <item>
             <g:id>af82d46818ab</g:id>
@@ -974,6 +958,72 @@
             <g:custom_label_3>612.78 €/kk</g:custom_label_3>
     </item>
     <item>
+            <g:id>c5cf89e3fd04</g:id>
+            <g:title>Rapido 7066 F</g:title>
+            <g:description>Hieno Rapido matalilla erillisvuoteilla ja kattavalla varustelulla. Tyylikäs ja käytännöllinen Rapido tarjoaa mukavat matalat erillisvuoteet sekä reilusti kaappitilaa tavaroille.</g:description>
+            <g:link>https://www.miseva.fi/autot/rapido-7066-f-3/</g:link>
+            <g:image_link>https://cdn.miseva.fi/20241215000647/miseva-matkailuauto-puoli-integroitu-rapido-7066-f-621906759-172536841243530.jpg?m=1787264922</g:image_link>
+            <g:price>37980.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Rapido</g:brand>
+            <g:mpn>KCI-467</g:mpn>
+            <g:product_type>Matkailuauto</g:product_type>
+            <g:custom_label_0>Turku</g:custom_label_0>
+            <g:custom_label_1>2008</g:custom_label_1>
+            <g:custom_label_2>154000 km</g:custom_label_2>
+            <g:custom_label_3>684.58 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>926c589582b5</g:id>
+            <g:title>Kabe Smaragd</g:title>
+            <g:description>Myynnissä nyt tyylikäs ja viihtyisä erillisvuoteellinen pariskuntavaunu, jossa matkustat ja lomailet mukavasti ympäri vuoden. Tässä laadukkaassa Kabe-vaunussa yhdistyvät käytännöllisyys…</g:description>
+            <g:link>https://www.miseva.fi/autot/kabe-smaragd-60/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-kabe-smaragd-2302526173-177910393531101.jpg?m=1779105740</g:image_link>
+            <g:price>34980.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Kabe</g:brand>
+            <g:mpn>DUM-976</g:mpn>
+            <g:product_type>Matkailuvaunu</g:product_type>
+            <g:custom_label_0>Turku</g:custom_label_0>
+            <g:custom_label_1>2020</g:custom_label_1>
+            <g:custom_label_3>631.13 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>a35328912932</g:id>
+            <g:title>Hymer Star-Line</g:title>
+            <g:description>Hymer Star-Line 655 on matkailuauto sinulle, joka haluat reissuun oikean sängyn, kunnollisen keittiön ja mahdollisuuden ottaa muutakin mukaan kuin vaihtosukat. Takana odottaa kiinteä parivuode…</g:description>
+            <g:link>https://www.miseva.fi/autot/hymer-star-line-3/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-integroitu-hymer-star-line-1859471197-178652687788442.jpg?m=1786528937</g:image_link>
+            <g:price>33950.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Hymer</g:brand>
+            <g:mpn>THG-228</g:mpn>
+            <g:product_type>Matkailuauto</g:product_type>
+            <g:custom_label_0>Turenki</g:custom_label_0>
+            <g:custom_label_1>2004</g:custom_label_1>
+            <g:custom_label_2>159000 km</g:custom_label_2>
+            <g:custom_label_3>612.78 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>3d79f450b0ca</g:id>
+            <g:title>Adria Adora</g:title>
+            <g:description>Erittäin siisti erillisvuoteinen Adria nestekiertoisella Alde- keskuslämmityksellä ja Skandinavian Edition- varustuksella. Edessä valoisa U-istuinryhmä suurella panorama- kattoikkunalla.</g:description>
+            <g:link>https://www.miseva.fi/autot/adria-adora-114/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-matkailuperavaunu-se-adria-adora-3720001544-178491611994364.jpg?m=1784923328</g:image_link>
+            <g:price>34850.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Adria</g:brand>
+            <g:mpn>DTI-956</g:mpn>
+            <g:product_type>Matkailuvaunu</g:product_type>
+            <g:custom_label_0>Vantaa</g:custom_label_0>
+            <g:custom_label_1>2024</g:custom_label_1>
+            <g:custom_label_3>628.82 €/kk</g:custom_label_3>
+    </item>
+    <item>
             <g:id>ac9c7dc89180</g:id>
             <g:title>Mc Louis 575</g:title>
             <g:description>Mclouis Steel matkailun vapautta parhaimmillaan Nyt tarjolla tunnelmallisia kilometrejä ja huolettomia reissuja varten hyvin pidetty vuoden 2010 Mclouis Steel tuttavallisemmin Mäkkäri…</g:description>
@@ -991,23 +1041,6 @@
             <g:custom_label_3>612.78 €/kk</g:custom_label_3>
     </item>
     <item>
-            <g:id>168ff17cc3e7</g:id>
-            <g:title>Hymer VAN 562</g:title>
-            <g:description>Siistikuntoinen juuri saapunut Hymer Van suosituilla erillisvuoteilla. Laadukas ja kompakti Hymer tarjoaa erinomaiset puitteet niin viikonloppureissuille kuin pidemmillekin matkoille.</g:description>
-            <g:link>https://www.miseva.fi/autot/hymer-van-562/</g:link>
-            <g:image_link>https://cdn.miseva.fi/20241214193406/miseva-matkailuauto-puoli-integroitu-hymer-tramp-617033234-171750429254304.jpg?m=1787178926</g:image_link>
-            <g:price>35980.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Hymer</g:brand>
-            <g:mpn>KCI-460</g:mpn>
-            <g:product_type>Matkailuauto</g:product_type>
-            <g:custom_label_0>Turku</g:custom_label_0>
-            <g:custom_label_1>2008</g:custom_label_1>
-            <g:custom_label_2>120000 km</g:custom_label_2>
-            <g:custom_label_3>648.95 €/kk</g:custom_label_3>
-    </item>
-    <item>
             <g:id>6d12e7fbe7b3</g:id>
             <g:title>Kabe Smaragd</g:title>
             <g:description>Todella laadukas ja hyvin pidetty Kabe 520 Alde mukavalla parivuoteella. Tässä vaunussa on kaikki mitä tarvitset varmasti talvilämmin Alde-lämmityksen ansiosta…</g:description>
@@ -1022,22 +1055,6 @@
             <g:custom_label_0>Vantaa</g:custom_label_0>
             <g:custom_label_1>2020</g:custom_label_1>
             <g:custom_label_3>631.13 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>3d79f450b0ca</g:id>
-            <g:title>Adria Adora</g:title>
-            <g:description>Erittäin siisti erillisvuoteinen Adria nestekiertoisella Alde- keskuslämmityksellä ja Skandinavian Edition- varustuksella. Edessä valoisa U-istuinryhmä suurella panorama- kattoikkunalla.</g:description>
-            <g:link>https://www.miseva.fi/autot/adria-adora-114/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-matkailuperavaunu-se-adria-adora-3720001544-178491611994364.jpg?m=1784923328</g:image_link>
-            <g:price>34850.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Adria</g:brand>
-            <g:mpn>DTI-956</g:mpn>
-            <g:product_type>Matkailuvaunu</g:product_type>
-            <g:custom_label_0>Vantaa</g:custom_label_0>
-            <g:custom_label_1>2024</g:custom_label_1>
-            <g:custom_label_3>628.82 €/kk</g:custom_label_3>
     </item>
     <item>
             <g:id>5f8b70048c5b</g:id>
@@ -1057,54 +1074,21 @@
             <g:custom_label_3>648.41 €/kk</g:custom_label_3>
     </item>
     <item>
-            <g:id>75df4d5f6f02</g:id>
-            <g:title>Dethleffs Advantage I6501</g:title>
-            <g:description>VAIHTOMARKKINAT KÄYNNISSÄ NYT! Tutustu kampanjaetuihin osoitteessa https://www.helsinkicaravan.fi/vaihtomarkkinat/ Tämäkin on Vaihtomarkkinoiden kampanjatuote. Kysy tuotekohtaiset edut myyjiltämme.</g:description>
-            <g:link>https://www.miseva.fi/autot/dethleffs-advantage-i6501/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-integroitu-dethleffs-advantage-i6501-2272885572-178522812718040.jpg?m=1785229332</g:image_link>
-            <g:price>37450.00 EUR</g:price>
+            <g:id>168ff17cc3e7</g:id>
+            <g:title>Hymer VAN 562</g:title>
+            <g:description>Siistikuntoinen juuri saapunut Hymer Van suosituilla erillisvuoteilla. Laadukas ja kompakti Hymer tarjoaa erinomaiset puitteet niin viikonloppureissuille kuin pidemmillekin matkoille.</g:description>
+            <g:link>https://www.miseva.fi/autot/hymer-van-562/</g:link>
+            <g:image_link>https://cdn.miseva.fi/20241214193406/miseva-matkailuauto-puoli-integroitu-hymer-tramp-617033234-171750429254304.jpg?m=1787265318</g:image_link>
+            <g:price>35980.00 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>Dethleffs</g:brand>
-            <g:mpn>HJI-752</g:mpn>
-            <g:product_type>Matkailuauto</g:product_type>
-            <g:custom_label_0>Turenki</g:custom_label_0>
-            <g:custom_label_1>2007</g:custom_label_1>
-            <g:custom_label_2>102000 km</g:custom_label_2>
-            <g:custom_label_3>675.14 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>c5cf89e3fd04</g:id>
-            <g:title>Rapido 7066 F</g:title>
-            <g:description>Hieno Rapido matalilla erillisvuoteilla ja kattavalla varustelulla. Tyylikäs ja käytännöllinen Rapido tarjoaa mukavat matalat erillisvuoteet sekä reilusti kaappitilaa tavaroille.</g:description>
-            <g:link>https://www.miseva.fi/autot/rapido-7066-f-3/</g:link>
-            <g:image_link>https://cdn.miseva.fi/20241215000647/miseva-matkailuauto-puoli-integroitu-rapido-7066-f-621906759-172536841243530.jpg?m=1787178927</g:image_link>
-            <g:price>37980.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Rapido</g:brand>
-            <g:mpn>KCI-467</g:mpn>
+            <g:brand>Hymer</g:brand>
+            <g:mpn>KCI-460</g:mpn>
             <g:product_type>Matkailuauto</g:product_type>
             <g:custom_label_0>Turku</g:custom_label_0>
             <g:custom_label_1>2008</g:custom_label_1>
-            <g:custom_label_2>154000 km</g:custom_label_2>
-            <g:custom_label_3>684.58 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>5fcfde63721c</g:id>
-            <g:title>Adria Adora</g:title>
-            <g:description>Tämä yksilö nyt huippuedullisesti! Hintaa alennuttu 3 000 €! Tyylikäs Adora erillivuoteilla ja Alde-nestekeskuslämmityksellä! Perushinta 38.300,- tehdaslisävarusteena Pluspaketti Adrora 100…</g:description>
-            <g:link>https://www.miseva.fi/autot/adria-adora-82/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-adria-adora-2419943153-175887080698957.jpg?m=1760603414</g:image_link>
-            <g:price>36990.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Adria</g:brand>
-            <g:mpn>A25-860</g:mpn>
-            <g:product_type>Matkailuvaunu</g:product_type>
-            <g:custom_label_0>Vantaa</g:custom_label_0>
-            <g:custom_label_1>2026</g:custom_label_1>
-            <g:custom_label_3>666.94 €/kk</g:custom_label_3>
+            <g:custom_label_2>120000 km</g:custom_label_2>
+            <g:custom_label_3>648.95 €/kk</g:custom_label_3>
     </item>
     <item>
             <g:id>347b9beaaac5</g:id>
@@ -1124,20 +1108,70 @@
             <g:custom_label_3>720.22 €/kk</g:custom_label_3>
     </item>
     <item>
-            <g:id>0621272412e0</g:id>
+            <g:id>11ef54fed4f6</g:id>
+            <g:title>Sun Living Lido</g:title>
+            <g:description>Tässä olisi matkakaveri sille, jonka mielestä parhaat maisemat löytyvät vaihtamalla välillä parkkipaikkaa. Lido S 42 SL on Fiat Ducaton alustalle rakennettu matkailuauto…</g:description>
+            <g:link>https://www.miseva.fi/autot/sun-living-lido-8/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-integroitu-sun-living-lido-1148205773-178610386869335.jpg?m=1786107734</g:image_link>
+            <g:price>38980.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Sun</g:brand>
+            <g:mpn>BSJ-627</g:mpn>
+            <g:product_type>Matkailuauto</g:product_type>
+            <g:custom_label_0>Turenki</g:custom_label_0>
+            <g:custom_label_1>2012</g:custom_label_1>
+            <g:custom_label_2>97000 km</g:custom_label_2>
+            <g:custom_label_3>702.4 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>75df4d5f6f02</g:id>
+            <g:title>Dethleffs Advantage I6501</g:title>
+            <g:description>VAIHTOMARKKINAT KÄYNNISSÄ NYT! Tutustu kampanjaetuihin osoitteessa https://www.helsinkicaravan.fi/vaihtomarkkinat/ Tämäkin on Vaihtomarkkinoiden kampanjatuote. Kysy tuotekohtaiset edut myyjiltämme.</g:description>
+            <g:link>https://www.miseva.fi/autot/dethleffs-advantage-i6501/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-integroitu-dethleffs-advantage-i6501-2272885572-178522812718040.jpg?m=1785229332</g:image_link>
+            <g:price>37450.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Dethleffs</g:brand>
+            <g:mpn>HJI-752</g:mpn>
+            <g:product_type>Matkailuauto</g:product_type>
+            <g:custom_label_0>Turenki</g:custom_label_0>
+            <g:custom_label_1>2007</g:custom_label_1>
+            <g:custom_label_2>102000 km</g:custom_label_2>
+            <g:custom_label_3>675.14 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>5fcfde63721c</g:id>
             <g:title>Adria Adora</g:title>
-            <g:description>Adria Adora 572 UT on premium-luokan matkailuvaunu, jossa yhdistyvät moderni muotoilu, käytännöllinen pohjaratkaisu ja erinomainen asumismukavuus. Tämä vaunu on suunniteltu sinulle…</g:description>
-            <g:link>https://www.miseva.fi/autot/adria-adora-103/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-adria-adora-649173579-177987599998530.jpg?m=1779880002</g:image_link>
-            <g:price>41700.00 EUR</g:price>
+            <g:description>Tämä yksilö nyt huippuedullisesti! Hintaa alennuttu 3 000 €! Tyylikäs Adora erillivuoteilla ja Alde-nestekeskuslämmityksellä! Perushinta 38.300,- tehdaslisävarusteena Pluspaketti Adrora 100…</g:description>
+            <g:link>https://www.miseva.fi/autot/adria-adora-82/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-adria-adora-2419943153-175887080698957.jpg?m=1760603414</g:image_link>
+            <g:price>36990.00 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
             <g:brand>Adria</g:brand>
-            <g:mpn>A26-607</g:mpn>
+            <g:mpn>A25-860</g:mpn>
             <g:product_type>Matkailuvaunu</g:product_type>
             <g:custom_label_0>Vantaa</g:custom_label_0>
             <g:custom_label_1>2026</g:custom_label_1>
-            <g:custom_label_3>750.86 €/kk</g:custom_label_3>
+            <g:custom_label_3>666.94 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>f75f4d1ada15</g:id>
+            <g:title>Knaus Südwind</g:title>
+            <g:description>Nyt on tyylikästä! Tämähän on Knaussin 60-vuotis juhlmalli ja se kyllä näkyy tyylissä. Uudenkarhea vaunu ensimmäisen käyttäjäomistajan jäljiltä ja on kyllä osattu pitää vaunusta huolta.</g:description>
+            <g:link>https://www.miseva.fi/autot/knaus-sudwind-7/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-knaus-sudwind-2271298179-178230572093442.jpg?m=1782306306</g:image_link>
+            <g:price>39980.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Knaus</g:brand>
+            <g:mpn>DPC-215</g:mpn>
+            <g:product_type>Matkailuvaunu</g:product_type>
+            <g:custom_label_0>Vantaa</g:custom_label_0>
+            <g:custom_label_1>2023</g:custom_label_1>
+            <g:custom_label_3>720.22 €/kk</g:custom_label_3>
     </item>
     <item>
             <g:id>4bfc4d6f5a88</g:id>
@@ -1157,36 +1191,20 @@
             <g:custom_label_3>738.03 €/kk</g:custom_label_3>
     </item>
     <item>
-            <g:id>11ef54fed4f6</g:id>
-            <g:title>Sun Living Lido</g:title>
-            <g:description>Tässä olisi matkakaveri sille, jonka mielestä parhaat maisemat löytyvät vaihtamalla välillä parkkipaikkaa. Lido S 42 SL on Fiat Ducaton alustalle rakennettu matkailuauto…</g:description>
-            <g:link>https://www.miseva.fi/autot/sun-living-lido-8/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-integroitu-sun-living-lido-1148205773-178610386869335.jpg?m=1786107734</g:image_link>
-            <g:price>38980.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Sun</g:brand>
-            <g:mpn>BSJ-627</g:mpn>
-            <g:product_type>Matkailuauto</g:product_type>
-            <g:custom_label_0>Turenki</g:custom_label_0>
-            <g:custom_label_1>2012</g:custom_label_1>
-            <g:custom_label_2>97000 km</g:custom_label_2>
-            <g:custom_label_3>702.4 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>f75f4d1ada15</g:id>
-            <g:title>Knaus Südwind</g:title>
-            <g:description>Nyt on tyylikästä! Tämähän on Knaussin 60-vuotis juhlmalli ja se kyllä näkyy tyylissä. Uudenkarhea vaunu ensimmäisen käyttäjäomistajan jäljiltä ja on kyllä osattu pitää vaunusta huolta.</g:description>
-            <g:link>https://www.miseva.fi/autot/knaus-sudwind-7/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-knaus-sudwind-2271298179-178230572093442.jpg?m=1782306306</g:image_link>
+            <g:id>4c08bcc8145f</g:id>
+            <g:title>Casa Car Sprinter</g:title>
+            <g:description>Kevyt erillisvuoteinen retkiauto automaattivaihteistolla. Takana erillisvuoteet, joista toinen nostettavissa ylös tavarankuljetuksen ajaksi. Keskellä pieni keittiö ja wc. Jääkaappi korkealla.</g:description>
+            <g:link>https://www.miseva.fi/autot/casa-car-sprinter/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-retkeilyauto-casa-car-sprinter-3162022204-178704618289392.jpg?m=1787047329</g:image_link>
             <g:price>39980.00 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>Knaus</g:brand>
-            <g:mpn>DPC-215</g:mpn>
-            <g:product_type>Matkailuvaunu</g:product_type>
-            <g:custom_label_0>Vantaa</g:custom_label_0>
-            <g:custom_label_1>2023</g:custom_label_1>
+            <g:brand>Casa</g:brand>
+            <g:mpn>BXJ-223</g:mpn>
+            <g:product_type>Matkailuauto</g:product_type>
+            <g:custom_label_0>Turenki</g:custom_label_0>
+            <g:custom_label_1>2016</g:custom_label_1>
+            <g:custom_label_2>140000 km</g:custom_label_2>
             <g:custom_label_3>720.22 €/kk</g:custom_label_3>
     </item>
     <item>
@@ -1205,55 +1223,6 @@
             <g:custom_label_1>2011</g:custom_label_1>
             <g:custom_label_2>164000 km</g:custom_label_2>
             <g:custom_label_3>737.5 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>4c08bcc8145f</g:id>
-            <g:title>Casa Car Sprinter</g:title>
-            <g:description>Kevyt erillisvuoteinen retkiauto automaattivaihteistolla. Takana erillisvuoteet, joista toinen nostettavissa ylös tavarankuljetuksen ajaksi. Keskellä pieni keittiö ja wc. Jääkaappi korkealla.</g:description>
-            <g:link>https://www.miseva.fi/autot/casa-car-sprinter/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-retkeilyauto-casa-car-sprinter-3162022204-178704618289392.jpg?m=1787047329</g:image_link>
-            <g:price>39980.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Casa</g:brand>
-            <g:mpn>BXJ-223</g:mpn>
-            <g:product_type>Matkailuauto</g:product_type>
-            <g:custom_label_0>Turenki</g:custom_label_0>
-            <g:custom_label_1>2016</g:custom_label_1>
-            <g:custom_label_2>140000 km</g:custom_label_2>
-            <g:custom_label_3>720.22 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>2f025b2bbf08</g:id>
-            <g:title>Adria Adora</g:title>
-            <g:description>Tyylikäs lapsiperhevaunu Alde-keskuslämmityksellä, jossa on vuodepaikat jopa 7:lle. Perushinta 41.400,- tehdaslisävarusteena Plus-paketti Adora (tv-teline, U-istuinryhmä, aluvanteet…</g:description>
-            <g:link>https://www.miseva.fi/autot/adria-adora-77/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-adria-adora-2033889025-175880661354256.jpg?m=1760603016</g:image_link>
-            <g:price>43090.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Adria</g:brand>
-            <g:mpn>A25-151</g:mpn>
-            <g:product_type>Matkailuvaunu</g:product_type>
-            <g:custom_label_0>Vantaa</g:custom_label_0>
-            <g:custom_label_1>2025</g:custom_label_1>
-            <g:custom_label_3>775.63 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>72b067fb1959</g:id>
-            <g:title>Dethleffs Beduin</g:title>
-            <g:description>Tässä on matkailuvaunu sinulle, joka arvostat ennen kaikkea tilaa, mukavuutta ja kunnollisia varusteita. Dethleffs Beduin Scandinavia on kookas kaksisakselinen vaunu, jossa viikonlopun reissu venyy…</g:description>
-            <g:link>https://www.miseva.fi/autot/dethleffs-beduin-28/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-dethleffs-camper-2311388704-178695329220436.jpg?m=1786957336</g:image_link>
-            <g:price>42990.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Dethleffs</g:brand>
-            <g:mpn>DRJ-722</g:mpn>
-            <g:product_type>Matkailuvaunu</g:product_type>
-            <g:custom_label_0>Turenki</g:custom_label_0>
-            <g:custom_label_1>2022</g:custom_label_1>
-            <g:custom_label_3>773.84 €/kk</g:custom_label_3>
     </item>
     <item>
             <g:id>7b2033e61ee2</g:id>
@@ -1289,21 +1258,86 @@
             <g:custom_label_3>795.4 €/kk</g:custom_label_3>
     </item>
     <item>
-            <g:id>f1bde0b7c0ba</g:id>
-            <g:title>LMC H 577</g:title>
-            <g:description>Nätti laskuvuoteellinen LMC pakattuna 6 metriin…</g:description>
-            <g:link>https://www.miseva.fi/autot/lmc-h-577/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-puoli-integroitu-lmc-h577-1507430370-177738436814409.jpg?m=1777384930</g:image_link>
-            <g:price>45980.00 EUR</g:price>
+            <g:id>72b067fb1959</g:id>
+            <g:title>Dethleffs Beduin</g:title>
+            <g:description>Tässä on matkailuvaunu sinulle, joka arvostat ennen kaikkea tilaa, mukavuutta ja kunnollisia varusteita. Dethleffs Beduin Scandinavia on kookas kaksisakselinen vaunu, jossa viikonlopun reissu venyy…</g:description>
+            <g:link>https://www.miseva.fi/autot/dethleffs-beduin-28/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-dethleffs-camper-2311388704-178695329220436.jpg?m=1786957336</g:image_link>
+            <g:price>42990.00 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>LMC</g:brand>
-            <g:mpn>FLE-804</g:mpn>
+            <g:brand>Dethleffs</g:brand>
+            <g:mpn>DRJ-722</g:mpn>
+            <g:product_type>Matkailuvaunu</g:product_type>
+            <g:custom_label_0>Turenki</g:custom_label_0>
+            <g:custom_label_1>2022</g:custom_label_1>
+            <g:custom_label_3>773.84 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>2f025b2bbf08</g:id>
+            <g:title>Adria Adora</g:title>
+            <g:description>Tyylikäs lapsiperhevaunu Alde-keskuslämmityksellä, jossa on vuodepaikat jopa 7:lle. Perushinta 41.400,- tehdaslisävarusteena Plus-paketti Adora (tv-teline, U-istuinryhmä, aluvanteet…</g:description>
+            <g:link>https://www.miseva.fi/autot/adria-adora-77/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-adria-adora-2033889025-175880661354256.jpg?m=1760603016</g:image_link>
+            <g:price>43090.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Adria</g:brand>
+            <g:mpn>A25-151</g:mpn>
+            <g:product_type>Matkailuvaunu</g:product_type>
+            <g:custom_label_0>Vantaa</g:custom_label_0>
+            <g:custom_label_1>2025</g:custom_label_1>
+            <g:custom_label_3>775.63 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>0621272412e0</g:id>
+            <g:title>Adria Adora</g:title>
+            <g:description>Adria Adora 572 UT on premium-luokan matkailuvaunu, jossa yhdistyvät moderni muotoilu, käytännöllinen pohjaratkaisu ja erinomainen asumismukavuus. Tämä vaunu on suunniteltu sinulle…</g:description>
+            <g:link>https://www.miseva.fi/autot/adria-adora-103/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuvaunu-adria-adora-649173579-177987599998530.jpg?m=1779880002</g:image_link>
+            <g:price>41700.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Adria</g:brand>
+            <g:mpn>A26-607</g:mpn>
+            <g:product_type>Matkailuvaunu</g:product_type>
+            <g:custom_label_0>Vantaa</g:custom_label_0>
+            <g:custom_label_1>2026</g:custom_label_1>
+            <g:custom_label_3>750.86 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>ccc2c42f6e53</g:id>
+            <g:title>Hymer S</g:title>
+            <g:description>Nyt on tarjolla hulppea matkailuauto, missä vääntö riittää tehokkaalla 3-litran ketjukone-moottorilla yhdistettynä automaattivaihteistoon. Ajoneuvon ulkoväritys on likaa hylkivä hopea valtavirrasta…</g:description>
+            <g:link>https://www.miseva.fi/autot/hymer-s/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-puoli-integroitu-hymer-s-67140967-178608381726557.jpg?m=1786086130</g:image_link>
+            <g:price>43500.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Hymer</g:brand>
+            <g:mpn>SPK-483</g:mpn>
             <g:product_type>Matkailuauto</g:product_type>
-            <g:custom_label_0>Turku</g:custom_label_0>
-            <g:custom_label_1>2014</g:custom_label_1>
-            <g:custom_label_2>86000 km</g:custom_label_2>
-            <g:custom_label_3>827.12 €/kk</g:custom_label_3>
+            <g:custom_label_0>Turenki</g:custom_label_0>
+            <g:custom_label_1>2011</g:custom_label_1>
+            <g:custom_label_2>76000 km</g:custom_label_2>
+            <g:custom_label_3>782.93 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>a833545980b4</g:id>
+            <g:title>Dethleffs Globe 4 T5901</g:title>
+            <g:description>Säännöllisesti huollettu matkakumppani, joka on ollut omistajansa silmäterä. Ei juuri edes ikänsä mukaista kulumaa, kaikki on korjattu ja huollatettu viimeisen päälle! Erittäin kätevässä 6,5…</g:description>
+            <g:link>https://www.miseva.fi/autot/dethleffs-globe-4-t5901/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-puoli-integroitu-dethleffs-t-5901-4-2316811361-178098301932748.jpg?m=1781075116</g:image_link>
+            <g:price>44850.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Dethleffs</g:brand>
+            <g:mpn>RPR-258</g:mpn>
+            <g:product_type>Matkailuauto</g:product_type>
+            <g:custom_label_0>Vantaa</g:custom_label_0>
+            <g:custom_label_1>2010</g:custom_label_1>
+            <g:custom_label_2>96000 km</g:custom_label_2>
+            <g:custom_label_3>806.98 €/kk</g:custom_label_3>
     </item>
     <item>
             <g:id>f6b60549af9d</g:id>
@@ -1355,38 +1389,21 @@
             <g:custom_label_3>826.58 €/kk</g:custom_label_3>
     </item>
     <item>
-            <g:id>ccc2c42f6e53</g:id>
-            <g:title>Hymer S</g:title>
-            <g:description>Nyt on tarjolla hulppea matkailuauto, missä vääntö riittää tehokkaalla 3-litran ketjukone-moottorilla yhdistettynä automaattivaihteistoon. Ajoneuvon ulkoväritys on likaa hylkivä hopea valtavirrasta…</g:description>
-            <g:link>https://www.miseva.fi/autot/hymer-s/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-puoli-integroitu-hymer-s-67140967-178608381726557.jpg?m=1786086130</g:image_link>
-            <g:price>43500.00 EUR</g:price>
+            <g:id>f1bde0b7c0ba</g:id>
+            <g:title>LMC H 577</g:title>
+            <g:description>Nätti laskuvuoteellinen LMC pakattuna 6 metriin…</g:description>
+            <g:link>https://www.miseva.fi/autot/lmc-h-577/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-puoli-integroitu-lmc-h577-1507430370-177738436814409.jpg?m=1777384930</g:image_link>
+            <g:price>45980.00 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>Hymer</g:brand>
-            <g:mpn>SPK-483</g:mpn>
+            <g:brand>LMC</g:brand>
+            <g:mpn>FLE-804</g:mpn>
             <g:product_type>Matkailuauto</g:product_type>
-            <g:custom_label_0>Turenki</g:custom_label_0>
-            <g:custom_label_1>2011</g:custom_label_1>
-            <g:custom_label_2>76000 km</g:custom_label_2>
-            <g:custom_label_3>782.93 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>a833545980b4</g:id>
-            <g:title>Dethleffs Globe 4 T5901</g:title>
-            <g:description>Säännöllisesti huollettu matkakumppani, joka on ollut omistajansa silmäterä. Ei juuri edes ikänsä mukaista kulumaa, kaikki on korjattu ja huollatettu viimeisen päälle! Erittäin kätevässä 6,5…</g:description>
-            <g:link>https://www.miseva.fi/autot/dethleffs-globe-4-t5901/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-puoli-integroitu-dethleffs-t-5901-4-2316811361-178098301932748.jpg?m=1781075116</g:image_link>
-            <g:price>44850.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Dethleffs</g:brand>
-            <g:mpn>RPR-258</g:mpn>
-            <g:product_type>Matkailuauto</g:product_type>
-            <g:custom_label_0>Vantaa</g:custom_label_0>
-            <g:custom_label_1>2010</g:custom_label_1>
-            <g:custom_label_2>96000 km</g:custom_label_2>
-            <g:custom_label_3>806.98 €/kk</g:custom_label_3>
+            <g:custom_label_0>Turku</g:custom_label_0>
+            <g:custom_label_1>2014</g:custom_label_1>
+            <g:custom_label_2>86000 km</g:custom_label_2>
+            <g:custom_label_3>827.12 €/kk</g:custom_label_3>
     </item>
     <item>
             <g:id>421246aa2a97</g:id>
@@ -1404,23 +1421,6 @@
             <g:custom_label_1>2017</g:custom_label_1>
             <g:custom_label_2>97000 km</g:custom_label_2>
             <g:custom_label_3>821.77 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>f98d6f4a0e3c</g:id>
-            <g:title>Adria Coral S 670 SLT</g:title>
-            <g:description>Kuvittele ilta järven rannalla tai aamu tunturimaisemissa. Päivän ajot on takana, markiisi levitetty ja kahvi valmistuu samalla, kun seuraavan päivän reittiä suunnitellaan.</g:description>
-            <g:link>https://www.miseva.fi/autot/adria-coral-s-670-slt-8/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-puoli-integroitu-adria-coral-s-670-slt-3692674138-178551139171238.jpg?m=1785513727</g:image_link>
-            <g:price>46750.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Adria</g:brand>
-            <g:mpn>HEM-2</g:mpn>
-            <g:product_type>Matkailuauto</g:product_type>
-            <g:custom_label_0>Vantaa</g:custom_label_0>
-            <g:custom_label_1>2013</g:custom_label_1>
-            <g:custom_label_2>105000 km</g:custom_label_2>
-            <g:custom_label_3>840.84 €/kk</g:custom_label_3>
     </item>
     <item>
             <g:id>20435e931f6d</g:id>
@@ -1457,38 +1457,38 @@
             <g:custom_label_3>880.57 €/kk</g:custom_label_3>
     </item>
     <item>
-            <g:id>74853190725d</g:id>
-            <g:title>Adria Twin 600SP</g:title>
-            <g:description>Adrian retkiautojen suosio säilyy vuodesta toiseen! Eikä ihme, mukava näillä on matkustaa. Sisusta on tyylikäs ja pakulla mahtuu parkkiin melkein mihin vaan. Varusteisiin kuuluu mm. liesi kokkailuun…</g:description>
-            <g:link>https://www.miseva.fi/autot/adria-twin-600sp-4/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-retkeilyauto-adria-twin-600sp-847674963-178654223375262.jpg?m=1786608210</g:image_link>
-            <g:price>48780.00 EUR</g:price>
+            <g:id>f98d6f4a0e3c</g:id>
+            <g:title>Adria Coral S 670 SLT</g:title>
+            <g:description>Kuvittele ilta järven rannalla tai aamu tunturimaisemissa. Päivän ajot on takana, markiisi levitetty ja kahvi valmistuu samalla, kun seuraavan päivän reittiä suunnitellaan.</g:description>
+            <g:link>https://www.miseva.fi/autot/adria-coral-s-670-slt-8/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-puoli-integroitu-adria-coral-s-670-slt-3692674138-178551139171238.jpg?m=1785513727</g:image_link>
+            <g:price>46750.00 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
             <g:brand>Adria</g:brand>
-            <g:mpn>LOH-321</g:mpn>
+            <g:mpn>HEM-2</g:mpn>
             <g:product_type>Matkailuauto</g:product_type>
             <g:custom_label_0>Vantaa</g:custom_label_0>
-            <g:custom_label_1>2017</g:custom_label_1>
-            <g:custom_label_2>112000 km</g:custom_label_2>
-            <g:custom_label_3>877 €/kk</g:custom_label_3>
+            <g:custom_label_1>2013</g:custom_label_1>
+            <g:custom_label_2>105000 km</g:custom_label_2>
+            <g:custom_label_3>840.84 €/kk</g:custom_label_3>
     </item>
     <item>
-            <g:id>b27bb814c5f7</g:id>
-            <g:title>Dethleffs Globebus GT-T 001</g:title>
-            <g:description>Kyllä silmä lepää tämän Dethleffsin sisustuksessa. Valoa ja vaaleutta riittää ja varsinkin aurinkoisena päivänä voi vain hämmästellä miten nätti auto oikeasti on! Takana on kivan kokoinen parisänky…</g:description>
-            <g:link>https://www.miseva.fi/autot/dethleffs-globebus-gt-t-001/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-puoli-integroitu-dethleffs-globebus-2169035973-177608766170238.jpg?m=1776092536</g:image_link>
-            <g:price>49480.00 EUR</g:price>
+            <g:id>955355e07437</g:id>
+            <g:title>Carado A461</g:title>
+            <g:description>Carado A 461 Tilava matkakoti koko porukalle! Tässä on matkailuauto, jossa jokaiselle löytyy oma paikka niin ajon kuin levonkin ajaksi. Carado A 461:n käytännöllinen pohjaratkaisu tarjoaa kerrossängyn…</g:description>
+            <g:link>https://www.miseva.fi/autot/carado-a461-3/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-alkovi-carado-a461-1386013849-178351421272526.jpg?m=1783515740</g:image_link>
+            <g:price>48950.00 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>Dethleffs</g:brand>
-            <g:mpn>NLA-945</g:mpn>
+            <g:brand>Carado</g:brand>
+            <g:mpn>LMR-531</g:mpn>
             <g:product_type>Matkailuauto</g:product_type>
-            <g:custom_label_0>Vantaa</g:custom_label_0>
-            <g:custom_label_1>2018</g:custom_label_1>
-            <g:custom_label_2>100000 km</g:custom_label_2>
-            <g:custom_label_3>889.48 €/kk</g:custom_label_3>
+            <g:custom_label_0>Turenki</g:custom_label_0>
+            <g:custom_label_1>2016</g:custom_label_1>
+            <g:custom_label_2>43000 km</g:custom_label_2>
+            <g:custom_label_3>880.03 €/kk</g:custom_label_3>
     </item>
     <item>
             <g:id>442f97666339</g:id>
@@ -1508,21 +1508,21 @@
             <g:custom_label_3>879.14 €/kk</g:custom_label_3>
     </item>
     <item>
-            <g:id>955355e07437</g:id>
-            <g:title>Carado A461</g:title>
-            <g:description>Carado A 461 Tilava matkakoti koko porukalle! Tässä on matkailuauto, jossa jokaiselle löytyy oma paikka niin ajon kuin levonkin ajaksi. Carado A 461:n käytännöllinen pohjaratkaisu tarjoaa kerrossängyn…</g:description>
-            <g:link>https://www.miseva.fi/autot/carado-a461-3/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-alkovi-carado-a461-1386013849-178351421272526.jpg?m=1783515740</g:image_link>
-            <g:price>48950.00 EUR</g:price>
+            <g:id>74853190725d</g:id>
+            <g:title>Adria Twin 600SP</g:title>
+            <g:description>Adrian retkiautojen suosio säilyy vuodesta toiseen! Eikä ihme, mukava näillä on matkustaa. Sisusta on tyylikäs ja pakulla mahtuu parkkiin melkein mihin vaan. Varusteisiin kuuluu mm. liesi kokkailuun…</g:description>
+            <g:link>https://www.miseva.fi/autot/adria-twin-600sp-4/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-retkeilyauto-adria-twin-600sp-847674963-178654223375262.jpg?m=1786608210</g:image_link>
+            <g:price>48780.00 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>Carado</g:brand>
-            <g:mpn>LMR-531</g:mpn>
+            <g:brand>Adria</g:brand>
+            <g:mpn>LOH-321</g:mpn>
             <g:product_type>Matkailuauto</g:product_type>
-            <g:custom_label_0>Turenki</g:custom_label_0>
-            <g:custom_label_1>2016</g:custom_label_1>
-            <g:custom_label_2>43000 km</g:custom_label_2>
-            <g:custom_label_3>880.03 €/kk</g:custom_label_3>
+            <g:custom_label_0>Vantaa</g:custom_label_0>
+            <g:custom_label_1>2017</g:custom_label_1>
+            <g:custom_label_2>112000 km</g:custom_label_2>
+            <g:custom_label_3>877 €/kk</g:custom_label_3>
     </item>
     <item>
             <g:id>a6d254d8fd86</g:id>
@@ -1558,21 +1558,21 @@
             <g:custom_label_3>951.83 €/kk</g:custom_label_3>
     </item>
     <item>
-            <g:id>f16494ef1471</g:id>
-            <g:title>Weinsberg CaraBus</g:title>
-            <g:description>Tässä retkeilyautossa jokainen neliö on hyödynnetty fiksusti. Edessä kääntyvät ohjaamon istuimet muodostavat viihtyisän ruokailuryhmän, keskellä sijaitsee käytännöllinen keittiö reiluilla…</g:description>
-            <g:link>https://www.miseva.fi/autot/weinsberg-carabus-28/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-retkeilyauto-weinsberg-carabus-867930525-178368179089141.jpg?m=1783684928</g:image_link>
-            <g:price>55950.00 EUR</g:price>
+            <g:id>b27bb814c5f7</g:id>
+            <g:title>Dethleffs Globebus GT-T 001</g:title>
+            <g:description>Kyllä silmä lepää tämän Dethleffsin sisustuksessa. Valoa ja vaaleutta riittää ja varsinkin aurinkoisena päivänä voi vain hämmästellä miten nätti auto oikeasti on! Takana on kivan kokoinen parisänky…</g:description>
+            <g:link>https://www.miseva.fi/autot/dethleffs-globebus-gt-t-001/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-puoli-integroitu-dethleffs-globebus-2169035973-177608766170238.jpg?m=1776092536</g:image_link>
+            <g:price>49480.00 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>Weinsberg</g:brand>
-            <g:mpn>LPB-313</g:mpn>
+            <g:brand>Dethleffs</g:brand>
+            <g:mpn>NLA-945</g:mpn>
             <g:product_type>Matkailuauto</g:product_type>
-            <g:custom_label_0>Turenki</g:custom_label_0>
-            <g:custom_label_1>2020</g:custom_label_1>
-            <g:custom_label_2>89000 km</g:custom_label_2>
-            <g:custom_label_3>1004.75 €/kk</g:custom_label_3>
+            <g:custom_label_0>Vantaa</g:custom_label_0>
+            <g:custom_label_1>2018</g:custom_label_1>
+            <g:custom_label_2>100000 km</g:custom_label_2>
+            <g:custom_label_3>889.48 €/kk</g:custom_label_3>
     </item>
     <item>
             <g:id>50c44456fb33</g:id>
@@ -1592,6 +1592,23 @@
             <g:custom_label_3>969.65 €/kk</g:custom_label_3>
     </item>
     <item>
+            <g:id>86eac8e61e44</g:id>
+            <g:title>Sunlight V60</g:title>
+            <g:description>Näppärän kokoinen mutta tilava Sunlight V60. Kompakti ja helppo käsitellä, mutta tarjoaa erinomaiset tilat ja hyvät säilytysratkaisut. Läpijuostava takatalli lisää käytännöllisyyttä reissuille.</g:description>
+            <g:link>https://www.miseva.fi/autot/sunlight-v60/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-puoli-integroitu-sunlight-v60-857068676-178056421491782.jpg?m=1780567330</g:image_link>
+            <g:price>49950.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Sunlight</g:brand>
+            <g:mpn>ZMS-598</g:mpn>
+            <g:product_type>Matkailuauto</g:product_type>
+            <g:custom_label_0>Turenki</g:custom_label_0>
+            <g:custom_label_1>2019</g:custom_label_1>
+            <g:custom_label_2>37000 km</g:custom_label_2>
+            <g:custom_label_3>897.85 €/kk</g:custom_label_3>
+    </item>
+    <item>
             <g:id>a1863b1e2480</g:id>
             <g:title>Bürstner Campeo Active 600</g:title>
             <g:description>Aika hieno 6-metrinen retkis ensimmäisen ja ainoan käyttäjäomistajan hellän huolenpidon jäljiltä. Korivalmistajana Saksalainen Burstner ja alustana Fiat Ducato 2.3 litraisella dieselillä ja 9…</g:description>
@@ -1609,21 +1626,21 @@
             <g:custom_label_3>1023.1 €/kk</g:custom_label_3>
     </item>
     <item>
-            <g:id>86eac8e61e44</g:id>
-            <g:title>Sunlight V60</g:title>
-            <g:description>Näppärän kokoinen mutta tilava Sunlight V60. Kompakti ja helppo käsitellä, mutta tarjoaa erinomaiset tilat ja hyvät säilytysratkaisut. Läpijuostava takatalli lisää käytännöllisyyttä reissuille.</g:description>
-            <g:link>https://www.miseva.fi/autot/sunlight-v60/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-puoli-integroitu-sunlight-v60-857068676-178056421491782.jpg?m=1780567330</g:image_link>
-            <g:price>49950.00 EUR</g:price>
+            <g:id>f16494ef1471</g:id>
+            <g:title>Weinsberg CaraBus</g:title>
+            <g:description>Tässä retkeilyautossa jokainen neliö on hyödynnetty fiksusti. Edessä kääntyvät ohjaamon istuimet muodostavat viihtyisän ruokailuryhmän, keskellä sijaitsee käytännöllinen keittiö reiluilla…</g:description>
+            <g:link>https://www.miseva.fi/autot/weinsberg-carabus-28/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-retkeilyauto-weinsberg-carabus-867930525-178368179089141.jpg?m=1783684928</g:image_link>
+            <g:price>55950.00 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>Sunlight</g:brand>
-            <g:mpn>ZMS-598</g:mpn>
+            <g:brand>Weinsberg</g:brand>
+            <g:mpn>LPB-313</g:mpn>
             <g:product_type>Matkailuauto</g:product_type>
             <g:custom_label_0>Turenki</g:custom_label_0>
-            <g:custom_label_1>2019</g:custom_label_1>
-            <g:custom_label_2>37000 km</g:custom_label_2>
-            <g:custom_label_3>897.85 €/kk</g:custom_label_3>
+            <g:custom_label_1>2020</g:custom_label_1>
+            <g:custom_label_2>89000 km</g:custom_label_2>
+            <g:custom_label_3>1004.75 €/kk</g:custom_label_3>
     </item>
     <item>
             <g:id>c921105d3ef8</g:id>
@@ -1677,21 +1694,21 @@
             <g:custom_label_3>1032.19 €/kk</g:custom_label_3>
     </item>
     <item>
-            <g:id>160135b135ad</g:id>
-            <g:title>Dethleffs Advantage Edition</g:title>
-            <g:description>Tässä Dethleffsissä on kaikki kohdallaan, kun arvostat laatua, toimivuutta ja ennen kaikkea asumismukavuutta. Selkeä pohjaratkaisu tarjoaa viihtyisät tilat niin kahdelle kuin koko matkaseurueellekin…</g:description>
-            <g:link>https://www.miseva.fi/autot/dethleffs-advantage-edition/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-puoli-integroitu-dethleffs-advantage-edition-300846712-178478738465903.jpg?m=1784790127</g:image_link>
-            <g:price>57450.00 EUR</g:price>
+            <g:id>267857e218b2</g:id>
+            <g:title>Hobby Optima V65 GQ</g:title>
+            <g:description>Hieno ja modernin tyylikäs matkailuauto vaikka pariskunnalle! Seitsemän metrin pituus ja compact-luokan kapea (2,17m) kori tekevät tämän auton käsittelystä lähes henkilöautomaisen helppoa.</g:description>
+            <g:link>https://www.miseva.fi/autot/hobby-optima-v65-gq/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-puoli-integroitu-hobby-optima-v65-gq-882520634-178453640369174.jpg?m=1784538129</g:image_link>
+            <g:price>58950.00 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>Dethleffs</g:brand>
-            <g:mpn>ION-464</g:mpn>
+            <g:brand>Hobby</g:brand>
+            <g:mpn>GRP-454</g:mpn>
             <g:product_type>Matkailuauto</g:product_type>
-            <g:custom_label_0>Vantaa</g:custom_label_0>
-            <g:custom_label_1>2019</g:custom_label_1>
-            <g:custom_label_2>70000 km</g:custom_label_2>
-            <g:custom_label_3>1031.48 €/kk</g:custom_label_3>
+            <g:custom_label_0>Turenki</g:custom_label_0>
+            <g:custom_label_1>2022</g:custom_label_1>
+            <g:custom_label_2>75000 km</g:custom_label_2>
+            <g:custom_label_3>1058.2 €/kk</g:custom_label_3>
     </item>
     <item>
             <g:id>fd29ab69a651</g:id>
@@ -1711,6 +1728,23 @@
             <g:custom_label_3>1076.55 €/kk</g:custom_label_3>
     </item>
     <item>
+            <g:id>160135b135ad</g:id>
+            <g:title>Dethleffs Advantage Edition</g:title>
+            <g:description>Tässä Dethleffsissä on kaikki kohdallaan, kun arvostat laatua, toimivuutta ja ennen kaikkea asumismukavuutta. Selkeä pohjaratkaisu tarjoaa viihtyisät tilat niin kahdelle kuin koko matkaseurueellekin…</g:description>
+            <g:link>https://www.miseva.fi/autot/dethleffs-advantage-edition/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-puoli-integroitu-dethleffs-advantage-edition-300846712-178478738465903.jpg?m=1784790127</g:image_link>
+            <g:price>57450.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Dethleffs</g:brand>
+            <g:mpn>ION-464</g:mpn>
+            <g:product_type>Matkailuauto</g:product_type>
+            <g:custom_label_0>Vantaa</g:custom_label_0>
+            <g:custom_label_1>2019</g:custom_label_1>
+            <g:custom_label_2>70000 km</g:custom_label_2>
+            <g:custom_label_3>1031.48 €/kk</g:custom_label_3>
+    </item>
+    <item>
             <g:id>14ec16fa1ff8</g:id>
             <g:title>Hobby A 70 GM</g:title>
             <g:description>Tilava Hobby-alkovi koko perheen matkailuun. Toimiva pohjaratkaisu tarjoaa parivuoteen takaosassa sekä reilunkokoisen alkovivuoteen edessä, joten nukkumatilaa riittää mukavasti isommallekin porukalle.</g:description>
@@ -1726,74 +1760,6 @@
             <g:custom_label_1>2022</g:custom_label_1>
             <g:custom_label_2>58000 km</g:custom_label_2>
             <g:custom_label_3>1076.55 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>ea6cb0621f91</g:id>
-            <g:title>Adria MATRIX 600DT</g:title>
-            <g:description>Tässä Adriassa yhdistyvät toimiva pohjaratkaisu, siisti sisustus ja mukavat varusteet kompaktissa paketissa. Ohjaamon päälle sijoitettu sähköisesti laskettava parivuode tarjoaa kunnon nukkumapaikat…</g:description>
-            <g:link>https://www.miseva.fi/autot/adria-matrix-600dt/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-puoli-integroitu-adria-matrix-600dt-2611739551-178593600423991.jpg?m=1786082528</g:image_link>
-            <g:price>61480.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Adria</g:brand>
-            <g:mpn>MOM-543</g:mpn>
-            <g:product_type>Matkailuauto</g:product_type>
-            <g:custom_label_0>Vantaa</g:custom_label_0>
-            <g:custom_label_1>2022</g:custom_label_1>
-            <g:custom_label_2>32000 km</g:custom_label_2>
-            <g:custom_label_3>1103.28 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>d4793f73ea77</g:id>
-            <g:title>Adria Twin 640 SLB</g:title>
-            <g:description>Nyt tarjolla erittäin tyylikäs ja käytännöllinen Adria Twin Plus -retkeilyauto. Fiksu tilankäyttö, laadukas viimeistely ja moderni ilme tekevät tästä erinomaisen vaihtoehdon niin pariskunnalle kuin…</g:description>
-            <g:link>https://www.miseva.fi/autot/adria-twin-640-slb-5/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-retkeilyauto-adria-twin-640-slb-3355348985-177798493539286.jpg?m=1778050933</g:image_link>
-            <g:price>58980.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Adria</g:brand>
-            <g:mpn>ETB-662</g:mpn>
-            <g:product_type>Matkailuauto</g:product_type>
-            <g:custom_label_0>Vantaa</g:custom_label_0>
-            <g:custom_label_1>2020</g:custom_label_1>
-            <g:custom_label_2>106000 km</g:custom_label_2>
-            <g:custom_label_3>1058.74 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>267857e218b2</g:id>
-            <g:title>Hobby Optima V65 GQ</g:title>
-            <g:description>Hieno ja modernin tyylikäs matkailuauto vaikka pariskunnalle! Seitsemän metrin pituus ja compact-luokan kapea (2,17m) kori tekevät tämän auton käsittelystä lähes henkilöautomaisen helppoa.</g:description>
-            <g:link>https://www.miseva.fi/autot/hobby-optima-v65-gq/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-puoli-integroitu-hobby-optima-v65-gq-882520634-178453640369174.jpg?m=1784538129</g:image_link>
-            <g:price>58950.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Hobby</g:brand>
-            <g:mpn>GRP-454</g:mpn>
-            <g:product_type>Matkailuauto</g:product_type>
-            <g:custom_label_0>Turenki</g:custom_label_0>
-            <g:custom_label_1>2022</g:custom_label_1>
-            <g:custom_label_2>75000 km</g:custom_label_2>
-            <g:custom_label_3>1058.2 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>90523f31afcf</g:id>
-            <g:title>Weinsberg R48</g:title>
-            <g:description>Weinsberg kuuluu Knaus- Tabbert- konsernin tuotteisiin ja näitähän on siellä tehty vaatimattomat 80 vuotta. Jossain lienee siis onnistuttu aikojen saatossa, kun tuotantoa kasvatetaan kiihtyvässä…</g:description>
-            <g:link>https://www.miseva.fi/autot/weinsberg-r48/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-weinsberg-r48-803150692-177936091397645.jpg?m=1779364933</g:image_link>
-            <g:price>63900.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Weinsberg</g:brand>
-            <g:mpn>FPE-863</g:mpn>
-            <g:product_type>Matkailuauto</g:product_type>
-            <g:custom_label_0>Turku</g:custom_label_0>
-            <g:custom_label_1>2022</g:custom_label_1>
-            <g:custom_label_2>43000 km</g:custom_label_2>
-            <g:custom_label_3>1146.39 €/kk</g:custom_label_3>
     </item>
     <item>
             <g:id>0cf0215079ca</g:id>
@@ -1813,21 +1779,21 @@
             <g:custom_label_3>1147.82 €/kk</g:custom_label_3>
     </item>
     <item>
-            <g:id>224e2f6b6a57</g:id>
-            <g:title>Eura Mobil Activa one 690</g:title>
-            <g:description>Tässä olisi tarjolla Eura Mobil Activa One reilunkokoinen ja erittäin käytännöllinen alkovimatkailuauto sille porukalle, jonka mielestä lomalla kuuluu olla tilaa sekä ihmisille että tavaroille.</g:description>
-            <g:link>https://www.miseva.fi/autot/eura-mobil-activa-one-690/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-alkovi-eura-mobil-activa-one-690-4281604993-178652399531642.jpg?m=1786525326</g:image_link>
-            <g:price>61980.00 EUR</g:price>
+            <g:id>d4793f73ea77</g:id>
+            <g:title>Adria Twin 640 SLB</g:title>
+            <g:description>Nyt tarjolla erittäin tyylikäs ja käytännöllinen Adria Twin Plus -retkeilyauto. Fiksu tilankäyttö, laadukas viimeistely ja moderni ilme tekevät tästä erinomaisen vaihtoehdon niin pariskunnalle kuin…</g:description>
+            <g:link>https://www.miseva.fi/autot/adria-twin-640-slb-5/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-retkeilyauto-adria-twin-640-slb-3355348985-177798493539286.jpg?m=1778050933</g:image_link>
+            <g:price>58980.00 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>Eura</g:brand>
-            <g:mpn>CRM-826</g:mpn>
+            <g:brand>Adria</g:brand>
+            <g:mpn>ETB-662</g:mpn>
             <g:product_type>Matkailuauto</g:product_type>
-            <g:custom_label_0>Turenki</g:custom_label_0>
-            <g:custom_label_1>2023</g:custom_label_1>
-            <g:custom_label_2>70000 km</g:custom_label_2>
-            <g:custom_label_3>1112.19 €/kk</g:custom_label_3>
+            <g:custom_label_0>Vantaa</g:custom_label_0>
+            <g:custom_label_1>2020</g:custom_label_1>
+            <g:custom_label_2>106000 km</g:custom_label_2>
+            <g:custom_label_3>1058.74 €/kk</g:custom_label_3>
     </item>
     <item>
             <g:id>b4145e70fa23</g:id>
@@ -1844,6 +1810,23 @@
             <g:custom_label_0>Vantaa</g:custom_label_0>
             <g:custom_label_1>2022</g:custom_label_1>
             <g:custom_label_2>36900 km</g:custom_label_2>
+            <g:custom_label_3>1156.19 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>864a318f2ef3</g:id>
+            <g:title>Sun Living V 65</g:title>
+            <g:description>Hienokuntoinen Sunliving valmiiksi varusteltuna. 6.4 m kokonaispituuteen on saatu rakennettua toimivat ja monikäyttöiset tilat. Auton etuosassa on pöytäryhmä jonka ympärille mahtuu kääntyvien…</g:description>
+            <g:link>https://www.miseva.fi/autot/sun-living-v-65/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-retkeilyauto-sun-living-v-65-12280057-178005042817693.jpg?m=1780066943</g:image_link>
+            <g:price>64450.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Sun</g:brand>
+            <g:mpn>GRP-375</g:mpn>
+            <g:product_type>Matkailuauto</g:product_type>
+            <g:custom_label_0>Turenki</g:custom_label_0>
+            <g:custom_label_1>2023</g:custom_label_1>
+            <g:custom_label_2>50600 km</g:custom_label_2>
             <g:custom_label_3>1156.19 €/kk</g:custom_label_3>
     </item>
     <item>
@@ -1864,21 +1847,55 @@
             <g:custom_label_3>1121.45 €/kk</g:custom_label_3>
     </item>
     <item>
-            <g:id>864a318f2ef3</g:id>
-            <g:title>Sun Living V 65</g:title>
-            <g:description>Hienokuntoinen Sunliving valmiiksi varusteltuna. 6.4 m kokonaispituuteen on saatu rakennettua toimivat ja monikäyttöiset tilat. Auton etuosassa on pöytäryhmä jonka ympärille mahtuu kääntyvien…</g:description>
-            <g:link>https://www.miseva.fi/autot/sun-living-v-65/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-retkeilyauto-sun-living-v-65-12280057-178005042817693.jpg?m=1780066943</g:image_link>
-            <g:price>64450.00 EUR</g:price>
+            <g:id>90523f31afcf</g:id>
+            <g:title>Weinsberg R48</g:title>
+            <g:description>Weinsberg kuuluu Knaus- Tabbert- konsernin tuotteisiin ja näitähän on siellä tehty vaatimattomat 80 vuotta. Jossain lienee siis onnistuttu aikojen saatossa, kun tuotantoa kasvatetaan kiihtyvässä…</g:description>
+            <g:link>https://www.miseva.fi/autot/weinsberg-r48/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-weinsberg-r48-803150692-177936091397645.jpg?m=1779364933</g:image_link>
+            <g:price>63900.00 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>Sun</g:brand>
-            <g:mpn>GRP-375</g:mpn>
+            <g:brand>Weinsberg</g:brand>
+            <g:mpn>FPE-863</g:mpn>
+            <g:product_type>Matkailuauto</g:product_type>
+            <g:custom_label_0>Turku</g:custom_label_0>
+            <g:custom_label_1>2022</g:custom_label_1>
+            <g:custom_label_2>43000 km</g:custom_label_2>
+            <g:custom_label_3>1146.39 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>224e2f6b6a57</g:id>
+            <g:title>Eura Mobil Activa one 690</g:title>
+            <g:description>Tässä olisi tarjolla Eura Mobil Activa One reilunkokoinen ja erittäin käytännöllinen alkovimatkailuauto sille porukalle, jonka mielestä lomalla kuuluu olla tilaa sekä ihmisille että tavaroille.</g:description>
+            <g:link>https://www.miseva.fi/autot/eura-mobil-activa-one-690/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-alkovi-eura-mobil-activa-one-690-4281604993-178652399531642.jpg?m=1786525326</g:image_link>
+            <g:price>61980.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Eura</g:brand>
+            <g:mpn>CRM-826</g:mpn>
             <g:product_type>Matkailuauto</g:product_type>
             <g:custom_label_0>Turenki</g:custom_label_0>
             <g:custom_label_1>2023</g:custom_label_1>
-            <g:custom_label_2>50600 km</g:custom_label_2>
-            <g:custom_label_3>1156.19 €/kk</g:custom_label_3>
+            <g:custom_label_2>70000 km</g:custom_label_2>
+            <g:custom_label_3>1112.19 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>ea6cb0621f91</g:id>
+            <g:title>Adria MATRIX 600DT</g:title>
+            <g:description>Tässä Adriassa yhdistyvät toimiva pohjaratkaisu, siisti sisustus ja mukavat varusteet kompaktissa paketissa. Ohjaamon päälle sijoitettu sähköisesti laskettava parivuode tarjoaa kunnon nukkumapaikat…</g:description>
+            <g:link>https://www.miseva.fi/autot/adria-matrix-600dt/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-puoli-integroitu-adria-matrix-600dt-2611739551-178593600423991.jpg?m=1786082528</g:image_link>
+            <g:price>61480.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Adria</g:brand>
+            <g:mpn>MOM-543</g:mpn>
+            <g:product_type>Matkailuauto</g:product_type>
+            <g:custom_label_0>Vantaa</g:custom_label_0>
+            <g:custom_label_1>2022</g:custom_label_1>
+            <g:custom_label_2>32000 km</g:custom_label_2>
+            <g:custom_label_3>1103.28 €/kk</g:custom_label_3>
     </item>
     <item>
             <g:id>c1829a2c11dd</g:id>
@@ -1932,40 +1949,6 @@
             <g:custom_label_3>1165.1 €/kk</g:custom_label_3>
     </item>
     <item>
-            <g:id>dc02be817384</g:id>
-            <g:title>Sun Living S75 SC</g:title>
-            <g:description>Sunliving by Adria, saareke- ja nostovuoteella. Lämmitys toimii kaasulla ja sähköllä. Ilmastoinnit ohjaamossa ja asuinosassa takaavat mukavan matkanteon kesäkuumalla!</g:description>
-            <g:link>https://www.miseva.fi/autot/sun-living-s75-sc/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-puoli-integroitu-sun-living-s75-sc-3726491716-176060374052416.jpg?m=1763727860</g:image_link>
-            <g:price>69900.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Sun</g:brand>
-            <g:mpn>LRP-321</g:mpn>
-            <g:product_type>Matkailuauto</g:product_type>
-            <g:custom_label_0>Turku</g:custom_label_0>
-            <g:custom_label_1>2023</g:custom_label_1>
-            <g:custom_label_2>38800 km</g:custom_label_2>
-            <g:custom_label_3>1253.29 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>c5d3b7642102</g:id>
-            <g:title>Dethleffs Pulse</g:title>
-            <g:description>Huippuhieno täysintegroitu Dethleffs vaativaankin makuun! Varusteltu ympärivuotista matkailua silmälläpitäen – Alde- keskuslämmitys nestekiertoisella lattialämmityksellä täydennettynä takaa…</g:description>
-            <g:link>https://www.miseva.fi/autot/dethleffs-pulse/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-integroitu-dethleffs-pulse-4054039636-178654377826921.jpg?m=1787144526</g:image_link>
-            <g:price>67900.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Dethleffs</g:brand>
-            <g:mpn>SOL-272</g:mpn>
-            <g:product_type>Matkailuauto</g:product_type>
-            <g:custom_label_0>Vantaa</g:custom_label_0>
-            <g:custom_label_1>2020</g:custom_label_1>
-            <g:custom_label_2>64000 km</g:custom_label_2>
-            <g:custom_label_3>1217.66 €/kk</g:custom_label_3>
-    </item>
-    <item>
             <g:id>7245e1c6cfd4</g:id>
             <g:title>Dethleffs Just</g:title>
             <g:description>Nyt tarjolla tilavaa Dethleffsiä sähköisellä laskuvuoteella ja yhdistettävillä erillispedeillä! Tämän auton lämmityksestä vastaa Trumatic Combi E. Ajoneuvoon sisään tultaessa avartuu valoisa tila…</g:description>
@@ -1981,23 +1964,6 @@
             <g:custom_label_1>2021</g:custom_label_1>
             <g:custom_label_2>62000 km</g:custom_label_2>
             <g:custom_label_3>1165.1 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>78e4f81876ea</g:id>
-            <g:title>Weinsberg Carabus</g:title>
-            <g:description>Peltikorinen retkeilyauto on omiaan esimerkiksi liikkuvien harrastusten tukikohdaksi. Vajaan 700kg kantavuudella mukana kulkee kokonainen varikko työkaluineen. Järeä 2500kg vetomassa sallii isommankin…</g:description>
-            <g:link>https://www.miseva.fi/autot/weinsberg-carabus-29/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-retkeilyauto-weinsberg-r47-2204714142-178271943493494.jpg?m=1782723728</g:image_link>
-            <g:price>66900.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Weinsberg</g:brand>
-            <g:mpn>GPY-602</g:mpn>
-            <g:product_type>Matkailuauto</g:product_type>
-            <g:custom_label_0>Vantaa</g:custom_label_0>
-            <g:custom_label_1>2024</g:custom_label_1>
-            <g:custom_label_2>44000 km</g:custom_label_2>
-            <g:custom_label_3>1199.84 €/kk</g:custom_label_3>
     </item>
     <item>
             <g:id>50f18a3b9957</g:id>
@@ -2017,21 +1983,38 @@
             <g:custom_label_3>1210.53 €/kk</g:custom_label_3>
     </item>
     <item>
-            <g:id>a14493c3cf7c</g:id>
-            <g:title>Adria Matrix</g:title>
-            <g:description>Kesän rientoihin ilmastoidulla Adrialla, johon majoittuu koko perhe! Nostovuode helpottaa arkea ja tuplailmastointi pitää sisätilat raikkaana. Tehokkaalla 160hv moottorilla ja 9v…</g:description>
-            <g:link>https://www.miseva.fi/autot/adria-matrix-61/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-puoli-integroitu-adria-matrix-3962719803-177925504377478.jpg?m=1779260528</g:image_link>
-            <g:price>69980.00 EUR</g:price>
+            <g:id>78e4f81876ea</g:id>
+            <g:title>Weinsberg Carabus</g:title>
+            <g:description>Peltikorinen retkeilyauto on omiaan esimerkiksi liikkuvien harrastusten tukikohdaksi. Vajaan 700kg kantavuudella mukana kulkee kokonainen varikko työkaluineen. Järeä 2500kg vetomassa sallii isommankin…</g:description>
+            <g:link>https://www.miseva.fi/autot/weinsberg-carabus-29/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-retkeilyauto-weinsberg-r47-2204714142-178271943493494.jpg?m=1782723728</g:image_link>
+            <g:price>66900.00 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>Adria</g:brand>
-            <g:mpn>OZO-704</g:mpn>
+            <g:brand>Weinsberg</g:brand>
+            <g:mpn>GPY-602</g:mpn>
             <g:product_type>Matkailuauto</g:product_type>
             <g:custom_label_0>Vantaa</g:custom_label_0>
+            <g:custom_label_1>2024</g:custom_label_1>
+            <g:custom_label_2>44000 km</g:custom_label_2>
+            <g:custom_label_3>1199.84 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>dc02be817384</g:id>
+            <g:title>Sun Living S75 SC</g:title>
+            <g:description>Sunliving by Adria, saareke- ja nostovuoteella. Lämmitys toimii kaasulla ja sähköllä. Ilmastoinnit ohjaamossa ja asuinosassa takaavat mukavan matkanteon kesäkuumalla!</g:description>
+            <g:link>https://www.miseva.fi/autot/sun-living-s75-sc/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-puoli-integroitu-sun-living-s75-sc-3726491716-176060374052416.jpg?m=1763727860</g:image_link>
+            <g:price>69900.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Sun</g:brand>
+            <g:mpn>LRP-321</g:mpn>
+            <g:product_type>Matkailuauto</g:product_type>
+            <g:custom_label_0>Turku</g:custom_label_0>
             <g:custom_label_1>2023</g:custom_label_1>
-            <g:custom_label_2>102000 km</g:custom_label_2>
-            <g:custom_label_3>1254.72 €/kk</g:custom_label_3>
+            <g:custom_label_2>38800 km</g:custom_label_2>
+            <g:custom_label_3>1253.29 €/kk</g:custom_label_3>
     </item>
     <item>
             <g:id>d353f02ec3a6</g:id>
@@ -2051,6 +2034,40 @@
             <g:custom_label_3>1209.64 €/kk</g:custom_label_3>
     </item>
     <item>
+            <g:id>c5d3b7642102</g:id>
+            <g:title>Dethleffs Pulse</g:title>
+            <g:description>Huippuhieno täysintegroitu Dethleffs vaativaankin makuun! Varusteltu ympärivuotista matkailua silmälläpitäen – Alde- keskuslämmitys nestekiertoisella lattialämmityksellä täydennettynä takaa…</g:description>
+            <g:link>https://www.miseva.fi/autot/dethleffs-pulse/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-integroitu-dethleffs-pulse-4054039636-178654377826921.jpg?m=1787144526</g:image_link>
+            <g:price>67900.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Dethleffs</g:brand>
+            <g:mpn>SOL-272</g:mpn>
+            <g:product_type>Matkailuauto</g:product_type>
+            <g:custom_label_0>Vantaa</g:custom_label_0>
+            <g:custom_label_1>2020</g:custom_label_1>
+            <g:custom_label_2>64000 km</g:custom_label_2>
+            <g:custom_label_3>1217.66 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>a14493c3cf7c</g:id>
+            <g:title>Adria Matrix</g:title>
+            <g:description>Kesän rientoihin ilmastoidulla Adrialla, johon majoittuu koko perhe! Nostovuode helpottaa arkea ja tuplailmastointi pitää sisätilat raikkaana. Tehokkaalla 160hv moottorilla ja 9v…</g:description>
+            <g:link>https://www.miseva.fi/autot/adria-matrix-61/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-puoli-integroitu-adria-matrix-3962719803-177925504377478.jpg?m=1779260528</g:image_link>
+            <g:price>69980.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Adria</g:brand>
+            <g:mpn>OZO-704</g:mpn>
+            <g:product_type>Matkailuauto</g:product_type>
+            <g:custom_label_0>Vantaa</g:custom_label_0>
+            <g:custom_label_1>2023</g:custom_label_1>
+            <g:custom_label_2>102000 km</g:custom_label_2>
+            <g:custom_label_3>1254.72 €/kk</g:custom_label_3>
+    </item>
+    <item>
             <g:id>cb0ab451d198</g:id>
             <g:title>Laika Kosmo 509L</g:title>
             <g:description>Nyt myynnissä laadukas ja siististi pidetty Laika Kosmo 909L. Tässä mallissa on toimiva pohjaratkaisu niin pidemmille reissuille kuin viikonloppumatkailuunkin. Edessä on vastakkain sijoitetut sohvat…</g:description>
@@ -2066,23 +2083,6 @@
             <g:custom_label_1>2022</g:custom_label_1>
             <g:custom_label_2>12500 km</g:custom_label_2>
             <g:custom_label_3>1254.19 €/kk</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>de8df77c6bb0</g:id>
-            <g:title>Adria Coral</g:title>
-            <g:description>Tämä on isompi kuin naapurilla! Nyt on autoa isolla A:lla! 4400kg kokonaismassalla kantavuutta jää ruhtinaallisesti yli tuhat kiloa, joka riittää varmasti pidemmällekin reissulle.</g:description>
-            <g:link>https://www.miseva.fi/autot/adria-coral-46/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-alkovi-adria-coral-2667233944-177985974771543.jpg?m=1779879727</g:image_link>
-            <g:price>74980.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Adria</g:brand>
-            <g:mpn>ZMV-882</g:mpn>
-            <g:product_type>Matkailuauto</g:product_type>
-            <g:custom_label_0>Turenki</g:custom_label_0>
-            <g:custom_label_1>2020</g:custom_label_1>
-            <g:custom_label_2>45000 km</g:custom_label_2>
-            <g:custom_label_3>1343.8 €/kk</g:custom_label_3>
     </item>
     <item>
             <g:id>0073bae69993</g:id>
@@ -2136,20 +2136,20 @@
             <g:custom_label_3>1304.07 €/kk</g:custom_label_3>
     </item>
     <item>
-            <g:id>46f5cf0c8d50</g:id>
-            <g:title>Kabe Travel Master C 740 LGB</g:title>
-            <g:description>VAIHTOMARKKINAT KÄYNNISSÄ NYT! Tutustu kampanjaetuihin osoitteessa https://www.helsinkicaravan.fi/vaihtomarkkinat/ Tämäkin on Vaihtomarkkinoiden kampanjatuote. Kysy tuotekohtaiset edut myyjiltämme.</g:description>
-            <g:link>https://www.miseva.fi/autot/kabe-travel-master-c-740-lgb/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-puoli-integroitu-kabe-travel-master-c-740-lgb-3345222540-177641739617913.jpg?m=1776420132</g:image_link>
+            <g:id>de8df77c6bb0</g:id>
+            <g:title>Adria Coral</g:title>
+            <g:description>Tämä on isompi kuin naapurilla! Nyt on autoa isolla A:lla! 4400kg kokonaismassalla kantavuutta jää ruhtinaallisesti yli tuhat kiloa, joka riittää varmasti pidemmällekin reissulle.</g:description>
+            <g:link>https://www.miseva.fi/autot/adria-coral-46/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-alkovi-adria-coral-2667233944-177985974771543.jpg?m=1779879727</g:image_link>
             <g:price>74980.00 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>Kabe</g:brand>
-            <g:mpn>CNX-258</g:mpn>
+            <g:brand>Adria</g:brand>
+            <g:mpn>ZMV-882</g:mpn>
             <g:product_type>Matkailuauto</g:product_type>
-            <g:custom_label_0>Vantaa</g:custom_label_0>
-            <g:custom_label_1>2019</g:custom_label_1>
-            <g:custom_label_2>61000 km</g:custom_label_2>
+            <g:custom_label_0>Turenki</g:custom_label_0>
+            <g:custom_label_1>2020</g:custom_label_1>
+            <g:custom_label_2>45000 km</g:custom_label_2>
             <g:custom_label_3>1343.8 €/kk</g:custom_label_3>
     </item>
     <item>
@@ -2168,6 +2168,23 @@
             <g:custom_label_1>2025</g:custom_label_1>
             <g:custom_label_2>200 km</g:custom_label_2>
             <g:custom_label_3>1397.25 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>46f5cf0c8d50</g:id>
+            <g:title>Kabe Travel Master C 740 LGB</g:title>
+            <g:description>VAIHTOMARKKINAT KÄYNNISSÄ NYT! Tutustu kampanjaetuihin osoitteessa https://www.helsinkicaravan.fi/vaihtomarkkinat/ Tämäkin on Vaihtomarkkinoiden kampanjatuote. Kysy tuotekohtaiset edut myyjiltämme.</g:description>
+            <g:link>https://www.miseva.fi/autot/kabe-travel-master-c-740-lgb/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-puoli-integroitu-kabe-travel-master-c-740-lgb-3345222540-177641739617913.jpg?m=1776420132</g:image_link>
+            <g:price>74980.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Kabe</g:brand>
+            <g:mpn>CNX-258</g:mpn>
+            <g:product_type>Matkailuauto</g:product_type>
+            <g:custom_label_0>Vantaa</g:custom_label_0>
+            <g:custom_label_1>2019</g:custom_label_1>
+            <g:custom_label_2>61000 km</g:custom_label_2>
+            <g:custom_label_3>1343.8 €/kk</g:custom_label_3>
     </item>
     <item>
             <g:id>78939a61da3b</g:id>
@@ -2204,23 +2221,6 @@
             <g:custom_label_3>1788.69 €/kk</g:custom_label_3>
     </item>
     <item>
-            <g:id>133e18caecaf</g:id>
-            <g:title>Kabe Affinity Duo M</g:title>
-            <g:description>Helsinki Caravan 50 v -juhlatarjous! Tähän ajoneuvoon laaja OMAVARAISUUSPAKETTI OFF-GRID Premium kaupanpäälle (arvo 3 550 €). OMAVARAISUUSPAKETTI OFF-GRID Premium Tällä varustelulla Affinity soveltuu…</g:description>
-            <g:link>https://www.miseva.fi/autot/kabe-affinity-duo-m-2/</g:link>
-            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-retkeilyauto-kabe-affinity-duo-m-4106180677-177866461849303.jpg?m=1778666528</g:image_link>
-            <g:price>114950.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Kabe</g:brand>
-            <g:mpn>CRU-844</g:mpn>
-            <g:product_type>Matkailuauto</g:product_type>
-            <g:custom_label_0>Turenki</g:custom_label_0>
-            <g:custom_label_1>2024</g:custom_label_1>
-            <g:custom_label_2>6000 km</g:custom_label_2>
-            <g:custom_label_3>2055.94 €/kk</g:custom_label_3>
-    </item>
-    <item>
             <g:id>63ca9c38b33e</g:id>
             <g:title>Concorde Charisma</g:title>
             <g:description>Myyntiin näyttävä Concorde Charisma, joka tarjoaa reilusti tilaa, laadukasta viimeistelyä ja varustelua pidemmillekin reissuille. Tämä on enemmän liikkuva koti kuin perinteinen matkailuauto.</g:description>
@@ -2255,6 +2255,23 @@
             <g:custom_label_3>1786.91 €/kk</g:custom_label_3>
     </item>
     <item>
+            <g:id>1d4e731e3120</g:id>
+            <g:title>Kabe Classic</g:title>
+            <g:description>Kuvittele aamu tunturin juurella. Ensimmäinen kahvikuppi omassa rauhassa, peilityyni järven pinta ja päivän suunnitelma täysin avoin. Kun matkailuauto on suunniteltu ympärivuotiseen käyttöön ja…</g:description>
+            <g:link>https://www.miseva.fi/autot/kabe-classic-28/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-puoli-integroitu-kabe-classic-2001123772-178722264832630.jpg?m=1787227325</g:image_link>
+            <g:price>122277.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Kabe</g:brand>
+            <g:mpn>A26-947</g:mpn>
+            <g:product_type>Matkailuauto</g:product_type>
+            <g:custom_label_0>Vantaa</g:custom_label_0>
+            <g:custom_label_1>2026</g:custom_label_1>
+            <g:custom_label_2>0 km</g:custom_label_2>
+            <g:custom_label_3>2186.49 €/kk</g:custom_label_3>
+    </item>
+    <item>
             <g:id>1ba61ed540a5</g:id>
             <g:title>Kabe Affinity Duo M</g:title>
             <g:description>Helsinki Caravan 50 v -juhlatarjous! Tähän ajoneuvoon laaja OMAVARAISUUSPAKETTI OFF-GRID Premium kaupanpäälle (arvo 3 550 €). OMAVARAISUUSPAKETTI OFF-GRID Premium Tällä varustelulla Affinity soveltuu…</g:description>
@@ -2270,6 +2287,23 @@
             <g:custom_label_1>2024</g:custom_label_1>
             <g:custom_label_2>0 km</g:custom_label_2>
             <g:custom_label_3>2128.1 €/kk</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>133e18caecaf</g:id>
+            <g:title>Kabe Affinity Duo M</g:title>
+            <g:description>Helsinki Caravan 50 v -juhlatarjous! Tähän ajoneuvoon laaja OMAVARAISUUSPAKETTI OFF-GRID Premium kaupanpäälle (arvo 3 550 €). OMAVARAISUUSPAKETTI OFF-GRID Premium Tällä varustelulla Affinity soveltuu…</g:description>
+            <g:link>https://www.miseva.fi/autot/kabe-affinity-duo-m-2/</g:link>
+            <g:image_link>https://cdn.miseva.fi/miseva-matkailuauto-retkeilyauto-kabe-affinity-duo-m-4106180677-177866461849303.jpg?m=1778666528</g:image_link>
+            <g:price>114950.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Kabe</g:brand>
+            <g:mpn>CRU-844</g:mpn>
+            <g:product_type>Matkailuauto</g:product_type>
+            <g:custom_label_0>Turenki</g:custom_label_0>
+            <g:custom_label_1>2024</g:custom_label_1>
+            <g:custom_label_2>6000 km</g:custom_label_2>
+            <g:custom_label_3>2055.94 €/kk</g:custom_label_3>
     </item>
     <item>
             <g:id>49349f5e925d</g:id>
