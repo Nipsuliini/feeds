@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <listings>
   <title>wsmotors vehicles</title>
-  <!-- Generated: 2026-09-27T00:31:19Z | 55 vehicles -->
+  <!-- Generated: 2026-09-28T00:45:46Z | 54 vehicles -->
   <listing>
     <vehicle_id>JNJ-8</vehicle_id>
     <title>Toyota Supra LHD TARGA 1JZ-GTE single turbo Garret GT35R ++/APEXI/TIAL/ARP/K-Sport**</title>
@@ -293,6 +293,232 @@ Hintaan lisätään toimistokulu 349 €.</description>
     </address>
   </listing>
   <listing>
+    <vehicle_id>BTZ-834</vehicle_id>
+    <title>Jaguar XF Sportbrake 2,2 i4 Td 200 Luxury // Nahkapenkit sähkösäädöillä//Peruutuskamera//Jalopuu somisteet//*Koukku</title>
+    <url>https://www.wsmotors.fi/auto/btz-834/</url>
+    <availability>AVAILABLE</availability>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <make>Jaguar</make>
+    <model>XF</model>
+    <trim>Sportbrake 2,2 i4 Td 200 Luxury</trim>
+    <year>2013</year>
+    <mileage>
+      <value>230000</value>
+      <unit>KM</unit>
+    </mileage>
+    <price>8990 EUR</price>
+    <body_style>WAGON</body_style>
+    <fuel_type>DIESEL</fuel_type>
+    <transmission>AUTOMATIC</transmission>
+    <drivetrain>RWD</drivetrain>
+    <exterior_color>Harmaa</exterior_color>
+    <vin>SAJAA0165DDS80891</vin>
+    <description>Käytännöllisyyttä ja eleganssia yhdessä paketissa. Tämä Jaguar XF on loistava valinta premium autoilijalle.
+
+Toimitettuna kaikkialle Suomeen
+
+Autossa runsaasti varusteita mm.
+
+Vakionopeudensäädin
+Vetokoukku
+Ajotietokone
+Bluetooth
+*Peruutuskamera*
+Ajonvakautusjärjestelmä
+Audioliitäntä
+Pysäköintitutka
+Start-stop-järjestelmä
+CD-soitin
+Automaattinen ilmastointi
+*Nahkapenkit sähkösäädöillä*
+Isofix-valmius
+Kaadettavat takaistuimet
+Käynnistyksenesto
+Luistonestojärjestelmä
+Lukkiutumattomat jarrut (ABS)
+Matkapuhelinvarustus
+Monitoimiohjauspyörä
+*Jalopuusomisteet*
+Ohjaustehostin
+Penkinlämmittimet
+Lämmitettävä tuulilasi
+Sumuvalot
+Sähkökäyttöiset ikkunat ja peilit
+Turvatyynyt
+USB
+2xRenkaat ja vanteet
+
+Näytöt sopimuksesta.
+Vaihdot ja rahoitus.
+
+Toimitus kaikkialle Suomeen! Jo yli 40% autoistamme toimitetaan suoraan asiakkaalle. Kysy lisätiedot myyjiltä! Vaihtoajoneuvo ei ole etäkaupan este! Palvelua johon voit luottaa.
+
+www.wsmotors.fi
+
+Hintaan lisätään toimistokulu 349 €.</description>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/177015019660318.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/177015021596677.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/177015022811878.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/177015024198449.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/177014890033037.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/177014892057931.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/177014887886284.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/177014896017746.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/177014906276931.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/177014902977984.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/177014905249354.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/177014897699838.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/177014909514673.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/177014911288255.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/177014900876416.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/177014908095348.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/177014912622324.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/177014916627960.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/177014914384169.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/177014915154099.jpg</url>
+    </image>
+    <dealer_name>WS Motors Oy</dealer_name>
+    <dealer_phone>+358447005911</dealer_phone>
+    <address format="simple">
+      <component name="addr1">Varikkotie 1</component>
+      <component name="city">Aura</component>
+      <component name="region">Varsinais-Suomi</component>
+      <component name="postal_code">21380</component>
+      <component name="country">FI</component>
+    </address>
+  </listing>
+  <listing>
+    <vehicle_id>P80506</vehicle_id>
+    <title>Sea-Doo RXP-X 300 RS *Edullinen rahoitus, Traileri*</title>
+    <url>https://www.wsmotors.fi/auto/p80506/</url>
+    <availability>AVAILABLE</availability>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <make>Sea-Doo</make>
+    <model>RXP-X 300 RS</model>
+    <trim>*Edullinen rahoitus, Traileri*</trim>
+    <year>2020</year>
+    <mileage>
+      <value>45</value>
+      <unit>KM</unit>
+    </mileage>
+    <price>15780 EUR</price>
+    <body_style>OTHER</body_style>
+    <fuel_type>GASOLINE</fuel_type>
+    <exterior_color>Punainen</exterior_color>
+    <description>Tästä siisti ja vähän ajettu Jetti kesän rientoihin. Traileri sisältyy kauppaan! Valmis paketti! Pohja siistissä kunnossa, ei ajettu rannalle milloinkaan parkkiin.
+
+Sea-Doo RXP-X 300 vie suorituskykyiset vesijetit uusiin sfääreihin henkeäsalpaavalla kiihtyvyydellä ja tinkimättömällä käsiteltävyydellä. Se yksinkertaisesti erottuu kaikista muista vesillä.
+
+Lyömätöntä hallittavuutta
+T3-R-rungon syvä V-muotoilu nerokkaine yksityiskohtineen ja ainutlaatuinen muotoilu mahdollistavat luokkansa parhaan kiihtyvyyden ja täsmällisen ajettavuuden suurissa nopeuksissa kaikissa olosuhteissa.
+
+Rotax 1630 ACE -moottori
+Välijäähdyttimellä varustettu turboahdin ja ACE-teknologia tarjoavat huipputehon ja tyrmäävän kiihtyvyyden. Tämä vesiohjus kiihtyy 80 km/h:iin alle kolmessa sekunnissa.
+
+Ahdettu ulkoisella välijäähdyttimellä
+Jäähdytys
+Suljettu jäähdytysjärjestelmä (CLCS)
+Peruutusjärjestelmä
+Sähköinen iBR®*
+Pakokaasujärjestelmä
+D-Sea-BeI™ -järjestelmä
+
+Näytöt sopimuksesta.
+Vaihdot ja rahoitus.
+
+Toimitus kaikkialle Suomeen!
+
+Palvelua johon voit luottaa.
+
+www.wsmotors.fi
+
+Hintaan lisätään toimistokulu 349 €.</description>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/174367089223076.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/174367049783406.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/174367054037770.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/174367057568555.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/174367097174770.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/174367072994026.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/174367074111171.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/174367106778139.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/174367100717848.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/174367109677400.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/174367112522233.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/174367120226796.jpg</url>
+    </image>
+    <dealer_name>WS Motors Oy</dealer_name>
+    <dealer_phone>+358447005911</dealer_phone>
+    <address format="simple">
+      <component name="addr1">Varikkotie 1</component>
+      <component name="city">Aura</component>
+      <component name="region">Varsinais-Suomi</component>
+      <component name="postal_code">21380</component>
+      <component name="country">FI</component>
+    </address>
+  </listing>
+  <listing>
     <vehicle_id>JKK-140</vehicle_id>
     <title>Lexus RC 300h A Comfort | Täysnahkaverhoilu | Vakionopeudensäädin | Peruutuskamera | Suomi-auto | Merkkiliikkeen huoltohistoria</title>
     <url>https://www.wsmotors.fi/auto/jkk-140/</url>
@@ -415,98 +641,6 @@ Hintaan lisätään toimistokulu 349 €.</description>
     </image>
     <image>
       <url>https://images.autosolution.fi/vehicle_images/491/177369487389808.jpg</url>
-    </image>
-    <dealer_name>WS Motors Oy</dealer_name>
-    <dealer_phone>+358447005911</dealer_phone>
-    <address format="simple">
-      <component name="addr1">Varikkotie 1</component>
-      <component name="city">Aura</component>
-      <component name="region">Varsinais-Suomi</component>
-      <component name="postal_code">21380</component>
-      <component name="country">FI</component>
-    </address>
-  </listing>
-  <listing>
-    <vehicle_id>P80506</vehicle_id>
-    <title>Sea-Doo RXP-X 300 RS *Edullinen rahoitus, Traileri*</title>
-    <url>https://www.wsmotors.fi/auto/p80506/</url>
-    <availability>AVAILABLE</availability>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <make>Sea-Doo</make>
-    <model>RXP-X 300 RS</model>
-    <trim>*Edullinen rahoitus, Traileri*</trim>
-    <year>2020</year>
-    <mileage>
-      <value>45</value>
-      <unit>KM</unit>
-    </mileage>
-    <price>15780 EUR</price>
-    <body_style>OTHER</body_style>
-    <fuel_type>GASOLINE</fuel_type>
-    <exterior_color>Punainen</exterior_color>
-    <description>Tästä siisti ja vähän ajettu Jetti kesän rientoihin. Traileri sisältyy kauppaan! Valmis paketti! Pohja siistissä kunnossa, ei ajettu rannalle milloinkaan parkkiin.
-
-Sea-Doo RXP-X 300 vie suorituskykyiset vesijetit uusiin sfääreihin henkeäsalpaavalla kiihtyvyydellä ja tinkimättömällä käsiteltävyydellä. Se yksinkertaisesti erottuu kaikista muista vesillä.
-
-Lyömätöntä hallittavuutta
-T3-R-rungon syvä V-muotoilu nerokkaine yksityiskohtineen ja ainutlaatuinen muotoilu mahdollistavat luokkansa parhaan kiihtyvyyden ja täsmällisen ajettavuuden suurissa nopeuksissa kaikissa olosuhteissa.
-
-Rotax 1630 ACE -moottori
-Välijäähdyttimellä varustettu turboahdin ja ACE-teknologia tarjoavat huipputehon ja tyrmäävän kiihtyvyyden. Tämä vesiohjus kiihtyy 80 km/h:iin alle kolmessa sekunnissa.
-
-Ahdettu ulkoisella välijäähdyttimellä
-Jäähdytys
-Suljettu jäähdytysjärjestelmä (CLCS)
-Peruutusjärjestelmä
-Sähköinen iBR®*
-Pakokaasujärjestelmä
-D-Sea-BeI™ -järjestelmä
-
-Näytöt sopimuksesta.
-Vaihdot ja rahoitus.
-
-Toimitus kaikkialle Suomeen!
-
-Palvelua johon voit luottaa.
-
-www.wsmotors.fi
-
-Hintaan lisätään toimistokulu 349 €.</description>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/174367089223076.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/174367049783406.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/174367054037770.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/174367057568555.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/174367097174770.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/174367072994026.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/174367074111171.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/174367106778139.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/174367100717848.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/174367109677400.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/174367112522233.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/174367120226796.jpg</url>
     </image>
     <dealer_name>WS Motors Oy</dealer_name>
     <dealer_phone>+358447005911</dealer_phone>
@@ -652,296 +786,6 @@ Hintaan lisätään toimistokulu 349 €.</description>
     </image>
     <image>
       <url>https://images.autosolution.fi/vehicle_images/491/177650038925887.jpg</url>
-    </image>
-    <dealer_name>WS Motors Oy</dealer_name>
-    <dealer_phone>+358447005911</dealer_phone>
-    <address format="simple">
-      <component name="addr1">Varikkotie 1</component>
-      <component name="city">Aura</component>
-      <component name="region">Varsinais-Suomi</component>
-      <component name="postal_code">21380</component>
-      <component name="country">FI</component>
-    </address>
-  </listing>
-  <listing>
-    <vehicle_id>BTZ-834</vehicle_id>
-    <title>Jaguar XF Sportbrake 2,2 i4 Td 200 Luxury // Nahkapenkit sähkösäädöillä//Peruutuskamera//Jalopuu somisteet//*Koukku</title>
-    <url>https://www.wsmotors.fi/auto/btz-834/</url>
-    <availability>AVAILABLE</availability>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <make>Jaguar</make>
-    <model>XF</model>
-    <trim>Sportbrake 2,2 i4 Td 200 Luxury</trim>
-    <year>2013</year>
-    <mileage>
-      <value>230000</value>
-      <unit>KM</unit>
-    </mileage>
-    <price>8990 EUR</price>
-    <body_style>WAGON</body_style>
-    <fuel_type>DIESEL</fuel_type>
-    <transmission>AUTOMATIC</transmission>
-    <drivetrain>RWD</drivetrain>
-    <exterior_color>Harmaa</exterior_color>
-    <vin>SAJAA0165DDS80891</vin>
-    <description>Käytännöllisyyttä ja eleganssia yhdessä paketissa. Tämä Jaguar XF on loistava valinta premium autoilijalle.
-
-Toimitettuna kaikkialle Suomeen
-
-Autossa runsaasti varusteita mm.
-
-Vakionopeudensäädin
-Vetokoukku
-Ajotietokone
-Bluetooth
-*Peruutuskamera*
-Ajonvakautusjärjestelmä
-Audioliitäntä
-Pysäköintitutka
-Start-stop-järjestelmä
-CD-soitin
-Automaattinen ilmastointi
-*Nahkapenkit sähkösäädöillä*
-Isofix-valmius
-Kaadettavat takaistuimet
-Käynnistyksenesto
-Luistonestojärjestelmä
-Lukkiutumattomat jarrut (ABS)
-Matkapuhelinvarustus
-Monitoimiohjauspyörä
-*Jalopuusomisteet*
-Ohjaustehostin
-Penkinlämmittimet
-Lämmitettävä tuulilasi
-Sumuvalot
-Sähkökäyttöiset ikkunat ja peilit
-Turvatyynyt
-USB
-2xRenkaat ja vanteet
-
-Näytöt sopimuksesta.
-Vaihdot ja rahoitus.
-
-Toimitus kaikkialle Suomeen! Jo yli 40% autoistamme toimitetaan suoraan asiakkaalle. Kysy lisätiedot myyjiltä! Vaihtoajoneuvo ei ole etäkaupan este! Palvelua johon voit luottaa.
-
-www.wsmotors.fi
-
-Hintaan lisätään toimistokulu 349 €.</description>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/177015019660318.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/177015021596677.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/177015022811878.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/177015024198449.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/177014890033037.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/177014892057931.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/177014887886284.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/177014896017746.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/177014906276931.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/177014902977984.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/177014905249354.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/177014897699838.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/177014909514673.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/177014911288255.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/177014900876416.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/177014908095348.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/177014912622324.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/177014916627960.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/177014914384169.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/177014915154099.jpg</url>
-    </image>
-    <dealer_name>WS Motors Oy</dealer_name>
-    <dealer_phone>+358447005911</dealer_phone>
-    <address format="simple">
-      <component name="addr1">Varikkotie 1</component>
-      <component name="city">Aura</component>
-      <component name="region">Varsinais-Suomi</component>
-      <component name="postal_code">21380</component>
-      <component name="country">FI</component>
-    </address>
-  </listing>
-  <listing>
-    <vehicle_id>49170E1D0</vehicle_id>
-    <title>Audi e-tron GT 60 quattro / Ilma-alusta / Panorama / ACC / 360-kamerat /</title>
-    <url>https://www.wsmotors.fi/auto/49170e1d0/</url>
-    <availability>AVAILABLE</availability>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <make>Audi</make>
-    <model>e-tron GT</model>
-    <trim>60 quattro</trim>
-    <year>2022</year>
-    <mileage>
-      <value>39980</value>
-      <unit>KM</unit>
-    </mileage>
-    <price>54670 EUR</price>
-    <body_style>COUPE</body_style>
-    <fuel_type>ELECTRIC</fuel_type>
-    <transmission>AUTOMATIC</transmission>
-    <drivetrain>AWD</drivetrain>
-    <exterior_color>Musta</exterior_color>
-    <vin>WAUZZZFW5N7001122</vin>
-    <description>Tämä ei ole vain auto tämä on kokemus. Audi e-tron GT quattro yhdistää suorituskyvyn, futuristisen muotoilun ja sähköisen hiljaisuuden tavalla, joka kääntää katseet ja nostaa sykkeen jokaisella ajolla. Nelivedon voima, matala ja aggressiivinen olemus sekä premium-luokan viimeistely.
-
-Toimitettuna kaikkialle Suomeen.
-
-Varusteita mm:
-ACC adaptiivinen vakionopeudensäädin
-Lämpöpumppu
-Mukautuva ilmajousitus
-Audi Drive Select
-Panoraamalasikatto
-Virtual Cockpit
-MMI Navigation Plus Touch
-Apple CarPlay
-Bluetooth handsfree / Audi Phone Box
-Audi connect palvelut
-Audi pre sense basic
-Kaistavahti
-Nopeusrajoitus tunnistin
-Kaukovaloassistentti
-Pysäköinti avustin
-Pysäköintitutkat edessä + takana
-360-kamerat
-Keyless Comfort Key
-Sähkötoiminen takaluukku sensoriohjauksella
-Murtohälytin
-Ambient monivärivalaistus
-3-alueinen automaatti-ilmastointi
-Comfort Stand ilmastointi
-Ionisaattori ilmanpuhdistuksella
-Nahka / mono.pur sisusta
-Urheiluistuimet
-Sähkösäätöiset etuistuimet
-Penkinlämmittimet edessä + takana
-Musta sisäkatto
-Fine Paint Grey sisäkoristeet
-Automaattisesti himmenevät peilit
-Sähköisesti säätyvät / lämmitettävät / taittuvat peilit
-LED-ajovalot
-Dynaamiset LED-takavalot
-Dynaamiset vilkut
-Audi Sound System DSP
-DAB digitaaliradio
-Sport-monitoimiratti tasapohjalla
-Vaihdeläpät ratissa
-Langattomat FOD-toimintovalmiudet
-20 Audi Taycan Turbo Aero aluvanteet
-Lämmitettävät pesusuuttimet
-Lämpöeristetyt tummennetut lasit
-Isofix
-2 avainta
-Type2 + Schuko latauskaapelit
-3-vaihe onboard charger
-
-Kesärenkaat alkuperäisillä aluvanteilla.
-
-Pyydä myyjiltämme esittelyvideo!
-
-Näytöt sopimuksesta.
-Vaihdot ja rahoitus.
-
-Toimitus kaikkialle Suomeen! Jo yli 40% autoistamme toimitetaan suoraan asiakkaalle. Kysy lisätiedot myyjiltä! Vaihtoajoneuvo ei ole etäkaupan este! Palvelua johon voit luottaa.
-
-www.wsmotors.fi
-
-Hintaan lisätään toimistokulu 349 €.</description>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178833076594160.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178833077852291.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178833080511015.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178833080953022.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178833096629331.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178833135482379.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178833140519631.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178833097234113.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178833097769913.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178833127277355.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178833099915495.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178833101842112.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178833103052087.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178833123659159.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178833105584808.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178833106172287.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178833116378577.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178833117923642.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178833106862920.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178833113490602.jpg</url>
     </image>
     <dealer_name>WS Motors Oy</dealer_name>
     <dealer_phone>+358447005911</dealer_phone>
@@ -1227,6 +1071,162 @@ Hintaan lisätään toimistokulu 349 €.</description>
     </image>
     <image>
       <url>https://images.autosolution.fi/vehicle_images/491/178258547854276.jpg</url>
+    </image>
+    <dealer_name>WS Motors Oy</dealer_name>
+    <dealer_phone>+358447005911</dealer_phone>
+    <address format="simple">
+      <component name="addr1">Varikkotie 1</component>
+      <component name="city">Aura</component>
+      <component name="region">Varsinais-Suomi</component>
+      <component name="postal_code">21380</component>
+      <component name="country">FI</component>
+    </address>
+  </listing>
+  <listing>
+    <vehicle_id>49170E1D0</vehicle_id>
+    <title>Audi e-tron GT 60 quattro / Ilma-alusta / Panorama / ACC / 360-kamerat /</title>
+    <url>https://www.wsmotors.fi/auto/49170e1d0/</url>
+    <availability>AVAILABLE</availability>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <make>Audi</make>
+    <model>e-tron GT</model>
+    <trim>60 quattro</trim>
+    <year>2022</year>
+    <mileage>
+      <value>39980</value>
+      <unit>KM</unit>
+    </mileage>
+    <price>54670 EUR</price>
+    <body_style>COUPE</body_style>
+    <fuel_type>ELECTRIC</fuel_type>
+    <transmission>AUTOMATIC</transmission>
+    <drivetrain>AWD</drivetrain>
+    <exterior_color>Musta</exterior_color>
+    <vin>WAUZZZFW5N7001122</vin>
+    <description>Tämä ei ole vain auto tämä on kokemus. Audi e-tron GT quattro yhdistää suorituskyvyn, futuristisen muotoilun ja sähköisen hiljaisuuden tavalla, joka kääntää katseet ja nostaa sykkeen jokaisella ajolla. Nelivedon voima, matala ja aggressiivinen olemus sekä premium-luokan viimeistely.
+
+Toimitettuna kaikkialle Suomeen.
+
+Varusteita mm:
+ACC adaptiivinen vakionopeudensäädin
+Lämpöpumppu
+Mukautuva ilmajousitus
+Audi Drive Select
+Panoraamalasikatto
+Virtual Cockpit
+MMI Navigation Plus Touch
+Apple CarPlay
+Bluetooth handsfree / Audi Phone Box
+Audi connect palvelut
+Audi pre sense basic
+Kaistavahti
+Nopeusrajoitus tunnistin
+Kaukovaloassistentti
+Pysäköinti avustin
+Pysäköintitutkat edessä + takana
+360-kamerat
+Keyless Comfort Key
+Sähkötoiminen takaluukku sensoriohjauksella
+Murtohälytin
+Ambient monivärivalaistus
+3-alueinen automaatti-ilmastointi
+Comfort Stand ilmastointi
+Ionisaattori ilmanpuhdistuksella
+Nahka / mono.pur sisusta
+Urheiluistuimet
+Sähkösäätöiset etuistuimet
+Penkinlämmittimet edessä + takana
+Musta sisäkatto
+Fine Paint Grey sisäkoristeet
+Automaattisesti himmenevät peilit
+Sähköisesti säätyvät / lämmitettävät / taittuvat peilit
+LED-ajovalot
+Dynaamiset LED-takavalot
+Dynaamiset vilkut
+Audi Sound System DSP
+DAB digitaaliradio
+Sport-monitoimiratti tasapohjalla
+Vaihdeläpät ratissa
+Langattomat FOD-toimintovalmiudet
+20 Audi Taycan Turbo Aero aluvanteet
+Lämmitettävät pesusuuttimet
+Lämpöeristetyt tummennetut lasit
+Isofix
+2 avainta
+Type2 + Schuko latauskaapelit
+3-vaihe onboard charger
+
+Kesärenkaat alkuperäisillä aluvanteilla.
+
+Pyydä myyjiltämme esittelyvideo!
+
+Näytöt sopimuksesta.
+Vaihdot ja rahoitus.
+
+Toimitus kaikkialle Suomeen! Jo yli 40% autoistamme toimitetaan suoraan asiakkaalle. Kysy lisätiedot myyjiltä! Vaihtoajoneuvo ei ole etäkaupan este! Palvelua johon voit luottaa.
+
+www.wsmotors.fi
+
+Hintaan lisätään toimistokulu 349 €.</description>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178833076594160.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178833077852291.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178833080511015.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178833080953022.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178833096629331.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178833135482379.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178833140519631.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178833097234113.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178833097769913.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178833127277355.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178833099915495.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178833101842112.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178833103052087.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178833123659159.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178833105584808.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178833106172287.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178833116378577.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178833117923642.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178833106862920.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178833113490602.jpg</url>
     </image>
     <dealer_name>WS Motors Oy</dealer_name>
     <dealer_phone>+358447005911</dealer_phone>
@@ -1527,6 +1527,154 @@ Hintaan lisätään toimistokulu 349 €.</description>
     </image>
     <image>
       <url>https://images.autosolution.fi/vehicle_images/491/178290916983099.jpg</url>
+    </image>
+    <dealer_name>WS Motors Oy</dealer_name>
+    <dealer_phone>+358447005911</dealer_phone>
+    <address format="simple">
+      <component name="addr1">Varikkotie 1</component>
+      <component name="city">Aura</component>
+      <component name="region">Varsinais-Suomi</component>
+      <component name="postal_code">21380</component>
+      <component name="country">FI</component>
+    </address>
+  </listing>
+  <listing>
+    <vehicle_id>JNP-381</vehicle_id>
+    <title>Ford Mustang Mach-E 98kWh 351hv AWD 5-ovinen
+/ ACC / Lämmitettävä tuulilasi / Nahat / 360 kamerat /</title>
+    <url>https://www.wsmotors.fi/auto/jnp-381/</url>
+    <availability>AVAILABLE</availability>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <make>Ford</make>
+    <model>Mustang Mach-E</model>
+    <trim>98kWh 351hv AWD 5-ovinen</trim>
+    <year>2022</year>
+    <mileage>
+      <value>67000</value>
+      <unit>KM</unit>
+    </mileage>
+    <price>34480 EUR</price>
+    <body_style>SUV</body_style>
+    <fuel_type>ELECTRIC</fuel_type>
+    <transmission>AUTOMATIC</transmission>
+    <drivetrain>AWD</drivetrain>
+    <exterior_color>Valkoinen</exterior_color>
+    <vin>WF0TK3SU9MMA60737</vin>
+    <description>Näyttävä Ford Mustang Mach-E kattavilla varusteilla. Matka taittuu säästä tai tien pinnasta riippumatta mukavasti ja tyylillä!
+
+Toimitettuna kaikkialle Suomeen.
+
+Varusteita mm.
+Adaptiivinen vakionopeudensäädin
+Lämmitettävä tuulilasi
+Lämmitettävä ohjauspyörä
+Lämmitettävät penkit
+Sähköiset penkit muistilla
+360° kamerat
+Aktiivinen pysäköintiavustin
+Pysäköintitutkat
+Avaimeton käyttö
+B&amp;O-äänentoisto
+Hotspot
+Bluetooth
+Apple Carplay &amp; Android Auto
+Handsfree-takaluukku
+Navigointijärjestelmä
+Liikennemerkki tunnistus
+Sähköiset ikkunat
+Lämmitettävät sähköisesti taittuvat peilit
+Punaiset jarrusatulat
+Nahkaverhoilu punaisilla tikkauksilla
+Ambient valaistus
+Akun esilämmitys
+OTA Päivitykset
+Langaton latausalusta
+2 x USB edessä ja takana
+Takaluukku Handsfree toiminolla
+Kuolleen kulman varoitin
+Kaistavahti
+Yhden polkimen ajo
+Törmäyksenesto avustin
+Automaattinen hätäjarruavustin
+Risteävän liikenteen varoitus
+Hälytysjärjestelmä
+Automaattisesti himmentyvä taustapeili
+Sadetunnistin
+Avaimeton käyttö
+Erikoismetalliväri Star White
+Isofix
+2x Avaimet
+2x Renkaat
+
+Kysy myyjiltä esittelyvideo!
+
+Näytöt sopimuksesta.
+Vaihdot ja rahoitus.
+
+Toimitus kaikkialle Suomeen! Jo yli 40% autoistamme toimitetaan suoraan asiakkaalle. Kysy lisätiedot myyjiltä! Vaihtoajoneuvo ei ole etäkaupan este! Palvelua johon voit luottaa.
+
+www.wsmotors.fi
+
+Hintaan lisätään toimistokulu 349 €.</description>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178172634246287.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178172634658628.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178172635146678.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178172636418211.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178185730388864.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178185732140567.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178185730793161.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178185731260321.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178185732754214.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178185739387311.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178185733743377.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178185731744804.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178185734238907.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178185734874549.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178185740235860.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178185737213357.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178185736382806.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178185736785475.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178185737822017.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178185735243910.jpg</url>
     </image>
     <dealer_name>WS Motors Oy</dealer_name>
     <dealer_phone>+358447005911</dealer_phone>
@@ -1944,154 +2092,6 @@ Hintaan lisätään toimistokulu 349 €.</description>
     </address>
   </listing>
   <listing>
-    <vehicle_id>JNP-381</vehicle_id>
-    <title>Ford Mustang Mach-E 98kWh 351hv AWD 5-ovinen
-/ ACC / Lämmitettävä tuulilasi / Nahat / 360 kamerat /</title>
-    <url>https://www.wsmotors.fi/auto/jnp-381/</url>
-    <availability>AVAILABLE</availability>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <make>Ford</make>
-    <model>Mustang Mach-E</model>
-    <trim>98kWh 351hv AWD 5-ovinen</trim>
-    <year>2022</year>
-    <mileage>
-      <value>67000</value>
-      <unit>KM</unit>
-    </mileage>
-    <price>34480 EUR</price>
-    <body_style>SUV</body_style>
-    <fuel_type>ELECTRIC</fuel_type>
-    <transmission>AUTOMATIC</transmission>
-    <drivetrain>AWD</drivetrain>
-    <exterior_color>Valkoinen</exterior_color>
-    <vin>WF0TK3SU9MMA60737</vin>
-    <description>Näyttävä Ford Mustang Mach-E kattavilla varusteilla. Matka taittuu säästä tai tien pinnasta riippumatta mukavasti ja tyylillä!
-
-Toimitettuna kaikkialle Suomeen.
-
-Varusteita mm.
-Adaptiivinen vakionopeudensäädin
-Lämmitettävä tuulilasi
-Lämmitettävä ohjauspyörä
-Lämmitettävät penkit
-Sähköiset penkit muistilla
-360° kamerat
-Aktiivinen pysäköintiavustin
-Pysäköintitutkat
-Avaimeton käyttö
-B&amp;O-äänentoisto
-Hotspot
-Bluetooth
-Apple Carplay &amp; Android Auto
-Handsfree-takaluukku
-Navigointijärjestelmä
-Liikennemerkki tunnistus
-Sähköiset ikkunat
-Lämmitettävät sähköisesti taittuvat peilit
-Punaiset jarrusatulat
-Nahkaverhoilu punaisilla tikkauksilla
-Ambient valaistus
-Akun esilämmitys
-OTA Päivitykset
-Langaton latausalusta
-2 x USB edessä ja takana
-Takaluukku Handsfree toiminolla
-Kuolleen kulman varoitin
-Kaistavahti
-Yhden polkimen ajo
-Törmäyksenesto avustin
-Automaattinen hätäjarruavustin
-Risteävän liikenteen varoitus
-Hälytysjärjestelmä
-Automaattisesti himmentyvä taustapeili
-Sadetunnistin
-Avaimeton käyttö
-Erikoismetalliväri Star White
-Isofix
-2x Avaimet
-2x Renkaat
-
-Kysy myyjiltä esittelyvideo!
-
-Näytöt sopimuksesta.
-Vaihdot ja rahoitus.
-
-Toimitus kaikkialle Suomeen! Jo yli 40% autoistamme toimitetaan suoraan asiakkaalle. Kysy lisätiedot myyjiltä! Vaihtoajoneuvo ei ole etäkaupan este! Palvelua johon voit luottaa.
-
-www.wsmotors.fi
-
-Hintaan lisätään toimistokulu 349 €.</description>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178172634246287.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178172634658628.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178172635146678.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178172636418211.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178185730388864.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178185732140567.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178185730793161.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178185731260321.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178185732754214.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178185739387311.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178185733743377.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178185731744804.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178185734238907.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178185734874549.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178185740235860.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178185737213357.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178185736382806.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178185736785475.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178185737822017.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178185735243910.jpg</url>
-    </image>
-    <dealer_name>WS Motors Oy</dealer_name>
-    <dealer_phone>+358447005911</dealer_phone>
-    <address format="simple">
-      <component name="addr1">Varikkotie 1</component>
-      <component name="city">Aura</component>
-      <component name="region">Varsinais-Suomi</component>
-      <component name="postal_code">21380</component>
-      <component name="country">FI</component>
-    </address>
-  </listing>
-  <listing>
     <vehicle_id>KUP-615</vehicle_id>
     <title>BMW X5 *Kesäkamppis*F15 xDrive40e A *SOH 90%*.</title>
     <url>https://www.wsmotors.fi/auto/kup-615/</url>
@@ -2216,6 +2216,139 @@ Hintaan lisätään toimistokulu 349 €.</description>
     </image>
     <image>
       <url>https://images.autosolution.fi/vehicle_images/491/176064497839711.jpg</url>
+    </image>
+    <dealer_name>WS Motors Oy</dealer_name>
+    <dealer_phone>+358447005911</dealer_phone>
+    <address format="simple">
+      <component name="addr1">Varikkotie 1</component>
+      <component name="city">Aura</component>
+      <component name="region">Varsinais-Suomi</component>
+      <component name="postal_code">21380</component>
+      <component name="country">FI</component>
+    </address>
+  </listing>
+  <listing>
+    <vehicle_id>491453FBC</vehicle_id>
+    <title>Hyundai Ioniq 5 73 kWh 305 hv AWD Ultimate
+/ Relax / Bose / ACC / HUD / Ilmastoidut nahat /</title>
+    <url>https://www.wsmotors.fi/auto/491453fbc/</url>
+    <availability>AVAILABLE</availability>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <make>Hyundai</make>
+    <model>Ioniq 5</model>
+    <trim>73 kWh 305 hv AWD Ultimate</trim>
+    <year>2022</year>
+    <mileage>
+      <value>59000</value>
+      <unit>KM</unit>
+    </mileage>
+    <price>33980 EUR</price>
+    <body_style>HATCHBACK</body_style>
+    <fuel_type>ELECTRIC</fuel_type>
+    <transmission>AUTOMATIC</transmission>
+    <drivetrain>AWD</drivetrain>
+    <exterior_color>Harmaa</exterior_color>
+    <vin>KMHKR81CPNU025060</vin>
+    <description>Siisti ja hyvin pidetty Hyundai Ioniq 5. Haluttu Relax paketti ja kattava varustelu. Laadukas, tilava ja näyttävä sähköauto valmiina uusiin kilometreihin.
+
+Matkalla myyntiriviin.
+Toimitettuna kaikkialle Suomeen.
+
+Varusteita mm.
+Lämpöpumppu
+Pixel LED -ajovalot
+Pixel LED -takavalot
+AR Head-Up Display
+Bose Premium Sound
+Navigointi
+Apple CarPlay
+Android Auto
+BlueLink
+20 kevytmetallivanteet
+Nahkaverhoilu
+Relax-etuistuimet
+Sähkösäätöiset etuistuimet muistilla
+Tuuletetut etuistuimet
+Lämmitettävät etuistuimet
+Lämmitettävät takaistuimet
+Lämmitettävä monitoimiohjauspyörä
+Sähkötoiminen takaluukku
+Avaimeton kulku ja käynnistys
+Langaton puhelimen lataus
+12,25 digitaalinen mittaristo
+12,25 kosketusnäyttö
+Adaptiivinen vakionopeudensäädin
+Highway Driving Assist 2
+Lane Following Assist
+Lane Keep Assist
+Kuolleen kulman kamera
+Kuolleen kulman varoitin
+Remote Smart Parking Assist
+Peruutuskamera
+Pysäköintitutkat edessä ja takana
+Liikennemerkkien tunnistus
+Kaukovaloavustin
+Automaattinen hätäjarrutus
+Sähköisesti taittuvat ja lämmitettävät peilit
+Sadetunnistin
+Tummennetut takalasit
+Äänieristetyt sivulasit
+Type 2 -latauskaapeli
+ICCB-latauskaapeli
+2x Avain
+
+Näytöt sopimuksesta.
+Vaihdot ja rahoitus.
+
+Toimitus kaikkialle Suomeen! Jo yli 40% autoistamme toimitetaan suoraan asiakkaalle. Kysy lisätiedot myyjiltä! Vaihtoajoneuvo ei ole etäkaupan este! Palvelua johon voit luottaa.
+
+www.wsmotors.fi
+
+Hintaan lisätään toimistokulu 349 €.</description>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178401912489981.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178401914789873.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178401912038184.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178401910571434.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178401911688171.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178401910947945.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178401912828924.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178401909798253.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178401911380597.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178401913239454.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178401913569302.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178401915143590.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178401914017601.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178401914342203.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178401910115011.jpg</url>
     </image>
     <dealer_name>WS Motors Oy</dealer_name>
     <dealer_phone>+358447005911</dealer_phone>
@@ -2362,139 +2495,6 @@ Hintaan lisätään toimistokulu 349 €.</description>
     </image>
     <image>
       <url>https://images.autosolution.fi/vehicle_images/491/178483955473974.jpg</url>
-    </image>
-    <dealer_name>WS Motors Oy</dealer_name>
-    <dealer_phone>+358447005911</dealer_phone>
-    <address format="simple">
-      <component name="addr1">Varikkotie 1</component>
-      <component name="city">Aura</component>
-      <component name="region">Varsinais-Suomi</component>
-      <component name="postal_code">21380</component>
-      <component name="country">FI</component>
-    </address>
-  </listing>
-  <listing>
-    <vehicle_id>491453FBC</vehicle_id>
-    <title>Hyundai Ioniq 5 73 kWh 305 hv AWD Ultimate
-/ Relax / Bose / ACC / HUD / Ilmastoidut nahat /</title>
-    <url>https://www.wsmotors.fi/auto/491453fbc/</url>
-    <availability>AVAILABLE</availability>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <make>Hyundai</make>
-    <model>Ioniq 5</model>
-    <trim>73 kWh 305 hv AWD Ultimate</trim>
-    <year>2022</year>
-    <mileage>
-      <value>59000</value>
-      <unit>KM</unit>
-    </mileage>
-    <price>33980 EUR</price>
-    <body_style>HATCHBACK</body_style>
-    <fuel_type>ELECTRIC</fuel_type>
-    <transmission>AUTOMATIC</transmission>
-    <drivetrain>AWD</drivetrain>
-    <exterior_color>Harmaa</exterior_color>
-    <vin>KMHKR81CPNU025060</vin>
-    <description>Siisti ja hyvin pidetty Hyundai Ioniq 5. Haluttu Relax paketti ja kattava varustelu. Laadukas, tilava ja näyttävä sähköauto valmiina uusiin kilometreihin.
-
-Matkalla myyntiriviin.
-Toimitettuna kaikkialle Suomeen.
-
-Varusteita mm.
-Lämpöpumppu
-Pixel LED -ajovalot
-Pixel LED -takavalot
-AR Head-Up Display
-Bose Premium Sound
-Navigointi
-Apple CarPlay
-Android Auto
-BlueLink
-20 kevytmetallivanteet
-Nahkaverhoilu
-Relax-etuistuimet
-Sähkösäätöiset etuistuimet muistilla
-Tuuletetut etuistuimet
-Lämmitettävät etuistuimet
-Lämmitettävät takaistuimet
-Lämmitettävä monitoimiohjauspyörä
-Sähkötoiminen takaluukku
-Avaimeton kulku ja käynnistys
-Langaton puhelimen lataus
-12,25 digitaalinen mittaristo
-12,25 kosketusnäyttö
-Adaptiivinen vakionopeudensäädin
-Highway Driving Assist 2
-Lane Following Assist
-Lane Keep Assist
-Kuolleen kulman kamera
-Kuolleen kulman varoitin
-Remote Smart Parking Assist
-Peruutuskamera
-Pysäköintitutkat edessä ja takana
-Liikennemerkkien tunnistus
-Kaukovaloavustin
-Automaattinen hätäjarrutus
-Sähköisesti taittuvat ja lämmitettävät peilit
-Sadetunnistin
-Tummennetut takalasit
-Äänieristetyt sivulasit
-Type 2 -latauskaapeli
-ICCB-latauskaapeli
-2x Avain
-
-Näytöt sopimuksesta.
-Vaihdot ja rahoitus.
-
-Toimitus kaikkialle Suomeen! Jo yli 40% autoistamme toimitetaan suoraan asiakkaalle. Kysy lisätiedot myyjiltä! Vaihtoajoneuvo ei ole etäkaupan este! Palvelua johon voit luottaa.
-
-www.wsmotors.fi
-
-Hintaan lisätään toimistokulu 349 €.</description>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178401912489981.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178401914789873.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178401912038184.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178401910571434.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178401911688171.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178401910947945.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178401912828924.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178401909798253.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178401911380597.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178401913239454.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178401913569302.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178401915143590.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178401914017601.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178401914342203.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178401910115011.jpg</url>
     </image>
     <dealer_name>WS Motors Oy</dealer_name>
     <dealer_phone>+358447005911</dealer_phone>
@@ -2769,145 +2769,6 @@ Hintaan lisätään toimistokulu 349 €.</description>
     </address>
   </listing>
   <listing>
-    <vehicle_id>491BC947</vehicle_id>
-    <title>Volkswagen ID.3 1ST Max 150 kW, akku 58 kWh
-/ HUD / Tarvel assist / ErgoActive / ILP /</title>
-    <url>https://www.wsmotors.fi/auto/491bc947/</url>
-    <availability>AVAILABLE</availability>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <make>Volkswagen</make>
-    <model>ID.3</model>
-    <trim>1ST Max 150 kW, akku 58 kWh</trim>
-    <year>2021</year>
-    <mileage>
-      <value>66000</value>
-      <unit>KM</unit>
-    </mileage>
-    <price>23980 EUR</price>
-    <body_style>HATCHBACK</body_style>
-    <fuel_type>ELECTRIC</fuel_type>
-    <transmission>AUTOMATIC</transmission>
-    <drivetrain>RWD</drivetrain>
-    <exterior_color>Harmaa</exterior_color>
-    <vin>WVWZZZE1ZMP001652</vin>
-    <description>Volkswagen ID.3 1st Max sähköauto, jossa huippuvarustelu kohtaa ensiluokkaisen ajokokemuksen. Hiljainen, näyttävä ja vaivaton kulkupeli, joka tekee jokaisesta ajomatkasta nautinnon.
-
-Toimitettuna kaikkialle Suomeen.
-
-Varusteita mm.
-Travel Assist
-ACC-adaptiivinen vakionopeudensäädin Stop&amp;Go-toiminnolla
-Kaistakeskitys (Lane Assist)
-Side Assist -katveavustin
-Front Assist -hätäjarrutusavustin
-Liikennemerkkien tunnistus
-Matrix LED IQ.Light -ajovalot
-Dynamic Light Assist
-Head-Up Display lisätyllä todellisuudella
-Lämpöpumppu
-Panoraamakatto
-Navigointi
-Apple CarPlay
-Android Auto
-Langaton puhelimen lataus
-Peruutuskamera
-Pysäköintitutkat edessä ja takana
-Avaimeton kulku ja käynnistys
-2-alueinen automaatti-ilmastointi
-Lämmitettävä nahkainen monitoimiohjauspyörä
-Lämmitettävät etuistuimet
-ErgoActive-etuistuimet sähköisillä säädöillä ja hierontatoiminnolla
-Sähköisesti säädettävät, lämmitettävät ja taittuvat sivupeilit
-Ambient-valaistus (30 väriä)
-DAB-radio
-Bluetooth
-USB-C-liitännät edessä ja takana
-Sadetunnistin
-Tummennetut takalasit
-2 x avaimet
-Kesä- ja talvirenkaat omilla vanteillaan
-
-Kysy myyjiltä esittelyvideo!
-
-Näytöt sopimuksesta.
-Vaihdot ja rahoitus.
-
-Toimitus kaikkialle Suomeen! Jo yli 40% autoistamme toimitetaan suoraan asiakkaalle. Kysy lisätiedot myyjiltä! Vaihtoajoneuvo ei ole etäkaupan este! Palvelua johon voit luottaa.
-
-www.wsmotors.fi
-
-Hintaan lisätään toimistokulu 349 €.</description>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178645901036270.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178645901843862.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178645902435955.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178645904462577.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178645906980290.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178645907617183.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178645923442378.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178645908925722.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178645905696665.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178645922538671.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178645910121635.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178645912486061.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178645911690660.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178645913148825.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178645921451257.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178645920799434.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178645914982129.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178645915665285.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178645916271469.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178645916728016.jpg</url>
-    </image>
-    <dealer_name>WS Motors Oy</dealer_name>
-    <dealer_phone>+358447005911</dealer_phone>
-    <address format="simple">
-      <component name="addr1">Varikkotie 1</component>
-      <component name="city">Aura</component>
-      <component name="region">Varsinais-Suomi</component>
-      <component name="postal_code">21380</component>
-      <component name="country">FI</component>
-    </address>
-  </listing>
-  <listing>
     <vehicle_id>ETT-189</vehicle_id>
     <title>Volvo V90 T8 TwE AWD Inscription aut
 / Koukku / ACC / Vaaleat lämmitetyt nahat / P-kamera /</title>
@@ -3043,6 +2904,145 @@ Hintaan lisätään toimistokulu 349 €.</description>
     </image>
     <image>
       <url>https://images.autosolution.fi/vehicle_images/491/178540242438236.jpg</url>
+    </image>
+    <dealer_name>WS Motors Oy</dealer_name>
+    <dealer_phone>+358447005911</dealer_phone>
+    <address format="simple">
+      <component name="addr1">Varikkotie 1</component>
+      <component name="city">Aura</component>
+      <component name="region">Varsinais-Suomi</component>
+      <component name="postal_code">21380</component>
+      <component name="country">FI</component>
+    </address>
+  </listing>
+  <listing>
+    <vehicle_id>491BC947</vehicle_id>
+    <title>Volkswagen ID.3 1ST Max 150 kW, akku 58 kWh
+/ HUD / Tarvel assist / ErgoActive / ILP /</title>
+    <url>https://www.wsmotors.fi/auto/491bc947/</url>
+    <availability>AVAILABLE</availability>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <make>Volkswagen</make>
+    <model>ID.3</model>
+    <trim>1ST Max 150 kW, akku 58 kWh</trim>
+    <year>2021</year>
+    <mileage>
+      <value>66000</value>
+      <unit>KM</unit>
+    </mileage>
+    <price>23980 EUR</price>
+    <body_style>HATCHBACK</body_style>
+    <fuel_type>ELECTRIC</fuel_type>
+    <transmission>AUTOMATIC</transmission>
+    <drivetrain>RWD</drivetrain>
+    <exterior_color>Harmaa</exterior_color>
+    <vin>WVWZZZE1ZMP001652</vin>
+    <description>Volkswagen ID.3 1st Max sähköauto, jossa huippuvarustelu kohtaa ensiluokkaisen ajokokemuksen. Hiljainen, näyttävä ja vaivaton kulkupeli, joka tekee jokaisesta ajomatkasta nautinnon.
+
+Toimitettuna kaikkialle Suomeen.
+
+Varusteita mm.
+Travel Assist
+ACC-adaptiivinen vakionopeudensäädin Stop&amp;Go-toiminnolla
+Kaistakeskitys (Lane Assist)
+Side Assist -katveavustin
+Front Assist -hätäjarrutusavustin
+Liikennemerkkien tunnistus
+Matrix LED IQ.Light -ajovalot
+Dynamic Light Assist
+Head-Up Display lisätyllä todellisuudella
+Lämpöpumppu
+Panoraamakatto
+Navigointi
+Apple CarPlay
+Android Auto
+Langaton puhelimen lataus
+Peruutuskamera
+Pysäköintitutkat edessä ja takana
+Avaimeton kulku ja käynnistys
+2-alueinen automaatti-ilmastointi
+Lämmitettävä nahkainen monitoimiohjauspyörä
+Lämmitettävät etuistuimet
+ErgoActive-etuistuimet sähköisillä säädöillä ja hierontatoiminnolla
+Sähköisesti säädettävät, lämmitettävät ja taittuvat sivupeilit
+Ambient-valaistus (30 väriä)
+DAB-radio
+Bluetooth
+USB-C-liitännät edessä ja takana
+Sadetunnistin
+Tummennetut takalasit
+2 x avaimet
+Kesä- ja talvirenkaat omilla vanteillaan
+
+Kysy myyjiltä esittelyvideo!
+
+Näytöt sopimuksesta.
+Vaihdot ja rahoitus.
+
+Toimitus kaikkialle Suomeen! Jo yli 40% autoistamme toimitetaan suoraan asiakkaalle. Kysy lisätiedot myyjiltä! Vaihtoajoneuvo ei ole etäkaupan este! Palvelua johon voit luottaa.
+
+www.wsmotors.fi
+
+Hintaan lisätään toimistokulu 349 €.</description>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178645901036270.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178645901843862.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178645902435955.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178645904462577.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178645906980290.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178645907617183.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178645923442378.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178645908925722.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178645905696665.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178645922538671.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178645910121635.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178645912486061.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178645911690660.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178645913148825.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178645921451257.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178645920799434.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178645914982129.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178645915665285.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178645916271469.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178645916728016.jpg</url>
     </image>
     <dealer_name>WS Motors Oy</dealer_name>
     <dealer_phone>+358447005911</dealer_phone>
@@ -3601,137 +3601,6 @@ Hintaan lisätään toimistokulu 349 €.</description>
     </address>
   </listing>
   <listing>
-    <vehicle_id>SPB-326</vehicle_id>
-    <title>Peugeot 3008 Allure Pack Motion Hybrid 225 EAT8-aut. / Vakkari / P-kamera /  Kaistavahti /</title>
-    <url>https://www.wsmotors.fi/auto/spb-326/</url>
-    <availability>AVAILABLE</availability>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <make>Peugeot</make>
-    <model>3008</model>
-    <trim>Allure Pack Motion Hybrid 225 EAT8-aut.</trim>
-    <year>2021</year>
-    <mileage>
-      <value>89000</value>
-      <unit>KM</unit>
-    </mileage>
-    <price>18380 EUR</price>
-    <body_style>SUV</body_style>
-    <fuel_type>HYBRID</fuel_type>
-    <transmission>AUTOMATIC</transmission>
-    <drivetrain>FWD</drivetrain>
-    <exterior_color>Harmaa</exterior_color>
-    <vin>VF3M4DGZUMS048485</vin>
-    <description>Peugeot 3008 näyttävä, laadukas ja mukava SUV, joka hurmaa tyylillään ja tarjoaa erinomaisen yhdistelmän käytännöllisyyttä ja taloudellisuutta!
-
-Toimitettuna kaikkialle Suomeen.
-
-Varusteita mm.
-Vakionopeudensäädin
-Kuolleenkulman vahti
-Kaistavahti
-Peruutuskamera
-Tutkat
-Avaimeton käyttö
-Sähköiset peilit
-Sähköiset ikkunat
-Digitaalinen mittaristo
-Rattivaihteet
-Liikennemerkkien tunnistin
-Sadetunnistin
-Autom tummeneva taustapeili
-Adaptiiviset LED ajovalot
-Apple Carplay &amp; Android Auto
-Navi
-Bluetooth
-USB
-Ajastettava seisontalämmitys
-12v ulostulo kontissa
-Puolinahka verhoilu
-Tummennetut takalasit
-2x Avain
-2x Renkaat
-
-Kysy myyjiltä esittelyvideo!
-
-Näytöt sopimuksesta.
-Vaihdot ja rahoitus.
-
-Toimitus kaikkialle Suomeen! Jo yli 40% autoistamme toimitetaan suoraan asiakkaalle. Kysy lisätiedot myyjiltä! Vaihtoajoneuvo ei ole etäkaupan este! Palvelua johon voit luottaa.
-
-www.wsmotors.fi
-
-Hintaan lisätään toimistokulu 349 €.</description>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178854129715122.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178854130112218.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178854130684555.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178854132625737.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178854132242494.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178854134911773.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178854134377931.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178854141974017.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178854136826663.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178854140915766.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178854135544342.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178854136267191.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178854141449685.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178854144841118.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178854137487602.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178854137947703.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178854138499028.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178854139471171.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178854139923263.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178854140459863.jpg</url>
-    </image>
-    <dealer_name>WS Motors Oy</dealer_name>
-    <dealer_phone>+358447005911</dealer_phone>
-    <address format="simple">
-      <component name="addr1">Varikkotie 1</component>
-      <component name="city">Aura</component>
-      <component name="region">Varsinais-Suomi</component>
-      <component name="postal_code">21380</component>
-      <component name="country">FI</component>
-    </address>
-  </listing>
-  <listing>
     <vehicle_id>LTP-433</vehicle_id>
     <title>Volkswagen ID.5 GTX 4MOTION Business 77 kWh
 / TOP SPORT / ACC / HUD / Ergo Active / Ratinlämmitys /</title>
@@ -4025,6 +3894,137 @@ Hintaan lisätään toimistokulu 349 €.</description>
     </address>
   </listing>
   <listing>
+    <vehicle_id>SPB-326</vehicle_id>
+    <title>Peugeot 3008 Allure Pack Motion Hybrid 225 EAT8-aut. / Vakkari / P-kamera /  Kaistavahti /</title>
+    <url>https://www.wsmotors.fi/auto/spb-326/</url>
+    <availability>AVAILABLE</availability>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <make>Peugeot</make>
+    <model>3008</model>
+    <trim>Allure Pack Motion Hybrid 225 EAT8-aut.</trim>
+    <year>2021</year>
+    <mileage>
+      <value>89000</value>
+      <unit>KM</unit>
+    </mileage>
+    <price>18380 EUR</price>
+    <body_style>SUV</body_style>
+    <fuel_type>HYBRID</fuel_type>
+    <transmission>AUTOMATIC</transmission>
+    <drivetrain>FWD</drivetrain>
+    <exterior_color>Harmaa</exterior_color>
+    <vin>VF3M4DGZUMS048485</vin>
+    <description>Peugeot 3008 näyttävä, laadukas ja mukava SUV, joka hurmaa tyylillään ja tarjoaa erinomaisen yhdistelmän käytännöllisyyttä ja taloudellisuutta!
+
+Toimitettuna kaikkialle Suomeen.
+
+Varusteita mm.
+Vakionopeudensäädin
+Kuolleenkulman vahti
+Kaistavahti
+Peruutuskamera
+Tutkat
+Avaimeton käyttö
+Sähköiset peilit
+Sähköiset ikkunat
+Digitaalinen mittaristo
+Rattivaihteet
+Liikennemerkkien tunnistin
+Sadetunnistin
+Autom tummeneva taustapeili
+Adaptiiviset LED ajovalot
+Apple Carplay &amp; Android Auto
+Navi
+Bluetooth
+USB
+Ajastettava seisontalämmitys
+12v ulostulo kontissa
+Puolinahka verhoilu
+Tummennetut takalasit
+2x Avain
+2x Renkaat
+
+Kysy myyjiltä esittelyvideo!
+
+Näytöt sopimuksesta.
+Vaihdot ja rahoitus.
+
+Toimitus kaikkialle Suomeen! Jo yli 40% autoistamme toimitetaan suoraan asiakkaalle. Kysy lisätiedot myyjiltä! Vaihtoajoneuvo ei ole etäkaupan este! Palvelua johon voit luottaa.
+
+www.wsmotors.fi
+
+Hintaan lisätään toimistokulu 349 €.</description>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178854129715122.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178854130112218.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178854130684555.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178854132625737.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178854132242494.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178854134911773.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178854134377931.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178854141974017.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178854136826663.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178854140915766.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178854135544342.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178854136267191.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178854141449685.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178854144841118.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178854137487602.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178854137947703.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178854138499028.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178854139471171.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178854139923263.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178854140459863.jpg</url>
+    </image>
+    <dealer_name>WS Motors Oy</dealer_name>
+    <dealer_phone>+358447005911</dealer_phone>
+    <address format="simple">
+      <component name="addr1">Varikkotie 1</component>
+      <component name="city">Aura</component>
+      <component name="region">Varsinais-Suomi</component>
+      <component name="postal_code">21380</component>
+      <component name="country">FI</component>
+    </address>
+  </listing>
+  <listing>
     <vehicle_id>XRA-581</vehicle_id>
     <title>Toyota Crown Hybrid 3.5 V6 / Digimittaristo / Tuuletetut muisti nahat / P-Kamera /</title>
     <url>https://www.wsmotors.fi/auto/xra-581/</url>
@@ -4143,295 +4143,6 @@ Hintaan lisätään toimistokulu 349 €.</description>
     </image>
     <image>
       <url>https://images.autosolution.fi/vehicle_images/491/179000817342867.jpg</url>
-    </image>
-    <dealer_name>WS Motors Oy</dealer_name>
-    <dealer_phone>+358447005911</dealer_phone>
-    <address format="simple">
-      <component name="addr1">Varikkotie 1</component>
-      <component name="city">Aura</component>
-      <component name="region">Varsinais-Suomi</component>
-      <component name="postal_code">21380</component>
-      <component name="country">FI</component>
-    </address>
-  </listing>
-  <listing>
-    <vehicle_id>YYI-325</vehicle_id>
-    <title>Hyundai Ioniq 5 73 kWh 305 hv AWD Premium + Relax paketit / Bose / ACC / HUD / 360 / Ilmastoidut nahat /</title>
-    <url>https://www.wsmotors.fi/auto/yyi-325/</url>
-    <availability>AVAILABLE</availability>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <make>Hyundai</make>
-    <model>Ioniq 5</model>
-    <trim>73 kWh 305 hv AWD Premium + Relax paketit</trim>
-    <year>2021</year>
-    <mileage>
-      <value>115000</value>
-      <unit>KM</unit>
-    </mileage>
-    <price>28880 EUR</price>
-    <body_style>SUV</body_style>
-    <fuel_type>ELECTRIC</fuel_type>
-    <transmission>AUTOMATIC</transmission>
-    <drivetrain>AWD</drivetrain>
-    <exterior_color>Harmaa</exterior_color>
-    <vin>KMHKR81CPNU001397</vin>
-    <description>Huippuvarusteltu Hyundai IONIQ 5 näyttävää muotoilua, ylellistä mukavuutta ja modernia sähköautotekniikkaa. Relax-istuimet, nahkasisusta, Bose-äänentoisto ja 360° kamera tekevät tästä premium-tasoisen sähköauton. Tyyliä, tilaa ja suorituskykyä samassa paketissa!
-
-Toimitettuna kaikkialle Suomeen.
-
-Autossa mm.
-Irroitettava koukku
-Nahkaverhoiltu sisusta, etupenkeissä lepuutus toiminto.
-Erikseen säädettävät pohjetuet etuistuimissa
-Sähkösäätöiset penkit muistilla
-Takapenkkien sähkösäädöt
-Tuuletetut etupenkit
-Penkinlämmittimet edessä ja takana
-Ohjauspyörän lämmitys
-Adaptiivinen vakionopeudensäädin
-Head-up Display (Tuulilasinäyttö)
-Auton etäajaminen avaimella
-Digimittaristo
-360° Kamera
-Lane Assist (Kaistanpitoavustin)
-SCC Smart Cruise Control
-HDA (Highway Driving Assist) autopilotti
-Lane Departure Warning (Kaistavahti)
-BLIS (Kuolleenkulman varoitin)
-Front-end collision Warning (Etutörmäysvaroitus)
-Distance Warning (Etäisyysvaroitus)
-Dynamic Road Sign Display (Liikennemerkkien tunnistus)
-Speed Sign Assist (Nopeusrajoitusavustus)
-Brake Assist (Aktiivinen jarrutusavustin)
-Front Assist (Hätäjarrutusavustin)
-Driver Alert (Väsymyksentunnistus)
-Navigointijärjestelmä
-Avaimeton kulku ja käynnistys
-Sähkötoiminen takaluukku
-Apple CarPlay
-Android Auto
-Bose Premium Sound System
-Radio
-Bluetooth handsfree ja mediatoisto
-Audio sisääntuloliitäntä (aux-in ja usb-in)
-Pysäköintitutkat edessä ja takana
-Aktiivinen pysäköintiavustin
-Ajotapavalitsin: Eco / Normal / Sport / Snow
-Rengaspainevalvonta järjestelmä
-Autohold - paikallaanpitoavustin
-LED ajovalot, autom pitkät
-Ambient Light (sisätilan tunnelmavalaistus)
-Automaattinen ilmastointi
-Ajotietokone
-Sadetunnistin
-Sähkökäyttöiset ikkunat
-Tummennetut takasivulasit ja takalasi
-Sähköisesti säädettävät ja koria vasten taittuvat sivupeilit
-Lämpöpumppu
-Isofix-valmius
-2x Avain
-2x Renkaat
-
-Kysy myyjiltä esittelyvideo!
-
-Näytöt sopimuksesta.
-Vaihdot ja rahoitus.
-
-Toimitus kaikkialle Suomeen! Jo yli 40% autoistamme toimitetaan suoraan asiakkaalle. Kysy lisätiedot myyjiltä! Vaihtoajoneuvo ei ole etäkaupan este! Palvelua johon voit luottaa.
-
-www.wsmotors.fi
-
-Hintaan lisätään toimistokulu 349 €.</description>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178904446434049.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178904447088508.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178904448017986.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178904450555143.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178904464149991.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178904468851072.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178904457896706.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178904495094724.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178904462351792.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178904465866728.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178904455529635.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178904519989119.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178904479127263.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178904480452623.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178904470645287.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178904474318881.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178904476770647.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178904453983732.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178904492040668.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178904481539667.jpg</url>
-    </image>
-    <dealer_name>WS Motors Oy</dealer_name>
-    <dealer_phone>+358447005911</dealer_phone>
-    <address format="simple">
-      <component name="addr1">Varikkotie 1</component>
-      <component name="city">Aura</component>
-      <component name="region">Varsinais-Suomi</component>
-      <component name="postal_code">21380</component>
-      <component name="country">FI</component>
-    </address>
-  </listing>
-  <listing>
-    <vehicle_id>NOO-275</vehicle_id>
-    <title>Volvo V70 D2 R-Design / Webasto / Koukku / Lämmitetyt nahat / Bluetooth /</title>
-    <url>https://www.wsmotors.fi/auto/noo-275/</url>
-    <availability>AVAILABLE</availability>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <make>Volvo</make>
-    <model>V70</model>
-    <trim>D2 R-Design</trim>
-    <year>2013</year>
-    <mileage>
-      <value>273000</value>
-      <unit>KM</unit>
-    </mileage>
-    <price>7540 EUR</price>
-    <body_style>WAGON</body_style>
-    <fuel_type>DIESEL</fuel_type>
-    <transmission>MANUAL</transmission>
-    <drivetrain>FWD</drivetrain>
-    <exterior_color>Harmaa</exterior_color>
-    <vin>YV1BW84A1D1256140</vin>
-    <description>Tyylikäs ja tilava Volvo V70 laadukasta ruotsalaista mukavuutta, varmaa ajettavuutta ja runsaasti tilaa niin arkeen kuin pidemmillekin matkoille!
-
-Toimitettuna kaikkialle Suomeen.
-
-Varusteita mm.
-R-Desing
-Vakionopeudensäädin
-Koukku
-Webasto kaukosäätöinen
-Nahkaverhoilu
-Penkinlämmittimet edessä ja takana
-Pysäköintitutkat
-Sähköinen takaluukku
-USB
-12V Ulostulo edessä
-Bluetooth
-Radio
-Volvo city safety ( Törmäyksen ehkäisyjärjestelmä )
-Autom ilmastointi
-Monitoimiratti
-Keskinäyttö
-Sähköiset peilit
-Sähköiset ikkunat
-Sadetunnistin
-Tummennetut takalasit
-Kattokaiteet
-Isofix
-2x Renkaat
-2x Avaimet
-
-Kysy myyjiltä esittelyvideo!
-
-Näytöt sopimuksesta.
-Vaihdot ja rahoitus.
-
-Toimitus kaikkialle Suomeen! Jo yli 40% autoistamme toimitetaan suoraan asiakkaalle. Kysy lisätiedot myyjiltä! Vaihtoajoneuvo ei ole etäkaupan este! Palvelua johon voit luottaa.
-
-www.wsmotors.fi
-
-Hintaan lisätään toimistokulu 349 €.</description>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178859764415695.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178859774524030.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178859775215364.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178859776694506.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178859763986270.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178859772750466.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178859771362453.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178859767482128.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178859771876613.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178859765979723.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178859765454242.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178859766372636.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178859766925997.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178859768477919.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178859768997050.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178859769478204.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178859770834891.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178859769860517.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178859770438041.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178859773311373.jpg</url>
     </image>
     <dealer_name>WS Motors Oy</dealer_name>
     <dealer_phone>+358447005911</dealer_phone>
@@ -4655,6 +4366,275 @@ Hintaan lisätään toimistokulu 349 €.</description>
     </address>
   </listing>
   <listing>
+    <vehicle_id>ZKH-817</vehicle_id>
+    <title>Volvo V60 D4 AWD Summum aut / ACC / Koukku / Ratinlämmitys / Vaaleat muisti nahat /</title>
+    <url>https://www.wsmotors.fi/auto/zkh-817/</url>
+    <availability>AVAILABLE</availability>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <make>Volvo</make>
+    <model>V60</model>
+    <trim>D4 AWD Summum aut</trim>
+    <year>2014</year>
+    <mileage>
+      <value>223000</value>
+      <unit>KM</unit>
+    </mileage>
+    <price>13480 EUR</price>
+    <body_style>WAGON</body_style>
+    <fuel_type>DIESEL</fuel_type>
+    <transmission>AUTOMATIC</transmission>
+    <drivetrain>AWD</drivetrain>
+    <exterior_color>Valkoinen</exterior_color>
+    <vin>YV1FW8156E1197270</vin>
+    <description>Tyylikäs, sporttinen ja kattavasti varusteltu Volvo V60. Nelivedon varmaa ajettavuutta ja sopivasti tilaa arjen jokaiseen menoon!
+
+Toimitettuna kaikkialle Suomeen.
+
+Varusteita mm.
+Koukku
+Vaalea nahkaverhoilu
+Sähkösäätöinen kuskin penkki muistilla
+ACC Adaptiivinen vakionopeudensäädin
+Tuulilasin lämmitys
+Ratinlämmitin
+Penkinlämmittimet edessä ja takana
+Kaistavahti
+Tutkat edessä ja takana
+Kuolleenkulman varoitin
+Volvo City Safety ( Törmäyksen ehkäisyjärjestelmä )
+Törmäysvaroitus
+Ohjausvoiman säätö
+Lohkolämmitin
+Sisätilapistoke
+Bluetooth
+USB
+Radio
+Navi
+Dogitaalinen mittaristo
+12v ulostulo Edessä, keskellä ja kontissa
+Bi-Xenon ajovalot
+Aktiiviset kaukovalot
+Volvo On Call
+Sähköiset ikkunat
+Sadetunnistin
+Rattivaihteet
+Sähköiset koria päin kääntyvät peilit
+Tummennetut takalasit
+2x Renkaat
+2x Avain
+
+Kysy myyjiltä esittelyvideo!
+
+Näytöt sopimuksesta.
+Vaihdot ja rahoitus.
+
+Toimitus kaikkialle Suomeen! Jo yli 40% autoistamme toimitetaan suoraan asiakkaalle. Kysy lisätiedot myyjiltä! Vaihtoajoneuvo ei ole etäkaupan este! Palvelua johon voit luottaa.
+
+www.wsmotors.fi
+
+Hintaan lisätään toimistokulu 349 €.</description>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179042936929483.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179042937359764.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179042937995524.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179042939646640.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179042940843741.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179042945591109.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179042946042992.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179042941889839.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179042943938994.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179042942316274.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179042943390214.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179042942895878.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179042945067786.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179042946525463.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179042947034425.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179042947595799.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179042948082639.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179042949560845.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179042948525324.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179042949063033.jpg</url>
+    </image>
+    <dealer_name>WS Motors Oy</dealer_name>
+    <dealer_phone>+358447005911</dealer_phone>
+    <address format="simple">
+      <component name="addr1">Varikkotie 1</component>
+      <component name="city">Aura</component>
+      <component name="region">Varsinais-Suomi</component>
+      <component name="postal_code">21380</component>
+      <component name="country">FI</component>
+    </address>
+  </listing>
+  <listing>
+    <vehicle_id>NOO-275</vehicle_id>
+    <title>Volvo V70 D2 R-Design / Webasto / Koukku / Lämmitetyt nahat / Bluetooth /</title>
+    <url>https://www.wsmotors.fi/auto/noo-275/</url>
+    <availability>AVAILABLE</availability>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <make>Volvo</make>
+    <model>V70</model>
+    <trim>D2 R-Design</trim>
+    <year>2013</year>
+    <mileage>
+      <value>273000</value>
+      <unit>KM</unit>
+    </mileage>
+    <price>7540 EUR</price>
+    <body_style>WAGON</body_style>
+    <fuel_type>DIESEL</fuel_type>
+    <transmission>MANUAL</transmission>
+    <drivetrain>FWD</drivetrain>
+    <exterior_color>Harmaa</exterior_color>
+    <vin>YV1BW84A1D1256140</vin>
+    <description>Tyylikäs ja tilava Volvo V70 laadukasta ruotsalaista mukavuutta, varmaa ajettavuutta ja runsaasti tilaa niin arkeen kuin pidemmillekin matkoille!
+
+Toimitettuna kaikkialle Suomeen.
+
+Varusteita mm.
+R-Desing
+Vakionopeudensäädin
+Koukku
+Webasto kaukosäätöinen
+Nahkaverhoilu
+Penkinlämmittimet edessä ja takana
+Pysäköintitutkat
+Sähköinen takaluukku
+USB
+12V Ulostulo edessä
+Bluetooth
+Radio
+Volvo city safety ( Törmäyksen ehkäisyjärjestelmä )
+Autom ilmastointi
+Monitoimiratti
+Keskinäyttö
+Sähköiset peilit
+Sähköiset ikkunat
+Sadetunnistin
+Tummennetut takalasit
+Kattokaiteet
+Isofix
+2x Renkaat
+2x Avaimet
+
+Kysy myyjiltä esittelyvideo!
+
+Näytöt sopimuksesta.
+Vaihdot ja rahoitus.
+
+Toimitus kaikkialle Suomeen! Jo yli 40% autoistamme toimitetaan suoraan asiakkaalle. Kysy lisätiedot myyjiltä! Vaihtoajoneuvo ei ole etäkaupan este! Palvelua johon voit luottaa.
+
+www.wsmotors.fi
+
+Hintaan lisätään toimistokulu 349 €.</description>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178859764415695.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178859774524030.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178859775215364.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178859776694506.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178859763986270.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178859772750466.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178859771362453.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178859767482128.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178859771876613.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178859765979723.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178859765454242.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178859766372636.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178859766925997.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178859768477919.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178859768997050.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178859769478204.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178859770834891.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178859769860517.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178859770438041.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178859773311373.jpg</url>
+    </image>
+    <dealer_name>WS Motors Oy</dealer_name>
+    <dealer_phone>+358447005911</dealer_phone>
+    <address format="simple">
+      <component name="addr1">Varikkotie 1</component>
+      <component name="city">Aura</component>
+      <component name="region">Varsinais-Suomi</component>
+      <component name="postal_code">21380</component>
+      <component name="country">FI</component>
+    </address>
+  </listing>
+  <listing>
     <vehicle_id>4916FB318</vehicle_id>
     <title>Tesla Model Y Long Range Dual Motor AWD / Panorama / Autopilot / Muistipenkki / ILP /</title>
     <url>https://www.wsmotors.fi/auto/4916fb318/</url>
@@ -4793,64 +4773,72 @@ Hintaan lisätään toimistokulu 349 €.</description>
     </address>
   </listing>
   <listing>
-    <vehicle_id>ZKH-817</vehicle_id>
-    <title>Volvo V60 D4 AWD Summum aut / ACC / Koukku / Ratinlämmitys / Vaaleat muisti nahat /</title>
-    <url>https://www.wsmotors.fi/auto/zkh-817/</url>
+    <vehicle_id>4913B18F1</vehicle_id>
+    <title>Mercedes-Benz EQV 300e pitkä A2 / 7-paikkainen / ACC / Burmester / 360 / Lounge /</title>
+    <url>https://www.wsmotors.fi/auto/4913b18f1/</url>
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
-    <make>Volvo</make>
-    <model>V60</model>
-    <trim>D4 AWD Summum aut</trim>
-    <year>2014</year>
+    <make>Mercedes-Benz</make>
+    <model>EQV</model>
+    <trim>300e pitkä A2</trim>
+    <year>2022</year>
     <mileage>
-      <value>223000</value>
+      <value>49000</value>
       <unit>KM</unit>
     </mileage>
-    <price>13480 EUR</price>
-    <body_style>WAGON</body_style>
-    <fuel_type>DIESEL</fuel_type>
+    <price>45980 EUR</price>
+    <body_style>MINIVAN</body_style>
+    <fuel_type>ELECTRIC</fuel_type>
     <transmission>AUTOMATIC</transmission>
-    <drivetrain>AWD</drivetrain>
+    <drivetrain>FWD</drivetrain>
     <exterior_color>Valkoinen</exterior_color>
-    <vin>YV1FW8156E1197270</vin>
-    <description>Tyylikäs, sporttinen ja kattavasti varusteltu Volvo V60. Nelivedon varmaa ajettavuutta ja sopivasti tilaa arjen jokaiseen menoon!
+    <vin>W1V44781313899065</vin>
+    <description>Upea ja tilava pitkä-korinen Mercedes-Benz EQV, jonka matkustusmukavuutta viimeistelevät sähkötoimiset liukuovet molemmin puolin, DISTRONIC-adaptiivinen vakionopeudensäädin sekä laadukas Burmester Surround Sound -äänentoisto.
 
 Toimitettuna kaikkialle Suomeen.
 
 Varusteita mm.
-Koukku
-Vaalea nahkaverhoilu
-Sähkösäätöinen kuskin penkki muistilla
-ACC Adaptiivinen vakionopeudensäädin
-Tuulilasin lämmitys
-Ratinlämmitin
-Penkinlämmittimet edessä ja takana
+Adaptiivinen vakionopeudensäädin Stop &amp; Go
+360° kamera
+Parktronic-pysäköintitutkat
+MBUX 10,25 kosketusnäyttö
+Navigointi
+Burmester Surround Sound
+Apple CarPlay &amp; Android Auto
+LED Intelligent Light System
+Kaukovaloavustin Plus
+Kuolleen kulman valvonta
 Kaistavahti
-Tutkat edessä ja takana
-Kuolleenkulman varoitin
-Volvo City Safety ( Törmäyksen ehkäisyjärjestelmä )
-Törmäysvaroitus
-Ohjausvoiman säätö
-Lohkolämmitin
-Sisätilapistoke
-Bluetooth
-USB
-Radio
-Navi
-Dogitaalinen mittaristo
-12v ulostulo Edessä, keskellä ja kontissa
-Bi-Xenon ajovalot
-Aktiiviset kaukovalot
-Volvo On Call
-Sähköiset ikkunat
-Sadetunnistin
-Rattivaihteet
-Sähköiset koria päin kääntyvät peilit
+Liikennemerkkien tunnistus
+Aktiivinen jarrurtustoiminto
+Lämmitettävät etuistuimet
+Sähkösäätöiset etuistuimet
+Etuistuimet muistitoiminolla
+Etusituimissa taitettava kyynärtuki
+Sähkötoimiset liukuovet molemmin puolin
+Sähkötoiminen takaluukku
+Avattava takalasi
+Takaosan erillinen ilmastointi
+2-alueinen automaatti-ilmastointi
+Lounge-paketti
+Ambient-tunnelmavalaistus
 Tummennetut takalasit
-2x Renkaat
-2x Avain
+Peilipaketti
+Sähköisesti taittuvat ja lämmitettävät peilit
+AMG-takakattospoileri
+Kattokaiteet
+17 kevytmetallivanteet
+Usb-C latauspiuhapaikat
+12v Ulostulot edessä ja takapenkeillä kaksi ja kontissa
+DAB-radio
+Bluetooth
+WiFi
+Isofix kaikissa takapenkeissä
+2 omistajaa
+2 avainta
+2 x renkaat alumiinivanteilla
 
-Kysy myyjiltä esittelyvideo!
+Pyydä myyjiltämme esittelyvideo!
 
 Näytöt sopimuksesta.
 Vaihdot ja rahoitus.
@@ -4861,64 +4849,198 @@ www.wsmotors.fi
 
 Hintaan lisätään toimistokulu 349 €.</description>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179042936929483.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/179033197816767.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179042937359764.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/179033200641698.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179042937995524.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/179033201250606.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179042939646640.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/179033198480595.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179042940843741.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/179033206176428.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179042945591109.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/179033204471546.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179042946042992.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/179033225367545.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179042941889839.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/179033207723250.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179042943938994.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/179033227461061.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179042942316274.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/179033208363664.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179042943390214.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/179033209881363.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179042942895878.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/179033209031080.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179042945067786.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/179033210529367.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179042946525463.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/179033224552158.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179042947034425.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/179033212155125.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179042947595799.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/179033212959451.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179042948082639.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/179033214164685.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179042949560845.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/179033214855945.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179042948525324.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/179033215499443.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179042949063033.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/179033216127177.jpg</url>
+    </image>
+    <dealer_name>WS Motors Oy</dealer_name>
+    <dealer_phone>+358447005911</dealer_phone>
+    <address format="simple">
+      <component name="addr1">Varikkotie 1</component>
+      <component name="city">Aura</component>
+      <component name="region">Varsinais-Suomi</component>
+      <component name="postal_code">21380</component>
+      <component name="country">FI</component>
+    </address>
+  </listing>
+  <listing>
+    <vehicle_id>NNT-683</vehicle_id>
+    <title>Ford Transit CarSport GLE V.I.P * 1+8 penkit / Webasto-ilp / ACC / Invahissi / Sisä&amp;Liikennekamera /</title>
+    <url>https://www.wsmotors.fi/auto/nnt-683/</url>
+    <availability>AVAILABLE</availability>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <make>Ford</make>
+    <model>Transit</model>
+    <trim>CarSport GLE V.I.P * 1+8 penkit</trim>
+    <year>2024</year>
+    <mileage>
+      <value>189000</value>
+      <unit>KM</unit>
+    </mileage>
+    <price>55980 EUR</price>
+    <body_style>MINIVAN</body_style>
+    <fuel_type>DIESEL</fuel_type>
+    <transmission>AUTOMATIC</transmission>
+    <drivetrain>FWD</drivetrain>
+    <exterior_color>Beige</exterior_color>
+    <vin>WF0EXXTTRERB61199</vin>
+    <description>Todella huolellisesti rakennettu ja varusteltu Transit 1+8 penkeillä, sekä sähköisellä invahissillä! Carsportin GLE V.I.P varustelu. Laadukkaat materiaalit, laadukkaat valinnat, tämän parempaa laitetta on vaikea enää löytää.
+
+Varusteita mm.
+CarSportin 1+8 sisustus, GLE V.I.P
+Ylläpitolaturi
+Tuplakalvot takalaseissa
+LED-lisävalot (Purelux Panther)
+Webasto kauko-ohjattava ilmalämpöpumppu, jolla koko auton voi lämmittää tai jäähdyttää juuri siten kuin haluaa. Ulkoyksikkö maalattu korinväriseksi
+Korin väriset puskurit
+Adapt. vakkari
+Peruutuskamera
+Taustapeilikamera
+Kaistavahti
+Säädettävät tunnelmavalot koko autossa
+Sähköinen sivuovi
+Sähköinen invahissi
+Invertteri
+TravelCold kylmälaatikko
+Puhelin-integraatio
+Navigointi
+Bluetooth puhelintoiminnoilla
+Lämmitettävä tuulilasi
+Sähköpeilit, myös sähköisesti taittuvat
+Autom. päiväajovalot
+Peruutustutkat
+Tallentava sisäkamera + liikennekamera
+2x renkaat ja vanteet
+Talvirenkaat lähes uudet!
+Ja paljon lisää! Kysy lisää myyjiltä!
+
+Jakopää tehty 2kk sitten.
+112 000km kohdalla takuuna uusittu laatikko.
+
+Myyntitilikohde.
+
+Näytöt sopimuksesta.
+Vaihdot ja rahoitus.
+
+Toimitus kaikkialle Suomeen! Jo yli 40% autoistamme toimitetaan suoraan asiakkaalle. Kysy lisätiedot myyjiltä! Vaihtoajoneuvo ei ole etäkaupan este! Palvelua johon voit luottaa.
+
+www.wsmotors.fi
+
+Hintaan lisätään toimistokulu 349 €.</description>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178833781674794.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178833754798543.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178833755522743.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178833758030553.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/173874637844644.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/173874718966599.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/173874680478339.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178833754252645.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/173874684025013.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/173874687297579.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/173874653356202.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/173874665811071.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/173874693043561.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/173874690360471.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/173874695155773.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178833762010850.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178833760012877.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178833761054068.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178833758798981.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/173874661794072.jpg</url>
     </image>
     <dealer_name>WS Motors Oy</dealer_name>
     <dealer_phone>+358447005911</dealer_phone>
@@ -5122,236 +5244,57 @@ Hintaan lisätään toimistokulu 349 €.</description>
     </address>
   </listing>
   <listing>
-    <vehicle_id>4913B18F1</vehicle_id>
-    <title>Mercedes-Benz EQV 300e pitkä A2 / 7-paikkainen / ACC / Burmester / 360 / Lounge /</title>
-    <url>https://www.wsmotors.fi/auto/4913b18f1/</url>
+    <vehicle_id>SNR-549</vehicle_id>
+    <title>Volvo V60 D2 Classic Summum aut / Vakkari / Muisti nahat / Lämmitettävät penkit /</title>
+    <url>https://www.wsmotors.fi/auto/snr-549/</url>
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
-    <make>Mercedes-Benz</make>
-    <model>EQV</model>
-    <trim>300e pitkä A2</trim>
-    <year>2022</year>
+    <make>Volvo</make>
+    <model>V60</model>
+    <trim>D2 Classic Summum aut</trim>
+    <year>2017</year>
     <mileage>
-      <value>49000</value>
+      <value>257000</value>
       <unit>KM</unit>
     </mileage>
-    <price>45980 EUR</price>
-    <body_style>MINIVAN</body_style>
-    <fuel_type>ELECTRIC</fuel_type>
+    <price>11480 EUR</price>
+    <body_style>WAGON</body_style>
+    <fuel_type>DIESEL</fuel_type>
     <transmission>AUTOMATIC</transmission>
     <drivetrain>FWD</drivetrain>
     <exterior_color>Valkoinen</exterior_color>
-    <vin>W1V44781313899065</vin>
-    <description>Upea ja tilava pitkä-korinen Mercedes-Benz EQV, jonka matkustusmukavuutta viimeistelevät sähkötoimiset liukuovet molemmin puolin, DISTRONIC-adaptiivinen vakionopeudensäädin sekä laadukas Burmester Surround Sound -äänentoisto.
+    <vin>YV1FW78C0H1333462</vin>
+    <description>Tyylikäs ja laadukas Volvo V60, jossa yhdistyvät näyttävä ulkonäkö, erinomainen ajettavuus ja ensiluokkainen mukavuus. Tilava ja monipuolinen V60 sopii loistavasti niin arkeen kuin pidemmillekin matkoille Volvo laatua parhaimmillaan!
 
 Toimitettuna kaikkialle Suomeen.
 
 Varusteita mm.
-Adaptiivinen vakionopeudensäädin Stop &amp; Go
-360° kamera
-Parktronic-pysäköintitutkat
-MBUX 10,25 kosketusnäyttö
-Navigointi
-Burmester Surround Sound
-Apple CarPlay &amp; Android Auto
-LED Intelligent Light System
-Kaukovaloavustin Plus
-Kuolleen kulman valvonta
-Kaistavahti
-Liikennemerkkien tunnistus
-Aktiivinen jarrurtustoiminto
-Lämmitettävät etuistuimet
-Sähkösäätöiset etuistuimet
-Etuistuimet muistitoiminolla
-Etusituimissa taitettava kyynärtuki
-Sähkötoimiset liukuovet molemmin puolin
-Sähkötoiminen takaluukku
-Avattava takalasi
-Takaosan erillinen ilmastointi
-2-alueinen automaatti-ilmastointi
-Lounge-paketti
-Ambient-tunnelmavalaistus
-Tummennetut takalasit
-Peilipaketti
-Sähköisesti taittuvat ja lämmitettävät peilit
-AMG-takakattospoileri
-Kattokaiteet
-17 kevytmetallivanteet
-Usb-C latauspiuhapaikat
-12v Ulostulot edessä ja takapenkeillä kaksi ja kontissa
-DAB-radio
+Vakionopeudensäädin
+Pysäköintitutkat edessä ja takana
+Nahkaverhoilu
+Penkinlämmittimet edessä ja takana
+Sähkösäätöiset muistipenkit
+Säädettävä ristiseläntuki
 Bluetooth
-WiFi
-Isofix kaikissa takapenkeissä
-2 omistajaa
-2 avainta
-2 x renkaat alumiinivanteilla
+Radio
+USB
+City safety törmäyksen esto järjestelmä
+Sadetunnistin
+Autom tummeneva taustapeili
+Monitoimiratti
+Keskinäyttö
+Tummennetut takaikkunat
+Isofix
+2x Avain
 
-Pyydä myyjiltämme esittelyvideo!
-
-Näytöt sopimuksesta.
-Vaihdot ja rahoitus.
-
-Toimitus kaikkialle Suomeen! Jo yli 40% autoistamme toimitetaan suoraan asiakkaalle. Kysy lisätiedot myyjiltä! Vaihtoajoneuvo ei ole etäkaupan este! Palvelua johon voit luottaa.
-
-www.wsmotors.fi
-
-Hintaan lisätään toimistokulu 349 €.</description>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179033197816767.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179033200641698.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179033201250606.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179033198480595.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179033206176428.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179033204471546.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179033225367545.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179033207723250.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179033227461061.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179033208363664.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179033209881363.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179033209031080.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179033210529367.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179033224552158.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179033212155125.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179033212959451.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179033214164685.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179033214855945.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179033215499443.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179033216127177.jpg</url>
-    </image>
-    <dealer_name>WS Motors Oy</dealer_name>
-    <dealer_phone>+358447005911</dealer_phone>
-    <address format="simple">
-      <component name="addr1">Varikkotie 1</component>
-      <component name="city">Aura</component>
-      <component name="region">Varsinais-Suomi</component>
-      <component name="postal_code">21380</component>
-      <component name="country">FI</component>
-    </address>
-  </listing>
-  <listing>
-    <vehicle_id>NNT-683</vehicle_id>
-    <title>Ford Transit CarSport GLE V.I.P * 1+8 penkit / Webasto-ilp / ACC / Invahissi / Sisä&amp;Liikennekamera /</title>
-    <url>https://www.wsmotors.fi/auto/nnt-683/</url>
-    <availability>AVAILABLE</availability>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <make>Ford</make>
-    <model>Transit</model>
-    <trim>CarSport GLE V.I.P * 1+8 penkit</trim>
-    <year>2024</year>
-    <mileage>
-      <value>189000</value>
-      <unit>KM</unit>
-    </mileage>
-    <price>55980 EUR</price>
-    <body_style>MINIVAN</body_style>
-    <fuel_type>DIESEL</fuel_type>
-    <transmission>AUTOMATIC</transmission>
-    <drivetrain>FWD</drivetrain>
-    <exterior_color>Beige</exterior_color>
-    <vin>WF0EXXTTRERB61199</vin>
-    <description>Todella huolellisesti rakennettu ja varusteltu Transit 1+8 penkeillä, sekä sähköisellä invahissillä! Carsportin GLE V.I.P varustelu. Laadukkaat materiaalit, laadukkaat valinnat, tämän parempaa laitetta on vaikea enää löytää.
-
-Varusteita mm.
-
-CarSportin 1+8 sisustus, GLE V.I.P
-
-Ylläpitolaturi
-
-Tuplakalvot takalaseissa
-
-LED-lisävalot (Purelux Panther)
-
-Webasto kauko-ohjattava ilmalämpöpumppu, jolla koko auton voi lämmittää tai jäähdyttää juuri siten kuin haluaa. Ulkoyksikkö maalattu korinväriseksi
-
-Korin väriset puskurit
-
-Adapt. vakkari
-
-Peruutuskamera
-
-Taustapeilikamera
-
-Kaistavahti
-
-Säädettävät tunnelmavalot koko autossa
-
-Sähköinen sivuovi
-
-Sähköinen invahissi
-
-Invertteri
-
-TravelCold kylmälaatikko
-
-Puhelin-integraatio
-
-Navigointi
-
-Bluetooth puhelintoiminnoilla
-
-Lämmitettävä tuulilasi
-
-Sähköpeilit, myös sähköisesti taittuvat
-
-Autom. päiväajovalot
-
-Peruutustutkat
-
-Tallentava sisäkamera + liikennekamera
-
-2x renkaat ja vanteet
-
-Talvirenkaat lähes uudet!
-
-Ja paljon lisää! Kysy lisää myyjiltä!
-
-Jakopää tehty 2kk sitten.
-
-112 000km kohdalla takuuna uusittu laatikko.
+02.01.2025 228 224tkm Jakopää, apulaitehihna, vesipumppu vaihdettu.
+07.08.2025 Ilmastoinnin lauhdutin vaihdettu sekä ilmastointi huolto tehty samalla.
 
 Myyntitilikohde.
 
-Näytöt sopimuksesta.
+Kysy myyjiltä esittelyvideo!
 
+Näytöt sopimuksesta.
 Vaihdot ja rahoitus.
 
 Toimitus kaikkialle Suomeen! Jo yli 40% autoistamme toimitetaan suoraan asiakkaalle. Kysy lisätiedot myyjiltä! Vaihtoajoneuvo ei ole etäkaupan este! Palvelua johon voit luottaa.
@@ -5360,64 +5303,64 @@ www.wsmotors.fi
 
 Hintaan lisätään toimistokulu 349 €.</description>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178833781674794.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/178897712833387.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178833754798543.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/178897724074501.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178833755522743.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/178897724583149.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178833758030553.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/178897727495475.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/173874637844644.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/178897721575072.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/173874718966599.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/178897722910578.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/173874680478339.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/178897722264111.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178833754252645.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/178897720878869.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/173874684025013.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/178897715981633.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/173874687297579.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/178897713319030.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/173874653356202.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/178897730560475.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/173874665811071.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/178897715126515.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/173874693043561.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/178897714251690.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/173874690360471.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/178897717349913.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/173874695155773.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/178897726443857.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178833762010850.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/178897718480124.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178833760012877.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/178897718970899.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178833761054068.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/178897719426095.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178833758798981.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/178897717928795.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/173874661794072.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/178897720020179.jpg</url>
     </image>
     <dealer_name>WS Motors Oy</dealer_name>
     <dealer_phone>+358447005911</dealer_phone>
@@ -5837,135 +5780,6 @@ Hintaan lisätään toimistokulu 349 €.</description>
     </address>
   </listing>
   <listing>
-    <vehicle_id>SNR-549</vehicle_id>
-    <title>Volvo V60 D2 Classic Summum aut / Vakkari / Muisti nahat / Lämmitettävät penkit /</title>
-    <url>https://www.wsmotors.fi/auto/snr-549/</url>
-    <availability>AVAILABLE</availability>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <make>Volvo</make>
-    <model>V60</model>
-    <trim>D2 Classic Summum aut</trim>
-    <year>2017</year>
-    <mileage>
-      <value>257000</value>
-      <unit>KM</unit>
-    </mileage>
-    <price>11480 EUR</price>
-    <body_style>WAGON</body_style>
-    <fuel_type>DIESEL</fuel_type>
-    <transmission>AUTOMATIC</transmission>
-    <drivetrain>FWD</drivetrain>
-    <exterior_color>Valkoinen</exterior_color>
-    <vin>YV1FW78C0H1333462</vin>
-    <description>Tyylikäs ja laadukas Volvo V60, jossa yhdistyvät näyttävä ulkonäkö, erinomainen ajettavuus ja ensiluokkainen mukavuus. Tilava ja monipuolinen V60 sopii loistavasti niin arkeen kuin pidemmillekin matkoille Volvo laatua parhaimmillaan!
-
-Toimitettuna kaikkialle Suomeen.
-
-Varusteita mm.
-Vakionopeudensäädin
-Pysäköintitutkat edessä ja takana
-Nahkaverhoilu
-Penkinlämmittimet edessä ja takana
-Sähkösäätöiset muistipenkit
-Säädettävä ristiseläntuki
-Bluetooth
-Radio
-USB
-City safety törmäyksen esto järjestelmä
-Sadetunnistin
-Autom tummeneva taustapeili
-Monitoimiratti
-Keskinäyttö
-Tummennetut takaikkunat
-Isofix
-2x Avain
-
-02.01.2025 228 224tkm Jakopää, apulaitehihna, vesipumppu vaihdettu.
-07.08.2025 Ilmastoinnin lauhdutin vaihdettu sekä ilmastointi huolto tehty samalla.
-
-Myyntitilikohde.
-
-Kysy myyjiltä esittelyvideo!
-
-Näytöt sopimuksesta.
-Vaihdot ja rahoitus.
-
-Toimitus kaikkialle Suomeen! Jo yli 40% autoistamme toimitetaan suoraan asiakkaalle. Kysy lisätiedot myyjiltä! Vaihtoajoneuvo ei ole etäkaupan este! Palvelua johon voit luottaa.
-
-www.wsmotors.fi
-
-Hintaan lisätään toimistokulu 349 €.</description>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178897712833387.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178897724074501.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178897724583149.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178897727495475.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178897721575072.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178897722910578.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178897722264111.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178897720878869.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178897715981633.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178897713319030.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178897730560475.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178897715126515.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178897714251690.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178897717349913.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178897726443857.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178897718480124.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178897718970899.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178897719426095.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178897717928795.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178897720020179.jpg</url>
-    </image>
-    <dealer_name>WS Motors Oy</dealer_name>
-    <dealer_phone>+358447005911</dealer_phone>
-    <address format="simple">
-      <component name="addr1">Varikkotie 1</component>
-      <component name="city">Aura</component>
-      <component name="region">Varsinais-Suomi</component>
-      <component name="postal_code">21380</component>
-      <component name="country">FI</component>
-    </address>
-  </listing>
-  <listing>
     <vehicle_id>NNN-784</vehicle_id>
     <title>Ford Ranger RAPTOR Double Cab 3.0 V6 EcoBoost 292 hv A10 e-4WD (bensiini) N2G *SUPER VARUSTEET*</title>
     <url>https://www.wsmotors.fi/auto/nnn-784/</url>
@@ -6113,146 +5927,6 @@ Hintaan lisätään toimistokulu 349 €.</description>
     </address>
   </listing>
   <listing>
-    <vehicle_id>CNY-637</vehicle_id>
-    <title>Volvo XC40 T3 Momentum aut / Koukku / Ratinlämmitin / Sähköinen luukku /</title>
-    <url>https://www.wsmotors.fi/auto/cny-637/</url>
-    <availability>AVAILABLE</availability>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <make>Volvo</make>
-    <model>XC40</model>
-    <trim>T3 Momentum aut</trim>
-    <year>2019</year>
-    <mileage>
-      <value>119000</value>
-      <unit>KM</unit>
-    </mileage>
-    <price>28290 EUR</price>
-    <body_style>SUV</body_style>
-    <fuel_type>GASOLINE</fuel_type>
-    <transmission>AUTOMATIC</transmission>
-    <drivetrain>FWD</drivetrain>
-    <exterior_color>Musta</exterior_color>
-    <vin>YV1XZ15VDL2244268</vin>
-    <description>Näyttävä kaksivärinen Volvo XC40, jossa yhdistyvät moderni tyyli, erinomainen ajomukavuus ja käytännölliset tilat. Kompakti SUV, joka tarjoaa varmuutta jokaiseen ajoon!
-
-Toimitettuna kaikkialle Suomeen.
-
-Varusteita mm.
-Koukku
-Vakionopeudensäädin
-Puoli nahkaverhoilu
-Penkinlämmittimet edessä ja takana
-Ratinlämmitin
-Ristiselän säätö
-Sähköinen takaluukku hands free toiminnolla
-Ohjausvoiman säätö
-Kiihtyvyyden säätö
-Kaistallapitoavustin
-Pysäköintitutkat
-Liikennemerkkien tunnistus
-Törmäyksen esto
-AutoHold
-Ajoprofiilit Comfort, Individual, Dynamic, Eco, Off road
-Ajastettava pysäköinti ilmastointi
-Avaimeton käyttö
-Bluetooth
-Radio
-USB
-12v ulostulo edessä ja kontissa
-USB-C keskipenkeillä
-Spotify
-Digitaalinen mittaristo
-Keskinäyttö
-Sadetunnistin
-Sähköiset ikkunat
-Sähköiset peilit
-Autom tummeneva taustapeili
-LED-Ajovalot
-Isofix
-2x Renkaat vanteineen
-3x Avain
-
-Kysy myyjiltä esittelyvideo!
-
-Näytöt sopimuksesta.
-Vaihdot ja rahoitus.
-
-Toimitus kaikkialle Suomeen! Jo yli 40% autoistamme toimitetaan suoraan asiakkaalle. Kysy lisätiedot myyjiltä! Vaihtoajoneuvo ei ole etäkaupan este! Palvelua johon voit luottaa.
-
-www.wsmotors.fi
-
-Hintaan lisätään toimistokulu 349 €.</description>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179034133711512.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179034134257732.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179034134826836.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179034137797631.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179034136727378.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179034150665643.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179034143054897.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179034141683741.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179034138457127.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179034139299191.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179034140012851.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179034143816299.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179034144461626.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179034145127966.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179034145978052.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179034146545736.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179034147267560.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179034148623523.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179034149997578.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179034149312751.jpg</url>
-    </image>
-    <dealer_name>WS Motors Oy</dealer_name>
-    <dealer_phone>+358447005911</dealer_phone>
-    <address format="simple">
-      <component name="addr1">Varikkotie 1</component>
-      <component name="city">Aura</component>
-      <component name="region">Varsinais-Suomi</component>
-      <component name="postal_code">21380</component>
-      <component name="country">FI</component>
-    </address>
-  </listing>
-  <listing>
     <vehicle_id>LYU-343</vehicle_id>
     <title>Volvo V70 2,4D / Koukku / Penkinlämmittimet / Vakkari /</title>
     <url>https://www.wsmotors.fi/auto/lyu-343/</url>
@@ -6325,74 +5999,59 @@ Hintaan lisätään toimistokulu 349 €.</description>
     </address>
   </listing>
   <listing>
-    <vehicle_id>XOM-916</vehicle_id>
-    <title>Renault Megane Sport Tourer TCe 100 Zen / Vakkari / Sisäpistoke&amp;Lohkolämmitin / Apple Carplay&amp;Android Auto /</title>
-    <url>https://www.wsmotors.fi/auto/xom-916/</url>
+    <vehicle_id>OSZ-217</vehicle_id>
+    <title>Audi A3 Sportback 1,6 TDI *JUURI TEHTY JAKOPÄÄ*/ Lohkolämmitin&amp;Sisäpistoke / Vakkari / Penkinlämmittimet /</title>
+    <url>https://www.wsmotors.fi/auto/osz-217/</url>
     <availability>AVAILABLE</availability>
     <state_of_vehicle>USED</state_of_vehicle>
-    <make>Renault</make>
-    <model>Megane</model>
-    <trim>Sport Tourer TCe 100 Zen</trim>
-    <year>2018</year>
+    <make>Audi</make>
+    <model>A3</model>
+    <trim>Sportback 1,6 TDI *JUURI TEHTY JAKOPÄÄ*</trim>
+    <year>2010</year>
     <mileage>
-      <value>96000</value>
+      <value>238000</value>
       <unit>KM</unit>
     </mileage>
-    <price>9730 EUR</price>
-    <body_style>WAGON</body_style>
-    <fuel_type>GASOLINE</fuel_type>
+    <price>4940 EUR</price>
+    <body_style>HATCHBACK</body_style>
+    <fuel_type>DIESEL</fuel_type>
     <transmission>MANUAL</transmission>
     <drivetrain>FWD</drivetrain>
-    <exterior_color>Punainen</exterior_color>
-    <vin>VF1RFB00959214147</vin>
-    <description>Tyylikäs ja taloudellinen Renault Megane, joka tarjoaa varmaa ajoa ja mainiot puitteet niin kaupunkiin kuin pidemmillekin matkoille!
-
-Toimitettuna kaikkialle Suomeen.
+    <exterior_color>Hopea</exterior_color>
+    <vin>WAUZZZ8P8AA127204</vin>
+    <description>Todella siistikuntoinen ja tyylikäs Audi A3, näppärä ja taloudellinen peli jokaiseen matkaan. Ajoneuvo tullaan luovuttamaan juuri tehdyn jakopään kanssa!
 
 Varusteita mm.
 Vakionopeudensäädin
 Penkinlämmittimet
-Sisätilapistoke
 Lohkolämmitin
-Etu ja taka pysäköintitutkat
-Kaistavahti
-Liikennemerkkitunnistus
-Automaattiset kaukovalot
-Sadetunnistin
-Apple Carplay &amp; Android Auto
-Bluetooth
-Navi
+Sisätilapistoke
 Radio
-USB
-12V Ulostulo edessä ja keskipenkeillä
-Ilman puhdistin toiminto
-Avaimeton käyttö
-Keskinäyttö
-Monitoimiratti
-Sähköiset koria päin kääntyvät peilit
+Aux
+Autom ilmastointi
 Sähköiset ikkunat
-Isofix
-2x Avain
+Sähköiset lämmitettävät peilit
+Keskuslukitus kauko-ohjattava
+Xenon Ajovalot
 2x Renkaat
+2x Avaimet
 
 Kysy myyjiltä esittelyvideo!
 
 Näytöt sopimuksesta.
 Vaihdot ja rahoitus.
 
-Toimitus kaikkialle Suomeen! Jo yli 40% autoistamme toimitetaan suoraan asiakkaalle. Kysy lisätiedot myyjiltä! Vaihtoajoneuvo ei ole etäkaupan este! Palvelua johon voit luottaa.
-
 www.wsmotors.fi
 
 Hintaan lisätään toimistokulu 349 €.</description>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178971734242264.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/178973825199900.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178971736555808.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/178973825889779.jpg</url>
     </image>
     <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178971739367868.jpg</url>
+      <url>https://images.autosolution.fi/vehicle_images/491/178973826513959.jpg</url>
     </image>
     <dealer_name>WS Motors Oy</dealer_name>
     <dealer_phone>+358447005911</dealer_phone>
@@ -6520,150 +6179,6 @@ Hintaan lisätään toimistokulu 349 €.</description>
     </image>
     <image>
       <url>https://images.autosolution.fi/vehicle_images/491/179034362421417.jpg</url>
-    </image>
-    <dealer_name>WS Motors Oy</dealer_name>
-    <dealer_phone>+358447005911</dealer_phone>
-    <address format="simple">
-      <component name="addr1">Varikkotie 1</component>
-      <component name="city">Aura</component>
-      <component name="region">Varsinais-Suomi</component>
-      <component name="postal_code">21380</component>
-      <component name="country">FI</component>
-    </address>
-  </listing>
-  <listing>
-    <vehicle_id>OXL-661</vehicle_id>
-    <title>Mercedes-Benz Viano CDI 3,0 V6 pitkä A3 A / 8-p / Koukku / Vaalea nahkaverhoilu / Kattoikkuna /</title>
-    <url>https://www.wsmotors.fi/auto/oxl-661/</url>
-    <availability>AVAILABLE</availability>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <make>Mercedes-Benz</make>
-    <model>Viano</model>
-    <trim>CDI 3,0 V6 pitkä A3 A</trim>
-    <year>2012</year>
-    <mileage>
-      <value>385000</value>
-      <unit>KM</unit>
-    </mileage>
-    <price>11320 EUR</price>
-    <body_style>MINIVAN</body_style>
-    <fuel_type>DIESEL</fuel_type>
-    <transmission>AUTOMATIC</transmission>
-    <drivetrain>RWD</drivetrain>
-    <exterior_color>Musta</exterior_color>
-    <vin>WDF63981513732784</vin>
-    <description>Tilava ja monikäyttöinen Mercedes-Benz Viano 8-paikkaisena. Reilusti tilaa matkustajille ja tavaroille, tyylikkyyttä ja ajomukavuuttaan unohtamatta!
-
-Toimitettuna kaikkialle Suomeen.
-
-Varusteita mm.
-8-paikkainen 2+3+3
-Ilma jousitus
-Avattava kattoikkuna
-Koukku
-Vaalea nahkaverhoilu
-Vakionopeudensäädin
-Penkinlämmittimet edessä
-Taitettavat kyynärnojat etupenkeissä
-Sähköisesti avattavat takasivuikkunat
-PARKTRONIC pysäköintitutkat edessä ja takana
-Liukuovet molemmin puolin
-Ilmastointi myös takariveille
-12v ulostulo edessä, takana molemmilla puolilla ja kontissa
-Bluetooth
-Radio
-Navi
-Sähköiset ikkunat
-Sähköiset peilit lämmityksellä
-Monitoimiratti
-Keskinäyttö
-Isofix takapenkeissä
-2x Avain
-2x Renkaat
-
-Kysy myyjiltä esittelyvideo!
-
-Näytöt sopimuksesta.
-Vaihdot ja rahoitus.
-
-Toimitus kaikkialle Suomeen! Jo yli 40% autoistamme toimitetaan suoraan asiakkaalle. Kysy lisätiedot myyjiltä! Vaihtoajoneuvo ei ole etäkaupan este! Palvelua johon voit luottaa.
-
-www.wsmotors.fi
-
-Hintaan lisätään toimistokulu 349 €.</description>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178963525641009.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178972344272196.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178972345171870.jpg</url>
-    </image>
-    <dealer_name>WS Motors Oy</dealer_name>
-    <dealer_phone>+358447005911</dealer_phone>
-    <address format="simple">
-      <component name="addr1">Varikkotie 1</component>
-      <component name="city">Aura</component>
-      <component name="region">Varsinais-Suomi</component>
-      <component name="postal_code">21380</component>
-      <component name="country">FI</component>
-    </address>
-  </listing>
-  <listing>
-    <vehicle_id>OSZ-217</vehicle_id>
-    <title>Audi A3 Sportback 1,6 TDI *JUURI TEHTY JAKOPÄÄ*/ Lohkolämmitin&amp;Sisäpistoke / Vakkari / Penkinlämmittimet /</title>
-    <url>https://www.wsmotors.fi/auto/osz-217/</url>
-    <availability>AVAILABLE</availability>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <make>Audi</make>
-    <model>A3</model>
-    <trim>Sportback 1,6 TDI *JUURI TEHTY JAKOPÄÄ*</trim>
-    <year>2010</year>
-    <mileage>
-      <value>238000</value>
-      <unit>KM</unit>
-    </mileage>
-    <price>4940 EUR</price>
-    <body_style>HATCHBACK</body_style>
-    <fuel_type>DIESEL</fuel_type>
-    <transmission>MANUAL</transmission>
-    <drivetrain>FWD</drivetrain>
-    <exterior_color>Hopea</exterior_color>
-    <vin>WAUZZZ8P8AA127204</vin>
-    <description>Todella siistikuntoinen ja tyylikäs Audi A3, näppärä ja taloudellinen peli jokaiseen matkaan. Ajoneuvo tullaan luovuttamaan juuri tehdyn jakopään kanssa!
-
-Varusteita mm.
-Vakionopeudensäädin
-Penkinlämmittimet
-Lohkolämmitin
-Sisätilapistoke
-Radio
-Aux
-Autom ilmastointi
-Sähköiset ikkunat
-Sähköiset lämmitettävät peilit
-Keskuslukitus kauko-ohjattava
-Xenon Ajovalot
-2x Renkaat
-2x Avaimet
-
-Kysy myyjiltä esittelyvideo!
-
-Näytöt sopimuksesta.
-Vaihdot ja rahoitus.
-
-www.wsmotors.fi
-
-Hintaan lisätään toimistokulu 349 €.</description>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178973825199900.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178973825889779.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/178973826513959.jpg</url>
     </image>
     <dealer_name>WS Motors Oy</dealer_name>
     <dealer_phone>+358447005911</dealer_phone>
@@ -6909,89 +6424,6 @@ Hintaan lisätään toimistokulu 349 €.</description>
     </address>
   </listing>
   <listing>
-    <vehicle_id>FPH-165</vehicle_id>
-    <title>Audi A3 Sportback Business Sport 1,4 TFSI e-tron S tronic / P-kamera / Keyless / Carplay / LED /</title>
-    <url>https://www.wsmotors.fi/auto/fph-165/</url>
-    <availability>AVAILABLE</availability>
-    <state_of_vehicle>USED</state_of_vehicle>
-    <make>Audi</make>
-    <model>A3</model>
-    <trim>Sportback Business Sport 1,4 TFSI e-tron S tronic</trim>
-    <year>2017</year>
-    <mileage>
-      <value>90000</value>
-      <unit>KM</unit>
-    </mileage>
-    <price>13210 EUR</price>
-    <body_style>HATCHBACK</body_style>
-    <fuel_type>HYBRID</fuel_type>
-    <transmission>AUTOMATIC</transmission>
-    <drivetrain>FWD</drivetrain>
-    <exterior_color>Sininen</exterior_color>
-    <vin>WAUZZZ8V4JA014011</vin>
-    <description>Sporttinen Audi A3 e-tron tarjoaa tyylikästä muotoilua, ripeää suorituskykyä ja taloudellista ajoa. Kompakti paketti, jossa arjen ajaminen saa aivan uuden fiiliksen!
-
-Toimitettuna kaikkialle Suomeen.
-
-Varusteita mm.
-Peruutuskamera
-Pysäköintitukat edessä ja takana
-Nopeudenrajoitin
-Vaaleanharmaa puolinahka verhoilu
-Ristiselän säätö
-Bluetooth
-Audi smartphone interface (Apple Carplay &amp; Android Auto)
-Navi
-Radio
-USB
-12V Ulostulo
-Ajoprofiilit Comfort, Auto, Individual
-Ambient valaistus
-Seisonta ilmastointi
-E-tron tila
-Avaimeton käyttö
-Rattivaihteet
-Sadetunnistin
-Sähköiset kääntyvät ja lämpeävät peilit
-Sähköiset ikkunat
-Monitoimiratti
-Keskinäyttö
-Tummennetut takalasit
-LED-Ajovalot
-Isofix
-2x Avain
-2x Renkaat
-
-Kysy myyjiltä esittelyvideo!
-
-Näytöt sopimuksesta.
-Vaihdot ja rahoitus.
-
-Toimitus kaikkialle Suomeen! Jo yli 40% autoistamme toimitetaan suoraan asiakkaalle. Kysy lisätiedot myyjiltä! Vaihtoajoneuvo ei ole etäkaupan este! Palvelua johon voit luottaa.
-
-www.wsmotors.fi
-
-Hintaan lisätään toimistokulu 349 €.</description>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179032174947762.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179032175682589.jpg</url>
-    </image>
-    <image>
-      <url>https://images.autosolution.fi/vehicle_images/491/179032176380638.jpg</url>
-    </image>
-    <dealer_name>WS Motors Oy</dealer_name>
-    <dealer_phone>+358447005911</dealer_phone>
-    <address format="simple">
-      <component name="addr1">Varikkotie 1</component>
-      <component name="city">Aura</component>
-      <component name="region">Varsinais-Suomi</component>
-      <component name="postal_code">21380</component>
-      <component name="country">FI</component>
-    </address>
-  </listing>
-  <listing>
     <vehicle_id>KUO-612</vehicle_id>
     <title>Fiat 500E Icon 118hv 42kWh *SOH 95,69*/ Kameleontti väri / Vakkari / CarPlay /</title>
     <url>https://www.wsmotors.fi/auto/kuo-612/</url>
@@ -7116,6 +6548,89 @@ Hintaan lisätään toimistokulu 349 €.</description>
     </address>
   </listing>
   <listing>
+    <vehicle_id>FPH-165</vehicle_id>
+    <title>Audi A3 Sportback Business Sport 1,4 TFSI e-tron S tronic / P-kamera / Keyless / Carplay / LED /</title>
+    <url>https://www.wsmotors.fi/auto/fph-165/</url>
+    <availability>AVAILABLE</availability>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <make>Audi</make>
+    <model>A3</model>
+    <trim>Sportback Business Sport 1,4 TFSI e-tron S tronic</trim>
+    <year>2017</year>
+    <mileage>
+      <value>90000</value>
+      <unit>KM</unit>
+    </mileage>
+    <price>13210 EUR</price>
+    <body_style>HATCHBACK</body_style>
+    <fuel_type>HYBRID</fuel_type>
+    <transmission>AUTOMATIC</transmission>
+    <drivetrain>FWD</drivetrain>
+    <exterior_color>Sininen</exterior_color>
+    <vin>WAUZZZ8V4JA014011</vin>
+    <description>Sporttinen Audi A3 e-tron tarjoaa tyylikästä muotoilua, ripeää suorituskykyä ja taloudellista ajoa. Kompakti paketti, jossa arjen ajaminen saa aivan uuden fiiliksen!
+
+Toimitettuna kaikkialle Suomeen.
+
+Varusteita mm.
+Peruutuskamera
+Pysäköintitukat edessä ja takana
+Nopeudenrajoitin
+Vaaleanharmaa puolinahka verhoilu
+Ristiselän säätö
+Bluetooth
+Audi smartphone interface (Apple Carplay &amp; Android Auto)
+Navi
+Radio
+USB
+12V Ulostulo
+Ajoprofiilit Comfort, Auto, Individual
+Ambient valaistus
+Seisonta ilmastointi
+E-tron tila
+Avaimeton käyttö
+Rattivaihteet
+Sadetunnistin
+Sähköiset kääntyvät ja lämpeävät peilit
+Sähköiset ikkunat
+Monitoimiratti
+Keskinäyttö
+Tummennetut takalasit
+LED-Ajovalot
+Isofix
+2x Avain
+2x Renkaat
+
+Kysy myyjiltä esittelyvideo!
+
+Näytöt sopimuksesta.
+Vaihdot ja rahoitus.
+
+Toimitus kaikkialle Suomeen! Jo yli 40% autoistamme toimitetaan suoraan asiakkaalle. Kysy lisätiedot myyjiltä! Vaihtoajoneuvo ei ole etäkaupan este! Palvelua johon voit luottaa.
+
+www.wsmotors.fi
+
+Hintaan lisätään toimistokulu 349 €.</description>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179032174947762.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179032175682589.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179032176380638.jpg</url>
+    </image>
+    <dealer_name>WS Motors Oy</dealer_name>
+    <dealer_phone>+358447005911</dealer_phone>
+    <address format="simple">
+      <component name="addr1">Varikkotie 1</component>
+      <component name="city">Aura</component>
+      <component name="region">Varsinais-Suomi</component>
+      <component name="postal_code">21380</component>
+      <component name="country">FI</component>
+    </address>
+  </listing>
+  <listing>
     <vehicle_id>HLI-652</vehicle_id>
     <title>Nissan Note 1,4 65 Visia 5-vaiht. 5-ov. / Koukku / Lohkolämmitin / Penkinlämmittimet /</title>
     <url>https://www.wsmotors.fi/auto/hli-652/</url>
@@ -7166,6 +6681,305 @@ Hintaan lisätään toimistokulu 349 €.</description>
     </image>
     <image>
       <url>https://images.autosolution.fi/vehicle_images/491/179032608630931.jpg</url>
+    </image>
+    <dealer_name>WS Motors Oy</dealer_name>
+    <dealer_phone>+358447005911</dealer_phone>
+    <address format="simple">
+      <component name="addr1">Varikkotie 1</component>
+      <component name="city">Aura</component>
+      <component name="region">Varsinais-Suomi</component>
+      <component name="postal_code">21380</component>
+      <component name="country">FI</component>
+    </address>
+  </listing>
+  <listing>
+    <vehicle_id>XOM-916</vehicle_id>
+    <title>Renault Megane Sport Tourer TCe 100 Zen / Vakkari / Sisäpistoke&amp;Lohkolämmitin / Apple Carplay&amp;Android Auto /</title>
+    <url>https://www.wsmotors.fi/auto/xom-916/</url>
+    <availability>AVAILABLE</availability>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <make>Renault</make>
+    <model>Megane</model>
+    <trim>Sport Tourer TCe 100 Zen</trim>
+    <year>2018</year>
+    <mileage>
+      <value>96000</value>
+      <unit>KM</unit>
+    </mileage>
+    <price>9730 EUR</price>
+    <body_style>WAGON</body_style>
+    <fuel_type>GASOLINE</fuel_type>
+    <transmission>MANUAL</transmission>
+    <drivetrain>FWD</drivetrain>
+    <exterior_color>Punainen</exterior_color>
+    <vin>VF1RFB00959214147</vin>
+    <description>Tyylikäs ja taloudellinen Renault Megane, joka tarjoaa varmaa ajoa ja mainiot puitteet niin kaupunkiin kuin pidemmillekin matkoille!
+
+Toimitettuna kaikkialle Suomeen.
+
+Varusteita mm.
+Vakionopeudensäädin
+Penkinlämmittimet
+Sisätilapistoke
+Lohkolämmitin
+Etu ja taka pysäköintitutkat
+Kaistavahti
+Liikennemerkkitunnistus
+Automaattiset kaukovalot
+Sadetunnistin
+Apple Carplay &amp; Android Auto
+Bluetooth
+Navi
+Radio
+USB
+12V Ulostulo edessä ja keskipenkeillä
+Ilman puhdistin toiminto
+Avaimeton käyttö
+Keskinäyttö
+Monitoimiratti
+Sähköiset koria päin kääntyvät peilit
+Sähköiset ikkunat
+Isofix
+2x Avain
+2x Renkaat
+
+Kysy myyjiltä esittelyvideo!
+
+Näytöt sopimuksesta.
+Vaihdot ja rahoitus.
+
+Toimitus kaikkialle Suomeen! Jo yli 40% autoistamme toimitetaan suoraan asiakkaalle. Kysy lisätiedot myyjiltä! Vaihtoajoneuvo ei ole etäkaupan este! Palvelua johon voit luottaa.
+
+www.wsmotors.fi
+
+Hintaan lisätään toimistokulu 349 €.</description>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178971734242264.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178971736555808.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178971739367868.jpg</url>
+    </image>
+    <dealer_name>WS Motors Oy</dealer_name>
+    <dealer_phone>+358447005911</dealer_phone>
+    <address format="simple">
+      <component name="addr1">Varikkotie 1</component>
+      <component name="city">Aura</component>
+      <component name="region">Varsinais-Suomi</component>
+      <component name="postal_code">21380</component>
+      <component name="country">FI</component>
+    </address>
+  </listing>
+  <listing>
+    <vehicle_id>CNY-637</vehicle_id>
+    <title>Volvo XC40 T3 Momentum aut / Koukku / Ratinlämmitin / Sähköinen luukku /</title>
+    <url>https://www.wsmotors.fi/auto/cny-637/</url>
+    <availability>AVAILABLE</availability>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <make>Volvo</make>
+    <model>XC40</model>
+    <trim>T3 Momentum aut</trim>
+    <year>2019</year>
+    <mileage>
+      <value>119000</value>
+      <unit>KM</unit>
+    </mileage>
+    <price>28290 EUR</price>
+    <body_style>SUV</body_style>
+    <fuel_type>GASOLINE</fuel_type>
+    <transmission>AUTOMATIC</transmission>
+    <drivetrain>FWD</drivetrain>
+    <exterior_color>Musta</exterior_color>
+    <vin>YV1XZ15VDL2244268</vin>
+    <description>Näyttävä kaksivärinen Volvo XC40, jossa yhdistyvät moderni tyyli, erinomainen ajomukavuus ja käytännölliset tilat. Kompakti SUV, joka tarjoaa varmuutta jokaiseen ajoon!
+
+Toimitettuna kaikkialle Suomeen.
+
+Varusteita mm.
+Koukku
+Vakionopeudensäädin
+Puoli nahkaverhoilu
+Penkinlämmittimet edessä ja takana
+Ratinlämmitin
+Ristiselän säätö
+Sähköinen takaluukku hands free toiminnolla
+Ohjausvoiman säätö
+Kiihtyvyyden säätö
+Kaistallapitoavustin
+Pysäköintitutkat
+Liikennemerkkien tunnistus
+Törmäyksen esto
+AutoHold
+Ajoprofiilit Comfort, Individual, Dynamic, Eco, Off road
+Ajastettava pysäköinti ilmastointi
+Avaimeton käyttö
+Bluetooth
+Radio
+USB
+12v ulostulo edessä ja kontissa
+USB-C keskipenkeillä
+Spotify
+Digitaalinen mittaristo
+Keskinäyttö
+Sadetunnistin
+Sähköiset ikkunat
+Sähköiset peilit
+Autom tummeneva taustapeili
+LED-Ajovalot
+Isofix
+2x Renkaat vanteineen
+3x Avain
+
+Kysy myyjiltä esittelyvideo!
+
+Näytöt sopimuksesta.
+Vaihdot ja rahoitus.
+
+Toimitus kaikkialle Suomeen! Jo yli 40% autoistamme toimitetaan suoraan asiakkaalle. Kysy lisätiedot myyjiltä! Vaihtoajoneuvo ei ole etäkaupan este! Palvelua johon voit luottaa.
+
+www.wsmotors.fi
+
+Hintaan lisätään toimistokulu 349 €.</description>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179034133711512.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179034134257732.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179034134826836.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179034137797631.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179034136727378.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179034150665643.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179034143054897.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179034141683741.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179034138457127.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179034139299191.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179034140012851.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179034143816299.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179034144461626.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179034145127966.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179034145978052.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179034146545736.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179034147267560.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179034148623523.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179034149997578.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/179034149312751.jpg</url>
+    </image>
+    <dealer_name>WS Motors Oy</dealer_name>
+    <dealer_phone>+358447005911</dealer_phone>
+    <address format="simple">
+      <component name="addr1">Varikkotie 1</component>
+      <component name="city">Aura</component>
+      <component name="region">Varsinais-Suomi</component>
+      <component name="postal_code">21380</component>
+      <component name="country">FI</component>
+    </address>
+  </listing>
+  <listing>
+    <vehicle_id>OXL-661</vehicle_id>
+    <title>Mercedes-Benz Viano CDI 3,0 V6 pitkä A3 A / 8-p / Koukku / Vaalea nahkaverhoilu / Kattoikkuna /</title>
+    <url>https://www.wsmotors.fi/auto/oxl-661/</url>
+    <availability>AVAILABLE</availability>
+    <state_of_vehicle>USED</state_of_vehicle>
+    <make>Mercedes-Benz</make>
+    <model>Viano</model>
+    <trim>CDI 3,0 V6 pitkä A3 A</trim>
+    <year>2012</year>
+    <mileage>
+      <value>385000</value>
+      <unit>KM</unit>
+    </mileage>
+    <price>11320 EUR</price>
+    <body_style>MINIVAN</body_style>
+    <fuel_type>DIESEL</fuel_type>
+    <transmission>AUTOMATIC</transmission>
+    <drivetrain>RWD</drivetrain>
+    <exterior_color>Musta</exterior_color>
+    <vin>WDF63981513732784</vin>
+    <description>Tilava ja monikäyttöinen Mercedes-Benz Viano 8-paikkaisena. Reilusti tilaa matkustajille ja tavaroille, tyylikkyyttä ja ajomukavuuttaan unohtamatta!
+
+Toimitettuna kaikkialle Suomeen.
+
+Varusteita mm.
+8-paikkainen 2+3+3
+Ilma jousitus
+Avattava kattoikkuna
+Koukku
+Vaalea nahkaverhoilu
+Vakionopeudensäädin
+Penkinlämmittimet edessä
+Taitettavat kyynärnojat etupenkeissä
+Sähköisesti avattavat takasivuikkunat
+PARKTRONIC pysäköintitutkat edessä ja takana
+Liukuovet molemmin puolin
+Ilmastointi myös takariveille
+12v ulostulo edessä, takana molemmilla puolilla ja kontissa
+Bluetooth
+Radio
+Navi
+Sähköiset ikkunat
+Sähköiset peilit lämmityksellä
+Monitoimiratti
+Keskinäyttö
+Isofix takapenkeissä
+2x Avain
+2x Renkaat
+
+Kysy myyjiltä esittelyvideo!
+
+Näytöt sopimuksesta.
+Vaihdot ja rahoitus.
+
+Toimitus kaikkialle Suomeen! Jo yli 40% autoistamme toimitetaan suoraan asiakkaalle. Kysy lisätiedot myyjiltä! Vaihtoajoneuvo ei ole etäkaupan este! Palvelua johon voit luottaa.
+
+www.wsmotors.fi
+
+Hintaan lisätään toimistokulu 349 €.</description>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178963525641009.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178972344272196.jpg</url>
+    </image>
+    <image>
+      <url>https://images.autosolution.fi/vehicle_images/491/178972345171870.jpg</url>
     </image>
     <dealer_name>WS Motors Oy</dealer_name>
     <dealer_phone>+358447005911</dealer_phone>
