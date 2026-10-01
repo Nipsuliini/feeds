@@ -1,6 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <listings>
-  <!-- Generated: 2026-09-30T01:23:45Z | 70 listings -->
+  <!-- Generated: 2026-10-01T01:28:26Z | 69 listings -->
+  <listing>
+    <home_listing_id>c74</home_listing_id>
+    <name>Asunto Oy Vantaan Huvikumpu C74</name>
+    <availability>for_sale</availability>
+    <listing_type>for_sale_by_agent</listing_type>
+    <url>https://www.arkta.fi/asunnot/huvikumpu/c74/</url>
+    <price>309900 EUR</price>
+    <sales_price>62158 EUR</sales_price>
+    <property_type>apartment</property_type>
+    <num_beds>3</num_beds>
+    <area_size>64</area_size>
+    <area_size_unit>sqm</area_size_unit>
+    <year_built>2023</year_built>
+    <first_seen>2026-09-24</first_seen>
+    <description>Tämä asunto on mallikalustettu, joten näytöllä on helpompi arvioida asunnon kalustettavuutta ja mittasuhteita. Tervetuloa tutustumaan! Tässä valoisassa kulmahuoneistossa on valtavat ikkunat, joiden takaa näkyy vehreyttä. Asunnossa on mukavasti yksityisyyttä, sillä suoraan ikkunoiden edessä, lähellä ei ole naapuritalon ikkunoita. Kodissa on kauniit ja ajattomat materiaalit kuten kestävä tammiparketti, jonka alla mukavuutta tuo lattialämmitys. Isomman makuuhuoneen yhteydessä on tilava vaatehuone ja pienemmässä makuuhuoneessa on kaapisto. Keittiö on erillään olohuoneen alueesta. Topi-keittiössä on kunnolla tilaa ruoanlaittoon se on hyvin varusteltu Electroluxin kodinkoneilla; jopa kaksi kylmäkonetta, liesitaso, uuni, kalusteovipeitteinen astianpesukone ja mikroaaltouuni kalusteisiin upotettuna. Lämminhenkinen tilava lasitettu parveke puupinnoin, toimii jatkeena asunnon sisätiloille keväästä pitkälle syksyyn. Tilavassa kylpyhuoneessa on kauniit, harmoniset Pukkilan laattavalinnat ja tervaleppäpaneloitu katto. Kalusteina on Temal-allaskaapisto ja peilikaappi. Pyykinpesukoneelle ja kuivausrummulle on tilavaraus. Kylpyhuoneessa ei ole LTO-konetta katon rajassa kuten tavallisesti, vaan se on nerokkaasti poissa silmistä huoneiston ulkopuolisessa pienessä asuntokohtaisessa teknisessä tilassa. Asunto kuuluu valikoituihin kampanja-asuntoihimme 30.10.2026 saakka. Asunnon alkuperäinen velaton hinta on 354.500 euroa, joten kampanjaetu on 44.600 euroa.</description>
+    <address>
+      <component name="addr1">Esikkotie 3 C74</component>
+      <component name="city">Vantaa</component>
+      <component name="region">Uusimaa</component>
+      <component name="postal_code">01300</component>
+      <component name="country">FI</component>
+    </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153532_757361_esikkotie_3_lo-11.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251125135148_637065_2.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153526_049356_esikkotie_3_lo-5.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153521_651160_esikkotie_3_lo-3.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153500_853912_esikkotie_3_lo-12.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153523_775458_esikkotie_3_lo-4.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153519_409224_esikkotie_3_lo-1.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153528_438780_esikkotie_3_lo-6.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153530_507064_esikkotie_3_lo-8.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153504_844405_esikkotie_3_lo-14.jpg</url>
+    </image>
+  </listing>
   <listing>
     <home_listing_id>ta929</home_listing_id>
     <name>Asunto Oy Helsingin Karnevaali A3</name>
@@ -55,6 +108,59 @@
     </image>
   </listing>
   <listing>
+    <home_listing_id>ta1654</home_listing_id>
+    <name>As Oy Tampereen Lamminpään Hilla C107</name>
+    <availability>for_sale</availability>
+    <listing_type>for_sale_by_agent</listing_type>
+    <url>https://www.arkta.fi/asunnot/hilla/ta1654/</url>
+    <price>142000 EUR</price>
+    <sales_price>42505 EUR</sales_price>
+    <property_type>apartment</property_type>
+    <num_beds>1</num_beds>
+    <area_size>26</area_size>
+    <area_size_unit>sqm</area_size_unit>
+    <year_built>2024</year_built>
+    <first_seen>2026-09-24</first_seen>
+    <description>Ylimmän kerroksen yksiöstä on avarat näkymät. Kodissa on tilava lasitettu parveke, joka suuntautuu sisäpihan puolelle. Koti on hyvin suunniteltu ja varusteltu tehokkaaseen kokoonsa nähden: mm. keittiössä on hyvin säilytystilaa ja kunnolliset Electroluxin kodinkoneet. Kylpyhuoneeseen voi sijoittaa pyykkitornin. Asunto sopii hyvin omaksi tai vaikkapa sijoitusasunnoksi. Vuokrattavuus on hyvä ja oma tontti hillitsee kustannusten nousuja tulevaisuudessa.</description>
+    <address>
+      <component name="addr1">Nauhatehtaanraitti 25 C107</component>
+      <component name="city">Tampere</component>
+      <component name="region">Pirkanmaa</component>
+      <component name="postal_code">33420</component>
+      <component name="country">FI</component>
+    </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250710095448_600800_nauhatehtaanraitti_25-2.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251205142619_096029_hilla_c107.png</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240508092815_908942_p1026394.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240508092820_081674_p1026397.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240508092812_264848_p1026393.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240508092823_996470_p1026398.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251205142738_432230_kuvakollaasi-hilla.png</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250710095442_852955_nauhatehtaanraitti_25-1.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250710095457_759593_nauhatehtaanraitti_25-6.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250710095453_419747_nauhatehtaanraitti_25-4.jpg</url>
+    </image>
+  </listing>
+  <listing>
     <home_listing_id>ta1164</home_listing_id>
     <name>Asunto Oy Vantaan Huvikumpu A2</name>
     <availability>for_sale</availability>
@@ -68,7 +174,7 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2023</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Tule tutustumaan tähän kauniiseen ja tasokkaaseen 2h-kotiin! Huonekorkeus poikkeuksellinen 3,5 m ja hyvin suuret ikkunat luovat kotiin upean tunnelman. Kodin erikoisuus on oma lasitettu parveke, jonka lisäksi on vielä terassi ja hieman piha-aluetta etelään päin. Omalla terassilla on mukava grillata ja pihalle voi päästää koiran ulkoilemaan. Tilavaan makuuhuoneeseen voi sijoittaa vaikkapa työpisteen, lukunurkkauksen tai lapsen sängyn. Makuuhuoneessa on runsaasti kaappitilaa liukuovien takana. Myös eteisessä on liukuovikaapisto. - Poikkeuksellinen huonekorkeus 3,5 m - Erittäin tilava makuuhuone liukuovikaapistoilla - Iso lasitettu parveke ja lisäksi terassi - Laadukkaat ja nykyaikaiset materiaalit - Oma tontti ja hoitovastike vain 3,4 EUR/kk (yhtiökokous päättää vastikkeesta vuosittain) - Rauhallinen yhtiö ja sijainti vain n. 600 m rautatieasemalta - A-energialuokka ja aurinkopaneelit Asunnon materiaalit ovat laadukkaat ja nykyaikaiset. Keittiökalusteet on Topi-keittiöltä, ja keittiössä on runsaasti säilytys- ja laskutilaa. Nykyaikaiset kodinkoneet on Electroluxilta ja astianpesukone on tyylikkäästi kalustepeitteinen. Lattioissa on lattialämmitys ja lattiamateriaalina ajaton tammiparketti. Laatoitetussa kylpyhuoneessa on liitännät ja tilavaraukset pyykinpesukoneelle ja kuivausrummulle. Taloyhtiössä on lisäksi hyvä pyykkitupa ja kuivaushuone, joten välttämättä omaa pesukonetta et edes tarvitse. Taloyhtiöstä löytyy lisäksi hieno talosauna. Kohteessa on asuntokohtainen ilmanvaihto, mutta LTO-konetta ei ole perinteisesti sijoitettu kylpyhuoneeseen vaan erilliseen tilaan, johon on ovi suoraan rappukäytävästä. Siten kylpyhuoneessa on tavallista enemmän avaruutta kun LTO-kone ei sijaitse siellä. Asunto Oy Vantaan Huvikumpu on savuton yhtiö. Tämä asunto kuuluu valikoituihin kampanja-asuntoihimme 30.10.2026 saakka. Asunnon alkuperäinen velaton hinta on 238.500 euroa, joten kampanjaetu on 29.600 euroa. Nosta asumisesi tasoa muuttamalla uniikkiin, tunnelmalliseen ja näyttävään puukerrostaloyhtiöön, jollaisia on harvoin tarjolla. Kolmen talon viehättävä Huvikumpu on energiatehokas yhtiö omalla tontilla ja maltillisilla hoitokuluilla. Sijainti on keskusta-alueella viihtyisässä ja rauhallisessa korttelissa, josta kävelymatka juna-asemalle on vain 550 m. - Oma tontti, A-energialuokka ja maltilliset hoitokulut (2026: 3,4 euroa/m2/kk) - Pidetty, tunnelmallinen ja tyylikäs puukerrostalo - Suuria ikkunoita, avaria näkymiä - Viihtyisä kortteli, josta vain 550 m juna-asemalle Tikkurilan asemalta pääset nopeasti eri suuntiin mm.12 minuutissa junalla Helsingin keskustan palveluihin ja vapaa-ajan rientoihin, 7 min junamatkalla Helsinki-Vantaan lentokentän asemalle tai vaikka 1h 22 min Tampereelle! Huvikummussa materiaalien tasokkuuteen ja näyttävyyteen on panostettu erityisellä pieteetillä. Parketti, laatoitukset, kalusteet ja kodinkoneet ovat ihastuttaneet Huvikummun asunnonostajia. Asumisen mukavuutta lisäävät isot valoisat ikkunat, ja useassa asunnossa on avarat näkymät. Asuntotyypeittäin löytyy lasitetut parvekkeet, ranskalaiset parvekkeet, ja joissain kodeissa lisäksi jopa terassi. Miellyttävä lattialämmitys huonekohtaisella säädöllä mahdollistaa monipuolisen kalustettavuuden. Hyvän sisäilman takaa asuntokohtainen LTO-lämmöntalteenotolla varustettu tulo-poistoilmanvaihto. Turvallisuutta tuovat ovipuhelin, sähköverkkoon kytketyt palovaroittimet sekä uudenlainen hi-fog-sprinkleröinti. Huvikummun pyykkipesula ja pyykinkuivaushuone helpottavat arjen hallintaa. Huvikumpulaisten yhteisessä käytössä ovat myös edustava parvekkeellinen kerhohuone- ja talosaunatila. Sähköautoilijatkin on huomioitu: osa autohallipaikoista on varustettu sähköauton latauspistein. Autohallipaikat ovat osakkeina myytäviä paikkoja. Talojen katutasoissa sijaitsevat myös irtaimistovarastot, ulkoiluväline-, pyörä- ja lastenvaunuvarastot. A-energialuokan puukerrostalossa hiilijalanjälki on hiililaskelman perusteella pienempi verrattuna betonikerrostaloverrokkeihin. Erityisesti puurakenteiden vuoksi materiaalisidonnaiset päästöt ovat merkittävästi betonirakenteista taloa pienemmät, ja aurinkosähköjärjestelmästä ja A-energialuokkaan johtaneista suunnitteluratkaisuista seuraava matala energiakulutus tekee eron verrattuna niin kutsuttuihin yleisiin asuinkerrostaloihin. Kansipihan rauhassa sijaitsevilla vehreillä ja suojaisilla piha-alueilla on tilaa leikeille ja oleskelulle. Huvikumpu sijaitsee myös aivan päiväkoti Veturin naapurissa. Arkta on kokenut asuntorakentaja ja toteuttanut vuosien aikana lukuisia puukerrostaloja. Rakennamme puukerrostalot aina asianmukaisesti sääsuojan alla. Kohde on valmistunut 11/2023.</description>
+    <description>Tule tutustumaan tähän kauniiseen ja tasokkaaseen 2h-kotiin! Huonekorkeus poikkeuksellinen 3,5 m ja hyvin suuret ikkunat luovat kotiin upean tunnelman. Kodin erikoisuus on oma lasitettu parveke, jonka lisäksi on vielä terassi ja hieman piha-aluetta etelään päin. Omalla terassilla on mukava grillata ja pihalle voi päästää koiran ulkoilemaan. Tilavaan makuuhuoneeseen voi sijoittaa vaikkapa työpisteen, lukunurkkauksen tai lapsen sängyn. Makuuhuoneessa on runsaasti kaappitilaa liukuovien takana. Myös eteisessä on liukuovikaapisto. - Poikkeuksellinen huonekorkeus 3,5 m - Erittäin tilava makuuhuone liukuovikaapistoilla - Iso lasitettu parveke ja lisäksi terassi - Laadukkaat ja nykyaikaiset materiaalit - Oma tontti ja hoitovastike vain 3,4 EUR/kk (yhtiökokous päättää vastikkeesta vuosittain) - Rauhallinen yhtiö ja sijainti vain n. 600 m rautatieasemalta - A-energialuokka ja aurinkopaneelit Asunnon materiaalit ovat laadukkaat ja nykyaikaiset. Keittiökalusteet on Topi-keittiöltä, ja keittiössä on runsaasti säilytys- ja laskutilaa. Nykyaikaiset kodinkoneet on Electroluxilta ja astianpesukone on tyylikkäästi kalustepeitteinen. Lattioissa on lattialämmitys ja lattiamateriaalina ajaton tammiparketti. Laatoitetussa kylpyhuoneessa on liitännät ja tilavaraukset pyykinpesukoneelle ja kuivausrummulle. Taloyhtiössä on lisäksi hyvä pyykkitupa ja kuivaushuone, joten välttämättä omaa pesukonetta et edes tarvitse. Taloyhtiöstä löytyy lisäksi hieno talosauna. Kohteessa on asuntokohtainen ilmanvaihto, mutta LTO-konetta ei ole perinteisesti sijoitettu kylpyhuoneeseen vaan erilliseen tilaan, johon on ovi suoraan rappukäytävästä. Siten kylpyhuoneessa on tavallista enemmän avaruutta kun LTO-kone ei sijaitse siellä. Asunto Oy Vantaan Huvikumpu on savuton yhtiö. Tämä asunto kuuluu valikoituihin kampanja-asuntoihimme 30.10.2026 saakka. Asunnon alkuperäinen velaton hinta on 238.500 euroa, joten kampanjaetu on 29.600 euroa. Nosta asumisesi tasoa muuttamalla uniikkiin, tunnelmalliseen ja näyttävään puukerrostaloyhtiöön, jollaisia on harvoin tarjolla. Kolmen talon viehättävä Huvikumpu on energiatehokas yhtiö omalla tontilla ja maltillisilla hoitokuluilla. Sijainti on keskusta-alueella viihtyisässä ja rauhallisessa korttelissa, josta kävelymatka juna-asemalle on vain 550 m. - Oma tontti, A-energialuokka ja maltilliset hoitokulut (1.7.2026 alkaen: 3,4 euroa/m2/kk) - Pidetty, tunnelmallinen ja tyylikäs puukerrostalo - Suuria ikkunoita, avaria näkymiä - Viihtyisä kortteli, josta vain 550 m juna-asemalle Tikkurilan asemalta pääset nopeasti eri suuntiin mm.12 minuutissa junalla Helsingin keskustan palveluihin ja vapaa-ajan rientoihin, 7 min junamatkalla Helsinki-Vantaan lentokentän asemalle tai vaikka 1h 22 min Tampereelle! Huvikummussa materiaalien tasokkuuteen ja näyttävyyteen on panostettu erityisellä pieteetillä. Parketti, laatoitukset, kalusteet ja kodinkoneet ovat ihastuttaneet Huvikummun asunnonostajia. Asumisen mukavuutta lisäävät isot valoisat ikkunat, ja useassa asunnossa on avarat näkymät. Asuntotyypeittäin löytyy lasitetut parvekkeet, ranskalaiset parvekkeet, ja joissain kodeissa lisäksi jopa terassi. Miellyttävä lattialämmitys huonekohtaisella säädöllä mahdollistaa monipuolisen kalustettavuuden. Hyvän sisäilman takaa asuntokohtainen LTO-lämmöntalteenotolla varustettu tulo-poistoilmanvaihto. Turvallisuutta tuovat ovipuhelin, sähköverkkoon kytketyt palovaroittimet sekä uudenlainen hi-fog-sprinkleröinti. Huvikummun pyykkipesula ja pyykinkuivaushuone helpottavat arjen hallintaa. Huvikumpulaisten yhteisessä käytössä ovat myös edustava parvekkeellinen kerhohuone- ja talosaunatila. Sähköautoilijatkin on huomioitu: osa autohallipaikoista on varustettu sähköauton latauspistein. Autohallipaikat ovat osakkeina myytäviä paikkoja. Talojen katutasoissa sijaitsevat myös irtaimistovarastot, ulkoiluväline-, pyörä- ja lastenvaunuvarastot. A-energialuokan puukerrostalossa hiilijalanjälki on hiililaskelman perusteella pienempi verrattuna betonikerrostaloverrokkeihin. Erityisesti puurakenteiden vuoksi materiaalisidonnaiset päästöt ovat merkittävästi betonirakenteista taloa pienemmät, ja aurinkosähköjärjestelmästä ja A-energialuokkaan johtaneista suunnitteluratkaisuista seuraava matala energiakulutus tekee eron verrattuna niin kutsuttuihin yleisiin asuinkerrostaloihin. Kansipihan rauhassa sijaitsevilla vehreillä ja suojaisilla piha-alueilla on tilaa leikeille ja oleskelulle. Huvikumpu sijaitsee myös aivan päiväkoti Veturin naapurissa. Arkta on kokenut asuntorakentaja ja toteuttanut vuosien aikana lukuisia puukerrostaloja. Rakennamme puukerrostalot aina asianmukaisesti sääsuojan alla. Kohde on valmistunut 11/2023.</description>
     <address>
       <component name="addr1">Esikkotie 3 A2</component>
       <component name="city">Vantaa</component>
@@ -105,59 +211,6 @@
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260914161245_664942_a-talo.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <home_listing_id>c74</home_listing_id>
-    <name>Asunto Oy Vantaan Huvikumpu C74</name>
-    <availability>for_sale</availability>
-    <listing_type>for_sale_by_agent</listing_type>
-    <url>https://www.arkta.fi/asunnot/huvikumpu/c74/</url>
-    <price>309900 EUR</price>
-    <sales_price>62158 EUR</sales_price>
-    <property_type>apartment</property_type>
-    <num_beds>3</num_beds>
-    <area_size>64</area_size>
-    <area_size_unit>sqm</area_size_unit>
-    <year_built>2023</year_built>
-    <first_seen>2026-09-24</first_seen>
-    <description>Tämä asunto on mallikalustettu, joten näytöllä on helpompi arvioida asunnon kalustettavuutta ja mittasuhteita. Tervetuloa tutustumaan! Tässä valoisassa kulmahuoneistossa on valtavat ikkunat, joiden takaa näkyy vehreyttä. Asunnossa on mukavasti yksityisyyttä, sillä suoraan ikkunoiden edessä, lähellä ei ole naapuritalon ikkunoita. Kodissa on kauniit ja ajattomat materiaalit kuten kestävä tammiparketti, jonka alla mukavuutta tuo lattialämmitys. Isomman makuuhuoneen yhteydessä on tilava vaatehuone ja pienemmässä makuuhuoneessa on kaapisto. Keittiö on erillään olohuoneen alueesta. Topi-keittiössä on kunnolla tilaa ruoanlaittoon se on hyvin varusteltu Electroluxin kodinkoneilla; jopa kaksi kylmäkonetta, liesitaso, uuni, kalusteovipeitteinen astianpesukone ja mikroaaltouuni kalusteisiin upotettuna. Lämminhenkinen tilava lasitettu parveke puupinnoin, toimii jatkeena asunnon sisätiloille keväästä pitkälle syksyyn. Tilavassa kylpyhuoneessa on kauniit, harmoniset Pukkilan laattavalinnat ja tervaleppäpaneloitu katto. Kalusteina on Temal-allaskaapisto ja peilikaappi. Pyykinpesukoneelle ja kuivausrummulle on tilavaraus. Kylpyhuoneessa ei ole LTO-konetta katon rajassa kuten tavallisesti, vaan se on nerokkaasti poissa silmistä huoneiston ulkopuolisessa pienessä asuntokohtaisessa teknisessä tilassa. Asunto kuuluu valikoituihin kampanja-asuntoihimme 30.10.2026 saakka. Asunnon alkuperäinen velaton hinta on 354.500 euroa, joten kampanjaetu on 44.600 euroa.</description>
-    <address>
-      <component name="addr1">Esikkotie 3 C74</component>
-      <component name="city">Vantaa</component>
-      <component name="region">Uusimaa</component>
-      <component name="postal_code">01300</component>
-      <component name="country">FI</component>
-    </address>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153532_757361_esikkotie_3_lo-11.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251125135148_637065_2.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153526_049356_esikkotie_3_lo-5.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153521_651160_esikkotie_3_lo-3.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153500_853912_esikkotie_3_lo-12.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153523_775458_esikkotie_3_lo-4.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153519_409224_esikkotie_3_lo-1.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153528_438780_esikkotie_3_lo-6.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153530_507064_esikkotie_3_lo-8.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153504_844405_esikkotie_3_lo-14.jpg</url>
     </image>
   </listing>
   <listing>
@@ -264,6 +317,59 @@
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251205142906_994088_kuvakollaasi-ilokkaanpuisto.png</url>
+    </image>
+  </listing>
+  <listing>
+    <home_listing_id>ta1590</home_listing_id>
+    <name>As Oy Tampereen Auringonkukka A36</name>
+    <availability>for_sale</availability>
+    <listing_type>for_sale_by_agent</listing_type>
+    <url>https://www.arkta.fi/asunnot/auringonkukka/ta1590/</url>
+    <price>144000 EUR</price>
+    <sales_price>43197 EUR</sales_price>
+    <property_type>apartment</property_type>
+    <num_beds>1</num_beds>
+    <area_size>26</area_size>
+    <area_size_unit>sqm</area_size_unit>
+    <year_built>2023</year_built>
+    <first_seen>2026-09-24</first_seen>
+    <description>Ylimmän kerroksen yksiö, jossa lasitettu parveke ja helppo kalustettavuus. Isot ikkunat ja länsi ilmasuuntana takaavat valoisan asunnon!</description>
+    <address>
+      <component name="addr1">Ilokkaanrinne 4 A36</component>
+      <component name="city">Tampere</component>
+      <component name="region">Pirkanmaa</component>
+      <component name="postal_code">33820</component>
+      <component name="country">FI</component>
+    </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250710101732_462796_ilokkaanrinne_4-1.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251205143035_306320_auringonkukka_a36.png</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20230915150404_769100_p1003263.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20230915150411_159014_p1003269.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20230915150417_624150_p1003260.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251205142906_994088_kuvakollaasi-ilokkaanpuisto.png</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250710101737_415879_ilokkaanrinne_4-2.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250710101741_866286_ilokkaanrinne_4-12.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250710101746_119188_ilokkaanrinne_4-13.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20230327154442_942994_ilokkaanpuisto_aurinkoenergia.png</url>
     </image>
   </listing>
   <listing>
@@ -426,6 +532,112 @@
     </image>
   </listing>
   <listing>
+    <home_listing_id>ta1613</home_listing_id>
+    <name>As Oy Tampereen Lamminpään Hilla C66</name>
+    <availability>for_sale</availability>
+    <listing_type>for_sale_by_agent</listing_type>
+    <url>https://www.arkta.fi/asunnot/hilla/ta1613/</url>
+    <price>249000 EUR</price>
+    <sales_price>60729 EUR</sales_price>
+    <property_type>apartment</property_type>
+    <num_beds>3</num_beds>
+    <area_size>69</area_size>
+    <area_size_unit>sqm</area_size_unit>
+    <year_built>2024</year_built>
+    <first_seen>2026-09-24</first_seen>
+    <description>Kampanjahinta 249.000e. Alkuperäinen velaton hinta on 269.000e. Uusi, tilava ensimmäisen kerroksen kolmio. Kodista on rauhalliset puistonäkymät. Tämän kulmahuoneiston ikkunoihin pääsee paistamaan aurinko päivästä iltaan, joten koti on mukavan valoisa päivästä iltaan. Parvekkeella nautitaan ilta-auringosta. Suuri olohuonetila on helppo kalustaa omien tarpeidensa mukaisesti. Eteinen on tilava. Ja tästä kodista löytyy erillinen wc arkea helpottamaan.</description>
+    <address>
+      <component name="addr1">Nauhatehtaanraitti 25 C66</component>
+      <component name="city">Tampere</component>
+      <component name="region">Pirkanmaa</component>
+      <component name="postal_code">33420</component>
+      <component name="country">FI</component>
+    </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250403092910_223120_nauhatehtaanraitti_25_c_66__tampere-3.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251205142458_446286_hilla_c66.png</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250403092905_593915_nauhatehtaanraitti_25_c_66__tampere-1.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250403092907_833012_nauhatehtaanraitti_25_c_66__tampere-2.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250403092912_535686_nauhatehtaanraitti_25_c_66__tampere-9.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250403092914_751915_nauhatehtaanraitti_25_c_66__tampere-4.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250403092930_914450_nauhatehtaanraitti_25_c_66__tampere-15.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250403092856_439902_nauhatehtaanraitti_25_c_66__tampere-19.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250403092933_260520_nauhatehtaanraitti_25_c_66__tampere-17.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250403092858_730488_nauhatehtaanraitti_25_c_66__tampere-21.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <home_listing_id>ta1616</home_listing_id>
+    <name>As Oy Tampereen Lamminpään Hilla C69</name>
+    <availability>for_sale</availability>
+    <listing_type>for_sale_by_agent</listing_type>
+    <url>https://www.arkta.fi/asunnot/hilla/ta1616/</url>
+    <price>155000 EUR</price>
+    <sales_price>38000 EUR</sales_price>
+    <property_type>apartment</property_type>
+    <num_beds>2</num_beds>
+    <area_size>39</area_size>
+    <area_size_unit>sqm</area_size_unit>
+    <year_built>2024</year_built>
+    <first_seen>2026-09-24</first_seen>
+    <description>Kampanjahinta 155.000e. Alkuperäinen velaton hinta on 169.000e. Ensimmäisen kerroksen kaksio. Ei maantasolla. Asunto on helppo kalustettava ja neliöt ovat käytetty erinomaisesti sinne, missä tilaa eniten tarvitsee. Asunnossa on iso lasitettu parveke. Valokuvat ovat vastaavasta 2.krs asunnosta. Näistä poiketen asunnon kph laatta sekä keittiön taso ja vetimet ovat väriltään tummia. Asunto on vuokrattu. Vuokra 735e + vesi.</description>
+    <address>
+      <component name="addr1">Nauhatehtaanraitti 25 C69</component>
+      <component name="city">Tampere</component>
+      <component name="region">Pirkanmaa</component>
+      <component name="postal_code">33420</component>
+      <component name="country">FI</component>
+    </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250710095448_600800_nauhatehtaanraitti_25-2.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20230110103930_873110_hilla_c69.png</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260903103053_454540_223629067.jpeg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260903103051_767416_223629093.jpeg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260903103055_199038_223629091.jpeg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251205142738_432230_kuvakollaasi-hilla.png</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250710095442_852955_nauhatehtaanraitti_25-1.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250710095457_759593_nauhatehtaanraitti_25-6.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250710095453_419747_nauhatehtaanraitti_25-4.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20230110102243_352214_hilla_asemapiirustus.png</url>
+    </image>
+  </listing>
+  <listing>
     <home_listing_id>ta1720</home_listing_id>
     <name>Asunto Oy Helsingin Onnimanni C2</name>
     <availability>for_sale</availability>
@@ -476,112 +688,6 @@
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240909145901_897485_ka__skynhaltijantie_40_c_2-46.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <home_listing_id>ta1654</home_listing_id>
-    <name>As Oy Tampereen Lamminpään Hilla C107</name>
-    <availability>for_sale</availability>
-    <listing_type>for_sale_by_agent</listing_type>
-    <url>https://www.arkta.fi/asunnot/hilla/ta1654/</url>
-    <price>142000 EUR</price>
-    <sales_price>42505 EUR</sales_price>
-    <property_type>apartment</property_type>
-    <num_beds>1</num_beds>
-    <area_size>26</area_size>
-    <area_size_unit>sqm</area_size_unit>
-    <year_built>2024</year_built>
-    <first_seen>2026-09-24</first_seen>
-    <description>Ylimmän kerroksen yksiöstä on avarat näkymät. Kodissa on tilava lasitettu parveke, joka suuntautuu sisäpihan puolelle. Koti on hyvin suunniteltu ja varusteltu tehokkaaseen kokoonsa nähden: mm. keittiössä on hyvin säilytystilaa ja kunnolliset Electroluxin kodinkoneet. Kylpyhuoneeseen voi sijoittaa pyykkitornin. Asunto sopii hyvin omaksi tai vaikkapa sijoitusasunnoksi. Vuokrattavuus on hyvä ja oma tontti hillitsee kustannusten nousuja tulevaisuudessa.</description>
-    <address>
-      <component name="addr1">Nauhatehtaanraitti 25 C107</component>
-      <component name="city">Tampere</component>
-      <component name="region">Pirkanmaa</component>
-      <component name="postal_code">33420</component>
-      <component name="country">FI</component>
-    </address>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250710095448_600800_nauhatehtaanraitti_25-2.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251205142619_096029_hilla_c107.png</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240508092815_908942_p1026394.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240508092820_081674_p1026397.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240508092812_264848_p1026393.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240508092823_996470_p1026398.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251205142738_432230_kuvakollaasi-hilla.png</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250710095442_852955_nauhatehtaanraitti_25-1.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250710095457_759593_nauhatehtaanraitti_25-6.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250710095453_419747_nauhatehtaanraitti_25-4.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <home_listing_id>ta1590</home_listing_id>
-    <name>As Oy Tampereen Auringonkukka A36</name>
-    <availability>for_sale</availability>
-    <listing_type>for_sale_by_agent</listing_type>
-    <url>https://www.arkta.fi/asunnot/auringonkukka/ta1590/</url>
-    <price>144000 EUR</price>
-    <sales_price>43197 EUR</sales_price>
-    <property_type>apartment</property_type>
-    <num_beds>1</num_beds>
-    <area_size>26</area_size>
-    <area_size_unit>sqm</area_size_unit>
-    <year_built>2023</year_built>
-    <first_seen>2026-09-24</first_seen>
-    <description>Ylimmän kerroksen yksiö, jossa lasitettu parveke ja helppo kalustettavuus. Isot ikkunat ja länsi ilmasuuntana takaavat valoisan asunnon!</description>
-    <address>
-      <component name="addr1">Ilokkaanrinne 4 A36</component>
-      <component name="city">Tampere</component>
-      <component name="region">Pirkanmaa</component>
-      <component name="postal_code">33820</component>
-      <component name="country">FI</component>
-    </address>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250710101732_462796_ilokkaanrinne_4-1.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251205143035_306320_auringonkukka_a36.png</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20230915150404_769100_p1003263.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20230915150411_159014_p1003269.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20230915150417_624150_p1003260.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251205142906_994088_kuvakollaasi-ilokkaanpuisto.png</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250710101737_415879_ilokkaanrinne_4-2.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250710101741_866286_ilokkaanrinne_4-12.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250710101746_119188_ilokkaanrinne_4-13.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20230327154442_942994_ilokkaanpuisto_aurinkoenergia.png</url>
     </image>
   </listing>
   <listing>
@@ -850,59 +956,6 @@
     </image>
   </listing>
   <listing>
-    <home_listing_id>ta1751</home_listing_id>
-    <name>Asunto Oy Helsingin Onnimanni A11</name>
-    <availability>for_sale</availability>
-    <listing_type>for_sale_by_agent</listing_type>
-    <url>https://www.arkta.fi/asunnot/onnimanni/ta1751/</url>
-    <price>321000 EUR</price>
-    <sales_price>64640 EUR</sales_price>
-    <property_type>apartment</property_type>
-    <num_beds>3</num_beds>
-    <area_size>72</area_size>
-    <area_size_unit>sqm</area_size_unit>
-    <year_built>2024</year_built>
-    <first_seen>2026-09-24</first_seen>
-    <description>Valikoiduissa asunnoissa on kampanjahinnat 30.10.2026 saakka. Tämän asunnon alkuperäinen velaton hinta on 368.210 euroa, joten kampanjaetu on 47.210 euroa. Viihtyisä kulmahuoneisto, jossa ikkunat kahteen eri suuntaan avarilla näkymillä. Tässä kodissa on erittäin toiminnallinen pohjaratkaisu, jossa mm. kylpyhuoneen lisäksi on erillinen wc, päämakuuhuoneessa ihana sisään astuttava vaatehuone ja toisessakin makuuhuoneessa reilusti kaappitilaa. Lisäksi kodin erillisvarasto onkin kätevästi asunnon yhteydessä. Lisää mukavuutta tarjoaa lasitettu parveke, josta on näkymät kahteen suuntaan. Kodin materiaalit keittiössä, wc:ssä ja kylpyhuoneessa ovat aikaa kestäviä. Lattia on ajaton tammiparketti lattialämmityksellä. Tässä siistissä kodissa on asuttu vähän aikaa ja nyt se on vapautunut myyntiin.</description>
-    <address>
-      <component name="addr1">Käskynhaltijantie 40 A11</component>
-      <component name="city">Helsinki</component>
-      <component name="region">Uusimaa</component>
-      <component name="postal_code">00640</component>
-      <component name="country">FI</component>
-    </address>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20241009111421_192708_yksioa23_virtuaalistailaus_vesileimallinen_asunnoille_5__11__17.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240410154644_504321_a05__a11__a17_v2.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260502222603_381232_image3_dsy9970.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260502222336_460191_image10_lasitettu_kulmaparveke.png</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260502222530_250520_image7_dsy0012.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260502222750_699584_makuuhuoneen_digitaalinen_kalustus.png</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260502222747_907561_dsy9996.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260502222734_700381_dsy0002.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20241009125543_231049_ka__skynhaltijantie_40_a_23-12.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20241009125654_061821_ka__skynhaltijantie_40_a_23-14.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <home_listing_id>ta2327</home_listing_id>
     <name>As Oy Kangasalan Villa Valo A3</name>
     <availability>sale_pending</availability>
@@ -953,6 +1006,59 @@
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260928095211_779925_arkta_villa_valo_ulkokuva_a1_web_vesileima_valmis.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <home_listing_id>ta1751</home_listing_id>
+    <name>Asunto Oy Helsingin Onnimanni A11</name>
+    <availability>for_sale</availability>
+    <listing_type>for_sale_by_agent</listing_type>
+    <url>https://www.arkta.fi/asunnot/onnimanni/ta1751/</url>
+    <price>321000 EUR</price>
+    <sales_price>64640 EUR</sales_price>
+    <property_type>apartment</property_type>
+    <num_beds>3</num_beds>
+    <area_size>72</area_size>
+    <area_size_unit>sqm</area_size_unit>
+    <year_built>2024</year_built>
+    <first_seen>2026-09-24</first_seen>
+    <description>Valikoiduissa asunnoissa on kampanjahinnat 30.10.2026 saakka. Tämän asunnon alkuperäinen velaton hinta on 368.210 euroa, joten kampanjaetu on 47.210 euroa. Viihtyisä kulmahuoneisto, jossa ikkunat kahteen eri suuntaan avarilla näkymillä. Tässä kodissa on erittäin toiminnallinen pohjaratkaisu, jossa mm. kylpyhuoneen lisäksi on erillinen wc, päämakuuhuoneessa ihana sisään astuttava vaatehuone ja toisessakin makuuhuoneessa reilusti kaappitilaa. Lisäksi kodin erillisvarasto onkin kätevästi asunnon yhteydessä. Lisää mukavuutta tarjoaa lasitettu parveke, josta on näkymät kahteen suuntaan. Kodin materiaalit keittiössä, wc:ssä ja kylpyhuoneessa ovat aikaa kestäviä. Lattia on ajaton tammiparketti lattialämmityksellä. Tässä siistissä kodissa on asuttu vähän aikaa ja nyt se on vapautunut myyntiin.</description>
+    <address>
+      <component name="addr1">Käskynhaltijantie 40 A11</component>
+      <component name="city">Helsinki</component>
+      <component name="region">Uusimaa</component>
+      <component name="postal_code">00640</component>
+      <component name="country">FI</component>
+    </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20241009111421_192708_yksioa23_virtuaalistailaus_vesileimallinen_asunnoille_5__11__17.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240410154644_504321_a05__a11__a17_v2.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260502222603_381232_image3_dsy9970.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260502222336_460191_image10_lasitettu_kulmaparveke.png</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260502222530_250520_image7_dsy0012.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260502222750_699584_makuuhuoneen_digitaalinen_kalustus.png</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260502222747_907561_dsy9996.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260502222734_700381_dsy0002.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20241009125543_231049_ka__skynhaltijantie_40_a_23-12.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20241009125654_061821_ka__skynhaltijantie_40_a_23-14.jpg</url>
     </image>
   </listing>
   <listing>
@@ -1115,6 +1221,324 @@
     </image>
   </listing>
   <listing>
+    <home_listing_id>ta2331</home_listing_id>
+    <name>As Oy Kangasalan Villa Valo A5</name>
+    <availability>sale_pending</availability>
+    <listing_type>for_sale_by_agent</listing_type>
+    <url>https://www.arkta.fi/asunnot/villavalo/ta2331/</url>
+    <price>379000 EUR</price>
+    <sales_price>151567 EUR</sales_price>
+    <property_type>house</property_type>
+    <num_beds>4</num_beds>
+    <area_size>109</area_size>
+    <area_size_unit>sqm</area_size_unit>
+    <year_built>2027</year_built>
+    <first_seen>2026-09-24</first_seen>
+    <description>Hurmaava päätyhuoneisto, jossa laajat ikkunapinnat tekevät avaran ja valoisan tunnelman. Olohuoneessa on varaus viidennelle makuuhuoneelle. Asunnossa on ylellisen tilavat makuuhuoneet, arkea helpottava vaatehuone eteisessä sekä säilytystilaa suuremmankin perheen tarpeeseen. Kaksitasoisuus tarjoaa selkeän jaon arjen toiminnoille. Asunnolla on terassi ja reilu takapiha, jossa perheen lapset pääsevät leikkimään vanhempien näkösällä. A-talon asunnon takapiha avautuu etelään ja B- sekä C-talon asuntojen takapihat avautuvat länteen.</description>
+    <address>
+      <component name="addr1">Varikontie 12 A5</component>
+      <component name="city">Kangasala</component>
+      <component name="region">Pirkanmaa</component>
+      <component name="postal_code">36240</component>
+      <component name="country">FI</component>
+    </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260924143252_468712_arkta_villa_valo_ulkokuva_a1_web.png</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250526141035_517860_a5__b6__c16.png</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082106_840487_arkta_villa_valo_olohuone_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082102_532965_arkta_villa_valo_keittio_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082058_034468_250207_sisakuva_ilman_leluja_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082104_714183_arkta_villa_valo_makuuhuone_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082112_874056_arkta_villa_valo_kylpyhuone_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082100_370609_250207_ulkokuva_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260928095211_779925_arkta_villa_valo_ulkokuva_a1_web_vesileima_valmis.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260902125026_392426_villavalo-pdx.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <home_listing_id>ta2332</home_listing_id>
+    <name>As Oy Kangasalan Villa Valo B6</name>
+    <availability>sale_pending</availability>
+    <listing_type>for_sale_by_agent</listing_type>
+    <url>https://www.arkta.fi/asunnot/villavalo/ta2332/</url>
+    <price>379000 EUR</price>
+    <sales_price>151567 EUR</sales_price>
+    <property_type>house</property_type>
+    <num_beds>5</num_beds>
+    <area_size>109</area_size>
+    <area_size_unit>sqm</area_size_unit>
+    <year_built>2027</year_built>
+    <first_seen>2026-09-24</first_seen>
+    <description>Hurmaava päätyhuoneisto, jossa laajat ikkunapinnat tekevät avaran ja valoisan tunnelman. Olohuoneessa on varaus viidennelle makuuhuoneelle. Asunnossa on ylellisen tilavat makuuhuoneet, arkea helpottava vaatehuone eteisessä sekä säilytystilaa suuremmankin perheen tarpeeseen. Kaksitasoisuus tarjoaa selkeän jaon arjen toiminnoille. Asunnolla on terassi ja reilu takapiha, jossa perheen lapset pääsevät leikkimään vanhempien näkösällä. A-talon asunnon takapiha avautuu etelään ja B- sekä C-talon asuntojen takapihat avautuvat länteen.</description>
+    <address>
+      <component name="addr1">Varikontie 12 B6</component>
+      <component name="city">Kangasala</component>
+      <component name="region">Pirkanmaa</component>
+      <component name="postal_code">36240</component>
+      <component name="country">FI</component>
+    </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260924143252_468712_arkta_villa_valo_ulkokuva_a1_web.png</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250526141102_060065_a5__b6__c16.png</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082106_840487_arkta_villa_valo_olohuone_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082102_532965_arkta_villa_valo_keittio_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082058_034468_250207_sisakuva_ilman_leluja_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082104_714183_arkta_villa_valo_makuuhuone_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082112_874056_arkta_villa_valo_kylpyhuone_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082100_370609_250207_ulkokuva_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260928095211_779925_arkta_villa_valo_ulkokuva_a1_web_vesileima_valmis.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260902125026_392426_villavalo-pdx.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <home_listing_id>ta2333</home_listing_id>
+    <name>As Oy Kangasalan Villa Valo B7</name>
+    <availability>for_sale</availability>
+    <listing_type>for_sale_by_agent</listing_type>
+    <url>https://www.arkta.fi/asunnot/villavalo/ta2333/</url>
+    <price>349000 EUR</price>
+    <sales_price>139623 EUR</sales_price>
+    <property_type>house</property_type>
+    <num_beds>4</num_beds>
+    <area_size>96</area_size>
+    <area_size_unit>sqm</area_size_unit>
+    <year_built>2027</year_built>
+    <first_seen>2026-09-24</first_seen>
+    <description>Hurmaava neliö, jossa laajat ikkunapinnat tekevät avaran ja valoisan tunnelman. Asunnon alakerrasta löytyy eteisen yhteydestä kätevä vaatehuone, erillis-wc sekä niemekkeellinen keittiö runsaalla säilytys- ja laskutilalla. Suuren olohuoneen voi kalustaa monella tapaa. Käynti terassille ja pihalle tapahtuu olohuoneesta, jolloin reilun kokoinen piha-alue toimii kesäaikaan upeasti ja helposti oleskelutilojen jatkeena. Asunnon yläkerrassa on kolme makuuhuonetta sekä hyvin säilytystilaa. Kylpyhuoneessa on paikka pesutornille ja saunaan valoa tuo pieni ikkuna.</description>
+    <address>
+      <component name="addr1">Varikontie 12 B7</component>
+      <component name="city">Kangasala</component>
+      <component name="region">Pirkanmaa</component>
+      <component name="postal_code">36240</component>
+      <component name="country">FI</component>
+    </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260924143252_468712_arkta_villa_valo_ulkokuva_a1_web.png</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250526141135_117053_b7__b8__c13__c14__c15.png</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082106_840487_arkta_villa_valo_olohuone_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082102_532965_arkta_villa_valo_keittio_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082058_034468_250207_sisakuva_ilman_leluja_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082104_714183_arkta_villa_valo_makuuhuone_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082112_874056_arkta_villa_valo_kylpyhuone_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082100_370609_250207_ulkokuva_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260928095211_779925_arkta_villa_valo_ulkokuva_a1_web_vesileima_valmis.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260902125026_392426_villavalo-pdx.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <home_listing_id>ta2334</home_listing_id>
+    <name>As Oy Kangasalan Villa Valo B8</name>
+    <availability>for_sale</availability>
+    <listing_type>for_sale_by_agent</listing_type>
+    <url>https://www.arkta.fi/asunnot/villavalo/ta2334/</url>
+    <price>349000 EUR</price>
+    <sales_price>139623 EUR</sales_price>
+    <property_type>house</property_type>
+    <num_beds>4</num_beds>
+    <area_size>96</area_size>
+    <area_size_unit>sqm</area_size_unit>
+    <year_built>2027</year_built>
+    <first_seen>2026-09-24</first_seen>
+    <description>Hurmaava neliö, jossa laajat ikkunapinnat tekevät avaran ja valoisan tunnelman. Asunnon alakerrasta löytyy eteisen yhteydestä kätevä vaatehuone, erillis-wc sekä niemekkeellinen keittiö runsaalla säilytys- ja laskutilalla. Suuren olohuoneen voi kalustaa monella tapaa. Käynti terassille ja pihalle tapahtuu olohuoneesta, jolloin reilun kokoinen piha-alue toimii kesäaikaan upeasti ja helposti oleskelutilojen jatkeena. Asunnon yläkerrassa on kolme makuuhuonetta sekä hyvin säilytystilaa. Kylpyhuoneessa on paikka pesutornille ja saunaan valoa tuo pieni ikkuna.</description>
+    <address>
+      <component name="addr1">Varikontie 12 B8</component>
+      <component name="city">Kangasala</component>
+      <component name="region">Pirkanmaa</component>
+      <component name="postal_code">36240</component>
+      <component name="country">FI</component>
+    </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260924143252_468712_arkta_villa_valo_ulkokuva_a1_web.png</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250526141156_869703_b7__b8__c13__c14__c15.png</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082106_840487_arkta_villa_valo_olohuone_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082102_532965_arkta_villa_valo_keittio_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082058_034468_250207_sisakuva_ilman_leluja_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082104_714183_arkta_villa_valo_makuuhuone_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082112_874056_arkta_villa_valo_kylpyhuone_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082100_370609_250207_ulkokuva_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260928095211_779925_arkta_villa_valo_ulkokuva_a1_web_vesileima_valmis.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260902125026_392426_villavalo-pdx.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <home_listing_id>ta2335</home_listing_id>
+    <name>As Oy Kangasalan Villa Valo C14</name>
+    <availability>for_sale</availability>
+    <listing_type>for_sale_by_agent</listing_type>
+    <url>https://www.arkta.fi/asunnot/villavalo/ta2335/</url>
+    <price>349000 EUR</price>
+    <sales_price>139623 EUR</sales_price>
+    <property_type>house</property_type>
+    <num_beds>4</num_beds>
+    <area_size>96</area_size>
+    <area_size_unit>sqm</area_size_unit>
+    <year_built>2027</year_built>
+    <first_seen>2026-09-24</first_seen>
+    <description>Hurmaava neliö, jossa laajat ikkunapinnat tekevät avaran ja valoisan tunnelman. Asunnon alakerrasta löytyy eteisen yhteydestä kätevä vaatehuone, erillis-wc sekä niemekkeellinen keittiö runsaalla säilytys- ja laskutilalla. Suuren olohuoneen voi kalustaa monella tapaa. Käynti terassille ja pihalle tapahtuu olohuoneesta, jolloin reilun kokoinen piha-alue toimii kesäaikaan upeasti ja helposti oleskelutilojen jatkeena. Asunnon yläkerrassa on kolme makuuhuonetta sekä hyvin säilytystilaa. Kylpyhuoneessa on paikka pesutornille ja saunaan valoa tuo pieni ikkuna.</description>
+    <address>
+      <component name="addr1">Varikontie 12 C14</component>
+      <component name="city">Kangasala</component>
+      <component name="region">Pirkanmaa</component>
+      <component name="postal_code">36240</component>
+      <component name="country">FI</component>
+    </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260924143252_468712_arkta_villa_valo_ulkokuva_a1_web.png</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250526141615_238851_b7__b8__c13__c14__c15.png</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082106_840487_arkta_villa_valo_olohuone_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082102_532965_arkta_villa_valo_keittio_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082058_034468_250207_sisakuva_ilman_leluja_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082104_714183_arkta_villa_valo_makuuhuone_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082112_874056_arkta_villa_valo_kylpyhuone_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082100_370609_250207_ulkokuva_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260928095211_779925_arkta_villa_valo_ulkokuva_a1_web_vesileima_valmis.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260902125026_392426_villavalo-pdx.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <home_listing_id>ta2336</home_listing_id>
+    <name>As Oy Kangasalan Villa Valo C15</name>
+    <availability>for_sale</availability>
+    <listing_type>for_sale_by_agent</listing_type>
+    <url>https://www.arkta.fi/asunnot/villavalo/ta2336/</url>
+    <price>349000 EUR</price>
+    <sales_price>139623 EUR</sales_price>
+    <property_type>house</property_type>
+    <num_beds>4</num_beds>
+    <area_size>96</area_size>
+    <area_size_unit>sqm</area_size_unit>
+    <year_built>2027</year_built>
+    <first_seen>2026-09-24</first_seen>
+    <description>Hurmaava neliö, jossa laajat ikkunapinnat tekevät avaran ja valoisan tunnelman. Asunnon alakerrasta löytyy eteisen yhteydestä kätevä vaatehuone, erillis-wc sekä niemekkeellinen keittiö runsaalla säilytys- ja laskutilalla. Suuren olohuoneen voi kalustaa monella tapaa. Käynti terassille ja pihalle tapahtuu olohuoneesta, jolloin reilun kokoinen piha-alue toimii kesäaikaan upeasti ja helposti oleskelutilojen jatkeena. Asunnon yläkerrassa on kolme makuuhuonetta sekä hyvin säilytystilaa. Kylpyhuoneessa on paikka pesutornille ja saunaan valoa tuo pieni ikkuna.</description>
+    <address>
+      <component name="addr1">Varikontie 12 C15</component>
+      <component name="city">Kangasala</component>
+      <component name="region">Pirkanmaa</component>
+      <component name="postal_code">36240</component>
+      <component name="country">FI</component>
+    </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260924143252_468712_arkta_villa_valo_ulkokuva_a1_web.png</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250526141702_622874_b7__b8__c13__c14__c15.png</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082106_840487_arkta_villa_valo_olohuone_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082102_532965_arkta_villa_valo_keittio_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082058_034468_250207_sisakuva_ilman_leluja_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082104_714183_arkta_villa_valo_makuuhuone_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082112_874056_arkta_villa_valo_kylpyhuone_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082100_370609_250207_ulkokuva_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260928095211_779925_arkta_villa_valo_ulkokuva_a1_web_vesileima_valmis.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260902125026_392426_villavalo-pdx.jpg</url>
+    </image>
+  </listing>
+  <listing>
     <home_listing_id>b28</home_listing_id>
     <name>Asunto Oy Helsingin Onnimanni B28</name>
     <availability>for_sale</availability>
@@ -1168,59 +1592,6 @@
     </image>
   </listing>
   <listing>
-    <home_listing_id>a14</home_listing_id>
-    <name>Asunto Oy Helsingin Onnimanni A14</name>
-    <availability>sale_pending</availability>
-    <listing_type>for_sale_by_agent</listing_type>
-    <url>https://www.arkta.fi/asunnot/onnimanni/a14/</url>
-    <price>444900 EUR</price>
-    <sales_price>90895 EUR</sales_price>
-    <property_type>apartment</property_type>
-    <num_beds>5</num_beds>
-    <area_size>109</area_size>
-    <area_size_unit>sqm</area_size_unit>
-    <year_built>2024</year_built>
-    <first_seen>2026-09-24</first_seen>
-    <description>Tämä asunto on varattu. Rauhallisessa yhtiössä on vapaana tämä tilava viiden huoneen koti, jossa näkymät on jopa kolmeen ilmansuuntaan. Olohuoneesta aukeaa ovi kodin omalle parvekkeelle, joka suuntaa rauhalliselle sisäpihalle ja näkymä jatkuu läpi koko sisäpihan. Kodin makuuhuoneet ovat kunnollisen kokoisia ja jokaisessa on hyvin kaappitilaa. Kodin huoneissa on aikaa ja kulutusta kestävä tammiparketti, jonka alla on lattialämmitys. Kodissa on vaalea ja valoisa tunnelma kautta koko asunnon. Tehosteena on tyylikkäästi mustia pintoja hyvin varustellussa keittiössä. Topi-keittiöiden keittiössä on runsaasti pöytätilaa ruoanlaittoon. Kalusteisiin on jätetty tilavaraus joko toiselle kylmäkoneelle tai komerolle. Kodinkoneet on Electroluxilta. Asunnon ehdottomasti kruunaa kaunis kylpyhuone ja upea sauna, jossa lauteet kahdella seinustalla vastakkain ja välissä kiuas. Erillis-wc:ssä on harvinaisuus, ihastuttava iso ikkuna. Eteisessä on kaapiston lisäksi tilava varasto/vaatehuone ulkoiluvarusteille tai välineille. Kaikissa makuuhuoneissa korkeita komeroita. Kun tarvitset neljän makuuhuoneen toimivaa kotia, tässä on erinomainen vaihtoehto. Valikoiduissa asunnoissa on kampanjahinnat 30.10.2026 saakka. Tämän asunnon alkuperäinen velaton hinta on 511.820 euroa, joten kampanjaetu on 66.920 euroa.</description>
-    <address>
-      <component name="addr1">Käskynhaltijantie 40 A14</component>
-      <component name="city">Helsinki</component>
-      <component name="region">Uusimaa</component>
-      <component name="postal_code">00640</component>
-      <component name="country">FI</component>
-    </address>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918160135_858730_image14_onnimanni_a14_oh_kt_digistailaus.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251215231925_594130_a14.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20241118160446_905181_ka__skynhaltijantie_40_a_8-4.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251022134720_010174_onnimanni_virtuaalistailaus_a8_mh_web_vesileimattu_saman_linjan_asunnoille.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240916115117_853462_ka__skynhaltijantie_40_a_8-6.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240916115038_359401_ka__skynhaltijantie_40_a_8-1.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240916115057_839704_ka__skynhaltijantie_40_a_8-10.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20241118160230_992089_ka__skynhaltijantie_40_a_8-19.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20241118160301_588790_ka__skynhaltijantie_40_a_8-13.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20241118160228_138678_ka__skynhaltijantie_40_a_8-16.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <home_listing_id>ta1903</home_listing_id>
     <name>As Oy Tampereen Auringonpaiste A34</name>
     <availability>for_sale</availability>
@@ -1271,112 +1642,6 @@
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251020144246_698724_img_7430.jpeg</url>
-    </image>
-  </listing>
-  <listing>
-    <home_listing_id>ta1613</home_listing_id>
-    <name>As Oy Tampereen Lamminpään Hilla C66</name>
-    <availability>for_sale</availability>
-    <listing_type>for_sale_by_agent</listing_type>
-    <url>https://www.arkta.fi/asunnot/hilla/ta1613/</url>
-    <price>249000 EUR</price>
-    <sales_price>60729 EUR</sales_price>
-    <property_type>apartment</property_type>
-    <num_beds>3</num_beds>
-    <area_size>69</area_size>
-    <area_size_unit>sqm</area_size_unit>
-    <year_built>2024</year_built>
-    <first_seen>2026-09-24</first_seen>
-    <description>Kampanjahinta 249.000e. Alkuperäinen velaton hinta on 269.000e. Uusi, tilava ensimmäisen kerroksen kolmio. Kodista on rauhalliset puistonäkymät. Tämän kulmahuoneiston ikkunoihin pääsee paistamaan aurinko päivästä iltaan, joten koti on mukavan valoisa päivästä iltaan. Parvekkeella nautitaan ilta-auringosta. Suuri olohuonetila on helppo kalustaa omien tarpeidensa mukaisesti. Eteinen on tilava. Ja tästä kodista löytyy erillinen wc arkea helpottamaan.</description>
-    <address>
-      <component name="addr1">Nauhatehtaanraitti 25 C66</component>
-      <component name="city">Tampere</component>
-      <component name="region">Pirkanmaa</component>
-      <component name="postal_code">33420</component>
-      <component name="country">FI</component>
-    </address>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250403092910_223120_nauhatehtaanraitti_25_c_66__tampere-3.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251205142458_446286_hilla_c66.png</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250403092905_593915_nauhatehtaanraitti_25_c_66__tampere-1.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250403092907_833012_nauhatehtaanraitti_25_c_66__tampere-2.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250403092912_535686_nauhatehtaanraitti_25_c_66__tampere-9.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250403092914_751915_nauhatehtaanraitti_25_c_66__tampere-4.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250403092930_914450_nauhatehtaanraitti_25_c_66__tampere-15.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250403092856_439902_nauhatehtaanraitti_25_c_66__tampere-19.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250403092933_260520_nauhatehtaanraitti_25_c_66__tampere-17.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250403092858_730488_nauhatehtaanraitti_25_c_66__tampere-21.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <home_listing_id>ta1616</home_listing_id>
-    <name>As Oy Tampereen Lamminpään Hilla C69</name>
-    <availability>for_sale</availability>
-    <listing_type>for_sale_by_agent</listing_type>
-    <url>https://www.arkta.fi/asunnot/hilla/ta1616/</url>
-    <price>155000 EUR</price>
-    <sales_price>38000 EUR</sales_price>
-    <property_type>apartment</property_type>
-    <num_beds>2</num_beds>
-    <area_size>39</area_size>
-    <area_size_unit>sqm</area_size_unit>
-    <year_built>2024</year_built>
-    <first_seen>2026-09-24</first_seen>
-    <description>Kampanjahinta 155.000e. Alkuperäinen velaton hinta on 169.000e. Ensimmäisen kerroksen kaksio. Ei maantasolla. Asunto on helppo kalustettava ja neliöt ovat käytetty erinomaisesti sinne, missä tilaa eniten tarvitsee. Asunnossa on iso lasitettu parveke. Valokuvat ovat vastaavasta 2.krs asunnosta. Näistä poiketen asunnon kph laatta sekä keittiön taso ja vetimet ovat väriltään tummia. Asunto on vuokrattu. Vuokra 735e + vesi.</description>
-    <address>
-      <component name="addr1">Nauhatehtaanraitti 25 C69</component>
-      <component name="city">Tampere</component>
-      <component name="region">Pirkanmaa</component>
-      <component name="postal_code">33420</component>
-      <component name="country">FI</component>
-    </address>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250710095448_600800_nauhatehtaanraitti_25-2.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20230110103930_873110_hilla_c69.png</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260903103053_454540_223629067.jpeg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260903103051_767416_223629093.jpeg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260903103055_199038_223629091.jpeg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251205142738_432230_kuvakollaasi-hilla.png</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250710095442_852955_nauhatehtaanraitti_25-1.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250710095457_759593_nauhatehtaanraitti_25-6.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250710095453_419747_nauhatehtaanraitti_25-4.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20230110102243_352214_hilla_asemapiirustus.png</url>
     </image>
   </listing>
   <listing>
@@ -1742,324 +2007,6 @@
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260128085451_187357_ulkokuva3_fredrika_paiva_web.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <home_listing_id>ta2331</home_listing_id>
-    <name>As Oy Kangasalan Villa Valo A5</name>
-    <availability>sale_pending</availability>
-    <listing_type>for_sale_by_agent</listing_type>
-    <url>https://www.arkta.fi/asunnot/villavalo/ta2331/</url>
-    <price>379000 EUR</price>
-    <sales_price>151567 EUR</sales_price>
-    <property_type>house</property_type>
-    <num_beds>4</num_beds>
-    <area_size>109</area_size>
-    <area_size_unit>sqm</area_size_unit>
-    <year_built>2027</year_built>
-    <first_seen>2026-09-24</first_seen>
-    <description>Hurmaava päätyhuoneisto, jossa laajat ikkunapinnat tekevät avaran ja valoisan tunnelman. Olohuoneessa on varaus viidennelle makuuhuoneelle. Asunnossa on ylellisen tilavat makuuhuoneet, arkea helpottava vaatehuone eteisessä sekä säilytystilaa suuremmankin perheen tarpeeseen. Kaksitasoisuus tarjoaa selkeän jaon arjen toiminnoille. Asunnolla on terassi ja reilu takapiha, jossa perheen lapset pääsevät leikkimään vanhempien näkösällä. A-talon asunnon takapiha avautuu etelään ja B- sekä C-talon asuntojen takapihat avautuvat länteen.</description>
-    <address>
-      <component name="addr1">Varikontie 12 A5</component>
-      <component name="city">Kangasala</component>
-      <component name="region">Pirkanmaa</component>
-      <component name="postal_code">36240</component>
-      <component name="country">FI</component>
-    </address>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260924143252_468712_arkta_villa_valo_ulkokuva_a1_web.png</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250526141035_517860_a5__b6__c16.png</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082106_840487_arkta_villa_valo_olohuone_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082102_532965_arkta_villa_valo_keittio_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082058_034468_250207_sisakuva_ilman_leluja_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082104_714183_arkta_villa_valo_makuuhuone_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082112_874056_arkta_villa_valo_kylpyhuone_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082100_370609_250207_ulkokuva_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260928095211_779925_arkta_villa_valo_ulkokuva_a1_web_vesileima_valmis.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260902125026_392426_villavalo-pdx.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <home_listing_id>ta2332</home_listing_id>
-    <name>As Oy Kangasalan Villa Valo B6</name>
-    <availability>sale_pending</availability>
-    <listing_type>for_sale_by_agent</listing_type>
-    <url>https://www.arkta.fi/asunnot/villavalo/ta2332/</url>
-    <price>379000 EUR</price>
-    <sales_price>151567 EUR</sales_price>
-    <property_type>house</property_type>
-    <num_beds>5</num_beds>
-    <area_size>109</area_size>
-    <area_size_unit>sqm</area_size_unit>
-    <year_built>2027</year_built>
-    <first_seen>2026-09-24</first_seen>
-    <description>Hurmaava päätyhuoneisto, jossa laajat ikkunapinnat tekevät avaran ja valoisan tunnelman. Olohuoneessa on varaus viidennelle makuuhuoneelle. Asunnossa on ylellisen tilavat makuuhuoneet, arkea helpottava vaatehuone eteisessä sekä säilytystilaa suuremmankin perheen tarpeeseen. Kaksitasoisuus tarjoaa selkeän jaon arjen toiminnoille. Asunnolla on terassi ja reilu takapiha, jossa perheen lapset pääsevät leikkimään vanhempien näkösällä. A-talon asunnon takapiha avautuu etelään ja B- sekä C-talon asuntojen takapihat avautuvat länteen.</description>
-    <address>
-      <component name="addr1">Varikontie 12 B6</component>
-      <component name="city">Kangasala</component>
-      <component name="region">Pirkanmaa</component>
-      <component name="postal_code">36240</component>
-      <component name="country">FI</component>
-    </address>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260924143252_468712_arkta_villa_valo_ulkokuva_a1_web.png</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250526141102_060065_a5__b6__c16.png</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082106_840487_arkta_villa_valo_olohuone_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082102_532965_arkta_villa_valo_keittio_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082058_034468_250207_sisakuva_ilman_leluja_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082104_714183_arkta_villa_valo_makuuhuone_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082112_874056_arkta_villa_valo_kylpyhuone_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082100_370609_250207_ulkokuva_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260928095211_779925_arkta_villa_valo_ulkokuva_a1_web_vesileima_valmis.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260902125026_392426_villavalo-pdx.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <home_listing_id>ta2333</home_listing_id>
-    <name>As Oy Kangasalan Villa Valo B7</name>
-    <availability>for_sale</availability>
-    <listing_type>for_sale_by_agent</listing_type>
-    <url>https://www.arkta.fi/asunnot/villavalo/ta2333/</url>
-    <price>349000 EUR</price>
-    <sales_price>139623 EUR</sales_price>
-    <property_type>house</property_type>
-    <num_beds>4</num_beds>
-    <area_size>96</area_size>
-    <area_size_unit>sqm</area_size_unit>
-    <year_built>2027</year_built>
-    <first_seen>2026-09-24</first_seen>
-    <description>Hurmaava neliö, jossa laajat ikkunapinnat tekevät avaran ja valoisan tunnelman. Asunnon alakerrasta löytyy eteisen yhteydestä kätevä vaatehuone, erillis-wc sekä niemekkeellinen keittiö runsaalla säilytys- ja laskutilalla. Suuren olohuoneen voi kalustaa monella tapaa. Käynti terassille ja pihalle tapahtuu olohuoneesta, jolloin reilun kokoinen piha-alue toimii kesäaikaan upeasti ja helposti oleskelutilojen jatkeena. Asunnon yläkerrassa on kolme makuuhuonetta sekä hyvin säilytystilaa. Kylpyhuoneessa on paikka pesutornille ja saunaan valoa tuo pieni ikkuna.</description>
-    <address>
-      <component name="addr1">Varikontie 12 B7</component>
-      <component name="city">Kangasala</component>
-      <component name="region">Pirkanmaa</component>
-      <component name="postal_code">36240</component>
-      <component name="country">FI</component>
-    </address>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260924143252_468712_arkta_villa_valo_ulkokuva_a1_web.png</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250526141135_117053_b7__b8__c13__c14__c15.png</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082106_840487_arkta_villa_valo_olohuone_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082102_532965_arkta_villa_valo_keittio_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082058_034468_250207_sisakuva_ilman_leluja_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082104_714183_arkta_villa_valo_makuuhuone_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082112_874056_arkta_villa_valo_kylpyhuone_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082100_370609_250207_ulkokuva_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260928095211_779925_arkta_villa_valo_ulkokuva_a1_web_vesileima_valmis.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260902125026_392426_villavalo-pdx.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <home_listing_id>ta2334</home_listing_id>
-    <name>As Oy Kangasalan Villa Valo B8</name>
-    <availability>for_sale</availability>
-    <listing_type>for_sale_by_agent</listing_type>
-    <url>https://www.arkta.fi/asunnot/villavalo/ta2334/</url>
-    <price>349000 EUR</price>
-    <sales_price>139623 EUR</sales_price>
-    <property_type>house</property_type>
-    <num_beds>4</num_beds>
-    <area_size>96</area_size>
-    <area_size_unit>sqm</area_size_unit>
-    <year_built>2027</year_built>
-    <first_seen>2026-09-24</first_seen>
-    <description>Hurmaava neliö, jossa laajat ikkunapinnat tekevät avaran ja valoisan tunnelman. Asunnon alakerrasta löytyy eteisen yhteydestä kätevä vaatehuone, erillis-wc sekä niemekkeellinen keittiö runsaalla säilytys- ja laskutilalla. Suuren olohuoneen voi kalustaa monella tapaa. Käynti terassille ja pihalle tapahtuu olohuoneesta, jolloin reilun kokoinen piha-alue toimii kesäaikaan upeasti ja helposti oleskelutilojen jatkeena. Asunnon yläkerrassa on kolme makuuhuonetta sekä hyvin säilytystilaa. Kylpyhuoneessa on paikka pesutornille ja saunaan valoa tuo pieni ikkuna.</description>
-    <address>
-      <component name="addr1">Varikontie 12 B8</component>
-      <component name="city">Kangasala</component>
-      <component name="region">Pirkanmaa</component>
-      <component name="postal_code">36240</component>
-      <component name="country">FI</component>
-    </address>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260924143252_468712_arkta_villa_valo_ulkokuva_a1_web.png</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250526141156_869703_b7__b8__c13__c14__c15.png</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082106_840487_arkta_villa_valo_olohuone_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082102_532965_arkta_villa_valo_keittio_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082058_034468_250207_sisakuva_ilman_leluja_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082104_714183_arkta_villa_valo_makuuhuone_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082112_874056_arkta_villa_valo_kylpyhuone_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082100_370609_250207_ulkokuva_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260928095211_779925_arkta_villa_valo_ulkokuva_a1_web_vesileima_valmis.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260902125026_392426_villavalo-pdx.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <home_listing_id>ta2335</home_listing_id>
-    <name>As Oy Kangasalan Villa Valo C14</name>
-    <availability>for_sale</availability>
-    <listing_type>for_sale_by_agent</listing_type>
-    <url>https://www.arkta.fi/asunnot/villavalo/ta2335/</url>
-    <price>349000 EUR</price>
-    <sales_price>139623 EUR</sales_price>
-    <property_type>house</property_type>
-    <num_beds>4</num_beds>
-    <area_size>96</area_size>
-    <area_size_unit>sqm</area_size_unit>
-    <year_built>2027</year_built>
-    <first_seen>2026-09-24</first_seen>
-    <description>Hurmaava neliö, jossa laajat ikkunapinnat tekevät avaran ja valoisan tunnelman. Asunnon alakerrasta löytyy eteisen yhteydestä kätevä vaatehuone, erillis-wc sekä niemekkeellinen keittiö runsaalla säilytys- ja laskutilalla. Suuren olohuoneen voi kalustaa monella tapaa. Käynti terassille ja pihalle tapahtuu olohuoneesta, jolloin reilun kokoinen piha-alue toimii kesäaikaan upeasti ja helposti oleskelutilojen jatkeena. Asunnon yläkerrassa on kolme makuuhuonetta sekä hyvin säilytystilaa. Kylpyhuoneessa on paikka pesutornille ja saunaan valoa tuo pieni ikkuna.</description>
-    <address>
-      <component name="addr1">Varikontie 12 C14</component>
-      <component name="city">Kangasala</component>
-      <component name="region">Pirkanmaa</component>
-      <component name="postal_code">36240</component>
-      <component name="country">FI</component>
-    </address>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260924143252_468712_arkta_villa_valo_ulkokuva_a1_web.png</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250526141615_238851_b7__b8__c13__c14__c15.png</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082106_840487_arkta_villa_valo_olohuone_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082102_532965_arkta_villa_valo_keittio_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082058_034468_250207_sisakuva_ilman_leluja_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082104_714183_arkta_villa_valo_makuuhuone_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082112_874056_arkta_villa_valo_kylpyhuone_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082100_370609_250207_ulkokuva_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260928095211_779925_arkta_villa_valo_ulkokuva_a1_web_vesileima_valmis.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260902125026_392426_villavalo-pdx.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <home_listing_id>ta2336</home_listing_id>
-    <name>As Oy Kangasalan Villa Valo C15</name>
-    <availability>for_sale</availability>
-    <listing_type>for_sale_by_agent</listing_type>
-    <url>https://www.arkta.fi/asunnot/villavalo/ta2336/</url>
-    <price>349000 EUR</price>
-    <sales_price>139623 EUR</sales_price>
-    <property_type>house</property_type>
-    <num_beds>4</num_beds>
-    <area_size>96</area_size>
-    <area_size_unit>sqm</area_size_unit>
-    <year_built>2027</year_built>
-    <first_seen>2026-09-24</first_seen>
-    <description>Hurmaava neliö, jossa laajat ikkunapinnat tekevät avaran ja valoisan tunnelman. Asunnon alakerrasta löytyy eteisen yhteydestä kätevä vaatehuone, erillis-wc sekä niemekkeellinen keittiö runsaalla säilytys- ja laskutilalla. Suuren olohuoneen voi kalustaa monella tapaa. Käynti terassille ja pihalle tapahtuu olohuoneesta, jolloin reilun kokoinen piha-alue toimii kesäaikaan upeasti ja helposti oleskelutilojen jatkeena. Asunnon yläkerrassa on kolme makuuhuonetta sekä hyvin säilytystilaa. Kylpyhuoneessa on paikka pesutornille ja saunaan valoa tuo pieni ikkuna.</description>
-    <address>
-      <component name="addr1">Varikontie 12 C15</component>
-      <component name="city">Kangasala</component>
-      <component name="region">Pirkanmaa</component>
-      <component name="postal_code">36240</component>
-      <component name="country">FI</component>
-    </address>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260924143252_468712_arkta_villa_valo_ulkokuva_a1_web.png</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250526141702_622874_b7__b8__c13__c14__c15.png</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082106_840487_arkta_villa_valo_olohuone_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082102_532965_arkta_villa_valo_keittio_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082058_034468_250207_sisakuva_ilman_leluja_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082104_714183_arkta_villa_valo_makuuhuone_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082112_874056_arkta_villa_valo_kylpyhuone_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082100_370609_250207_ulkokuva_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260928095211_779925_arkta_villa_valo_ulkokuva_a1_web_vesileima_valmis.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260902125026_392426_villavalo-pdx.jpg</url>
     </image>
   </listing>
   <listing>
@@ -2540,6 +2487,218 @@
     </image>
   </listing>
   <listing>
+    <home_listing_id>ta2402</home_listing_id>
+    <name>Asunto Oy Espoon Tapiolan Elissa A6</name>
+    <availability>for_sale</availability>
+    <listing_type>for_sale_by_agent</listing_type>
+    <url>https://www.arkta.fi/asunnot/elissa/ta2402/</url>
+    <price>223000 EUR</price>
+    <sales_price>89226 EUR</sales_price>
+    <property_type>apartment</property_type>
+    <num_beds>2</num_beds>
+    <area_size>35</area_size>
+    <area_size_unit>sqm</area_size_unit>
+    <year_built>2027</year_built>
+    <first_seen>2026-09-24</first_seen>
+    <description>Asunto Oy Espoon Tapiolan Elissan toimiva toisen kerroksen 35,5 m2 kaksio lasitetulla länsiparvekkeella. Olohuone on helposti kalustettavissa ilman että kalusteita tarvitsisi sijoittaa isojen ikkunoiden eteen. Asunnon levyisestä lattiaan asti ulottuvasta isosta ikkunasta tulvii asuntoon luonnonvaloa. Tilavaan makuuhuoneeseen on sijoitettavissa iso parisänky, ja seinän sisään liukuva liukuovi mahdollistaa optimaalisen tilankäytön. Asumismukavuutta lisää lattialämmitys ja tilava vaatehuone eteisessä. Keittiössä on induktioliesitaso, tyylikäs mikro/uuni -yhdistelmä sekä jenkkijääkaappi pakastelokerolla. Astianpesukone on kalustepeitteinen. Kylpyhuoneessa on tilavaraus omalle pyykinpesukoneelle ja päällekkäiselle kuivausrummulle. Tästä kodikkaasta huoneistosta on omaksi kodiksi tai halutuksi sijoitusasunnoksi.</description>
+    <address>
+      <component name="addr1">Metsäpirtintie 19 A6</component>
+      <component name="city">Espoo</component>
+      <component name="region">Uusimaa</component>
+      <component name="postal_code">02130</component>
+      <component name="country">FI</component>
+    </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260924190211_074660_elissa-alvar-visualisointikuva-ilmasta.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409214143_186491_elissa_a6.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154246_633371_elissa_sisustuskuva_kuvakaruselliin_2.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409214137_008191_julkisivu_tapiolan_elissa.png</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154244_546273_a12_olohuone2_2_tapiolan_elissa_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154252_608933_b24_makuuhuone_tapiolan_elissa_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154248_720319_elissa-kuvituskuva__5_.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154242_274868_a12_kylpyhuone_tapiolan_elissa_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154250_726391_elissa-kuvituskuva__6_.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260415143445_994082_elissa_asema_kerroslukutekstein.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <home_listing_id>ta2401</home_listing_id>
+    <name>Asunto Oy Espoon Tapiolan Elissa A10</name>
+    <availability>sale_pending</availability>
+    <listing_type>for_sale_by_agent</listing_type>
+    <url>https://www.arkta.fi/asunnot/elissa/ta2401/</url>
+    <price>227000 EUR</price>
+    <sales_price>90779 EUR</sales_price>
+    <property_type>apartment</property_type>
+    <num_beds>2</num_beds>
+    <area_size>35</area_size>
+    <area_size_unit>sqm</area_size_unit>
+    <year_built>2027</year_built>
+    <first_seen>2026-09-24</first_seen>
+    <description>Asunto Oy Espoon Tapiolan Elissan toimiva kolmannen kerroksen 35,5 m2 kaksio lasitetulla länsiparvekkeella. Olohuoneessa on asunnon levyinen lattiaan asti ulottuva iso ikkuna, josta tulvii asuntoon luonnonvaloa. Olohuone on suunniteltu niin, ettei kalusteita tarvitse sijoittaa ikkunan eteen. Makuuhuoneeseen sijoitettavissa iso parisänky. Asumismukavuutta lisäävät lattialämmitys ja tilava vaatehuone eteisessä. Keittiössä on induktioliesitaso, tyylikäs mikro/uuni yhdistelmä, jenkkikaappi pakastinlokerolla sekä kalustepeitteinen astianpesukone. Kylpyhuoneessa on tilavaraus omalle pyykinpesukoneelle ja päällekkäiselle kuivausrummulle. Tästä kodikkaasta huoneistosta on omaksi kodiksi tai halutuksi sijoitusasunnoksi.</description>
+    <address>
+      <component name="addr1">Metsäpirtintie 19 A10</component>
+      <component name="city">Espoo</component>
+      <component name="region">Uusimaa</component>
+      <component name="postal_code">02130</component>
+      <component name="country">FI</component>
+    </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260924191039_849790_elissa-alvar-visualisointikuva-ilmasta.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409214441_663086_elissa_a10.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154609_983474_elissa-kuvituskuva__5_.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154617_944066_a12_olohuone2_2_tapiolan_elissa_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154620_071413_b24_makuuhuone_tapiolan_elissa_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154608_016942_elissa_sisustuskuva_kuvakaruselliin_2.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154615_752913_a12_kylpyhuone_tapiolan_elissa_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154613_766331_elissa-kuvituskuva__8_.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154611_845628_elissa-kuvituskuva__6_.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409214445_837105_julkisivu_tapiolan_elissa.png</url>
+    </image>
+  </listing>
+  <listing>
+    <home_listing_id>ta2403</home_listing_id>
+    <name>Asunto Oy Espoon Tapiolan Elissa B14</name>
+    <availability>for_sale</availability>
+    <listing_type>for_sale_by_agent</listing_type>
+    <url>https://www.arkta.fi/asunnot/elissa/ta2403/</url>
+    <price>244000 EUR</price>
+    <sales_price>97608 EUR</sales_price>
+    <property_type>apartment</property_type>
+    <num_beds>2</num_beds>
+    <area_size>48</area_size>
+    <area_size_unit>sqm</area_size_unit>
+    <year_built>2027</year_built>
+    <first_seen>2026-09-24</first_seen>
+    <description>Asunto Oy Espoon Tapiolan Elissan tilava ensimmäisen kerroksen 48,5 m2 kaksio lasitetulla länsiparvekkeella sekä terassilla. Ihanasta pitkästä ikkunalinjastosta tulvii asuntoon huikeasti luonnonvaloa. Erittäin hyväpohjaisessa kodissa on tilava saarekekeittiö omassa rauhassaan ja isolle ruokapöydälle tilaa. Olohuone on helposti kalustettavissa ja asunnon levyisestä lattiaan asti ulottuvasta isosta ikkunasta on näkymä lasitetulle länsi-parvekkeelle, josta käynti terassille. Makuuhuoneeseen on sijoitettavissa iso parisänky. Erillisen vaatehuoneen lisäksi on kaappitilaa makuuhuoneessa sekä eteisessä peililiukuovilla varustettuna. Kotimaisen Puustellin keittiöstä löytyy Electroluxin kodinkoneet kuten Jää-pakastinkaappi ja kalustepeitteinen astianpesukone. Saarekkeessa on induktio -tasoliesituuletin ja kalusteuuni. Kylpyhuoneessa on tilavaraus omalle pyykinpesukoneelle ja päällekkäiselle kuivausrummulle. Kodikas ja tilava huoneisto toimii helposti kahden henkilön kotina.</description>
+    <address>
+      <component name="addr1">Metsäpirtintie 19 B14</component>
+      <component name="city">Espoo</component>
+      <component name="region">Uusimaa</component>
+      <component name="postal_code">02130</component>
+      <component name="country">FI</component>
+    </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409215530_914884_b23_keittio___tapiolan_elissa_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409215557_477942_elissa_b14.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260924194813_095110_elissa-alvar-visualisointikuva-ilmasta.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154915_557245_elissa_sisustuskuva_kuvakaruselliin_2.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154919_679872_elissa-kuvituskuva__5_.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409215525_411398_julkisivu_tapiolan_elissa.png</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154913_316912_a12_kylpyhuone_tapiolan_elissa_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154921_663315_elissa-kuvituskuva__8_.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154917_560338_elissa-kuvituskuva__1_.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260415144518_114723_elissa_asema_kerroslukutekstein.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <home_listing_id>ta2404</home_listing_id>
+    <name>Asunto Oy Espoon Tapiolan Elissa B17</name>
+    <availability>for_sale</availability>
+    <listing_type>for_sale_by_agent</listing_type>
+    <url>https://www.arkta.fi/asunnot/elissa/ta2404/</url>
+    <price>249000 EUR</price>
+    <sales_price>99582 EUR</sales_price>
+    <property_type>apartment</property_type>
+    <num_beds>2</num_beds>
+    <area_size>48</area_size>
+    <area_size_unit>sqm</area_size_unit>
+    <year_built>2027</year_built>
+    <first_seen>2026-09-24</first_seen>
+    <description>Asunto Oy Espoon Tapiolan Elissan tilava toisen kerroksen 48,5 m2 kaksio lasitetulla länsiparvekkeella. Ihanasta pitkästä ikkunalinjastosta tulvii asuntoon huikeasti luonnonvaloa. Erittäin hyväpohjaisessa kodissa on tilava saarekekeittiö omassa rauhassaan ja isolle ruokapöydälle tilaa. Olohuone on helposti kalustettavissa. Makuuhuoneeseen on sijoitettavissa iso parisänky. Erillisen vaatehuoneen lisäksi on kaappitilaa makuuhuoneessa sekä eteisessä peililiukuovilla varustettuna. Kotimaisen Puustellin keittiöstä löytyy Electroluxin kodinkoneet kuten jää-pakastinkaappi ja kalustepeitteinen astianpesukone. Saarekkeessa on induktio -tasoliesituuletin ja kalusteuuni. Kylpyhuoneessa on tilavaraus omalle pyykinpesukoneelle ja päällekkäiselle kuivausrummulle. Kodikas ja tilava huoneisto.</description>
+    <address>
+      <component name="addr1">Metsäpirtintie 19 B17</component>
+      <component name="city">Espoo</component>
+      <component name="region">Uusimaa</component>
+      <component name="postal_code">02130</component>
+      <component name="country">FI</component>
+    </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409215757_090043_b23_keittio___tapiolan_elissa_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260728135151_596558_elissa_b17.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260924195345_019005_elissa-alvar-visualisointikuva-ilmasta.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413131212_730197_elissa_sisustuskuva_kuvakaruselliin_2.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413131217_068711_elissa-kuvituskuva__5_.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413131221_259875_a12_kylpyhuone_tapiolan_elissa_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413131219_263478_elissa-kuvituskuva__8_.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413131214_951734_elissa-kuvituskuva__1_.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409215759_458813_julkisivu_tapiolan_elissa.png</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260415144822_748807_elissa_asema_kerroslukutekstein.jpg</url>
+    </image>
+  </listing>
+  <listing>
     <home_listing_id>ta2377</home_listing_id>
     <name>As Oy Tampereen Hatanpään Fredrika B 45</name>
     <availability>for_sale</availability>
@@ -2575,59 +2734,6 @@
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260127153245_205816_kuvakollaasi-fredrika.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260114132416_640443_fredrika-etuovi-kansikuva.png</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250930174129_712157_ulkokuva2_fredrika_web.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250930174212_038913_ulkokuva1_fredrika_web.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260806153337_425976_fredrika_kartta__1_.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260611120840_202270_fredrika_tyylit.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <home_listing_id>ta2379</home_listing_id>
-    <name>As Oy Tampereen Hatanpään Fredrika B 59</name>
-    <availability>for_sale</availability>
-    <listing_type>for_sale_by_agent</listing_type>
-    <url>https://www.arkta.fi/asunnot/fredrika/ta2379/</url>
-    <price>255000 EUR</price>
-    <sales_price>102013 EUR</sales_price>
-    <property_type>apartment</property_type>
-    <num_beds>2</num_beds>
-    <area_size>51</area_size>
-    <area_size_unit>sqm</area_size_unit>
-    <year_built>2026</year_built>
-    <first_seen>2026-09-24</first_seen>
-    <description>Ylimmän kerroksen kulmahuoneisto. Kahdelle seinälle asettuvat ikkunat takaavat valoisuuden. Keittiössä tyylikkäiden integroitujen kodinkoneiden ja kaapistojen lisäksi lisää lasku- ja säilytystilaa tuova saareke. Olohuoneesta on käynti lasitetulle parvekkeelle. Makuuhuoneessa on tila työpisteelle tai vaihtoehtoisesti vaatehuoneelle. Kylpyhuoneessa onpaikka pesukoneelle ja kuivausrummulle. Vaatehuone muokattavissa myös työhuonetilaksi. Asunnon sisustusmateriaalien valinnat ovat Marko Paanasen käsialaa, ja asunto on materiaaleiltaan yhdistelmä vaaleaa ja tummaa. Keittiössä on beigen sävyiset kaapinovet ja musta marmorikuviollinen taso. Välitilassa on samppanjan värinen alumiinilevy. Yksityiskohdat kuten allas, hana ja vetimet ovat mustia. Seinät on maalattu beigen sävyillä. Lattiana on tammiparketti. Kylpyhuoneessa on tumma Laattapiste-Pukkilan laatta ja musta hana sekä suihku.</description>
-    <address>
-      <component name="addr1">Boijenkatu 5 B 59</component>
-      <component name="city">Tampere</component>
-      <component name="region">Pirkanmaa</component>
-      <component name="postal_code">33900</component>
-      <component name="country">FI</component>
-    </address>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260617084451_372353_fredrika_marko_paananen_paakuva_pdx.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251229101929_592665_fredrika_b59.png</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260611114748_401990_b59.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260127151446_152736_b59_olohuone_fredrika_web.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251015092223_153131_ulkokuva2_fredrika_web.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260114132416_640443_fredrika-etuovi-kansikuva.png</url>
@@ -2805,59 +2911,6 @@
     </image>
   </listing>
   <listing>
-    <home_listing_id>ta2414</home_listing_id>
-    <name>Asunto Oy Espoon Tapiolan Elissa A8</name>
-    <availability>for_sale</availability>
-    <listing_type>for_sale_by_agent</listing_type>
-    <url>https://www.arkta.fi/asunnot/elissa/ta2414/</url>
-    <price>459000 EUR</price>
-    <sales_price>183597 EUR</sales_price>
-    <property_type>apartment</property_type>
-    <num_beds>4</num_beds>
-    <area_size>86</area_size>
-    <area_size_unit>sqm</area_size_unit>
-    <year_built>2027</year_built>
-    <first_seen>2026-09-24</first_seen>
-    <description>Asunto Oy Espoon Tapiolan Elissan valoisassa päätynelikossa on ikkunoita kolmeen ilmansuuntaan. Ihanista isoista ikkunoista tulvii asuntoon huikeasti luonnonvaloa. Olohuone on todella avara, noin 32 m2 ja isosta lattiaan asti ulottuvasta ikkunasta avautuu näkymä lännen suuntaan tilavalle lasitetulle parvekkeelle. Olohuone on suunniteltu kalustamista ajatellen niin, ettei huonekaluja tarvitse sijoittaa ison ikkunan ja parvekenäkymän eteen. Päämakuuhuoneeseen on sijoitettavissa iso parisänky, ja ylellinen vaatehuone sujuvoittaa vaatehuoltoa. Myös kaksi muuta makuuhuonetta on suunniteltu tilaviksi, jotta tilaa on lasten leikeille tai vaikka toiselle leveämmälle sängylle ja työpisteelle. Kodista löytyy erillinen wc, jossa hoituu myös kodin pyykkihuolto. Eteiseen siisteyttä ja toiminnallisuutta luo liukuvikaapisto. Kehysmallisessa Puustellin keittiössä on täyskorkeat kylmäkoneet, integroitu mikroaaltouuni ja kalustepeitteinen astianpesukone. Saarekkeessa on induktio-liesitasotuuletin ja kalusteuuni. Keittiön saareke on laajennettavissa. Kylpyhuoneen seinissä on Pukkilan kauniit isot laatat ja tasokas varustelu; kaksi Oraksen sadesuihkua, Svedbergin peili- ja allaskaapisto sekä Idon wc-istuin. Saunassa on ikkuna ja kaunis tervaleppäpanelointi sekä tornikiuas. Kodikas ja tilava huoneisto toimii erinomaisesti avaria huonetiloja ja sisustamista arvostavalle.</description>
-    <address>
-      <component name="addr1">Metsäpirtintie 19 A8</component>
-      <component name="city">Espoo</component>
-      <component name="region">Uusimaa</component>
-      <component name="postal_code">02130</component>
-      <component name="country">FI</component>
-    </address>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409183159_896958_a8_olohuone_tapiolan_elissa_web.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409183204_757751_elissa_a8.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410112903_715372_a12_olohuone_tapiolan_elissa_web.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410112908_374222_elissa_sisustuskuva_kuvakaruselliin_1.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410112905_866950_a12_kylpyhuone_tapiolan_elissa_web.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410112910_250849_elissa-kuvituskuva__5_.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260924190609_273804_elissa-alvar-visualisointikuva-ilmasta.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409183155_386084_julkisivu_tapiolan_elissa.png</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260415142325_114123_elissa_asema_kerroslukutekstein.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409183207_070791_elissa_1._kerros_27.3.2026.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <home_listing_id>ta2413</home_listing_id>
     <name>Asunto Oy Espoon Tapiolan Elissa A4</name>
     <availability>sale_pending</availability>
@@ -2911,56 +2964,56 @@
     </image>
   </listing>
   <listing>
-    <home_listing_id>ta2416</home_listing_id>
-    <name>Asunto Oy Espoon Tapiolan Elissa A12</name>
+    <home_listing_id>ta2414</home_listing_id>
+    <name>Asunto Oy Espoon Tapiolan Elissa A8</name>
     <availability>for_sale</availability>
     <listing_type>for_sale_by_agent</listing_type>
-    <url>https://www.arkta.fi/asunnot/elissa/ta2416/</url>
-    <price>609000 EUR</price>
-    <sales_price>243599 EUR</sales_price>
+    <url>https://www.arkta.fi/asunnot/elissa/ta2414/</url>
+    <price>459000 EUR</price>
+    <sales_price>183597 EUR</sales_price>
     <property_type>apartment</property_type>
-    <num_beds>5</num_beds>
-    <area_size>106</area_size>
+    <num_beds>4</num_beds>
+    <area_size>86</area_size>
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Asunto Oy Espoon Tapiolan Elissan ylimmän kerroksen valoisassa päätyasunnossa on ikkunoita kolmeen ilmansuuntaan ja kaksi lasitettua parveketta, joista toiseen on käynti olohuoneesta ja toiseen makuuhuoneesta. 106 m2:sen asunnon isoista ikkunoista tulvii asuntoon huikeasti luonnonvaloa. Olohuone on todella avara, noin 31 m2 ja isosta lattiaan asti ulottuvasta ikkunasta avautuu näkymä lasitetulle parvekkeelle. Ylellisen tilavaan päämakuuhuoneeseen on sijoitettavissa iso parisänky ja huoneeseen mahtuu lisäksi työpiste, lasten sänky tai kaapisto. Myös kahteen muuhun makuuhuoneeseen voit sijoittaa leveämmänkin sängyn ja toiseen myös työpisteen. Erillinen wc, kodinhoitohuone ja lisäksi vielä erillinen vaatehuone sujuvoittavat arkea. Eteinen on siisti ja toimiva kun kaapistot ovat peililiukuovien takana. Kehysmallisessa keittiössä on täyskorkeat kylmäkoneet ja integroitu mikroaaltouuni. Saarekkeessa on induktio liesitasotuuletin ja kalusteuuni. Astianpesukone on kalustepeitteinen. Keittiön saareke on laajennettavissa. Kylpyhuoneen seinissä on Pukkilan kauniit isot laatat ja muukin varustelu on tasokasta; kaksi Oraksen sadesuihkua, Svedbergin peili- ja allaskaapisto sekä Idon wc-istuin. Saunassa on ikkuna ja kaunis tervaleppäpanelointi sekä tornikiuas. Kodikas ja näyttävä huoneisto toimii erinomaisesti avaria huonetiloja ja sisustamista arvostavalle.</description>
+    <description>Asunto Oy Espoon Tapiolan Elissan valoisassa päätynelikossa on ikkunoita kolmeen ilmansuuntaan. Ihanista isoista ikkunoista tulvii asuntoon huikeasti luonnonvaloa. Olohuone on todella avara, noin 32 m2 ja isosta lattiaan asti ulottuvasta ikkunasta avautuu näkymä lännen suuntaan tilavalle lasitetulle parvekkeelle. Olohuone on suunniteltu kalustamista ajatellen niin, ettei huonekaluja tarvitse sijoittaa ison ikkunan ja parvekenäkymän eteen. Päämakuuhuoneeseen on sijoitettavissa iso parisänky, ja ylellinen vaatehuone sujuvoittaa vaatehuoltoa. Myös kaksi muuta makuuhuonetta on suunniteltu tilaviksi, jotta tilaa on lasten leikeille tai vaikka toiselle leveämmälle sängylle ja työpisteelle. Kodista löytyy erillinen wc, jossa hoituu myös kodin pyykkihuolto. Eteiseen siisteyttä ja toiminnallisuutta luo liukuvikaapisto. Kehysmallisessa Puustellin keittiössä on täyskorkeat kylmäkoneet, integroitu mikroaaltouuni ja kalustepeitteinen astianpesukone. Saarekkeessa on induktio-liesitasotuuletin ja kalusteuuni. Keittiön saareke on laajennettavissa. Kylpyhuoneen seinissä on Pukkilan kauniit isot laatat ja tasokas varustelu; kaksi Oraksen sadesuihkua, Svedbergin peili- ja allaskaapisto sekä Idon wc-istuin. Saunassa on ikkuna ja kaunis tervaleppäpanelointi sekä tornikiuas. Kodikas ja tilava huoneisto toimii erinomaisesti avaria huonetiloja ja sisustamista arvostavalle.</description>
     <address>
-      <component name="addr1">Metsäpirtintie 19 A12</component>
+      <component name="addr1">Metsäpirtintie 19 A8</component>
       <component name="city">Espoo</component>
       <component name="region">Uusimaa</component>
       <component name="postal_code">02130</component>
       <component name="country">FI</component>
     </address>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410113125_619721_a12_keittio2_tapiolan_elissa_web__1_.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409183159_896958_a8_olohuone_tapiolan_elissa_web.jpg</url>
     </image>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409224458_081826_elissa_a12.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409183204_757751_elissa_a8.jpg</url>
     </image>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410113129_968064_a12_makuuhuone_tapiolan_elissa_web__1_.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410112903_715372_a12_olohuone_tapiolan_elissa_web.jpg</url>
     </image>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260821164007_778301_elissa-alvar-visualisointikuva-ilmasta-tekstit.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410112908_374222_elissa_sisustuskuva_kuvakaruselliin_1.jpg</url>
     </image>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410113123_664339_a12_keittio_tapiolan_elissa_web.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410112905_866950_a12_kylpyhuone_tapiolan_elissa_web.jpg</url>
     </image>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409224516_234438_julkisivu_tapiolan_elissa.png</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410112910_250849_elissa-kuvituskuva__5_.jpg</url>
     </image>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410113121_756370_elissa_sisustuskuva_kuvakaruselliin_2.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260924190609_273804_elissa-alvar-visualisointikuva-ilmasta.jpg</url>
     </image>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410113133_321590_a12_olohuone_tapiolan_elissa_web.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409183155_386084_julkisivu_tapiolan_elissa.png</url>
     </image>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410113135_241837_a12_olohuone2_2_tapiolan_elissa_web.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260415142325_114123_elissa_asema_kerroslukutekstein.jpg</url>
     </image>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410113127_740638_a12_kylpyhuone_tapiolan_elissa_web.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409183207_070791_elissa_1._kerros_27.3.2026.jpg</url>
     </image>
   </listing>
   <listing>
@@ -3014,6 +3067,112 @@
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260415135133_441867_elissa_asema_kerroslukutekstein.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <home_listing_id>ta2379</home_listing_id>
+    <name>As Oy Tampereen Hatanpään Fredrika B 59</name>
+    <availability>for_sale</availability>
+    <listing_type>for_sale_by_agent</listing_type>
+    <url>https://www.arkta.fi/asunnot/fredrika/ta2379/</url>
+    <price>255000 EUR</price>
+    <sales_price>102013 EUR</sales_price>
+    <property_type>apartment</property_type>
+    <num_beds>2</num_beds>
+    <area_size>51</area_size>
+    <area_size_unit>sqm</area_size_unit>
+    <year_built>2026</year_built>
+    <first_seen>2026-09-24</first_seen>
+    <description>Ylimmän kerroksen kulmahuoneisto. Kahdelle seinälle asettuvat ikkunat takaavat valoisuuden. Keittiössä tyylikkäiden integroitujen kodinkoneiden ja kaapistojen lisäksi lisää lasku- ja säilytystilaa tuova saareke. Olohuoneesta on käynti lasitetulle parvekkeelle. Makuuhuoneessa on tila työpisteelle tai vaihtoehtoisesti vaatehuoneelle. Kylpyhuoneessa onpaikka pesukoneelle ja kuivausrummulle. Vaatehuone muokattavissa myös työhuonetilaksi. Asunnon sisustusmateriaalien valinnat ovat Marko Paanasen käsialaa, ja asunto on materiaaleiltaan yhdistelmä vaaleaa ja tummaa. Keittiössä on beigen sävyiset kaapinovet ja musta marmorikuviollinen taso. Välitilassa on samppanjan värinen alumiinilevy. Yksityiskohdat kuten allas, hana ja vetimet ovat mustia. Seinät on maalattu beigen sävyillä. Lattiana on tammiparketti. Kylpyhuoneessa on tumma Laattapiste-Pukkilan laatta ja musta hana sekä suihku.</description>
+    <address>
+      <component name="addr1">Boijenkatu 5 B 59</component>
+      <component name="city">Tampere</component>
+      <component name="region">Pirkanmaa</component>
+      <component name="postal_code">33900</component>
+      <component name="country">FI</component>
+    </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260617084451_372353_fredrika_marko_paananen_paakuva_pdx.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251229101929_592665_fredrika_b59.png</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260611114748_401990_b59.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260127151446_152736_b59_olohuone_fredrika_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251015092223_153131_ulkokuva2_fredrika_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260114132416_640443_fredrika-etuovi-kansikuva.png</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250930174129_712157_ulkokuva2_fredrika_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250930174212_038913_ulkokuva1_fredrika_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260806153337_425976_fredrika_kartta__1_.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260611120840_202270_fredrika_tyylit.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <home_listing_id>ta2416</home_listing_id>
+    <name>Asunto Oy Espoon Tapiolan Elissa A12</name>
+    <availability>for_sale</availability>
+    <listing_type>for_sale_by_agent</listing_type>
+    <url>https://www.arkta.fi/asunnot/elissa/ta2416/</url>
+    <price>609000 EUR</price>
+    <sales_price>243599 EUR</sales_price>
+    <property_type>apartment</property_type>
+    <num_beds>5</num_beds>
+    <area_size>106</area_size>
+    <area_size_unit>sqm</area_size_unit>
+    <year_built>2027</year_built>
+    <first_seen>2026-09-24</first_seen>
+    <description>Asunto Oy Espoon Tapiolan Elissan ylimmän kerroksen valoisassa päätyasunnossa on ikkunoita kolmeen ilmansuuntaan ja kaksi lasitettua parveketta, joista toiseen on käynti olohuoneesta ja toiseen makuuhuoneesta. 106 m2:sen asunnon isoista ikkunoista tulvii asuntoon huikeasti luonnonvaloa. Olohuone on todella avara, noin 31 m2 ja isosta lattiaan asti ulottuvasta ikkunasta avautuu näkymä lasitetulle parvekkeelle. Ylellisen tilavaan päämakuuhuoneeseen on sijoitettavissa iso parisänky ja huoneeseen mahtuu lisäksi työpiste, lasten sänky tai kaapisto. Myös kahteen muuhun makuuhuoneeseen voit sijoittaa leveämmänkin sängyn ja toiseen myös työpisteen. Erillinen wc, kodinhoitohuone ja lisäksi vielä erillinen vaatehuone sujuvoittavat arkea. Eteinen on siisti ja toimiva kun kaapistot ovat peililiukuovien takana. Kehysmallisessa keittiössä on täyskorkeat kylmäkoneet ja integroitu mikroaaltouuni. Saarekkeessa on induktio liesitasotuuletin ja kalusteuuni. Astianpesukone on kalustepeitteinen. Keittiön saareke on laajennettavissa. Kylpyhuoneen seinissä on Pukkilan kauniit isot laatat ja muukin varustelu on tasokasta; kaksi Oraksen sadesuihkua, Svedbergin peili- ja allaskaapisto sekä Idon wc-istuin. Saunassa on ikkuna ja kaunis tervaleppäpanelointi sekä tornikiuas. Kodikas ja näyttävä huoneisto toimii erinomaisesti avaria huonetiloja ja sisustamista arvostavalle.</description>
+    <address>
+      <component name="addr1">Metsäpirtintie 19 A12</component>
+      <component name="city">Espoo</component>
+      <component name="region">Uusimaa</component>
+      <component name="postal_code">02130</component>
+      <component name="country">FI</component>
+    </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410113125_619721_a12_keittio2_tapiolan_elissa_web__1_.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409224458_081826_elissa_a12.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410113129_968064_a12_makuuhuone_tapiolan_elissa_web__1_.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260821164007_778301_elissa-alvar-visualisointikuva-ilmasta-tekstit.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410113123_664339_a12_keittio_tapiolan_elissa_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409224516_234438_julkisivu_tapiolan_elissa.png</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410113121_756370_elissa_sisustuskuva_kuvakaruselliin_2.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410113133_321590_a12_olohuone_tapiolan_elissa_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410113135_241837_a12_olohuone2_2_tapiolan_elissa_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410113127_740638_a12_kylpyhuone_tapiolan_elissa_web.jpg</url>
     </image>
   </listing>
   <listing>
@@ -3123,59 +3282,6 @@
     </image>
   </listing>
   <listing>
-    <home_listing_id>ta2419</home_listing_id>
-    <name>Asunto Oy Espoon Tapiolan Elissa B21</name>
-    <availability>for_sale</availability>
-    <listing_type>for_sale_by_agent</listing_type>
-    <url>https://www.arkta.fi/asunnot/elissa/ta2419/</url>
-    <price>399000 EUR</price>
-    <sales_price>159584 EUR</sales_price>
-    <property_type>apartment</property_type>
-    <num_beds>3</num_beds>
-    <area_size>75</area_size>
-    <area_size_unit>sqm</area_size_unit>
-    <year_built>2027</year_built>
-    <first_seen>2026-09-24</first_seen>
-    <description>Asunto Oy Espoon Tapiolan Elissan valoisassa kolmannen kerroksen päätykolmiossa on isoja ikkunoita kolmeen ilmansuuntaan. Tähän kotiin mahtuu sukulaisia ja vieraita kylään sillä, isollekin ruokapöydälle ja sohvaryhmälle on tilaa. Olohuone on todella avara, noin 24 m2, ja isosta lattiaan asti ulottuvasta ikkunasta avautuu näkymä lasitetulle länsiparvekkeelle ja sisäpihalle. Päämakuuhuoneeseen on sijoitettavissa iso parisänky ja työpiste kaapistojen jatkeeksi. Säilytystilaa asunnossa on runsaasti, sillä makuuhuoneiden kaapistojen ja eteisen peililiukuovikaapiston lisäksi tässä kodissa on erillinen vaatehuone. Kotimaisen Puustellin keittiössä on keittiösaareke, johon sijoittuu induktio-tasoliesituuletin sekä kalusteuuni. Astianpesukone on kalustepeitteinen ja integroitu mikroaaltouuni on valmiina kalusteessa. Keittiö on tarvittaessa laajennettavissa. Kylpyhuoneen seinissä on kauniit isot Pukkilan laatat ja tasokas varustelu; Oraksen sadesuihku, Svedbergin peili -ja allaskaapisto sekä Idon wc-istuin. Saunassa on ikkuna ja kaunis tervaleppäpanelointi. Kylpyhuoneessa on tilavaraus pyykinpesukoneelle ja päällekkäiselle kuivausrummulle. Kodin erillis-wc sujuvoittaa arkea. Kodikas ja tilava huoneisto toimii erinomaisesti avaria huonetiloja, ulko-oleskelua ja sisustamista arvostavalle.</description>
-    <address>
-      <component name="addr1">Metsäpirtintie 19 B21</component>
-      <component name="city">Espoo</component>
-      <component name="region">Uusimaa</component>
-      <component name="postal_code">02130</component>
-      <component name="country">FI</component>
-    </address>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409223725_149866_b24_makuuhuone_tapiolan_elissa_web.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409223714_774147_elissa_b21.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409223727_659172_b24_olohuone_tapiolan_elissa_web.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409223810_914561_julkisivu_tapiolan_elissa_rajattu.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260924195924_025593_elissa-alvar-visualisointikuva-ilmasta.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413135314_924030_elissa_sisustuskuva_kuvakaruselliin_1.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413135312_780817_a12_kylpyhuone_tapiolan_elissa_web.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413135310_668029_a8_olohuone_tapiolan_elissa_web.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413135316_887949_elissa-kuvituskuva__2_.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409223720_152235_julkisivu_tapiolan_elissa.png</url>
-    </image>
-  </listing>
-  <listing>
     <home_listing_id>ta2420</home_listing_id>
     <name>Asunto Oy Espoon Tapiolan Elissa B24</name>
     <availability>for_sale</availability>
@@ -3226,218 +3332,6 @@
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409224038_584454_julkisivu_tapiolan_elissa.png</url>
-    </image>
-  </listing>
-  <listing>
-    <home_listing_id>ta2401</home_listing_id>
-    <name>Asunto Oy Espoon Tapiolan Elissa A10</name>
-    <availability>sale_pending</availability>
-    <listing_type>for_sale_by_agent</listing_type>
-    <url>https://www.arkta.fi/asunnot/elissa/ta2401/</url>
-    <price>227000 EUR</price>
-    <sales_price>90779 EUR</sales_price>
-    <property_type>apartment</property_type>
-    <num_beds>2</num_beds>
-    <area_size>35</area_size>
-    <area_size_unit>sqm</area_size_unit>
-    <year_built>2027</year_built>
-    <first_seen>2026-09-24</first_seen>
-    <description>Asunto Oy Espoon Tapiolan Elissan toimiva kolmannen kerroksen 35,5 m2 kaksio lasitetulla länsiparvekkeella. Olohuoneessa on asunnon levyinen lattiaan asti ulottuva iso ikkuna, josta tulvii asuntoon luonnonvaloa. Olohuone on suunniteltu niin, ettei kalusteita tarvitse sijoittaa ikkunan eteen. Makuuhuoneeseen sijoitettavissa iso parisänky. Asumismukavuutta lisäävät lattialämmitys ja tilava vaatehuone eteisessä. Keittiössä on induktioliesitaso, tyylikäs mikro/uuni yhdistelmä, jenkkikaappi pakastinlokerolla sekä kalustepeitteinen astianpesukone. Kylpyhuoneessa on tilavaraus omalle pyykinpesukoneelle ja päällekkäiselle kuivausrummulle. Tästä kodikkaasta huoneistosta on omaksi kodiksi tai halutuksi sijoitusasunnoksi.</description>
-    <address>
-      <component name="addr1">Metsäpirtintie 19 A10</component>
-      <component name="city">Espoo</component>
-      <component name="region">Uusimaa</component>
-      <component name="postal_code">02130</component>
-      <component name="country">FI</component>
-    </address>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260924191039_849790_elissa-alvar-visualisointikuva-ilmasta.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409214441_663086_elissa_a10.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154609_983474_elissa-kuvituskuva__5_.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154617_944066_a12_olohuone2_2_tapiolan_elissa_web.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154620_071413_b24_makuuhuone_tapiolan_elissa_web.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154608_016942_elissa_sisustuskuva_kuvakaruselliin_2.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154615_752913_a12_kylpyhuone_tapiolan_elissa_web.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154613_766331_elissa-kuvituskuva__8_.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154611_845628_elissa-kuvituskuva__6_.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409214445_837105_julkisivu_tapiolan_elissa.png</url>
-    </image>
-  </listing>
-  <listing>
-    <home_listing_id>ta2402</home_listing_id>
-    <name>Asunto Oy Espoon Tapiolan Elissa A6</name>
-    <availability>for_sale</availability>
-    <listing_type>for_sale_by_agent</listing_type>
-    <url>https://www.arkta.fi/asunnot/elissa/ta2402/</url>
-    <price>223000 EUR</price>
-    <sales_price>89226 EUR</sales_price>
-    <property_type>apartment</property_type>
-    <num_beds>2</num_beds>
-    <area_size>35</area_size>
-    <area_size_unit>sqm</area_size_unit>
-    <year_built>2027</year_built>
-    <first_seen>2026-09-24</first_seen>
-    <description>Asunto Oy Espoon Tapiolan Elissan toimiva toisen kerroksen 35,5 m2 kaksio lasitetulla länsiparvekkeella. Olohuone on helposti kalustettavissa ilman että kalusteita tarvitsisi sijoittaa isojen ikkunoiden eteen. Asunnon levyisestä lattiaan asti ulottuvasta isosta ikkunasta tulvii asuntoon luonnonvaloa. Tilavaan makuuhuoneeseen on sijoitettavissa iso parisänky, ja seinän sisään liukuva liukuovi mahdollistaa optimaalisen tilankäytön. Asumismukavuutta lisää lattialämmitys ja tilava vaatehuone eteisessä. Keittiössä on induktioliesitaso, tyylikäs mikro/uuni -yhdistelmä sekä jenkkijääkaappi pakastelokerolla. Astianpesukone on kalustepeitteinen. Kylpyhuoneessa on tilavaraus omalle pyykinpesukoneelle ja päällekkäiselle kuivausrummulle. Tästä kodikkaasta huoneistosta on omaksi kodiksi tai halutuksi sijoitusasunnoksi.</description>
-    <address>
-      <component name="addr1">Metsäpirtintie 19 A6</component>
-      <component name="city">Espoo</component>
-      <component name="region">Uusimaa</component>
-      <component name="postal_code">02130</component>
-      <component name="country">FI</component>
-    </address>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260924190211_074660_elissa-alvar-visualisointikuva-ilmasta.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409214143_186491_elissa_a6.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154246_633371_elissa_sisustuskuva_kuvakaruselliin_2.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409214137_008191_julkisivu_tapiolan_elissa.png</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154244_546273_a12_olohuone2_2_tapiolan_elissa_web.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154252_608933_b24_makuuhuone_tapiolan_elissa_web.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154248_720319_elissa-kuvituskuva__5_.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154242_274868_a12_kylpyhuone_tapiolan_elissa_web.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154250_726391_elissa-kuvituskuva__6_.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260415143445_994082_elissa_asema_kerroslukutekstein.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <home_listing_id>ta2403</home_listing_id>
-    <name>Asunto Oy Espoon Tapiolan Elissa B14</name>
-    <availability>for_sale</availability>
-    <listing_type>for_sale_by_agent</listing_type>
-    <url>https://www.arkta.fi/asunnot/elissa/ta2403/</url>
-    <price>244000 EUR</price>
-    <sales_price>97608 EUR</sales_price>
-    <property_type>apartment</property_type>
-    <num_beds>2</num_beds>
-    <area_size>48</area_size>
-    <area_size_unit>sqm</area_size_unit>
-    <year_built>2027</year_built>
-    <first_seen>2026-09-24</first_seen>
-    <description>Asunto Oy Espoon Tapiolan Elissan tilava ensimmäisen kerroksen 48,5 m2 kaksio lasitetulla länsiparvekkeella sekä terassilla. Ihanasta pitkästä ikkunalinjastosta tulvii asuntoon huikeasti luonnonvaloa. Erittäin hyväpohjaisessa kodissa on tilava saarekekeittiö omassa rauhassaan ja isolle ruokapöydälle tilaa. Olohuone on helposti kalustettavissa ja asunnon levyisestä lattiaan asti ulottuvasta isosta ikkunasta on näkymä lasitetulle länsi-parvekkeelle, josta käynti terassille. Makuuhuoneeseen on sijoitettavissa iso parisänky. Erillisen vaatehuoneen lisäksi on kaappitilaa makuuhuoneessa sekä eteisessä peililiukuovilla varustettuna. Kotimaisen Puustellin keittiöstä löytyy Electroluxin kodinkoneet kuten Jää-pakastinkaappi ja kalustepeitteinen astianpesukone. Saarekkeessa on induktio -tasoliesituuletin ja kalusteuuni. Kylpyhuoneessa on tilavaraus omalle pyykinpesukoneelle ja päällekkäiselle kuivausrummulle. Kodikas ja tilava huoneisto toimii helposti kahden henkilön kotina.</description>
-    <address>
-      <component name="addr1">Metsäpirtintie 19 B14</component>
-      <component name="city">Espoo</component>
-      <component name="region">Uusimaa</component>
-      <component name="postal_code">02130</component>
-      <component name="country">FI</component>
-    </address>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409215530_914884_b23_keittio___tapiolan_elissa_web.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409215557_477942_elissa_b14.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260924194813_095110_elissa-alvar-visualisointikuva-ilmasta.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154915_557245_elissa_sisustuskuva_kuvakaruselliin_2.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154919_679872_elissa-kuvituskuva__5_.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409215525_411398_julkisivu_tapiolan_elissa.png</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154913_316912_a12_kylpyhuone_tapiolan_elissa_web.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154921_663315_elissa-kuvituskuva__8_.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154917_560338_elissa-kuvituskuva__1_.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260415144518_114723_elissa_asema_kerroslukutekstein.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <home_listing_id>ta2404</home_listing_id>
-    <name>Asunto Oy Espoon Tapiolan Elissa B17</name>
-    <availability>for_sale</availability>
-    <listing_type>for_sale_by_agent</listing_type>
-    <url>https://www.arkta.fi/asunnot/elissa/ta2404/</url>
-    <price>249000 EUR</price>
-    <sales_price>99582 EUR</sales_price>
-    <property_type>apartment</property_type>
-    <num_beds>2</num_beds>
-    <area_size>48</area_size>
-    <area_size_unit>sqm</area_size_unit>
-    <year_built>2027</year_built>
-    <first_seen>2026-09-24</first_seen>
-    <description>Asunto Oy Espoon Tapiolan Elissan tilava toisen kerroksen 48,5 m2 kaksio lasitetulla länsiparvekkeella. Ihanasta pitkästä ikkunalinjastosta tulvii asuntoon huikeasti luonnonvaloa. Erittäin hyväpohjaisessa kodissa on tilava saarekekeittiö omassa rauhassaan ja isolle ruokapöydälle tilaa. Olohuone on helposti kalustettavissa. Makuuhuoneeseen on sijoitettavissa iso parisänky. Erillisen vaatehuoneen lisäksi on kaappitilaa makuuhuoneessa sekä eteisessä peililiukuovilla varustettuna. Kotimaisen Puustellin keittiöstä löytyy Electroluxin kodinkoneet kuten jää-pakastinkaappi ja kalustepeitteinen astianpesukone. Saarekkeessa on induktio -tasoliesituuletin ja kalusteuuni. Kylpyhuoneessa on tilavaraus omalle pyykinpesukoneelle ja päällekkäiselle kuivausrummulle. Kodikas ja tilava huoneisto.</description>
-    <address>
-      <component name="addr1">Metsäpirtintie 19 B17</component>
-      <component name="city">Espoo</component>
-      <component name="region">Uusimaa</component>
-      <component name="postal_code">02130</component>
-      <component name="country">FI</component>
-    </address>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409215757_090043_b23_keittio___tapiolan_elissa_web.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260728135151_596558_elissa_b17.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260924195345_019005_elissa-alvar-visualisointikuva-ilmasta.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413131212_730197_elissa_sisustuskuva_kuvakaruselliin_2.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413131217_068711_elissa-kuvituskuva__5_.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413131221_259875_a12_kylpyhuone_tapiolan_elissa_web.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413131219_263478_elissa-kuvituskuva__8_.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413131214_951734_elissa-kuvituskuva__1_.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409215759_458813_julkisivu_tapiolan_elissa.png</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260415144822_748807_elissa_asema_kerroslukutekstein.jpg</url>
     </image>
   </listing>
   <listing>
@@ -3703,6 +3597,59 @@
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409221752_338226_elissa_2._kerros_27.3.2026.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <home_listing_id>ta2419</home_listing_id>
+    <name>Asunto Oy Espoon Tapiolan Elissa B21</name>
+    <availability>for_sale</availability>
+    <listing_type>for_sale_by_agent</listing_type>
+    <url>https://www.arkta.fi/asunnot/elissa/ta2419/</url>
+    <price>399000 EUR</price>
+    <sales_price>159584 EUR</sales_price>
+    <property_type>apartment</property_type>
+    <num_beds>3</num_beds>
+    <area_size>75</area_size>
+    <area_size_unit>sqm</area_size_unit>
+    <year_built>2027</year_built>
+    <first_seen>2026-09-24</first_seen>
+    <description>Asunto Oy Espoon Tapiolan Elissan valoisassa kolmannen kerroksen päätykolmiossa on isoja ikkunoita kolmeen ilmansuuntaan. Tähän kotiin mahtuu sukulaisia ja vieraita kylään sillä, isollekin ruokapöydälle ja sohvaryhmälle on tilaa. Olohuone on todella avara, noin 24 m2, ja isosta lattiaan asti ulottuvasta ikkunasta avautuu näkymä lasitetulle länsiparvekkeelle ja sisäpihalle. Päämakuuhuoneeseen on sijoitettavissa iso parisänky ja työpiste kaapistojen jatkeeksi. Säilytystilaa asunnossa on runsaasti, sillä makuuhuoneiden kaapistojen ja eteisen peililiukuovikaapiston lisäksi tässä kodissa on erillinen vaatehuone. Kotimaisen Puustellin keittiössä on keittiösaareke, johon sijoittuu induktio-tasoliesituuletin sekä kalusteuuni. Astianpesukone on kalustepeitteinen ja integroitu mikroaaltouuni on valmiina kalusteessa. Keittiö on tarvittaessa laajennettavissa. Kylpyhuoneen seinissä on kauniit isot Pukkilan laatat ja tasokas varustelu; Oraksen sadesuihku, Svedbergin peili -ja allaskaapisto sekä Idon wc-istuin. Saunassa on ikkuna ja kaunis tervaleppäpanelointi. Kylpyhuoneessa on tilavaraus pyykinpesukoneelle ja päällekkäiselle kuivausrummulle. Kodin erillis-wc sujuvoittaa arkea. Kodikas ja tilava huoneisto toimii erinomaisesti avaria huonetiloja, ulko-oleskelua ja sisustamista arvostavalle.</description>
+    <address>
+      <component name="addr1">Metsäpirtintie 19 B21</component>
+      <component name="city">Espoo</component>
+      <component name="region">Uusimaa</component>
+      <component name="postal_code">02130</component>
+      <component name="country">FI</component>
+    </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409223725_149866_b24_makuuhuone_tapiolan_elissa_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409223714_774147_elissa_b21.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409223727_659172_b24_olohuone_tapiolan_elissa_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409223810_914561_julkisivu_tapiolan_elissa_rajattu.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260924195924_025593_elissa-alvar-visualisointikuva-ilmasta.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413135314_924030_elissa_sisustuskuva_kuvakaruselliin_1.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413135312_780817_a12_kylpyhuone_tapiolan_elissa_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413135310_668029_a8_olohuone_tapiolan_elissa_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413135316_887949_elissa-kuvituskuva__2_.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409223720_152235_julkisivu_tapiolan_elissa.png</url>
     </image>
   </listing>
 </listings>
