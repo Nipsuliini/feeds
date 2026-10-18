@@ -4,7 +4,7 @@
     <title>kennelrehu</title>
     <link>https://www.kennelrehu.fi/</link>
     <description>Product feed – kennelrehu</description>
-    <lastBuildDate>Sat, 17 Oct 2026 00:35:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 00:09:44 +0000</lastBuildDate>
     <item>
             <g:id>894-1016</g:id>
             <g:title>Beef Chips M nautalastu</g:title>
@@ -32,38 +32,6 @@ Säilytys kuivassa huoneenlämmössä.</g:description>
             <g:product_type>Herkut &gt; Herkut puruluut</g:product_type>
             <g:custom_label_0>fi</g:custom_label_0>
             <g:custom_label_1>Herkut rasvaa alle 10 %</g:custom_label_1>
-    </item>
-    <item>
-            <g:id>348-283</g:id>
-            <g:title>Beef Powerstick nautatikku</g:title>
-            <g:description>NUTRIMENT puruluut valmistetaan Suomessa käsityönä vain
-ensiluokkaisista raaka-aineista. Valmistusmenetelmä on suunniteltu alusta
-alkaen vain puruluiden ja muiden koiranherkkujen valmistukseen, lemmikkisi
-parhaaksi! Suomalaiset Nutrimentin puruluut valmistetaan aina yhdestä
-nahkakappaleesta perinteisellä kuivaamismenetelmällä, jo vuodesta 1989!
-- 100 % suomalaista käsityötä.
-- Bakterologisesti puhdas.
-- Tutkittu ja turvallinen.
-- Poistaa hammaskiveä ja ehkäisee ientulehdusta.
-- Maistuva ja herkullinen ajanviete koiralle.
-- Kevyt, alhainen energiapitoisuus.
-- Avainlipputuote
-Ravintosisältö: Raakavalkuainen 87,2%, Raakarasva 1,6%, Kosteus 6,2%
-Paino n. 30 g
-Pituus n. 15 cm
-Leveys n. 1,5 cm
-Paksuus n. 1,5 cm
-Muistathan valvoa koiraasi sen syödessä puruluita sekä pitää aina raikasta vettä saatavilla.
-Säilytys kuivassa huoneenlämmössä.</g:description>
-            <g:link>https://www.kennelrehu.fi/shop/323-beef-powerstick-nautatikku-348</g:link>
-            <g:image_link>https://www.kennelrehu.fi/web/image/product.template/348/image_1920?unique=803e7b9</g:image_link>
-            <g:price>2.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Kennel-Rehu</g:brand>
-            <g:product_type>Herkut &gt; Herkut puruluut</g:product_type>
-            <g:custom_label_0>fi</g:custom_label_0>
-            <g:custom_label_1>Pennuille, Nauta, Herkut rasvaa alle 10 %</g:custom_label_1>
     </item>
     <item>
             <g:id>793-859</g:id>
@@ -244,6 +212,38 @@ ruokavaliota.
             <g:item_group_id>793</g:item_group_id>
             <g:custom_label_0>fi</g:custom_label_0>
             <g:custom_label_1>Luuttomat lihat, Luulliset lihat, Rasvaa alle 10 %, Rasvaa yli 20 %, Pennuille, Kissoille, Sydän, Si</g:custom_label_1>
+    </item>
+    <item>
+            <g:id>348-283</g:id>
+            <g:title>Beef Powerstick nautatikku</g:title>
+            <g:description>NUTRIMENT puruluut valmistetaan Suomessa käsityönä vain
+ensiluokkaisista raaka-aineista. Valmistusmenetelmä on suunniteltu alusta
+alkaen vain puruluiden ja muiden koiranherkkujen valmistukseen, lemmikkisi
+parhaaksi! Suomalaiset Nutrimentin puruluut valmistetaan aina yhdestä
+nahkakappaleesta perinteisellä kuivaamismenetelmällä, jo vuodesta 1989!
+- 100 % suomalaista käsityötä.
+- Bakterologisesti puhdas.
+- Tutkittu ja turvallinen.
+- Poistaa hammaskiveä ja ehkäisee ientulehdusta.
+- Maistuva ja herkullinen ajanviete koiralle.
+- Kevyt, alhainen energiapitoisuus.
+- Avainlipputuote
+Ravintosisältö: Raakavalkuainen 87,2%, Raakarasva 1,6%, Kosteus 6,2%
+Paino n. 30 g
+Pituus n. 15 cm
+Leveys n. 1,5 cm
+Paksuus n. 1,5 cm
+Muistathan valvoa koiraasi sen syödessä puruluita sekä pitää aina raikasta vettä saatavilla.
+Säilytys kuivassa huoneenlämmössä.</g:description>
+            <g:link>https://www.kennelrehu.fi/shop/323-beef-powerstick-nautatikku-348</g:link>
+            <g:image_link>https://www.kennelrehu.fi/web/image/product.template/348/image_1920?unique=803e7b9</g:image_link>
+            <g:price>2.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Kennel-Rehu</g:brand>
+            <g:product_type>Herkut &gt; Herkut puruluut</g:product_type>
+            <g:custom_label_0>fi</g:custom_label_0>
+            <g:custom_label_1>Pennuille, Nauta, Herkut rasvaa alle 10 %</g:custom_label_1>
     </item>
     <item>
             <g:id>440-415</g:id>
@@ -1398,31 +1398,6 @@ Käyttö- ja annosteluohje: Tarjoile Jahti&amp;Vahti Extra Energia -koiran täys
             <g:custom_label_1>Rasvaa yli 20 %, Kana</g:custom_label_1>
     </item>
     <item>
-            <g:id>392-348</g:id>
-            <g:title>Jahti&amp;Vahti Kevyt 12 kg</g:title>
-            <g:description>Jahti&amp;Vahti Kevyt on suunniteltu erityisesti vähemmän energiaa kuluttaville aikuisille ja ikääntyville koirille. Vähärasvainen täysravinto sopii myös hyvin koirille, joiden painoa halutaan kontrolloida. Jahti&amp;Vahti Kevyt -kuivaruoka auttaa pitämään seniori-ikäisen koiran hyvässä kunnossa.
-Koiranruuan raaka-aineina on käytetty suomalaista kanaa sekä ohraa ja hyvin sulavaa kauraa. Juurikasleike tuo koiranruokaan terveellisiä kuituja, jotka ylläpitävät kylläisyyden tunnetta ja ovat tarpeellisia ruuansulatukselle.
-Koiranruuassa mahaa hellii ainutlaatuinen, patentoitu Progut®-valmiste. Se on saatavilla vain Jahti&amp;Vahti-tuotteissa, missään muissa koirien kuivaruuissa sitä ei ole. Progutin hyvät ominaisuudet tukevat suoliston normaalia toimintaa sekä eläimen luontaista vastustuskykyä. Jahti&amp;Vahti Kevyt on maku-, väri- ja lisäaineeton, eikä sisällä vehnää, maissia, kalaa tai soijaa.
-• Sisältää maltillisesti energiaa
-• Soveltuu aikuisille koirille
-• Soveltuu ikääntyville koirille
-• Valmistettu Suomessa kotimaisista raaka-aineista
-• Progut® tukee vastustuskykyä ja suoliston normaalia toimintaa
-Koostumus:
-Ohra, kaura, kananlihajauho, juurikasleike, kananrasva, hydrolysoitu panimohiiva ProGut® (pat. nr. EP 1387620)”, vitamiinit ja kivennäisaineet, antioksidantit (tokoferoliseos). Huom! Tarkista koostumus säkistä ennen käyttöä!
-Ravintosisältö: raakavalkuainen 23 %, raakarasva 8 %, raakakuitu 5 %, kosteus 8 %, hehkutusjäännös 5,2 %, muuntokelpoinen energia MJ/kg 1,45 / 346 kcal/100 g, kalsium 1,0 %, fosfori 0,9 %, A-vitamiini 15000 KY/kg, D3-vitamiini 1500/kg, tauriini 1000 mg.
-Käyttö- ja annosteluohje: Tarjoile Jahti&amp;Vahti Kevyt -täysravinto kuivana tai vedellä kostutettuna. Pidä raikasta vettä koiran saatavilla. Päivittäinen annos riippuu koiran iästä, koosta, rodusta ja aktiivisuudesta.</g:description>
-            <g:link>https://www.kennelrehu.fi/shop/410-jahti-vahti-kevyt-12-kg-392</g:link>
-            <g:image_link>https://www.kennelrehu.fi/web/image/product.template/392/image_1920?unique=b9956f9</g:image_link>
-            <g:price>40.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Kennel-Rehu</g:brand>
-            <g:product_type>Kuivaruoat ja makkarat &gt; Kuivaruoat ja makkarat kuivaruoat</g:product_type>
-            <g:custom_label_0>fi</g:custom_label_0>
-            <g:custom_label_1>Rasvaa alle 10 %, Senioreille, Kana</g:custom_label_1>
-    </item>
-    <item>
             <g:id>421-378</g:id>
             <g:title>Jahti&amp;Vahti Kanariisi 3 kg</g:title>
             <g:description>Jahti&amp;Vahti Kana ja Riisi sisältää kaikki koirasi tarvitsemat ravintoaineet tasapainoisessa suhteessa. Sen valmistuksessa on käytetty kotimaista kananlihaa, ja resepti on kehitetty hyödyntäen herkänkin koiran suolistolle hyvin soveltuvat raaka-aineet.
@@ -1479,25 +1454,29 @@ Tarjoa Jahti&amp;Vahti Kana ja Riisi -täysravinto kuivana, vedellä kostutettun
             <g:custom_label_1>Kana</g:custom_label_1>
     </item>
     <item>
-            <g:id>389-345</g:id>
-            <g:title>Jahti&amp;Vahti liha-ateria 1 kg</g:title>
-            <g:description>Jahti&amp;Vahti Liha-ateria on matkoilla, luonnossa tai metsästysretkillä kätevä koiran eväs. Jahti&amp;Vahdin koiran makkara on laadukasta lihaa helppokäyttöisessä kilon pakkauksessa ja mukavaa sekä maittavaa vaihtelua ruokalistaan koiralle kuivaruokien rinnalla. Liha-ateria sopii koirien kuivaruokien lisukkeeksi kuin sellaisenaan.
-Liha-aterian tuoreiden ja kotimaisten raaka-aineiden herkullinen koiranruoka sisältää 21,5 % valkuaista ja 19,5 % rasvaa. Lihat ovat naudan ja sianlihaa ja kokonaisuuden täydentää soija. Maukas ateria sisältää vatsalle ystävällistä juurikaskuitua, pellavasiemenrouhetta ja luonnon betaiinia. Juurikaskuitu on tarpeellisten sulavien kuitujen lähde.
-Liha-aterian käyttö- ja annosteluohje:
-Kilon pakkauksiin pakattu Liha-ateria säilyy huoneenlämmössä 6 kuukautta, avattuna jääkaapissa 5-6 päivää. Liha-aterian voit tarjota sellaisenaan tai sen voi tarjota lisukkeena Jahti&amp;Vahti-kuivaruokien kanssa.
-Koostumus: Naudan- ja sianlihaa, soijaa, juurikaskuitua, pellavansiemenrouhetta, mausteita ja vitamiineja.
-Ravintoarvo: Proteiini 21,5 %, rasva 19,5 %, kuitu 4,5 %, hehkutusjäännös 2,2 %, kosteus 51,9 %, muuntokelpoinen energia 15,6 MJ/kg, kalsium 2,2 %, fosfori 1,8 %, A-vitamiini 3700 KY/kg, D3-vitamiini 380 KY/kg, E-vitamiini 43 mg/kg.
-Valmistusmaa: Suomi. 
-Avainlipputuote.</g:description>
-            <g:link>https://www.kennelrehu.fi/shop/387-jahti-vahti-liha-ateria-1-kg-389</g:link>
-            <g:image_link>https://www.kennelrehu.fi/web/image/product.template/389/image_1920?unique=b9956f9</g:image_link>
-            <g:price>4.00 EUR</g:price>
+            <g:id>392-348</g:id>
+            <g:title>Jahti&amp;Vahti Kevyt 12 kg</g:title>
+            <g:description>Jahti&amp;Vahti Kevyt on suunniteltu erityisesti vähemmän energiaa kuluttaville aikuisille ja ikääntyville koirille. Vähärasvainen täysravinto sopii myös hyvin koirille, joiden painoa halutaan kontrolloida. Jahti&amp;Vahti Kevyt -kuivaruoka auttaa pitämään seniori-ikäisen koiran hyvässä kunnossa.
+Koiranruuan raaka-aineina on käytetty suomalaista kanaa sekä ohraa ja hyvin sulavaa kauraa. Juurikasleike tuo koiranruokaan terveellisiä kuituja, jotka ylläpitävät kylläisyyden tunnetta ja ovat tarpeellisia ruuansulatukselle.
+Koiranruuassa mahaa hellii ainutlaatuinen, patentoitu Progut®-valmiste. Se on saatavilla vain Jahti&amp;Vahti-tuotteissa, missään muissa koirien kuivaruuissa sitä ei ole. Progutin hyvät ominaisuudet tukevat suoliston normaalia toimintaa sekä eläimen luontaista vastustuskykyä. Jahti&amp;Vahti Kevyt on maku-, väri- ja lisäaineeton, eikä sisällä vehnää, maissia, kalaa tai soijaa.
+• Sisältää maltillisesti energiaa
+• Soveltuu aikuisille koirille
+• Soveltuu ikääntyville koirille
+• Valmistettu Suomessa kotimaisista raaka-aineista
+• Progut® tukee vastustuskykyä ja suoliston normaalia toimintaa
+Koostumus:
+Ohra, kaura, kananlihajauho, juurikasleike, kananrasva, hydrolysoitu panimohiiva ProGut® (pat. nr. EP 1387620)”, vitamiinit ja kivennäisaineet, antioksidantit (tokoferoliseos). Huom! Tarkista koostumus säkistä ennen käyttöä!
+Ravintosisältö: raakavalkuainen 23 %, raakarasva 8 %, raakakuitu 5 %, kosteus 8 %, hehkutusjäännös 5,2 %, muuntokelpoinen energia MJ/kg 1,45 / 346 kcal/100 g, kalsium 1,0 %, fosfori 0,9 %, A-vitamiini 15000 KY/kg, D3-vitamiini 1500/kg, tauriini 1000 mg.
+Käyttö- ja annosteluohje: Tarjoile Jahti&amp;Vahti Kevyt -täysravinto kuivana tai vedellä kostutettuna. Pidä raikasta vettä koiran saatavilla. Päivittäinen annos riippuu koiran iästä, koosta, rodusta ja aktiivisuudesta.</g:description>
+            <g:link>https://www.kennelrehu.fi/shop/410-jahti-vahti-kevyt-12-kg-392</g:link>
+            <g:image_link>https://www.kennelrehu.fi/web/image/product.template/392/image_1920?unique=b9956f9</g:image_link>
+            <g:price>40.00 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
             <g:brand>Kennel-Rehu</g:brand>
-            <g:product_type>Kuivaruoat ja makkarat &gt; Kuivaruoat ja makkarat makkarat</g:product_type>
+            <g:product_type>Kuivaruoat ja makkarat &gt; Kuivaruoat ja makkarat kuivaruoat</g:product_type>
             <g:custom_label_0>fi</g:custom_label_0>
-            <g:custom_label_1>Sika-nauta</g:custom_label_1>
+            <g:custom_label_1>Rasvaa alle 10 %, Senioreille, Kana</g:custom_label_1>
     </item>
     <item>
             <g:id>422-382</g:id>
@@ -1550,6 +1529,27 @@ Tarjoa Jahti&amp;Vahti Lammas ja Riisi -täysravinto kuivana, vedellä kostutett
             <g:item_group_id>422</g:item_group_id>
             <g:custom_label_0>fi</g:custom_label_0>
             <g:custom_label_1>Lammas</g:custom_label_1>
+    </item>
+    <item>
+            <g:id>389-345</g:id>
+            <g:title>Jahti&amp;Vahti liha-ateria 1 kg</g:title>
+            <g:description>Jahti&amp;Vahti Liha-ateria on matkoilla, luonnossa tai metsästysretkillä kätevä koiran eväs. Jahti&amp;Vahdin koiran makkara on laadukasta lihaa helppokäyttöisessä kilon pakkauksessa ja mukavaa sekä maittavaa vaihtelua ruokalistaan koiralle kuivaruokien rinnalla. Liha-ateria sopii koirien kuivaruokien lisukkeeksi kuin sellaisenaan.
+Liha-aterian tuoreiden ja kotimaisten raaka-aineiden herkullinen koiranruoka sisältää 21,5 % valkuaista ja 19,5 % rasvaa. Lihat ovat naudan ja sianlihaa ja kokonaisuuden täydentää soija. Maukas ateria sisältää vatsalle ystävällistä juurikaskuitua, pellavasiemenrouhetta ja luonnon betaiinia. Juurikaskuitu on tarpeellisten sulavien kuitujen lähde.
+Liha-aterian käyttö- ja annosteluohje:
+Kilon pakkauksiin pakattu Liha-ateria säilyy huoneenlämmössä 6 kuukautta, avattuna jääkaapissa 5-6 päivää. Liha-aterian voit tarjota sellaisenaan tai sen voi tarjota lisukkeena Jahti&amp;Vahti-kuivaruokien kanssa.
+Koostumus: Naudan- ja sianlihaa, soijaa, juurikaskuitua, pellavansiemenrouhetta, mausteita ja vitamiineja.
+Ravintoarvo: Proteiini 21,5 %, rasva 19,5 %, kuitu 4,5 %, hehkutusjäännös 2,2 %, kosteus 51,9 %, muuntokelpoinen energia 15,6 MJ/kg, kalsium 2,2 %, fosfori 1,8 %, A-vitamiini 3700 KY/kg, D3-vitamiini 380 KY/kg, E-vitamiini 43 mg/kg.
+Valmistusmaa: Suomi. 
+Avainlipputuote.</g:description>
+            <g:link>https://www.kennelrehu.fi/shop/387-jahti-vahti-liha-ateria-1-kg-389</g:link>
+            <g:image_link>https://www.kennelrehu.fi/web/image/product.template/389/image_1920?unique=b9956f9</g:image_link>
+            <g:price>4.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Kennel-Rehu</g:brand>
+            <g:product_type>Kuivaruoat ja makkarat &gt; Kuivaruoat ja makkarat makkarat</g:product_type>
+            <g:custom_label_0>fi</g:custom_label_0>
+            <g:custom_label_1>Sika-nauta</g:custom_label_1>
     </item>
     <item>
             <g:id>393-349</g:id>
@@ -1766,24 +1766,6 @@ Sarjassa on kahta eri mallista lelua: Teeter ja Toppler (katso tuotekuva). Jos t
             <g:custom_label_0>fi</g:custom_label_0>
     </item>
     <item>
-            <g:id>674-723</g:id>
-            <g:title>Kalkkunan kaula kuivattu, 1 kpl</g:title>
-            <g:description>Rouskuva vaihtoehto herkutteluun! Kotimainen kuivattu herkku, kalkkunan kaula on etenkin isompien koirien rapea ja rouskuva makupala.
-Koostumus: Suomalainen kalkkunankaula (Huom! Sisältää luuta).
-Ravintosisältö: raakavalkuainen 59,0 %, raakarasva 21,2 %, tuhka 17,1 %.
-Rehuaine, vain lemmikkieläimille.
-Tarjoa herkkuna tai palkkiona raikkaan veden kanssa. Säilytys kuivassa ja huoneenlämmössä, valolta suojattuna. Kuivatusta makupalasta saattaa irrota paloja. Valvo lemmikkiäsi sen syödessä makupalaa. Ainoastaan lemmikkieläinten ruoaksi. Huolehdi hyvästä käsihygieniasta.</g:description>
-            <g:link>https://www.kennelrehu.fi/shop/372-kalkkunan-kaula-kuivattu-1-kpl-674</g:link>
-            <g:image_link>https://www.kennelrehu.fi/web/image/product.template/674/image_1920?unique=dd59d47</g:image_link>
-            <g:price>2.50 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Kennel-Rehu</g:brand>
-            <g:product_type>Herkut &gt; Herkut puruluut</g:product_type>
-            <g:custom_label_0>fi</g:custom_label_0>
-            <g:custom_label_1>Rasvaa yli 20 %, Luut kalkkuna, Kalkkuna</g:custom_label_1>
-    </item>
-    <item>
             <g:id>322-244</g:id>
             <g:title>Kalkkiseos 1 kg</g:title>
             <g:description>Ruokintakalkki eli rehukalkki tehdään parhaimmasta ja puhtaimmasta suomalaisesta kalkkikivestä. Rehukalkin tärkein ominaisuus on korkea kalsiumpitoisuus (36-38 %) ja hyvä liukoisuus.
@@ -1882,6 +1864,24 @@ Annosteluohjeessa on huomioitu ruoansulatuksessa sulamattoman kalsiumin määrä
             <g:item_group_id>322</g:item_group_id>
             <g:custom_label_0>fi</g:custom_label_0>
             <g:custom_label_1>Puurotuotteet, Kasvikset</g:custom_label_1>
+    </item>
+    <item>
+            <g:id>674-723</g:id>
+            <g:title>Kalkkunan kaula kuivattu, 1 kpl</g:title>
+            <g:description>Rouskuva vaihtoehto herkutteluun! Kotimainen kuivattu herkku, kalkkunan kaula on etenkin isompien koirien rapea ja rouskuva makupala.
+Koostumus: Suomalainen kalkkunankaula (Huom! Sisältää luuta).
+Ravintosisältö: raakavalkuainen 59,0 %, raakarasva 21,2 %, tuhka 17,1 %.
+Rehuaine, vain lemmikkieläimille.
+Tarjoa herkkuna tai palkkiona raikkaan veden kanssa. Säilytys kuivassa ja huoneenlämmössä, valolta suojattuna. Kuivatusta makupalasta saattaa irrota paloja. Valvo lemmikkiäsi sen syödessä makupalaa. Ainoastaan lemmikkieläinten ruoaksi. Huolehdi hyvästä käsihygieniasta.</g:description>
+            <g:link>https://www.kennelrehu.fi/shop/372-kalkkunan-kaula-kuivattu-1-kpl-674</g:link>
+            <g:image_link>https://www.kennelrehu.fi/web/image/product.template/674/image_1920?unique=dd59d47</g:image_link>
+            <g:price>2.50 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Kennel-Rehu</g:brand>
+            <g:product_type>Herkut &gt; Herkut puruluut</g:product_type>
+            <g:custom_label_0>fi</g:custom_label_0>
+            <g:custom_label_1>Rasvaa yli 20 %, Luut kalkkuna, Kalkkuna</g:custom_label_1>
     </item>
     <item>
             <g:id>346-281</g:id>
@@ -2496,30 +2496,6 @@ tassuyksityiskohta. Alustan koko 30 x 48 cm.</g:description>
             <g:custom_label_0>fi</g:custom_label_0>
     </item>
     <item>
-            <g:id>339-271</g:id>
-            <g:title>Kypsä kana-riisi 5 kg</g:title>
-            <g:description>Täysin kypsä kanariisiseos sisältää suomalaista broilerinlihaa ja kanaliemessä keitettyä riisiä. Kypsä, luuton broileri-riisiseos on helposti sulavaa ja soveltuu monille herkkävatsaisille koirille. Valmis, helppokäyttöinen seos soveltuu myös kypsennettyä liharuokavaliota noudattaville koirille sekä nappularuoan joukkoon lisättäväksi.
-Valmiiksi haudutettu broileririisi säästää aikaa ja on helppo jo nopea käyttää – sulata ja tarjoile! Tarjotaan osana monipuolista ruokavaliota.
-- Koostumus: Suomalaista broilerin luutonta lihaa ja riisiä, kypsennettynä ja pakastettuna. Riisin alkuperämaa Italia.
-- Pakkaus: 500 g annos vakuumipakkauksessa, jossa repäisykulma, pakattuna 5 kg laatikkoon.
-- Ravintoarvo / 100 g: proteiini 12,5 g, rasva 16 g, hiilihydraatti 11,5 g, kosteus 60 g, energia: 767 kJ / 184 kcal
-- Säilytys: Säilytetään pakkasessa -18 C. Kypsä tuote.
-- Sulatus: Sulata tuote jääkaapissa kannellisessa astiassa. Tuote säilyy jääkaapissa 3-4 päivää sulatuksen jälkeen.
-- Käyttö: Kypsä tuote on valmis tarjottavaksi sulatuksen jälkeen.
-- Täydennysravinto. Tarjotaan osana monipuolista ruokavaliota.
-- Avainlipputuote - valmistettu Suomessa suomalaisista raaka-aineista.
-- Laatikon mitat: pituus 20 cm, leveys 15 cm, korkeus 22 cm.</g:description>
-            <g:link>https://www.kennelrehu.fi/shop/268-kypsa-kana-riisi-5-kg-339</g:link>
-            <g:image_link>https://www.kennelrehu.fi/web/image/product.template/339/image_1920?unique=b9956f9</g:image_link>
-            <g:price>24.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Kennel-Rehu</g:brand>
-            <g:product_type>Kypsat ruoat</g:product_type>
-            <g:custom_label_0>fi</g:custom_label_0>
-            <g:custom_label_1>Kypsät, Puurotuotteet, Broileri</g:custom_label_1>
-    </item>
-    <item>
             <g:id>382-337</g:id>
             <g:title>Kurkkutorvet 5 kg</g:title>
             <g:description>Suomalaisia sian kurkkutorvia. Kurkkutorvet on jauhettu rouheiksi, noin sormenpään kokoisiksi paloiksi (rouheusaste saattaa vaihdella). Reippaat palaset tarjoavat koiralle sopivasti puruvastusta ja tuovat vaihtelua ja monipuolisuutta raakaruokavalioon. Huom! Tuote saattaa sisältää paloja luusta.
@@ -2566,6 +2542,30 @@ Valmiiksi haudutettu broileririisi säästää aikaa ja on helppo jo nopea käyt
             <g:item_group_id>382</g:item_group_id>
             <g:custom_label_0>fi</g:custom_label_0>
             <g:custom_label_1>Luuttomat lihat, Palalihat ja pullat, Possu</g:custom_label_1>
+    </item>
+    <item>
+            <g:id>339-271</g:id>
+            <g:title>Kypsä kana-riisi 5 kg</g:title>
+            <g:description>Täysin kypsä kanariisiseos sisältää suomalaista broilerinlihaa ja kanaliemessä keitettyä riisiä. Kypsä, luuton broileri-riisiseos on helposti sulavaa ja soveltuu monille herkkävatsaisille koirille. Valmis, helppokäyttöinen seos soveltuu myös kypsennettyä liharuokavaliota noudattaville koirille sekä nappularuoan joukkoon lisättäväksi.
+Valmiiksi haudutettu broileririisi säästää aikaa ja on helppo jo nopea käyttää – sulata ja tarjoile! Tarjotaan osana monipuolista ruokavaliota.
+- Koostumus: Suomalaista broilerin luutonta lihaa ja riisiä, kypsennettynä ja pakastettuna. Riisin alkuperämaa Italia.
+- Pakkaus: 500 g annos vakuumipakkauksessa, jossa repäisykulma, pakattuna 5 kg laatikkoon.
+- Ravintoarvo / 100 g: proteiini 12,5 g, rasva 16 g, hiilihydraatti 11,5 g, kosteus 60 g, energia: 767 kJ / 184 kcal
+- Säilytys: Säilytetään pakkasessa -18 C. Kypsä tuote.
+- Sulatus: Sulata tuote jääkaapissa kannellisessa astiassa. Tuote säilyy jääkaapissa 3-4 päivää sulatuksen jälkeen.
+- Käyttö: Kypsä tuote on valmis tarjottavaksi sulatuksen jälkeen.
+- Täydennysravinto. Tarjotaan osana monipuolista ruokavaliota.
+- Avainlipputuote - valmistettu Suomessa suomalaisista raaka-aineista.
+- Laatikon mitat: pituus 20 cm, leveys 15 cm, korkeus 22 cm.</g:description>
+            <g:link>https://www.kennelrehu.fi/shop/268-kypsa-kana-riisi-5-kg-339</g:link>
+            <g:image_link>https://www.kennelrehu.fi/web/image/product.template/339/image_1920?unique=b9956f9</g:image_link>
+            <g:price>24.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Kennel-Rehu</g:brand>
+            <g:product_type>Kypsat ruoat</g:product_type>
+            <g:custom_label_0>fi</g:custom_label_0>
+            <g:custom_label_1>Kypsät, Puurotuotteet, Broileri</g:custom_label_1>
     </item>
     <item>
             <g:id>342-276</g:id>
@@ -3137,6 +3137,42 @@ Jättikoirat 2 mittaa</g:description>
             <g:custom_label_1>Kasvikset</g:custom_label_1>
     </item>
     <item>
+            <g:id>474-458</g:id>
+            <g:title>Moose Bullet hirvipuruluu hirvisalamilla</g:title>
+            <g:description>Moose Bullet sopii kokonsa puolesta pienille ja keskikokoisille koirille. Hirvennahkaisen puruluun sisään on kääritty hirvisalami (salami sisältää naudanlihaa).
+Hirvennahasta valmistetut puruluut ovat erittäin kestäviä ja herkullisia. Niissä käytetään koko hirvennahka, mukaan lukien paras osa eli pintanahka. Näin voidaan tarjota koirallesi ainutlaatuinen, erittäin kestävä ja allergiavapaa nautinto aidosta luonnontuotteesta.
+NUTRIMENT
+puruluut valmistetaan Suomessa käsityönä vain ensiluokkaisista raaka-aineista.
+Valmistusmenetelmä on suunniteltu alusta alkaen vain puruluiden ja muiden
+koiranherkkujen valmistukseen, lemmikkisi parhaaksi! Suomalaiset Nutrimentin
+puruluut valmistetaan aina yhdestä nahkakappaleesta perinteisellä
+kuivaamismenetelmällä, jo vuodesta 1989!
+- 100 % suomalaista käsityötä.
+- Bakterologisesti puhdas.
+- Tutkittu ja turvallinen.
+- Poistaa hammaskiveä ja ehkäisee ientulehdusta.
+- Maistuva ja herkullinen ajanviete koiralle.
+- Kevyt, alhainen energiapitoisuus.
+- Avainlipputuote
+Koostumus: Hirvennahka, Naudankeuhko, Naudansydän, Hirvenliha (14 %), naudanrasva, perunakuitu, kaliumkloridi.
+Puruluu: Raakavalkuainen 87.7%, Raakarasva 2.1%, Kosteus 6.2%
+Täyte: Raakavalkuainen 11.7%, Raakarasva 13.8%, Kosteus 4.8%
+Pituus: n. 19 cm
+Leveys: n. 2,5 cm
+Paino: noin 40 g.
+Muistathan valvoa koiraasi sen syödessä puruluita sekä pitää
+aina raikasta vettä saatavilla. Säilytys kuivassa huoneenlämmössä.</g:description>
+            <g:link>https://www.kennelrehu.fi/shop/722-moose-bullet-hirvipuruluu-hirvisalamilla-474</g:link>
+            <g:image_link>https://www.kennelrehu.fi/web/image/product.template/474/image_1920?unique=e352018</g:image_link>
+            <g:price>6.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Kennel-Rehu</g:brand>
+            <g:product_type>Herkut &gt; Herkut puruluut</g:product_type>
+            <g:custom_label_0>fi</g:custom_label_0>
+            <g:custom_label_1>Nauta, Hirvi, Herkut rasvaa alle 10 %</g:custom_label_1>
+    </item>
+    <item>
             <g:id>860-954</g:id>
             <g:title>Maxipin harja Advanced ovaali pieni piikit 20 mm</g:title>
             <g:description>Keller Maxipin -harjojen varret on valmistettu 100 % FSC-sertifioidusta
@@ -3414,42 +3450,6 @@ Muistathan valvoa koiraasi sen syödessä puruluita sekä pitää aina raikasta 
             <g:product_type>Herkut &gt; Herkut puruluut</g:product_type>
             <g:custom_label_0>fi</g:custom_label_0>
             <g:custom_label_1>Erityisruokavaliot / allergiat, Hirvi, Herkut rasvaa alle 10 %</g:custom_label_1>
-    </item>
-    <item>
-            <g:id>474-458</g:id>
-            <g:title>Moose Bullet hirvipuruluu hirvisalamilla</g:title>
-            <g:description>Moose Bullet sopii kokonsa puolesta pienille ja keskikokoisille koirille. Hirvennahkaisen puruluun sisään on kääritty hirvisalami (salami sisältää naudanlihaa).
-Hirvennahasta valmistetut puruluut ovat erittäin kestäviä ja herkullisia. Niissä käytetään koko hirvennahka, mukaan lukien paras osa eli pintanahka. Näin voidaan tarjota koirallesi ainutlaatuinen, erittäin kestävä ja allergiavapaa nautinto aidosta luonnontuotteesta.
-NUTRIMENT
-puruluut valmistetaan Suomessa käsityönä vain ensiluokkaisista raaka-aineista.
-Valmistusmenetelmä on suunniteltu alusta alkaen vain puruluiden ja muiden
-koiranherkkujen valmistukseen, lemmikkisi parhaaksi! Suomalaiset Nutrimentin
-puruluut valmistetaan aina yhdestä nahkakappaleesta perinteisellä
-kuivaamismenetelmällä, jo vuodesta 1989!
-- 100 % suomalaista käsityötä.
-- Bakterologisesti puhdas.
-- Tutkittu ja turvallinen.
-- Poistaa hammaskiveä ja ehkäisee ientulehdusta.
-- Maistuva ja herkullinen ajanviete koiralle.
-- Kevyt, alhainen energiapitoisuus.
-- Avainlipputuote
-Koostumus: Hirvennahka, Naudankeuhko, Naudansydän, Hirvenliha (14 %), naudanrasva, perunakuitu, kaliumkloridi.
-Puruluu: Raakavalkuainen 87.7%, Raakarasva 2.1%, Kosteus 6.2%
-Täyte: Raakavalkuainen 11.7%, Raakarasva 13.8%, Kosteus 4.8%
-Pituus: n. 19 cm
-Leveys: n. 2,5 cm
-Paino: noin 40 g.
-Muistathan valvoa koiraasi sen syödessä puruluita sekä pitää
-aina raikasta vettä saatavilla. Säilytys kuivassa huoneenlämmössä.</g:description>
-            <g:link>https://www.kennelrehu.fi/shop/722-moose-bullet-hirvipuruluu-hirvisalamilla-474</g:link>
-            <g:image_link>https://www.kennelrehu.fi/web/image/product.template/474/image_1920?unique=e352018</g:image_link>
-            <g:price>6.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Kennel-Rehu</g:brand>
-            <g:product_type>Herkut &gt; Herkut puruluut</g:product_type>
-            <g:custom_label_0>fi</g:custom_label_0>
-            <g:custom_label_1>Nauta, Hirvi, Herkut rasvaa alle 10 %</g:custom_label_1>
     </item>
     <item>
             <g:id>447-422</g:id>
@@ -3840,26 +3840,6 @@ Säilyvyys 12 kk.</g:description>
             <g:custom_label_1>Senioreille, Kissoille, Nauta, Herkut rasvaa alle 10 %</g:custom_label_1>
     </item>
     <item>
-            <g:id>457-441</g:id>
-            <g:title>Naudan mahalastu 200 g</g:title>
-            <g:description>Naudanmahalastu on kuivattu, jauhettu ja sen leivottu näkkileivän tyyppiseksi rapeaksi herkkupalaksi. Maha on perinteisesti vahvantuoksuinen herkku, mutta kuivattuna naudan maha ei tuoksu ehkä yhtä vahvasti. Suomalainen täyslihaherkku koiran kiitospalaksi ja välipalaksi.
-- Koostumus: Suomalainen naudanmaha.
-- Pakkaus: 200 g.
-- Mitat: yhden lastun pituus on 9 cm, paksuus 1 cm ja paino noin 20 g.
-- Ravintoarvo / 100 g: proteiini 72 g, rasva 18 g, hehkutusjäännös 4 g.
-- Säilytys: kuivassa ja huoneenlämmössä tai sitä viileämmässä lämpötilassa.
-- Täydennysrehu.</g:description>
-            <g:link>https://www.kennelrehu.fi/shop/441-naudan-mahalastu-200-g-457</g:link>
-            <g:image_link>https://www.kennelrehu.fi/web/image/product.template/457/image_1920?unique=dd59d47</g:image_link>
-            <g:price>8.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Kennel-Rehu</g:brand>
-            <g:product_type>Herkut &gt; Herkut makupalat</g:product_type>
-            <g:custom_label_0>fi</g:custom_label_0>
-            <g:custom_label_1>Maha, Nauta</g:custom_label_1>
-    </item>
-    <item>
             <g:id>241-144</g:id>
             <g:title>Naudan maha 5 kg</g:title>
             <g:description>Naudanmahan voi tarjota sellaisenaan, yhdistää muiden lihatuotteiden kanssa tai lisätä koiran muun ruoan sekaan tuomaan maittavuutta. Naudan maha sisältää paljon entsyymejä, jotka ovat hyväksi koiran ruoansulatukselle. Huolehdi koirasi suoliston bakteeritasapainosta tarjoamalla säännöllisesti naudan mahaa.
@@ -3910,6 +3890,26 @@ Naudan pötsinäkin mainittu maha on monesti koirien suurta herkkua. Tuotteen om
             <g:item_group_id>241</g:item_group_id>
             <g:custom_label_0>fi</g:custom_label_0>
             <g:custom_label_1>Luuttomat lihat, Maha, Nauta</g:custom_label_1>
+    </item>
+    <item>
+            <g:id>457-441</g:id>
+            <g:title>Naudan mahalastu 200 g</g:title>
+            <g:description>Naudanmahalastu on kuivattu, jauhettu ja sen leivottu näkkileivän tyyppiseksi rapeaksi herkkupalaksi. Maha on perinteisesti vahvantuoksuinen herkku, mutta kuivattuna naudan maha ei tuoksu ehkä yhtä vahvasti. Suomalainen täyslihaherkku koiran kiitospalaksi ja välipalaksi.
+- Koostumus: Suomalainen naudanmaha.
+- Pakkaus: 200 g.
+- Mitat: yhden lastun pituus on 9 cm, paksuus 1 cm ja paino noin 20 g.
+- Ravintoarvo / 100 g: proteiini 72 g, rasva 18 g, hehkutusjäännös 4 g.
+- Säilytys: kuivassa ja huoneenlämmössä tai sitä viileämmässä lämpötilassa.
+- Täydennysrehu.</g:description>
+            <g:link>https://www.kennelrehu.fi/shop/441-naudan-mahalastu-200-g-457</g:link>
+            <g:image_link>https://www.kennelrehu.fi/web/image/product.template/457/image_1920?unique=dd59d47</g:image_link>
+            <g:price>8.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Kennel-Rehu</g:brand>
+            <g:product_type>Herkut &gt; Herkut makupalat</g:product_type>
+            <g:custom_label_0>fi</g:custom_label_0>
+            <g:custom_label_1>Maha, Nauta</g:custom_label_1>
     </item>
     <item>
             <g:id>259-166</g:id>
@@ -4215,64 +4215,6 @@ Avainlipputuote.</g:description>
             <g:custom_label_1>Rasvaa yli 20 %</g:custom_label_1>
     </item>
     <item>
-            <g:id>698-749</g:id>
-            <g:title>Nutrolin Omega Sensitive 260 ml</g:title>
-            <g:description>Tärkeät omega-3 EPA- ja DHA-rasvahapot etenkin pennuille, ikääntyville ja nivelrikkoa sairastaville lemmikeille.
-Maistuu hyvältä. Helppo päivittäinen lisä ruoan joukkoon. Avattu pakkaus säilytettävä jääkaapissa ja käytettävä neljän kuukauden kuluessa.
-Koostumus:
-Leväöljy (Schizochytrium mikrolevä omega-3 EPA + DHA lähteenä)
-Auringonkukkaöljy (Stabiloi leväöljyä)
-Luonnolliset lisäaineet:
-E-vitamiini (3a700) 2,5 mg/ml
-Tokoferoliuute (1b306)
-Rosmariiniuute (2b)
-Ravintoaineet
-Rasva 100 %
-Valkuainen 0 %
-Kuitu 0 %
-Tuhka 0 %</g:description>
-            <g:link>https://www.kennelrehu.fi/shop/nutrolin-omega-sensitive-698#attr=523</g:link>
-            <g:image_link>https://www.kennelrehu.fi/web/image/product.product/749/image_1024</g:image_link>
-            <g:price>21.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Kennel-Rehu</g:brand>
-            <g:product_type>Oljyt</g:product_type>
-            <g:size>260 ml</g:size>
-            <g:item_group_id>698</g:item_group_id>
-            <g:custom_label_0>fi</g:custom_label_0>
-            <g:custom_label_1>Rasvaa yli 20 %, Pennuille, Senioreille</g:custom_label_1>
-    </item>
-    <item>
-            <g:id>698-750</g:id>
-            <g:title>Nutrolin Omega Sensitive 990 ml</g:title>
-            <g:description>Tärkeät omega-3 EPA- ja DHA-rasvahapot etenkin pennuille, ikääntyville ja nivelrikkoa sairastaville lemmikeille.
-Maistuu hyvältä. Helppo päivittäinen lisä ruoan joukkoon. Avattu pakkaus säilytettävä jääkaapissa ja käytettävä neljän kuukauden kuluessa.
-Koostumus:
-Leväöljy (Schizochytrium mikrolevä omega-3 EPA + DHA lähteenä)
-Auringonkukkaöljy (Stabiloi leväöljyä)
-Luonnolliset lisäaineet:
-E-vitamiini (3a700) 2,5 mg/ml
-Tokoferoliuute (1b306)
-Rosmariiniuute (2b)
-Ravintoaineet
-Rasva 100 %
-Valkuainen 0 %
-Kuitu 0 %
-Tuhka 0 %</g:description>
-            <g:link>https://www.kennelrehu.fi/shop/nutrolin-omega-sensitive-698#attr=524</g:link>
-            <g:image_link>https://www.kennelrehu.fi/web/image/product.product/750/image_1024</g:image_link>
-            <g:price>57.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Kennel-Rehu</g:brand>
-            <g:product_type>Oljyt</g:product_type>
-            <g:size>990 ml</g:size>
-            <g:item_group_id>698</g:item_group_id>
-            <g:custom_label_0>fi</g:custom_label_0>
-            <g:custom_label_1>Rasvaa yli 20 %, Pennuille, Senioreille</g:custom_label_1>
-    </item>
-    <item>
             <g:id>277-191</g:id>
             <g:title>Nutriment herkkupussi 100 g Kalkkunaherkku</g:title>
             <g:description>Lempeässä lämmössä paistettu ja kuivattu Nutriment-namipala on takuuvarma juttu. Pussilliseen Nutriment-nameja on käytetty n. 220 g tuoretta lihaa. Ei sisällä viljaa, eikä lisättyjä väri- ja säilöntäaineita. Valmistettu Suomessa suomalaisesta lihasta.
@@ -4553,6 +4495,64 @@ LOHIHERKKU 100 g
             <g:custom_label_1>Pennuille, Kissoille, Possu, Nauta, Kalkkuna, Lohi, Kana, Herkut rasvaa yli 20%</g:custom_label_1>
     </item>
     <item>
+            <g:id>698-749</g:id>
+            <g:title>Nutrolin Omega Sensitive 260 ml</g:title>
+            <g:description>Tärkeät omega-3 EPA- ja DHA-rasvahapot etenkin pennuille, ikääntyville ja nivelrikkoa sairastaville lemmikeille.
+Maistuu hyvältä. Helppo päivittäinen lisä ruoan joukkoon. Avattu pakkaus säilytettävä jääkaapissa ja käytettävä neljän kuukauden kuluessa.
+Koostumus:
+Leväöljy (Schizochytrium mikrolevä omega-3 EPA + DHA lähteenä)
+Auringonkukkaöljy (Stabiloi leväöljyä)
+Luonnolliset lisäaineet:
+E-vitamiini (3a700) 2,5 mg/ml
+Tokoferoliuute (1b306)
+Rosmariiniuute (2b)
+Ravintoaineet
+Rasva 100 %
+Valkuainen 0 %
+Kuitu 0 %
+Tuhka 0 %</g:description>
+            <g:link>https://www.kennelrehu.fi/shop/nutrolin-omega-sensitive-698#attr=523</g:link>
+            <g:image_link>https://www.kennelrehu.fi/web/image/product.product/749/image_1024</g:image_link>
+            <g:price>21.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Kennel-Rehu</g:brand>
+            <g:product_type>Oljyt</g:product_type>
+            <g:size>260 ml</g:size>
+            <g:item_group_id>698</g:item_group_id>
+            <g:custom_label_0>fi</g:custom_label_0>
+            <g:custom_label_1>Rasvaa yli 20 %, Pennuille, Senioreille</g:custom_label_1>
+    </item>
+    <item>
+            <g:id>698-750</g:id>
+            <g:title>Nutrolin Omega Sensitive 990 ml</g:title>
+            <g:description>Tärkeät omega-3 EPA- ja DHA-rasvahapot etenkin pennuille, ikääntyville ja nivelrikkoa sairastaville lemmikeille.
+Maistuu hyvältä. Helppo päivittäinen lisä ruoan joukkoon. Avattu pakkaus säilytettävä jääkaapissa ja käytettävä neljän kuukauden kuluessa.
+Koostumus:
+Leväöljy (Schizochytrium mikrolevä omega-3 EPA + DHA lähteenä)
+Auringonkukkaöljy (Stabiloi leväöljyä)
+Luonnolliset lisäaineet:
+E-vitamiini (3a700) 2,5 mg/ml
+Tokoferoliuute (1b306)
+Rosmariiniuute (2b)
+Ravintoaineet
+Rasva 100 %
+Valkuainen 0 %
+Kuitu 0 %
+Tuhka 0 %</g:description>
+            <g:link>https://www.kennelrehu.fi/shop/nutrolin-omega-sensitive-698#attr=524</g:link>
+            <g:image_link>https://www.kennelrehu.fi/web/image/product.product/750/image_1024</g:image_link>
+            <g:price>57.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Kennel-Rehu</g:brand>
+            <g:product_type>Oljyt</g:product_type>
+            <g:size>990 ml</g:size>
+            <g:item_group_id>698</g:item_group_id>
+            <g:custom_label_0>fi</g:custom_label_0>
+            <g:custom_label_1>Rasvaa yli 20 %, Pennuille, Senioreille</g:custom_label_1>
+    </item>
+    <item>
             <g:id>278-197</g:id>
             <g:title>Nutrolin Puppy &amp; Mom 150 ml</g:title>
             <g:description>Omega-3 DHA on pennun ravinnon tärkein rasvahappo. Sitä tarvitaan tukemaan pennun aivojen, silmien ja hajuaistin kehitystä. Kalaöljyn omega-3-rasvahapot saattavat myös suojata aikuisiän iho-ongelmilta.
@@ -4579,26 +4579,6 @@ Avainlipputuote.</g:description>
             <g:product_type>Oljyt</g:product_type>
             <g:custom_label_0>fi</g:custom_label_0>
             <g:custom_label_1>Pennuille</g:custom_label_1>
-    </item>
-    <item>
-            <g:id>470-454</g:id>
-            <g:title>Nutrolin Sport öljy 260 ml</g:title>
-            <g:description>Nutrolin Sport suojaa työ-, urheilu- ja metsästyskoiran lihaksia, niveliä ja jänteitä ja ylläpitää niiden joustavuutta. Kova fyysinen suoritus rasittaa tuki- ja liikuntaelimiä aiheuttaen niissä tulehdusta ja hapetusstressiä.
-Nutrolin Sport on ainutlaatuinen omega-3-rasvahappoja, E-vitamiinia ja astaksantiinia sisältävä yhdistelmävalmiste. Omega-3-rasvahapot hillitsevät tulehdusta ja E-vitamiini sekä astaksantiini hapetusstressiä. Sportti sisältää kalaöljyn kaikki tärkeät omegat: ETA, EPA, DPA ja DHA ja E-vitamiinin luonnollisessa muodossa (d-alfa-tokoferoli) sekä astaksantiinia, luonnon tehokkainta antioksidanttia.
-Nutrolin Sport maistuu hyvältä ja on helppo päivittäinen lisä ruoan joukkoon. Tuote on kehitetty ja valmistettu Suomessa. Laadun takana tieteellinen tutkimus. HUOM! Öljy sisältää punaista pigmenttiä, joka saattaa värjätä esimerkiksi tekstiilejä.
-Valmistusaineet: Kalaöljy. Luonnolliset lisäaineet kasviöljyssä: E-vitamiini 100 mg / 10 ml, tokoferoliuute, rosmariiniuute.
-Pakkaus: 265 ml.
-Avattu pakkaus säilytettävä jääkaapissa ja käytettävä neljän kuukauden kuluessa.
-Avainlipputuote.</g:description>
-            <g:link>https://www.kennelrehu.fi/shop/806-nutrolin-sport-oljy-260-ml-470</g:link>
-            <g:image_link>https://www.kennelrehu.fi/web/image/product.template/470/image_1920?unique=b9956f9</g:image_link>
-            <g:price>24.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Kennel-Rehu</g:brand>
-            <g:product_type>Oljyt</g:product_type>
-            <g:custom_label_0>fi</g:custom_label_0>
-            <g:custom_label_1>Rasvaa yli 20 %</g:custom_label_1>
     </item>
     <item>
             <g:id>309-794</g:id>
@@ -4677,6 +4657,26 @@ Avainlipputuote.</g:description>
             <g:item_group_id>309</g:item_group_id>
             <g:custom_label_0>fi</g:custom_label_0>
             <g:custom_label_1>Rasvaa yli 20 %, Senioreille</g:custom_label_1>
+    </item>
+    <item>
+            <g:id>470-454</g:id>
+            <g:title>Nutrolin Sport öljy 260 ml</g:title>
+            <g:description>Nutrolin Sport suojaa työ-, urheilu- ja metsästyskoiran lihaksia, niveliä ja jänteitä ja ylläpitää niiden joustavuutta. Kova fyysinen suoritus rasittaa tuki- ja liikuntaelimiä aiheuttaen niissä tulehdusta ja hapetusstressiä.
+Nutrolin Sport on ainutlaatuinen omega-3-rasvahappoja, E-vitamiinia ja astaksantiinia sisältävä yhdistelmävalmiste. Omega-3-rasvahapot hillitsevät tulehdusta ja E-vitamiini sekä astaksantiini hapetusstressiä. Sportti sisältää kalaöljyn kaikki tärkeät omegat: ETA, EPA, DPA ja DHA ja E-vitamiinin luonnollisessa muodossa (d-alfa-tokoferoli) sekä astaksantiinia, luonnon tehokkainta antioksidanttia.
+Nutrolin Sport maistuu hyvältä ja on helppo päivittäinen lisä ruoan joukkoon. Tuote on kehitetty ja valmistettu Suomessa. Laadun takana tieteellinen tutkimus. HUOM! Öljy sisältää punaista pigmenttiä, joka saattaa värjätä esimerkiksi tekstiilejä.
+Valmistusaineet: Kalaöljy. Luonnolliset lisäaineet kasviöljyssä: E-vitamiini 100 mg / 10 ml, tokoferoliuute, rosmariiniuute.
+Pakkaus: 265 ml.
+Avattu pakkaus säilytettävä jääkaapissa ja käytettävä neljän kuukauden kuluessa.
+Avainlipputuote.</g:description>
+            <g:link>https://www.kennelrehu.fi/shop/806-nutrolin-sport-oljy-260-ml-470</g:link>
+            <g:image_link>https://www.kennelrehu.fi/web/image/product.template/470/image_1920?unique=b9956f9</g:image_link>
+            <g:price>24.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Kennel-Rehu</g:brand>
+            <g:product_type>Oljyt</g:product_type>
+            <g:custom_label_0>fi</g:custom_label_0>
+            <g:custom_label_1>Rasvaa yli 20 %</g:custom_label_1>
     </item>
     <item>
             <g:id>318-240</g:id>
@@ -5311,35 +5311,6 @@ Valitse valmiiksi 10 kappaleen pussiin pakattuna tai osta yksittäiskappaleina j
             <g:custom_label_1>Luuttomat lihat, Rasvaa yli 20 %, Pennuille, Possu</g:custom_label_1>
     </item>
     <item>
-            <g:id>430-403</g:id>
-            <g:title>Probalans Calciumbalans 250 g</g:title>
-            <g:description>Riittävä kalsiumin saanti on tärkeää kaikissa elämän vaiheissa. Kalsium toimii luuston ja hampaiston rakennusaineena ja sen tarve lisääntyy myös kovassa fyysisessä rasituksessa. Calciumbalans turvaa kalsiumin saannin silloin kun sitä ei saada riittävästi ravinnosta. Tuote soveltuu erityisesti raakaruokinnan ja kotiruokinnan tueksi.
-* Koti- ja raakaruoan täydentämiseen
-* Luustolle ja hampaille
-* Lihaksille
-Ravintoainekoostumus
-Kalsiumkarbonaatti 95 %
-Maltodekstriini 5 %
-1 mittalusikka sisältää 1368 mg kalsiumia
-1 kg sisältää 342 g kalsiumia
-PÄIVÄANNOS
-Jauhe annostellaan kerran päivässä ruoan joukkoon.
-* Täysikasvuiset koirat: 3 g/10 kg (3 g = ¾ mittalusikallista)
-* Kasvavat pennut, nartut tiineys- ja imetysaikana 6 g /10 kg (6g = 1 ½ mittalusikallista)
-* Sopii myös kissoille, annostelu painon mukaan kuten koirille.
-Annostelussa tulee huomioida ravinnosta saatavan kalsiumin määrä.
-Noudata annostusohjeita! 1 mittalusikka = 4 g.
-Purkki 250 g, sisältää mittalusikan</g:description>
-            <g:link>https://www.kennelrehu.fi/shop/560-probalans-calciumbalans-250-g-430</g:link>
-            <g:image_link>https://www.kennelrehu.fi/web/image/product.template/430/image_1920?unique=fede762</g:image_link>
-            <g:price>10.50 EUR</g:price>
-            <g:availability>out of stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Kennel-Rehu</g:brand>
-            <g:product_type>Lisaravinteet</g:product_type>
-            <g:custom_label_0>fi</g:custom_label_0>
-    </item>
-    <item>
             <g:id>432-405</g:id>
             <g:title>Probalans BE-balans 100 ml</g:title>
             <g:description>Vahva BE-vitamiiniliuos harrastus- ja jalostuskoirille. Kahdeksan eri B-ryhmän vitamiinia huolehtii turkin, ihon ja kynsien kunnosta, elimistön energiantuotannosta, lihaskunnosta ja hermoston toiminnasta. E-vitamiini suojaa elimistöä (kudoksia, soluja) hapettumisen aiheuttamilta vaurioilta ja edistää näin koiran suorituskykyä erityisesti vaativien fyysisten suoritusten aikana. Se myös edistää koiran stressinsietoa.
@@ -5411,6 +5382,35 @@ Annostelussa tulee huomioida ravinnosta saatavien vitamiinien määrä.</g:descr
             <g:product_type>Lisaravinteet</g:product_type>
             <g:size>1 litra</g:size>
             <g:item_group_id>432</g:item_group_id>
+            <g:custom_label_0>fi</g:custom_label_0>
+    </item>
+    <item>
+            <g:id>430-403</g:id>
+            <g:title>Probalans Calciumbalans 250 g</g:title>
+            <g:description>Riittävä kalsiumin saanti on tärkeää kaikissa elämän vaiheissa. Kalsium toimii luuston ja hampaiston rakennusaineena ja sen tarve lisääntyy myös kovassa fyysisessä rasituksessa. Calciumbalans turvaa kalsiumin saannin silloin kun sitä ei saada riittävästi ravinnosta. Tuote soveltuu erityisesti raakaruokinnan ja kotiruokinnan tueksi.
+* Koti- ja raakaruoan täydentämiseen
+* Luustolle ja hampaille
+* Lihaksille
+Ravintoainekoostumus
+Kalsiumkarbonaatti 95 %
+Maltodekstriini 5 %
+1 mittalusikka sisältää 1368 mg kalsiumia
+1 kg sisältää 342 g kalsiumia
+PÄIVÄANNOS
+Jauhe annostellaan kerran päivässä ruoan joukkoon.
+* Täysikasvuiset koirat: 3 g/10 kg (3 g = ¾ mittalusikallista)
+* Kasvavat pennut, nartut tiineys- ja imetysaikana 6 g /10 kg (6g = 1 ½ mittalusikallista)
+* Sopii myös kissoille, annostelu painon mukaan kuten koirille.
+Annostelussa tulee huomioida ravinnosta saatavan kalsiumin määrä.
+Noudata annostusohjeita! 1 mittalusikka = 4 g.
+Purkki 250 g, sisältää mittalusikan</g:description>
+            <g:link>https://www.kennelrehu.fi/shop/560-probalans-calciumbalans-250-g-430</g:link>
+            <g:image_link>https://www.kennelrehu.fi/web/image/product.template/430/image_1920?unique=fede762</g:image_link>
+            <g:price>10.50 EUR</g:price>
+            <g:availability>out of stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Kennel-Rehu</g:brand>
+            <g:product_type>Lisaravinteet</g:product_type>
             <g:custom_label_0>fi</g:custom_label_0>
     </item>
     <item>
@@ -5901,6 +5901,27 @@ Nimensä mukaisesti raakamix onkin siis sekoitus laadukkaita, suomalaisia raaka-
             <g:custom_label_1>Luulliset lihat, Possu, Nauta, Kalkkuna, Broileri, Lohi</g:custom_label_1>
     </item>
     <item>
+            <g:id>599-587</g:id>
+            <g:title>Racinel heppa purutikku 35 g</g:title>
+            <g:description>Vähärasvaisesta 100 % hevosennahkasta valmistettu puruluu. Hevonen sopii useimmille allergisille koirille. Ilmakuivattu matalassa lämpötilassa.
+Racinel hevosrouhetikku on valmistettu Euroopassa.
+Valmistusaineet: hevosennahka 100 %.
+Paino: 35 g
+Pituus: 16 cm
+Käyttö: Varmista, että koiralla on aina raikasta vettä tarjolla. Muista valvoa koiraasi aina kun sillä on purutuote.
+Täydennysrehu koirille.
+Valmistettu Euroopassa.</g:description>
+            <g:link>https://www.kennelrehu.fi/shop/414-racinel-heppa-purutikku-35-g-599</g:link>
+            <g:image_link>https://www.kennelrehu.fi/web/image/product.template/599/image_1920?unique=dd59d47</g:image_link>
+            <g:price>4.50 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Kennel-Rehu</g:brand>
+            <g:product_type>Herkut &gt; Herkut puruluut</g:product_type>
+            <g:custom_label_0>fi</g:custom_label_0>
+            <g:custom_label_1>Erityisruokavaliot / allergiat, Hevonen, Herkut rasvaa alle 10 %</g:custom_label_1>
+    </item>
+    <item>
             <g:id>600-588</g:id>
             <g:title>Racinel heppa puruluu 50 g</g:title>
             <g:description>Vähärasvaisesta 100 % hevosennahkasta valmistettu puruluu. Hevonen sopii useimmille allergisille koirille. Ilmakuivattu matalassa lämpötilassa.
@@ -5915,27 +5936,6 @@ Valmistettu Euroopassa.</g:description>
             <g:link>https://www.kennelrehu.fi/shop/415-racinel-heppa-puruluu-50-g-600</g:link>
             <g:image_link>https://www.kennelrehu.fi/web/image/product.template/600/image_1920?unique=dd59d47</g:image_link>
             <g:price>6.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Kennel-Rehu</g:brand>
-            <g:product_type>Herkut &gt; Herkut puruluut</g:product_type>
-            <g:custom_label_0>fi</g:custom_label_0>
-            <g:custom_label_1>Erityisruokavaliot / allergiat, Hevonen, Herkut rasvaa alle 10 %</g:custom_label_1>
-    </item>
-    <item>
-            <g:id>599-587</g:id>
-            <g:title>Racinel heppa purutikku 35 g</g:title>
-            <g:description>Vähärasvaisesta 100 % hevosennahkasta valmistettu puruluu. Hevonen sopii useimmille allergisille koirille. Ilmakuivattu matalassa lämpötilassa.
-Racinel hevosrouhetikku on valmistettu Euroopassa.
-Valmistusaineet: hevosennahka 100 %.
-Paino: 35 g
-Pituus: 16 cm
-Käyttö: Varmista, että koiralla on aina raikasta vettä tarjolla. Muista valvoa koiraasi aina kun sillä on purutuote.
-Täydennysrehu koirille.
-Valmistettu Euroopassa.</g:description>
-            <g:link>https://www.kennelrehu.fi/shop/414-racinel-heppa-purutikku-35-g-599</g:link>
-            <g:image_link>https://www.kennelrehu.fi/web/image/product.template/599/image_1920?unique=dd59d47</g:image_link>
-            <g:price>4.50 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
             <g:brand>Kennel-Rehu</g:brand>
@@ -6200,6 +6200,29 @@ Maahantuoja: Velj. Wahlstén Oy</g:description>
             <g:custom_label_1>Senioreille</g:custom_label_1>
     </item>
     <item>
+            <g:id>253-159</g:id>
+            <g:title>Sydänjauheliha nauta 5 kg</g:title>
+            <g:description>Sydän on tärkeässä osassa raakaruokintamallia, sillä se sisältää lemmikin sydänterveydelle tärkeää tauriinia (erityisesti kissat, huomio!). Jauhettu naudansydän on helppo annostella ja vaivatonta syödä.
+- Koostumus: Suomalaista naudan sydäntä jauhettuna ja raakapakastettuna.
+- Pakkaus: 500 g annos vakuumipakkauksessa, jossa repäisykulma, pakattuna 5 kg laatikkoon.
+- Ravintoarvo / 100 g: proteiini 18 g, rasva 12 g, kosteus 69 g, energia: 802 kJ / 193 kcal
+- Säilytys: Säilytetään pakkasessa -18 C. Raaka tuote.
+- Sulatus: Sulata tuote jääkaapissa kannellisessa astiassa. Tuote säilyy jääkaapissa 3-4 päivää sulatuksen jälkeen.
+- Käyttö: Tarjotaan lemmikille ensisijaisesti raakana, voidaan myös kypsentää. Mikäli tarvitset pienen määrän kerrallaan, voit kohmeisesta tuotteesta pilkkoa terävällä veitsellä sopivia paloja annospakkauksesta ja sulattaa vain tarvittavan määrän kerrallaan.
+- Täydennysravinto. Tarjotaan osana monipuolista ruokavaliota.
+- Avainlipputuote - valmistettu Suomessa suomalaisista raaka-aineista.
+- Laatikon mitat: pituus 20 cm, leveys 15 cm, korkeus 22 cm.</g:description>
+            <g:link>https://www.kennelrehu.fi/shop/112-sydanjauheliha-nauta-5-kg-253</g:link>
+            <g:image_link>https://www.kennelrehu.fi/web/image/product.template/253/image_1920?unique=b9956f9</g:image_link>
+            <g:price>29.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Kennel-Rehu</g:brand>
+            <g:product_type>Lihat &gt; Lihat sisaelimet</g:product_type>
+            <g:custom_label_0>fi</g:custom_label_0>
+            <g:custom_label_1>Luuttomat lihat, Pennuille, Kissoille, Sisäelimet, Nauta</g:custom_label_1>
+    </item>
+    <item>
             <g:id>861-962</g:id>
             <g:title>STRIDE powder 500 g</g:title>
             <g:description>Stride powder on täydennysrehu koirien terveiden rustojen ja nivelten ravitsemukselliseen ylläpitoon. Sen aineksia ovat korkealaatuinen glukosamiini-HCL, kondroitiinisulfaatti, MSM, C-vitamiini ja mangaani helppokäyttöisessä jauhemuodossa. Se soveltuu erityisen hyvin sekoitettavaksi kostean ruoan joukkoon.
@@ -6270,29 +6293,6 @@ Maahantuoja: Velj. Wahlstén Oy</g:description>
             <g:custom_label_1>Senioreille</g:custom_label_1>
     </item>
     <item>
-            <g:id>253-159</g:id>
-            <g:title>Sydänjauheliha nauta 5 kg</g:title>
-            <g:description>Sydän on tärkeässä osassa raakaruokintamallia, sillä se sisältää lemmikin sydänterveydelle tärkeää tauriinia (erityisesti kissat, huomio!). Jauhettu naudansydän on helppo annostella ja vaivatonta syödä.
-- Koostumus: Suomalaista naudan sydäntä jauhettuna ja raakapakastettuna.
-- Pakkaus: 500 g annos vakuumipakkauksessa, jossa repäisykulma, pakattuna 5 kg laatikkoon.
-- Ravintoarvo / 100 g: proteiini 18 g, rasva 12 g, kosteus 69 g, energia: 802 kJ / 193 kcal
-- Säilytys: Säilytetään pakkasessa -18 C. Raaka tuote.
-- Sulatus: Sulata tuote jääkaapissa kannellisessa astiassa. Tuote säilyy jääkaapissa 3-4 päivää sulatuksen jälkeen.
-- Käyttö: Tarjotaan lemmikille ensisijaisesti raakana, voidaan myös kypsentää. Mikäli tarvitset pienen määrän kerrallaan, voit kohmeisesta tuotteesta pilkkoa terävällä veitsellä sopivia paloja annospakkauksesta ja sulattaa vain tarvittavan määrän kerrallaan.
-- Täydennysravinto. Tarjotaan osana monipuolista ruokavaliota.
-- Avainlipputuote - valmistettu Suomessa suomalaisista raaka-aineista.
-- Laatikon mitat: pituus 20 cm, leveys 15 cm, korkeus 22 cm.</g:description>
-            <g:link>https://www.kennelrehu.fi/shop/112-sydanjauheliha-nauta-5-kg-253</g:link>
-            <g:image_link>https://www.kennelrehu.fi/web/image/product.template/253/image_1920?unique=b9956f9</g:image_link>
-            <g:price>29.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Kennel-Rehu</g:brand>
-            <g:product_type>Lihat &gt; Lihat sisaelimet</g:product_type>
-            <g:custom_label_0>fi</g:custom_label_0>
-            <g:custom_label_1>Luuttomat lihat, Pennuille, Kissoille, Sisäelimet, Nauta</g:custom_label_1>
-    </item>
-    <item>
             <g:id>358-302</g:id>
             <g:title>Sydän possu kokonainen 4,5 kg</g:title>
             <g:description>Sydän on tärkeässä osassa raakaruokintamallia, sillä se sisältää lemmikin sydänterveydelle tärkeää tauriinia (erityisesti kissat, huomio!). Kokonainen porsaan sydän tarjoaa hieman sitkeämpää puruvastusta – voit tarvittaessa leikata sydäntä sopiviin annospaloihin.
@@ -6361,23 +6361,6 @@ Maahantuoja: Velj. Wahlstén Oy</g:description>
             <g:custom_label_1>Rasvaa alle 10 %, Senioreille, Sydän, Sisäelimet, Possu</g:custom_label_1>
     </item>
     <item>
-            <g:id>827-899</g:id>
-            <g:title>Tassumuotti 22 cm</g:title>
-            <g:description>Silikoninen tassumuotti koiran omien herkkujen valmistamiseen. Muotti kestää lämpötilaa -20 asteesta +220 asteeseen. Muotilla valmistat helposti kotitekoiset koirankeksit, koiran jäätelön tai jääpalaherkut, sopivan kokoiset maksa-annospalat tai vaikkapa itse tehdyt kasvissosenapit.
-Vältä muotin käsittelyssä teräviä esineitä, jottei muotti vahingoitu. Ei saa käyttää avotulella tai kaasuliedellä. Pese muotti ennen ensimmäistä käyttökertaa ja jokaisen 
-käyttökerran jälkeen kuumassa vedessä ilman pesuainetta tai 
-astianpesukoneessa. Älä laita muottia uuniin täyttämättä kaikkia kennoja - lisää hieman vettä, jos jokin kenno jää tyhjäksi.
-Mitat: 22x14x2 cm. Yhden muotin halkaisija noin 7 cm.</g:description>
-            <g:link>https://www.kennelrehu.fi/shop/929-tassumuotti-22-cm-827</g:link>
-            <g:image_link>https://www.kennelrehu.fi/web/image/product.template/827/image_1920?unique=d642089</g:image_link>
-            <g:price>12.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Kennel-Rehu</g:brand>
-            <g:product_type>Tarvikkeet</g:product_type>
-            <g:custom_label_0>fi</g:custom_label_0>
-    </item>
-    <item>
             <g:id>317-239</g:id>
             <g:title>Tattari 5 kg</g:title>
             <g:description>Tattari on luontaisesti gluteeniton, vatsaystävällinen vilja ja soveltuu hyvänä hiilihydraattilähteenä myös monille gluteenille herkistyneille lemmikeille. Kypsennä keittämällä tai uunissa hauduttamalla. Tuote on GMO-vapaata.
@@ -6399,6 +6382,23 @@ Alkuperämaa: EU</g:description>
             <g:product_type>Puurotarvikkeet</g:product_type>
             <g:custom_label_0>fi</g:custom_label_0>
             <g:custom_label_1>Puurotuotteet, Kasvikset</g:custom_label_1>
+    </item>
+    <item>
+            <g:id>827-899</g:id>
+            <g:title>Tassumuotti 22 cm</g:title>
+            <g:description>Silikoninen tassumuotti koiran omien herkkujen valmistamiseen. Muotti kestää lämpötilaa -20 asteesta +220 asteeseen. Muotilla valmistat helposti kotitekoiset koirankeksit, koiran jäätelön tai jääpalaherkut, sopivan kokoiset maksa-annospalat tai vaikkapa itse tehdyt kasvissosenapit.
+Vältä muotin käsittelyssä teräviä esineitä, jottei muotti vahingoitu. Ei saa käyttää avotulella tai kaasuliedellä. Pese muotti ennen ensimmäistä käyttökertaa ja jokaisen 
+käyttökerran jälkeen kuumassa vedessä ilman pesuainetta tai 
+astianpesukoneessa. Älä laita muottia uuniin täyttämättä kaikkia kennoja - lisää hieman vettä, jos jokin kenno jää tyhjäksi.
+Mitat: 22x14x2 cm. Yhden muotin halkaisija noin 7 cm.</g:description>
+            <g:link>https://www.kennelrehu.fi/shop/929-tassumuotti-22-cm-827</g:link>
+            <g:image_link>https://www.kennelrehu.fi/web/image/product.template/827/image_1920?unique=d642089</g:image_link>
+            <g:price>12.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Kennel-Rehu</g:brand>
+            <g:product_type>Tarvikkeet</g:product_type>
+            <g:custom_label_0>fi</g:custom_label_0>
     </item>
     <item>
             <g:id>614-605</g:id>
