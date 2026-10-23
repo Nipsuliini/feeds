@@ -1,125 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <listings>
-  <!-- Generated: 2026-10-23T00:48:59Z | 68 listings -->
-  <listing>
-    <home_listing_id>c74</home_listing_id>
-    <name>3h, 64 m² · Tikkurila, Vantaa</name>
-    <availability>for_sale</availability>
-    <listing_type>for_sale_by_agent</listing_type>
-    <url>https://www.arkta.fi/asunnot/huvikumpu/c74/</url>
-    <price>309900 EUR</price>
-    <sales_price>62158 EUR</sales_price>
-    <property_type>apartment</property_type>
-    <num_beds>2</num_beds>
-    <num_rooms>3</num_rooms>
-    <rooms_label>3h</rooms_label>
-    <area_size>64</area_size>
-    <area_size_unit>sqm</area_size_unit>
-    <year_built>2023</year_built>
-    <first_seen>2026-09-24</first_seen>
-    <description>Velaton 309 900 € · Myyntihinta 62 158 € · Etu 44 600 € · päättyy 30.10.</description>
-    <company_name>Asunto Oy Vantaan Huvikumpu C74</company_name>
-    <neighborhood>Tikkurila</neighborhood>
-    <original_price>354500 EUR</original_price>
-    <campaign_discount>44600 EUR</campaign_discount>
-    <campaign_end>2026-10-30</campaign_end>
-    <highlights>Kulmahuoneisto · Lasitettu parveke · Mallikalustettu</highlights>
-    <highlight_1>Kulmahuoneisto</highlight_1>
-    <highlight_2>Lasitettu parveke</highlight_2>
-    <highlight_3>Mallikalustettu</highlight_3>
-    <custom_label_0>Huvikumpu</custom_label_0>
-    <custom_label_1>Uusimaa</custom_label_1>
-    <custom_label_2>kyllä</custom_label_2>
-    <custom_label_3>300-400k</custom_label_3>
-    <custom_label_4>valmis</custom_label_4>
-    <address>
-      <component name="addr1">Esikkotie 3 C74</component>
-      <component name="city">Vantaa</component>
-      <component name="region">Uusimaa</component>
-      <component name="postal_code">01300</component>
-      <component name="country">FI</component>
-    </address>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153528_438780_esikkotie_3_lo-6.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251125135148_637065_2.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153526_049356_esikkotie_3_lo-5.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153521_651160_esikkotie_3_lo-3.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153500_853912_esikkotie_3_lo-12.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153523_775458_esikkotie_3_lo-4.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153519_409224_esikkotie_3_lo-1.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153530_507064_esikkotie_3_lo-8.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153532_757361_esikkotie_3_lo-11.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153504_844405_esikkotie_3_lo-14.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <home_listing_id>ta1654</home_listing_id>
-    <name>1h, 26 m² · Lamminpää, Tampere</name>
-    <availability>for_sale</availability>
-    <listing_type>for_sale_by_agent</listing_type>
-    <url>https://www.arkta.fi/asunnot/hilla/ta1654/</url>
-    <price>129000 EUR</price>
-    <sales_price>29505 EUR</sales_price>
-    <property_type>apartment</property_type>
-    <num_rooms>1</num_rooms>
-    <rooms_label>1h</rooms_label>
-    <area_size>26</area_size>
-    <area_size_unit>sqm</area_size_unit>
-    <year_built>2024</year_built>
-    <first_seen>2026-09-24</first_seen>
-    <description>Velaton 129 000 € · Myyntihinta 29 505 € · Etu 13 000 € · päättyy 31.12.</description>
-    <company_name>As Oy Tampereen Lamminpään Hilla C107</company_name>
-    <neighborhood>Lamminpää</neighborhood>
-    <original_price>142000 EUR</original_price>
-    <campaign_discount>13000 EUR</campaign_discount>
-    <campaign_end>2026-12-31</campaign_end>
-    <highlights>Ylin kerros · Lasitettu parveke · Avarat näkymät</highlights>
-    <highlight_1>Ylin kerros</highlight_1>
-    <highlight_2>Lasitettu parveke</highlight_2>
-    <highlight_3>Avarat näkymät</highlight_3>
-    <custom_label_0>Hilla</custom_label_0>
-    <custom_label_1>Pirkanmaa</custom_label_1>
-    <custom_label_2>kyllä</custom_label_2>
-    <custom_label_3>alle 200k</custom_label_3>
-    <custom_label_4>valmis</custom_label_4>
-    <address>
-      <component name="addr1">Nauhatehtaanraitti 25 C107</component>
-      <component name="city">Tampere</component>
-      <component name="region">Pirkanmaa</component>
-      <component name="postal_code">33420</component>
-      <component name="country">FI</component>
-    </address>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240508092820_081674_p1026397.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240508092815_908942_p1026394.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240508092812_264848_p1026393.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240508092823_996470_p1026398.jpg</url>
-    </image>
-  </listing>
+  <!-- Generated: 2026-10-23T06:20:49Z | 69 listings -->
   <listing>
     <home_listing_id>ta929</home_listing_id>
     <name>2h, 40 m² · Kuninkaantammi, Helsinki</name>
@@ -136,9 +17,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2023</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 174 900 € · Myyntihinta 40 561 € · Etu 24 600 € · päättyy 30.10.</description>
+    <description>Velaton 174 900 € · Etu 24 600 € · päättyy 30.10.</description>
     <company_name>Asunto Oy Helsingin Karnevaali A3</company_name>
     <neighborhood>Kuninkaantammi</neighborhood>
+    <location>Kuninkaantammi, Helsinki</location>
+    <room_type>2h+kt</room_type>
     <original_price>199500 EUR</original_price>
     <campaign_discount>24600 EUR</campaign_discount>
     <campaign_end>2026-10-30</campaign_end>
@@ -190,6 +73,199 @@
     </image>
   </listing>
   <listing>
+    <home_listing_id>c74</home_listing_id>
+    <name>3h, 64 m² · Tikkurila, Vantaa</name>
+    <availability>for_sale</availability>
+    <listing_type>for_sale_by_agent</listing_type>
+    <url>https://www.arkta.fi/asunnot/huvikumpu/c74/</url>
+    <price>309900 EUR</price>
+    <sales_price>62158 EUR</sales_price>
+    <property_type>apartment</property_type>
+    <num_beds>2</num_beds>
+    <num_rooms>3</num_rooms>
+    <rooms_label>3h</rooms_label>
+    <area_size>64</area_size>
+    <area_size_unit>sqm</area_size_unit>
+    <year_built>2023</year_built>
+    <first_seen>2026-09-24</first_seen>
+    <description>Velaton 309 900 € · Etu 44 600 € · päättyy 30.10.</description>
+    <company_name>Asunto Oy Vantaan Huvikumpu C74</company_name>
+    <neighborhood>Tikkurila</neighborhood>
+    <location>Tikkurila, Vantaa</location>
+    <room_type>3h+kt</room_type>
+    <original_price>354500 EUR</original_price>
+    <campaign_discount>44600 EUR</campaign_discount>
+    <campaign_end>2026-10-30</campaign_end>
+    <highlights>Kulmahuoneisto · Lasitettu parveke · Mallikalustettu</highlights>
+    <highlight_1>Kulmahuoneisto</highlight_1>
+    <highlight_2>Lasitettu parveke</highlight_2>
+    <highlight_3>Mallikalustettu</highlight_3>
+    <custom_label_0>Huvikumpu</custom_label_0>
+    <custom_label_1>Uusimaa</custom_label_1>
+    <custom_label_2>kyllä</custom_label_2>
+    <custom_label_3>300-400k</custom_label_3>
+    <custom_label_4>valmis</custom_label_4>
+    <address>
+      <component name="addr1">Esikkotie 3 C74</component>
+      <component name="city">Vantaa</component>
+      <component name="region">Uusimaa</component>
+      <component name="postal_code">01300</component>
+      <component name="country">FI</component>
+    </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153528_438780_esikkotie_3_lo-6.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251125135148_637065_2.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153526_049356_esikkotie_3_lo-5.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153521_651160_esikkotie_3_lo-3.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153500_853912_esikkotie_3_lo-12.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153523_775458_esikkotie_3_lo-4.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153519_409224_esikkotie_3_lo-1.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153530_507064_esikkotie_3_lo-8.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153532_757361_esikkotie_3_lo-11.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260918153504_844405_esikkotie_3_lo-14.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <home_listing_id>ta1720</home_listing_id>
+    <name>1h, 43 m² · Oulunkylä, Helsinki</name>
+    <availability>for_sale</availability>
+    <listing_type>for_sale_by_agent</listing_type>
+    <url>https://www.arkta.fi/asunnot/onnimanni/ta1720/</url>
+    <price>203000 EUR</price>
+    <sales_price>40480 EUR</sales_price>
+    <property_type>apartment</property_type>
+    <num_rooms>1</num_rooms>
+    <rooms_label>1h</rooms_label>
+    <area_size>43</area_size>
+    <area_size_unit>sqm</area_size_unit>
+    <year_built>2024</year_built>
+    <first_seen>2026-09-24</first_seen>
+    <description>Velaton 203 000 € · Etu 30 370 € · päättyy 30.10.</description>
+    <company_name>Asunto Oy Helsingin Onnimanni C2</company_name>
+    <neighborhood>Oulunkylä</neighborhood>
+    <location>Oulunkylä, Helsinki</location>
+    <room_type>1h+k+parvi</room_type>
+    <original_price>233370 EUR</original_price>
+    <campaign_discount>30370 EUR</campaign_discount>
+    <campaign_end>2026-10-30</campaign_end>
+    <highlights>Korkea huonetila · Parvi · Heti vapaa</highlights>
+    <highlight_1>Korkea huonetila</highlight_1>
+    <highlight_2>Parvi</highlight_2>
+    <highlight_3>Heti vapaa</highlight_3>
+    <custom_label_0>Onnimanni</custom_label_0>
+    <custom_label_1>Uusimaa</custom_label_1>
+    <custom_label_2>kyllä</custom_label_2>
+    <custom_label_3>200-300k</custom_label_3>
+    <custom_label_4>valmis</custom_label_4>
+    <address>
+      <component name="addr1">Käskynhaltijantie 40 C2</component>
+      <component name="city">Helsinki</component>
+      <component name="region">Uusimaa</component>
+      <component name="postal_code">00640</component>
+      <component name="country">FI</component>
+    </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260608123750_179908_kaskynhaltijantie_40_c_2_arkta_reponen_oh_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250305083845_077929_ka__skynhaltijantie_40_c_2_arkta_reponen_mh_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240909145628_417151_ka__skynhaltijantie_40_c_2-23.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240909145710_777215_ka__skynhaltijantie_40_c_2-36.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240909150136_144283_ka__skynhaltijantie_40_c_2-39.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240909145751_530488_ka__skynhaltijantie_40_c_2-41.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240909145731_294987_ka__skynhaltijantie_40_c_2-40.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240909150155_402935_ka__skynhaltijantie_40_c_2-45.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240909145901_897485_ka__skynhaltijantie_40_c_2-46.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240909150213_969827_ka__skynhaltijantie_40_c_2-47.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <home_listing_id>ta1654</home_listing_id>
+    <name>1h, 26 m² · Lamminpää, Tampere</name>
+    <availability>for_sale</availability>
+    <listing_type>for_sale_by_agent</listing_type>
+    <url>https://www.arkta.fi/asunnot/hilla/ta1654/</url>
+    <price>129000 EUR</price>
+    <sales_price>29505 EUR</sales_price>
+    <property_type>apartment</property_type>
+    <num_rooms>1</num_rooms>
+    <rooms_label>1h</rooms_label>
+    <area_size>26</area_size>
+    <area_size_unit>sqm</area_size_unit>
+    <year_built>2024</year_built>
+    <first_seen>2026-09-24</first_seen>
+    <description>Velaton 129 000 € · Etu 13 000 € · päättyy 31.12.</description>
+    <company_name>As Oy Tampereen Lamminpään Hilla C107</company_name>
+    <neighborhood>Lamminpää</neighborhood>
+    <location>Lamminpää, Tampere</location>
+    <room_type>1h+kt</room_type>
+    <original_price>142000 EUR</original_price>
+    <campaign_discount>13000 EUR</campaign_discount>
+    <campaign_end>2026-12-31</campaign_end>
+    <highlights>Ylin kerros · Lasitettu parveke · Avarat näkymät</highlights>
+    <highlight_1>Ylin kerros</highlight_1>
+    <highlight_2>Lasitettu parveke</highlight_2>
+    <highlight_3>Avarat näkymät</highlight_3>
+    <custom_label_0>Hilla</custom_label_0>
+    <custom_label_1>Pirkanmaa</custom_label_1>
+    <custom_label_2>kyllä</custom_label_2>
+    <custom_label_3>alle 200k</custom_label_3>
+    <custom_label_4>valmis</custom_label_4>
+    <address>
+      <component name="addr1">Nauhatehtaanraitti 25 C107</component>
+      <component name="city">Tampere</component>
+      <component name="region">Pirkanmaa</component>
+      <component name="postal_code">33420</component>
+      <component name="country">FI</component>
+    </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240508092820_081674_p1026397.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240508092815_908942_p1026394.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240508092812_264848_p1026393.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240508092823_996470_p1026398.jpg</url>
+    </image>
+  </listing>
+  <listing>
     <home_listing_id>ta1164</home_listing_id>
     <name>2h, 42,5 m² · Tikkurila, Vantaa</name>
     <availability>for_sale</availability>
@@ -205,9 +281,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2023</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 208 900 € · Myyntihinta 41 924 € · Etu 29 600 € · päättyy 30.10.</description>
+    <description>Velaton 208 900 € · Etu 29 600 € · päättyy 30.10.</description>
     <company_name>Asunto Oy Vantaan Huvikumpu A2</company_name>
     <neighborhood>Tikkurila</neighborhood>
+    <location>Tikkurila, Vantaa</location>
+    <room_type>2h+kt+parveke ja terassi</room_type>
     <original_price>238500 EUR</original_price>
     <campaign_discount>29600 EUR</campaign_discount>
     <campaign_end>2026-10-30</campaign_end>
@@ -268,9 +346,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2023</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 309 900 € · Myyntihinta 70 935 € · Etu 45 000 € · päättyy 30.10.</description>
+    <description>Velaton 309 900 € · Etu 45 000 € · päättyy 30.10.</description>
     <company_name>Asunto Oy Helsingin Karnevaali B24</company_name>
     <neighborhood>Kuninkaantammi</neighborhood>
+    <location>Kuninkaantammi, Helsinki</location>
+    <room_type>3h+kt+s</room_type>
     <original_price>354900 EUR</original_price>
     <campaign_discount>45000 EUR</campaign_discount>
     <campaign_end>2026-10-30</campaign_end>
@@ -336,9 +416,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2023</year_built>
     <first_seen>2026-10-15</first_seen>
-    <description>Velaton 186 000 € · Myyntihinta 55 853 € · Etu 28 500 € · päättyy 30.10.</description>
+    <description>Velaton 186 000 € · Etu 28 500 € · päättyy 30.10.</description>
     <company_name>Asunto Oy Espoon Olarin Lysti A18</company_name>
     <neighborhood>Olari</neighborhood>
+    <location>Olari, Espoo</location>
+    <room_type>1h+kt</room_type>
     <original_price>214500 EUR</original_price>
     <campaign_discount>28500 EUR</campaign_discount>
     <campaign_end>2026-10-30</campaign_end>
@@ -392,9 +474,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2023</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 239 700 € · Myyntihinta 68 780 €</description>
+    <description>Velaton 239 700 €</description>
     <company_name>As Oy Tampereen Auringonkukka A15</company_name>
     <neighborhood>Ilokkaanpuisto</neighborhood>
+    <location>Ilokkaanpuisto, Tampere</location>
+    <room_type>3h+kt+s</room_type>
     <highlights>Kulmahuoneisto</highlights>
     <highlight_1>Kulmahuoneisto</highlight_1>
     <custom_label_0>Auringonkukka</custom_label_0>
@@ -446,9 +530,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2023</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 144 000 € · Myyntihinta 43 197 €</description>
+    <description>Velaton 144 000 €</description>
     <company_name>As Oy Tampereen Auringonkukka A36</company_name>
     <neighborhood>Ilokkaanpuisto</neighborhood>
+    <location>Ilokkaanpuisto, Tampere</location>
+    <room_type>1h+kt</room_type>
     <highlights>Ylin kerros · Lasitettu parveke</highlights>
     <highlight_1>Ylin kerros</highlight_1>
     <highlight_2>Lasitettu parveke</highlight_2>
@@ -490,9 +576,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2023</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 288 000 € · Myyntihinta 89 131 € · Etu 39 900 € · päättyy 30.10.</description>
+    <description>Velaton 288 000 € · Etu 39 900 € · päättyy 30.10.</description>
     <company_name>Asunto Oy Espoon Olarin Lysti A19</company_name>
     <neighborhood>Olari</neighborhood>
+    <location>Olari, Espoo</location>
+    <room_type>3h+kt+s</room_type>
     <original_price>327900 EUR</original_price>
     <campaign_discount>39900 EUR</campaign_discount>
     <campaign_end>2026-10-30</campaign_end>
@@ -559,9 +647,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2023</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 249 000 € · Myyntihinta 76 195 € · Etu 35 900 € · päättyy 30.10.</description>
+    <description>Velaton 249 000 € · Etu 35 900 € · päättyy 30.10.</description>
     <company_name>Asunto Oy Espoon Olarin Lysti A21</company_name>
     <neighborhood>Olari</neighborhood>
+    <location>Olari, Espoo</location>
+    <room_type>2h+kt</room_type>
     <original_price>284900 EUR</original_price>
     <campaign_discount>35900 EUR</campaign_discount>
     <campaign_end>2026-10-30</campaign_end>
@@ -628,9 +718,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2023</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 329 900 € · Myyntihinta 67 543 € · Etu 45 000 € · päättyy 30.10.</description>
+    <description>Velaton 329 900 € · Etu 45 000 € · päättyy 30.10.</description>
     <company_name>Asunto Oy Vantaan Huvikumpu C82</company_name>
     <neighborhood>Tikkurila</neighborhood>
+    <location>Tikkurila, Vantaa</location>
+    <room_type>3h+kt+s</room_type>
     <original_price>374900 EUR</original_price>
     <campaign_discount>45000 EUR</campaign_discount>
     <campaign_end>2026-10-30</campaign_end>
@@ -650,6 +742,9 @@
       <component name="postal_code">01300</component>
       <component name="country">FI</component>
     </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260814135314_072207_huvikumpu_c82.jpg</url>
+    </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260814135332_655564_huvikumpu_c89__kt_oh.jpg</url>
     </image>
@@ -677,9 +772,6 @@
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260814135405_286437_huvikumpu_c89__sauna.jpg</url>
     </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260814135407_653387_huvikumpu_c89.jpg</url>
-    </image>
   </listing>
   <listing>
     <home_listing_id>ta1613</home_listing_id>
@@ -697,9 +789,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2024</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 239 000 € · Myyntihinta 58 198 € · Etu 30 000 € · päättyy 31.10.</description>
+    <description>Velaton 239 000 € · Etu 30 000 € · päättyy 31.10.</description>
     <company_name>As Oy Tampereen Lamminpään Hilla C66</company_name>
     <neighborhood>Lamminpää</neighborhood>
+    <location>Lamminpää, Tampere</location>
+    <room_type>3h+kt+s</room_type>
     <original_price>269000 EUR</original_price>
     <campaign_discount>30000 EUR</campaign_discount>
     <campaign_end>2026-10-31</campaign_end>
@@ -765,9 +859,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2024</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 155 000 € · Myyntihinta 38 000 € · Etu 14 000 €</description>
+    <description>Velaton 155 000 € · Etu 14 000 €</description>
     <company_name>As Oy Tampereen Lamminpään Hilla C69</company_name>
     <neighborhood>Lamminpää</neighborhood>
+    <location>Lamminpää, Tampere</location>
+    <room_type>2h+kt</room_type>
     <original_price>169000 EUR</original_price>
     <campaign_discount>14000 EUR</campaign_discount>
     <highlights>Lasitettu parveke · Valmiiksi vuokrattu</highlights>
@@ -796,76 +892,8 @@
     </image>
   </listing>
   <listing>
-    <home_listing_id>ta1720</home_listing_id>
-    <name>1h, 43 m² · Oulunkylä, Helsinki</name>
-    <availability>for_sale</availability>
-    <listing_type>for_sale_by_agent</listing_type>
-    <url>https://www.arkta.fi/asunnot/onnimanni/ta1720/</url>
-    <price>203000 EUR</price>
-    <sales_price>40480 EUR</sales_price>
-    <property_type>apartment</property_type>
-    <num_rooms>1</num_rooms>
-    <rooms_label>1h</rooms_label>
-    <area_size>43</area_size>
-    <area_size_unit>sqm</area_size_unit>
-    <year_built>2024</year_built>
-    <first_seen>2026-09-24</first_seen>
-    <description>Velaton 203 000 € · Myyntihinta 40 480 € · Etu 30 370 € · päättyy 30.10.</description>
-    <company_name>Asunto Oy Helsingin Onnimanni C2</company_name>
-    <neighborhood>Oulunkylä</neighborhood>
-    <original_price>233370 EUR</original_price>
-    <campaign_discount>30370 EUR</campaign_discount>
-    <campaign_end>2026-10-30</campaign_end>
-    <highlights>Korkea huonetila · Parvi · Heti vapaa</highlights>
-    <highlight_1>Korkea huonetila</highlight_1>
-    <highlight_2>Parvi</highlight_2>
-    <highlight_3>Heti vapaa</highlight_3>
-    <custom_label_0>Onnimanni</custom_label_0>
-    <custom_label_1>Uusimaa</custom_label_1>
-    <custom_label_2>kyllä</custom_label_2>
-    <custom_label_3>200-300k</custom_label_3>
-    <custom_label_4>valmis</custom_label_4>
-    <address>
-      <component name="addr1">Käskynhaltijantie 40 C2</component>
-      <component name="city">Helsinki</component>
-      <component name="region">Uusimaa</component>
-      <component name="postal_code">00640</component>
-      <component name="country">FI</component>
-    </address>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260608123750_179908_kaskynhaltijantie_40_c_2_arkta_reponen_oh_web.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250305083845_077929_ka__skynhaltijantie_40_c_2_arkta_reponen_mh_web.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240909145628_417151_ka__skynhaltijantie_40_c_2-23.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240909145710_777215_ka__skynhaltijantie_40_c_2-36.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240909150136_144283_ka__skynhaltijantie_40_c_2-39.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240909145751_530488_ka__skynhaltijantie_40_c_2-41.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240909145731_294987_ka__skynhaltijantie_40_c_2-40.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240909150155_402935_ka__skynhaltijantie_40_c_2-45.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240909145901_897485_ka__skynhaltijantie_40_c_2-46.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20240909150213_969827_ka__skynhaltijantie_40_c_2-47.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <home_listing_id>ta2322</home_listing_id>
-    <name>5h, 117,5 m² · Kangasala</name>
+    <name>5h, 117,5 m² · Vatiala, Kangasala</name>
     <availability>for_sale</availability>
     <listing_type>for_sale_by_agent</listing_type>
     <url>https://www.arkta.fi/asunnot/villavalo/ta2322/</url>
@@ -879,10 +907,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 398 000 € · Myyntihinta 159 176 €</description>
+    <description>Velaton 398 000 €</description>
     <company_name>As Oy Kangasalan Villa Valo A1</company_name>
-    <highlights>Oma piha</highlights>
-    <highlight_1>Oma piha</highlight_1>
+    <neighborhood>Vatiala</neighborhood>
+    <location>Vatiala, Kangasala</location>
+    <room_type>5h+k+s</room_type>
     <custom_label_0>Villa Valo</custom_label_0>
     <custom_label_1>Pirkanmaa</custom_label_1>
     <custom_label_2>ei</custom_label_2>
@@ -895,6 +924,9 @@
       <component name="postal_code">36240</component>
       <component name="country">FI</component>
     </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250526140741_473684_a1__b11__c12_vaatehuoneella.png</url>
+    </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082102_532965_arkta_villa_valo_keittio_web_vesileima.jpg</url>
     </image>
@@ -913,7 +945,7 @@
   </listing>
   <listing>
     <home_listing_id>ta2323</home_listing_id>
-    <name>4h, 96,5 m² · Kangasala</name>
+    <name>4h, 96,5 m² · Vatiala, Kangasala</name>
     <availability>sale_pending</availability>
     <listing_type>for_sale_by_agent</listing_type>
     <url>https://www.arkta.fi/asunnot/villavalo/ta2323/</url>
@@ -927,12 +959,13 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 349 000 € · Myyntihinta 139 623 €</description>
+    <description>Velaton 349 000 €</description>
     <company_name>As Oy Kangasalan Villa Valo C13</company_name>
-    <highlights>Oma sauna · Oma piha · Vaatehuone</highlights>
-    <highlight_1>Oma sauna</highlight_1>
-    <highlight_2>Oma piha</highlight_2>
-    <highlight_3>Vaatehuone</highlight_3>
+    <neighborhood>Vatiala</neighborhood>
+    <location>Vatiala, Kangasala</location>
+    <room_type>4h+k+s</room_type>
+    <highlights>Vaatehuone</highlights>
+    <highlight_1>Vaatehuone</highlight_1>
     <custom_label_0>Villa Valo</custom_label_0>
     <custom_label_1>Pirkanmaa</custom_label_1>
     <custom_label_2>ei</custom_label_2>
@@ -946,10 +979,13 @@
       <component name="country">FI</component>
     </address>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082106_840487_arkta_villa_valo_olohuone_web_vesileima.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250526141555_693789_b7__b8__c13__c14__c15.png</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082102_532965_arkta_villa_valo_keittio_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082106_840487_arkta_villa_valo_olohuone_web_vesileima.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082058_034468_250207_sisakuva_ilman_leluja_web_vesileima.jpg</url>
@@ -963,7 +999,7 @@
   </listing>
   <listing>
     <home_listing_id>ta2324</home_listing_id>
-    <name>5h, 117,5 m² · Kangasala</name>
+    <name>5h, 117,5 m² · Vatiala, Kangasala</name>
     <availability>sale_pending</availability>
     <listing_type>for_sale_by_agent</listing_type>
     <url>https://www.arkta.fi/asunnot/villavalo/ta2324/</url>
@@ -977,10 +1013,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 408 000 € · Myyntihinta 163 186 €</description>
+    <description>Velaton 408 000 €</description>
     <company_name>As Oy Kangasalan Villa Valo B11</company_name>
-    <highlights>Oma piha</highlights>
-    <highlight_1>Oma piha</highlight_1>
+    <neighborhood>Vatiala</neighborhood>
+    <location>Vatiala, Kangasala</location>
+    <room_type>5h+k+s</room_type>
     <custom_label_0>Villa Valo</custom_label_0>
     <custom_label_1>Pirkanmaa</custom_label_1>
     <custom_label_2>ei</custom_label_2>
@@ -994,13 +1031,16 @@
       <component name="country">FI</component>
     </address>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082058_034468_250207_sisakuva_ilman_leluja_web_vesileima.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250526141433_408840_a1__b11__c12_vaatehuoneella.png</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082102_532965_arkta_villa_valo_keittio_web_vesileima.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082106_840487_arkta_villa_valo_olohuone_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082058_034468_250207_sisakuva_ilman_leluja_web_vesileima.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082112_874056_arkta_villa_valo_kylpyhuone_web_vesileima.jpg</url>
@@ -1011,7 +1051,7 @@
   </listing>
   <listing>
     <home_listing_id>ta2325</home_listing_id>
-    <name>5h, 117,5 m² · Kangasala</name>
+    <name>5h, 117,5 m² · Vatiala, Kangasala</name>
     <availability>for_sale</availability>
     <listing_type>for_sale_by_agent</listing_type>
     <url>https://www.arkta.fi/asunnot/villavalo/ta2325/</url>
@@ -1025,10 +1065,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 408 000 € · Myyntihinta 163 186 €</description>
+    <description>Velaton 408 000 €</description>
     <company_name>As Oy Kangasalan Villa Valo C12</company_name>
-    <highlights>Oma piha</highlights>
-    <highlight_1>Oma piha</highlight_1>
+    <neighborhood>Vatiala</neighborhood>
+    <location>Vatiala, Kangasala</location>
+    <room_type>5h+k+s</room_type>
     <custom_label_0>Villa Valo</custom_label_0>
     <custom_label_1>Pirkanmaa</custom_label_1>
     <custom_label_2>ei</custom_label_2>
@@ -1042,7 +1083,7 @@
       <component name="country">FI</component>
     </address>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082104_714183_arkta_villa_valo_makuuhuone_web_vesileima.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250526141529_466031_a1__b11__c12_vaatehuoneella.png</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082102_532965_arkta_villa_valo_keittio_web_vesileima.jpg</url>
@@ -1056,10 +1097,13 @@
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082112_874056_arkta_villa_valo_kylpyhuone_web_vesileima.jpg</url>
     </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082104_714183_arkta_villa_valo_makuuhuone_web_vesileima.jpg</url>
+    </image>
   </listing>
   <listing>
     <home_listing_id>ta2326</home_listing_id>
-    <name>3h, 87 m² · Kangasala</name>
+    <name>3h, 87 m² · Vatiala, Kangasala</name>
     <availability>for_sale</availability>
     <listing_type>for_sale_by_agent</listing_type>
     <url>https://www.arkta.fi/asunnot/villavalo/ta2326/</url>
@@ -1073,12 +1117,13 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 298 000 € · Myyntihinta 119 209 €</description>
+    <description>Velaton 298 000 €</description>
     <company_name>As Oy Kangasalan Villa Valo A2</company_name>
-    <highlights>Oma sauna · Oma piha · Vaatehuone</highlights>
-    <highlight_1>Oma sauna</highlight_1>
-    <highlight_2>Oma piha</highlight_2>
-    <highlight_3>Vaatehuone</highlight_3>
+    <neighborhood>Vatiala</neighborhood>
+    <location>Vatiala, Kangasala</location>
+    <room_type>3h+k+s</room_type>
+    <highlights>Vaatehuone</highlights>
+    <highlight_1>Vaatehuone</highlight_1>
     <custom_label_0>Villa Valo</custom_label_0>
     <custom_label_1>Pirkanmaa</custom_label_1>
     <custom_label_2>ei</custom_label_2>
@@ -1091,6 +1136,9 @@
       <component name="postal_code">36240</component>
       <component name="country">FI</component>
     </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250526140849_722234_a2__a3__b9__b10_4h_versio.png</url>
+    </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082102_532965_arkta_villa_valo_keittio_web_vesileima.jpg</url>
     </image>
@@ -1123,9 +1171,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2024</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 321 000 € · Myyntihinta 64 640 € · Etu 47 210 € · päättyy 30.10.</description>
+    <description>Velaton 321 000 € · Etu 47 210 € · päättyy 30.10.</description>
     <company_name>Asunto Oy Helsingin Onnimanni A11</company_name>
     <neighborhood>Oulunkylä</neighborhood>
+    <location>Oulunkylä, Helsinki</location>
+    <room_type>3h+wc+p+var</room_type>
     <original_price>368210 EUR</original_price>
     <campaign_discount>47210 EUR</campaign_discount>
     <campaign_end>2026-10-30</campaign_end>
@@ -1177,58 +1227,8 @@
     </image>
   </listing>
   <listing>
-    <home_listing_id>ta2328</home_listing_id>
-    <name>4h, 87 m² · Kangasala</name>
-    <availability>sale_pending</availability>
-    <listing_type>for_sale_by_agent</listing_type>
-    <url>https://www.arkta.fi/asunnot/villavalo/ta2328/</url>
-    <price>298000 EUR</price>
-    <sales_price>119209 EUR</sales_price>
-    <property_type>house</property_type>
-    <num_beds>3</num_beds>
-    <num_rooms>4</num_rooms>
-    <rooms_label>4h</rooms_label>
-    <area_size>87</area_size>
-    <area_size_unit>sqm</area_size_unit>
-    <year_built>2027</year_built>
-    <first_seen>2026-09-24</first_seen>
-    <description>Velaton 298 000 € · Myyntihinta 119 209 €</description>
-    <company_name>As Oy Kangasalan Villa Valo B9</company_name>
-    <highlights>Oma sauna · Oma piha · Vaatehuone</highlights>
-    <highlight_1>Oma sauna</highlight_1>
-    <highlight_2>Oma piha</highlight_2>
-    <highlight_3>Vaatehuone</highlight_3>
-    <custom_label_0>Villa Valo</custom_label_0>
-    <custom_label_1>Pirkanmaa</custom_label_1>
-    <custom_label_2>ei</custom_label_2>
-    <custom_label_3>200-300k</custom_label_3>
-    <custom_label_4>valmistuu 2027</custom_label_4>
-    <address>
-      <component name="addr1">Varikontie 12 B9</component>
-      <component name="city">Kangasala</component>
-      <component name="region">Pirkanmaa</component>
-      <component name="postal_code">36240</component>
-      <component name="country">FI</component>
-    </address>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082058_034468_250207_sisakuva_ilman_leluja_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082102_532965_arkta_villa_valo_keittio_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082106_840487_arkta_villa_valo_olohuone_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082112_874056_arkta_villa_valo_kylpyhuone_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082104_714183_arkta_villa_valo_makuuhuone_web_vesileima.jpg</url>
-    </image>
-  </listing>
-  <listing>
     <home_listing_id>ta2327</home_listing_id>
-    <name>4h, 87 m² · Kangasala</name>
+    <name>4h, 87 m² · Vatiala, Kangasala</name>
     <availability>sale_pending</availability>
     <listing_type>for_sale_by_agent</listing_type>
     <url>https://www.arkta.fi/asunnot/villavalo/ta2327/</url>
@@ -1242,12 +1242,13 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 298 000 € · Myyntihinta 119 209 €</description>
+    <description>Velaton 298 000 €</description>
     <company_name>As Oy Kangasalan Villa Valo A3</company_name>
-    <highlights>Oma sauna · Oma piha · Vaatehuone</highlights>
-    <highlight_1>Oma sauna</highlight_1>
-    <highlight_2>Oma piha</highlight_2>
-    <highlight_3>Vaatehuone</highlight_3>
+    <neighborhood>Vatiala</neighborhood>
+    <location>Vatiala, Kangasala</location>
+    <room_type>4h+k+s</room_type>
+    <highlights>Vaatehuone</highlights>
+    <highlight_1>Vaatehuone</highlight_1>
     <custom_label_0>Villa Valo</custom_label_0>
     <custom_label_1>Pirkanmaa</custom_label_1>
     <custom_label_2>ei</custom_label_2>
@@ -1261,10 +1262,67 @@
       <component name="country">FI</component>
     </address>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082106_840487_arkta_villa_valo_olohuone_web_vesileima.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250526140923_536602_a2__a3__b9__b10_4h_versio.png</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082102_532965_arkta_villa_valo_keittio_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082106_840487_arkta_villa_valo_olohuone_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082058_034468_250207_sisakuva_ilman_leluja_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082112_874056_arkta_villa_valo_kylpyhuone_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082104_714183_arkta_villa_valo_makuuhuone_web_vesileima.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <home_listing_id>ta2328</home_listing_id>
+    <name>4h, 87 m² · Vatiala, Kangasala</name>
+    <availability>sale_pending</availability>
+    <listing_type>for_sale_by_agent</listing_type>
+    <url>https://www.arkta.fi/asunnot/villavalo/ta2328/</url>
+    <price>298000 EUR</price>
+    <sales_price>119209 EUR</sales_price>
+    <property_type>house</property_type>
+    <num_beds>3</num_beds>
+    <num_rooms>4</num_rooms>
+    <rooms_label>4h</rooms_label>
+    <area_size>87</area_size>
+    <area_size_unit>sqm</area_size_unit>
+    <year_built>2027</year_built>
+    <first_seen>2026-09-24</first_seen>
+    <description>Velaton 298 000 €</description>
+    <company_name>As Oy Kangasalan Villa Valo B9</company_name>
+    <neighborhood>Vatiala</neighborhood>
+    <location>Vatiala, Kangasala</location>
+    <room_type>4h+k+s</room_type>
+    <highlights>Vaatehuone</highlights>
+    <highlight_1>Vaatehuone</highlight_1>
+    <custom_label_0>Villa Valo</custom_label_0>
+    <custom_label_1>Pirkanmaa</custom_label_1>
+    <custom_label_2>ei</custom_label_2>
+    <custom_label_3>200-300k</custom_label_3>
+    <custom_label_4>valmistuu 2027</custom_label_4>
+    <address>
+      <component name="addr1">Varikontie 12 B9</component>
+      <component name="city">Kangasala</component>
+      <component name="region">Pirkanmaa</component>
+      <component name="postal_code">36240</component>
+      <component name="country">FI</component>
+    </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250526141225_206733_a2__a3__b9__b10_4h_versio.png</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082102_532965_arkta_villa_valo_keittio_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082106_840487_arkta_villa_valo_olohuone_web_vesileima.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082058_034468_250207_sisakuva_ilman_leluja_web_vesileima.jpg</url>
@@ -1278,7 +1336,7 @@
   </listing>
   <listing>
     <home_listing_id>ta2329</home_listing_id>
-    <name>3h, 87 m² · Kangasala</name>
+    <name>3h, 87 m² · Vatiala, Kangasala</name>
     <availability>sale_pending</availability>
     <listing_type>for_sale_by_agent</listing_type>
     <url>https://www.arkta.fi/asunnot/villavalo/ta2329/</url>
@@ -1292,12 +1350,13 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 298 000 € · Myyntihinta 119 209 €</description>
+    <description>Velaton 298 000 €</description>
     <company_name>As Oy Kangasalan Villa Valo B10</company_name>
-    <highlights>Oma sauna · Oma piha · Vaatehuone</highlights>
-    <highlight_1>Oma sauna</highlight_1>
-    <highlight_2>Oma piha</highlight_2>
-    <highlight_3>Vaatehuone</highlight_3>
+    <neighborhood>Vatiala</neighborhood>
+    <location>Vatiala, Kangasala</location>
+    <room_type>3h+k+s</room_type>
+    <highlights>Vaatehuone</highlights>
+    <highlight_1>Vaatehuone</highlight_1>
     <custom_label_0>Villa Valo</custom_label_0>
     <custom_label_1>Pirkanmaa</custom_label_1>
     <custom_label_2>ei</custom_label_2>
@@ -1311,7 +1370,7 @@
       <component name="country">FI</component>
     </address>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082104_714183_arkta_villa_valo_makuuhuone_web_vesileima.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250526141251_337380_a2__a3__b9__b10_4h_versio.png</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082102_532965_arkta_villa_valo_keittio_web_vesileima.jpg</url>
@@ -1325,10 +1384,13 @@
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082112_874056_arkta_villa_valo_kylpyhuone_web_vesileima.jpg</url>
     </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082104_714183_arkta_villa_valo_makuuhuone_web_vesileima.jpg</url>
+    </image>
   </listing>
   <listing>
     <home_listing_id>ta2330</home_listing_id>
-    <name>3h, 77 m² · Kangasala</name>
+    <name>3h, 77 m² · Vatiala, Kangasala</name>
     <availability>sale_pending</availability>
     <listing_type>for_sale_by_agent</listing_type>
     <url>https://www.arkta.fi/asunnot/villavalo/ta2330/</url>
@@ -1342,11 +1404,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 279 000 € · Myyntihinta 111 600 €</description>
+    <description>Velaton 279 000 €</description>
     <company_name>As Oy Kangasalan Villa Valo A4</company_name>
-    <highlights>Oma sauna · Oma piha etelään</highlights>
-    <highlight_1>Oma sauna</highlight_1>
-    <highlight_2>Oma piha etelään</highlight_2>
+    <neighborhood>Vatiala</neighborhood>
+    <location>Vatiala, Kangasala</location>
+    <room_type>3h+k+s</room_type>
     <custom_label_0>Villa Valo</custom_label_0>
     <custom_label_1>Pirkanmaa</custom_label_1>
     <custom_label_2>ei</custom_label_2>
@@ -1359,6 +1421,9 @@
       <component name="postal_code">36240</component>
       <component name="country">FI</component>
     </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250526141000_174309_a4.png</url>
+    </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082102_532965_arkta_villa_valo_keittio_web_vesileima.jpg</url>
     </image>
@@ -1377,7 +1442,7 @@
   </listing>
   <listing>
     <home_listing_id>ta2331</home_listing_id>
-    <name>4h, 109,5 m² · Kangasala</name>
+    <name>4h, 109,5 m² · Vatiala, Kangasala</name>
     <availability>sale_pending</availability>
     <listing_type>for_sale_by_agent</listing_type>
     <url>https://www.arkta.fi/asunnot/villavalo/ta2331/</url>
@@ -1391,12 +1456,14 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 379 000 € · Myyntihinta 151 567 €</description>
+    <description>Velaton 379 000 €</description>
     <company_name>As Oy Kangasalan Villa Valo A5</company_name>
-    <highlights>Päätyhuoneisto · Oma piha · Vaatehuone</highlights>
+    <neighborhood>Vatiala</neighborhood>
+    <location>Vatiala, Kangasala</location>
+    <room_type>4h+k+s</room_type>
+    <highlights>Päätyhuoneisto · Vaatehuone</highlights>
     <highlight_1>Päätyhuoneisto</highlight_1>
-    <highlight_2>Oma piha</highlight_2>
-    <highlight_3>Vaatehuone</highlight_3>
+    <highlight_2>Vaatehuone</highlight_2>
     <custom_label_0>Villa Valo</custom_label_0>
     <custom_label_1>Pirkanmaa</custom_label_1>
     <custom_label_2>ei</custom_label_2>
@@ -1410,10 +1477,13 @@
       <component name="country">FI</component>
     </address>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082106_840487_arkta_villa_valo_olohuone_web_vesileima.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250526141035_517860_a5__b6__c16.png</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082102_532965_arkta_villa_valo_keittio_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082106_840487_arkta_villa_valo_olohuone_web_vesileima.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082058_034468_250207_sisakuva_ilman_leluja_web_vesileima.jpg</url>
@@ -1427,7 +1497,7 @@
   </listing>
   <listing>
     <home_listing_id>ta2332</home_listing_id>
-    <name>5h, 109,5 m² · Kangasala</name>
+    <name>5h, 109,5 m² · Vatiala, Kangasala</name>
     <availability>sale_pending</availability>
     <listing_type>for_sale_by_agent</listing_type>
     <url>https://www.arkta.fi/asunnot/villavalo/ta2332/</url>
@@ -1441,12 +1511,14 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 379 000 € · Myyntihinta 151 567 €</description>
+    <description>Velaton 379 000 €</description>
     <company_name>As Oy Kangasalan Villa Valo B6</company_name>
-    <highlights>Päätyhuoneisto · Oma piha · Vaatehuone</highlights>
+    <neighborhood>Vatiala</neighborhood>
+    <location>Vatiala, Kangasala</location>
+    <room_type>5h+k+s</room_type>
+    <highlights>Päätyhuoneisto · Vaatehuone</highlights>
     <highlight_1>Päätyhuoneisto</highlight_1>
-    <highlight_2>Oma piha</highlight_2>
-    <highlight_3>Vaatehuone</highlight_3>
+    <highlight_2>Vaatehuone</highlight_2>
     <custom_label_0>Villa Valo</custom_label_0>
     <custom_label_1>Pirkanmaa</custom_label_1>
     <custom_label_2>ei</custom_label_2>
@@ -1460,13 +1532,70 @@
       <component name="country">FI</component>
     </address>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082058_034468_250207_sisakuva_ilman_leluja_web_vesileima.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250526141102_060065_a5__b6__c16.png</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082102_532965_arkta_villa_valo_keittio_web_vesileima.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082106_840487_arkta_villa_valo_olohuone_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082058_034468_250207_sisakuva_ilman_leluja_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082112_874056_arkta_villa_valo_kylpyhuone_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082104_714183_arkta_villa_valo_makuuhuone_web_vesileima.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <home_listing_id>ta2333</home_listing_id>
+    <name>4h, 96,5 m² · Vatiala, Kangasala</name>
+    <availability>for_sale</availability>
+    <listing_type>for_sale_by_agent</listing_type>
+    <url>https://www.arkta.fi/asunnot/villavalo/ta2333/</url>
+    <price>349000 EUR</price>
+    <sales_price>139623 EUR</sales_price>
+    <property_type>house</property_type>
+    <num_beds>3</num_beds>
+    <num_rooms>4</num_rooms>
+    <rooms_label>4h</rooms_label>
+    <area_size>96</area_size>
+    <area_size_unit>sqm</area_size_unit>
+    <year_built>2027</year_built>
+    <first_seen>2026-09-24</first_seen>
+    <description>Velaton 349 000 €</description>
+    <company_name>As Oy Kangasalan Villa Valo B7</company_name>
+    <neighborhood>Vatiala</neighborhood>
+    <location>Vatiala, Kangasala</location>
+    <room_type>4h+k+s</room_type>
+    <highlights>Vaatehuone</highlights>
+    <highlight_1>Vaatehuone</highlight_1>
+    <custom_label_0>Villa Valo</custom_label_0>
+    <custom_label_1>Pirkanmaa</custom_label_1>
+    <custom_label_2>ei</custom_label_2>
+    <custom_label_3>300-400k</custom_label_3>
+    <custom_label_4>valmistuu 2027</custom_label_4>
+    <address>
+      <component name="addr1">Varikontie 12 B7</component>
+      <component name="city">Kangasala</component>
+      <component name="region">Pirkanmaa</component>
+      <component name="postal_code">36240</component>
+      <component name="country">FI</component>
+    </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250526141135_117053_b7__b8__c13__c14__c15.png</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082102_532965_arkta_villa_valo_keittio_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082106_840487_arkta_villa_valo_olohuone_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082058_034468_250207_sisakuva_ilman_leluja_web_vesileima.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082112_874056_arkta_villa_valo_kylpyhuone_web_vesileima.jpg</url>
@@ -1477,7 +1606,7 @@
   </listing>
   <listing>
     <home_listing_id>ta2334</home_listing_id>
-    <name>4h, 96,5 m² · Kangasala</name>
+    <name>4h, 96,5 m² · Vatiala, Kangasala</name>
     <availability>for_sale</availability>
     <listing_type>for_sale_by_agent</listing_type>
     <url>https://www.arkta.fi/asunnot/villavalo/ta2334/</url>
@@ -1491,12 +1620,13 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 349 000 € · Myyntihinta 139 623 €</description>
+    <description>Velaton 349 000 €</description>
     <company_name>As Oy Kangasalan Villa Valo B8</company_name>
-    <highlights>Oma sauna · Oma piha · Vaatehuone</highlights>
-    <highlight_1>Oma sauna</highlight_1>
-    <highlight_2>Oma piha</highlight_2>
-    <highlight_3>Vaatehuone</highlight_3>
+    <neighborhood>Vatiala</neighborhood>
+    <location>Vatiala, Kangasala</location>
+    <room_type>4h+k+s</room_type>
+    <highlights>Vaatehuone</highlights>
+    <highlight_1>Vaatehuone</highlight_1>
     <custom_label_0>Villa Valo</custom_label_0>
     <custom_label_1>Pirkanmaa</custom_label_1>
     <custom_label_2>ei</custom_label_2>
@@ -1509,6 +1639,9 @@
       <component name="postal_code">36240</component>
       <component name="country">FI</component>
     </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250526141156_869703_b7__b8__c13__c14__c15.png</url>
+    </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082102_532965_arkta_villa_valo_keittio_web_vesileima.jpg</url>
     </image>
@@ -1527,7 +1660,7 @@
   </listing>
   <listing>
     <home_listing_id>ta2335</home_listing_id>
-    <name>4h, 96,5 m² · Kangasala</name>
+    <name>4h, 96,5 m² · Vatiala, Kangasala</name>
     <availability>sale_pending</availability>
     <listing_type>for_sale_by_agent</listing_type>
     <url>https://www.arkta.fi/asunnot/villavalo/ta2335/</url>
@@ -1541,12 +1674,13 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 349 000 € · Myyntihinta 139 623 €</description>
+    <description>Velaton 349 000 €</description>
     <company_name>As Oy Kangasalan Villa Valo C14</company_name>
-    <highlights>Oma sauna · Oma piha · Vaatehuone</highlights>
-    <highlight_1>Oma sauna</highlight_1>
-    <highlight_2>Oma piha</highlight_2>
-    <highlight_3>Vaatehuone</highlight_3>
+    <neighborhood>Vatiala</neighborhood>
+    <location>Vatiala, Kangasala</location>
+    <room_type>4h+k+s</room_type>
+    <highlights>Vaatehuone</highlights>
+    <highlight_1>Vaatehuone</highlight_1>
     <custom_label_0>Villa Valo</custom_label_0>
     <custom_label_1>Pirkanmaa</custom_label_1>
     <custom_label_2>ei</custom_label_2>
@@ -1560,57 +1694,7 @@
       <component name="country">FI</component>
     </address>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082106_840487_arkta_villa_valo_olohuone_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082102_532965_arkta_villa_valo_keittio_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082058_034468_250207_sisakuva_ilman_leluja_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082112_874056_arkta_villa_valo_kylpyhuone_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082104_714183_arkta_villa_valo_makuuhuone_web_vesileima.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <home_listing_id>ta2333</home_listing_id>
-    <name>4h, 96,5 m² · Kangasala</name>
-    <availability>for_sale</availability>
-    <listing_type>for_sale_by_agent</listing_type>
-    <url>https://www.arkta.fi/asunnot/villavalo/ta2333/</url>
-    <price>349000 EUR</price>
-    <sales_price>139623 EUR</sales_price>
-    <property_type>house</property_type>
-    <num_beds>3</num_beds>
-    <num_rooms>4</num_rooms>
-    <rooms_label>4h</rooms_label>
-    <area_size>96</area_size>
-    <area_size_unit>sqm</area_size_unit>
-    <year_built>2027</year_built>
-    <first_seen>2026-09-24</first_seen>
-    <description>Velaton 349 000 € · Myyntihinta 139 623 €</description>
-    <company_name>As Oy Kangasalan Villa Valo B7</company_name>
-    <highlights>Oma sauna · Oma piha · Vaatehuone</highlights>
-    <highlight_1>Oma sauna</highlight_1>
-    <highlight_2>Oma piha</highlight_2>
-    <highlight_3>Vaatehuone</highlight_3>
-    <custom_label_0>Villa Valo</custom_label_0>
-    <custom_label_1>Pirkanmaa</custom_label_1>
-    <custom_label_2>ei</custom_label_2>
-    <custom_label_3>300-400k</custom_label_3>
-    <custom_label_4>valmistuu 2027</custom_label_4>
-    <address>
-      <component name="addr1">Varikontie 12 B7</component>
-      <component name="city">Kangasala</component>
-      <component name="region">Pirkanmaa</component>
-      <component name="postal_code">36240</component>
-      <component name="country">FI</component>
-    </address>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082104_714183_arkta_villa_valo_makuuhuone_web_vesileima.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250526141615_238851_b7__b8__c13__c14__c15.png</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082102_532965_arkta_villa_valo_keittio_web_vesileima.jpg</url>
@@ -1623,11 +1707,14 @@
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082112_874056_arkta_villa_valo_kylpyhuone_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082104_714183_arkta_villa_valo_makuuhuone_web_vesileima.jpg</url>
     </image>
   </listing>
   <listing>
     <home_listing_id>ta2336</home_listing_id>
-    <name>4h, 96,5 m² · Kangasala</name>
+    <name>4h, 96,5 m² · Vatiala, Kangasala</name>
     <availability>for_sale</availability>
     <listing_type>for_sale_by_agent</listing_type>
     <url>https://www.arkta.fi/asunnot/villavalo/ta2336/</url>
@@ -1641,12 +1728,13 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 349 000 € · Myyntihinta 139 623 €</description>
+    <description>Velaton 349 000 €</description>
     <company_name>As Oy Kangasalan Villa Valo C15</company_name>
-    <highlights>Oma sauna · Oma piha · Vaatehuone</highlights>
-    <highlight_1>Oma sauna</highlight_1>
-    <highlight_2>Oma piha</highlight_2>
-    <highlight_3>Vaatehuone</highlight_3>
+    <neighborhood>Vatiala</neighborhood>
+    <location>Vatiala, Kangasala</location>
+    <room_type>4h+k+s</room_type>
+    <highlights>Vaatehuone</highlights>
+    <highlight_1>Vaatehuone</highlight_1>
     <custom_label_0>Villa Valo</custom_label_0>
     <custom_label_1>Pirkanmaa</custom_label_1>
     <custom_label_2>ei</custom_label_2>
@@ -1660,57 +1748,7 @@
       <component name="country">FI</component>
     </address>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082058_034468_250207_sisakuva_ilman_leluja_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082102_532965_arkta_villa_valo_keittio_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082106_840487_arkta_villa_valo_olohuone_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082112_874056_arkta_villa_valo_kylpyhuone_web_vesileima.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082104_714183_arkta_villa_valo_makuuhuone_web_vesileima.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <home_listing_id>ta2337</home_listing_id>
-    <name>5h, 109,5 m² · Kangasala</name>
-    <availability>for_sale</availability>
-    <listing_type>for_sale_by_agent</listing_type>
-    <url>https://www.arkta.fi/asunnot/villavalo/ta2337/</url>
-    <price>379000 EUR</price>
-    <sales_price>151567 EUR</sales_price>
-    <property_type>house</property_type>
-    <num_beds>4</num_beds>
-    <num_rooms>5</num_rooms>
-    <rooms_label>5h</rooms_label>
-    <area_size>109</area_size>
-    <area_size_unit>sqm</area_size_unit>
-    <year_built>2027</year_built>
-    <first_seen>2026-09-24</first_seen>
-    <description>Velaton 379 000 € · Myyntihinta 151 567 €</description>
-    <company_name>As Oy Kangasalan Villa Valo C16</company_name>
-    <highlights>Päätyhuoneisto · Oma piha · Vaatehuone</highlights>
-    <highlight_1>Päätyhuoneisto</highlight_1>
-    <highlight_2>Oma piha</highlight_2>
-    <highlight_3>Vaatehuone</highlight_3>
-    <custom_label_0>Villa Valo</custom_label_0>
-    <custom_label_1>Pirkanmaa</custom_label_1>
-    <custom_label_2>ei</custom_label_2>
-    <custom_label_3>300-400k</custom_label_3>
-    <custom_label_4>valmistuu 2027</custom_label_4>
-    <address>
-      <component name="addr1">Varikontie 12 C16</component>
-      <component name="city">Kangasala</component>
-      <component name="region">Pirkanmaa</component>
-      <component name="postal_code">36240</component>
-      <component name="country">FI</component>
-    </address>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082104_714183_arkta_villa_valo_makuuhuone_web_vesileima.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250526141702_622874_b7__b8__c13__c14__c15.png</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082102_532965_arkta_villa_valo_keittio_web_vesileima.jpg</url>
@@ -1723,6 +1761,9 @@
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082112_874056_arkta_villa_valo_kylpyhuone_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082104_714183_arkta_villa_valo_makuuhuone_web_vesileima.jpg</url>
     </image>
   </listing>
   <listing>
@@ -1741,9 +1782,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2024</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 384 900 € · Myyntihinta 78 415 € · Etu 56 570 € · päättyy 30.10.</description>
+    <description>Velaton 384 900 € · Etu 56 570 € · päättyy 30.10.</description>
     <company_name>Asunto Oy Helsingin Onnimanni B28</company_name>
     <neighborhood>Oulunkylä</neighborhood>
+    <location>Oulunkylä, Helsinki</location>
+    <room_type>4h+k+s+var</room_type>
     <original_price>441470 EUR</original_price>
     <campaign_discount>56570 EUR</campaign_discount>
     <campaign_end>2026-10-30</campaign_end>
@@ -1764,10 +1807,19 @@
       <component name="country">FI</component>
     </address>
     <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251215230717_754435_11.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260721125742_771481_nimeton_malli.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260912150046_372699_ka__skynhaltijantie_40_c_2-19.jpg</url>
+    </image>
+    <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260721105429_365673_onnimanni-b36-kt-ikkuna.jpg</url>
     </image>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251215230717_754435_11.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260721105358_580166_onnimanni-b36-olohuone.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260721114714_750193_onnimanni-b36-oh-ikkuna.jpg</url>
@@ -1783,15 +1835,6 @@
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260721114654_997713_onnimanni-b36-mh-ikkuna.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260721105610_717314_onnimanni-b36-mh3.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260721105631_055742_onnimanni-b36-mh2.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260721125703_688422_onnimanni-b39-olohuone-mh.jpg</url>
     </image>
   </listing>
   <listing>
@@ -1810,9 +1853,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2023</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 259 000 € · Myyntihinta 63 615 € · Etu 20 000 € · päättyy 31.10.</description>
+    <description>Velaton 259 000 € · Etu 20 000 € · päättyy 31.10.</description>
     <company_name>As Oy Tampereen Auringonpaiste A34</company_name>
     <neighborhood>Ilokkaanpuisto</neighborhood>
+    <location>Ilokkaanpuisto, Tampere</location>
+    <room_type>3h+kt+s</room_type>
     <original_price>279000 EUR</original_price>
     <campaign_discount>20000 EUR</campaign_discount>
     <campaign_end>2026-10-31</campaign_end>
@@ -1879,9 +1924,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2026</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 335 000 € · Myyntihinta 134 002 €</description>
+    <description>Velaton 335 000 €</description>
     <company_name>As Oy Tampereen Hatanpään Fredrika B 55</company_name>
     <neighborhood>Hatanpää</neighborhood>
+    <location>Hatanpää, Tampere</location>
+    <room_type>3h+kt+s+p</room_type>
     <highlights>Kulmahuoneisto · Ylin kerros · Lasitettu parveke</highlights>
     <highlight_1>Kulmahuoneisto</highlight_1>
     <highlight_2>Ylin kerros</highlight_2>
@@ -1899,10 +1946,10 @@
       <component name="country">FI</component>
     </address>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20261020141207_926388_b32-malliasunto-ruokailu-oh-kt.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251015091736_745805_b55_olohuone_fredrika_web.jpg</url>
     </image>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251015091736_745805_b55_olohuone_fredrika_web.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20261020141207_926388_b32-malliasunto-ruokailu-oh-kt.jpg</url>
     </image>
   </listing>
   <listing>
@@ -1921,9 +1968,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2026</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 460 000 € · Myyntihinta 183 959 €</description>
+    <description>Velaton 460 000 €</description>
     <company_name>As Oy Tampereen Hatanpään Fredrika B 35</company_name>
     <neighborhood>Hatanpää</neighborhood>
+    <location>Hatanpää, Tampere</location>
+    <room_type>4h+kt+s+p</room_type>
     <highlights>Kulmahuoneisto · Avarat näkymät</highlights>
     <highlight_1>Kulmahuoneisto</highlight_1>
     <highlight_2>Avarat näkymät</highlight_2>
@@ -1939,6 +1988,9 @@
       <component name="postal_code">33900</component>
       <component name="country">FI</component>
     </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251229101220_197086_fredrika_b35.png</url>
+    </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260611104854_752168_b56_keittio_tyyli1_vaalea_fredrika_uudisovi.com.jpg</url>
     </image>
@@ -1966,9 +2018,6 @@
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20261002103158_275589_b32-malliasunto-kph.jpg</url>
     </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250930174649_742319_b56_parveke_fredrika_web.jpg</url>
-    </image>
   </listing>
   <listing>
     <home_listing_id>ta2388</home_listing_id>
@@ -1986,9 +2035,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2026</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 480 000 € · Myyntihinta 192 019 €</description>
+    <description>Velaton 480 000 €</description>
     <company_name>As Oy Tampereen Hatanpään Fredrika B 42</company_name>
     <neighborhood>Hatanpää</neighborhood>
+    <location>Hatanpää, Tampere</location>
+    <room_type>4h+kt+s+p</room_type>
     <highlights>Kulmahuoneisto · Avarat näkymät</highlights>
     <highlight_1>Kulmahuoneisto</highlight_1>
     <highlight_2>Avarat näkymät</highlight_2>
@@ -2004,6 +2055,9 @@
       <component name="postal_code">33900</component>
       <component name="country">FI</component>
     </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251229101436_560667_fredrika_b42.png</url>
+    </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260611112929_136728_fredrika-tyyli1-visualisointi.jpg</url>
     </image>
@@ -2031,9 +2085,6 @@
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20261002104318_378101_b32-malliasunto-khh.jpg</url>
     </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250930174649_742319_b56_parveke_fredrika_web.jpg</url>
-    </image>
   </listing>
   <listing>
     <home_listing_id>ta2389</home_listing_id>
@@ -2051,9 +2102,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2026</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 529 000 € · Myyntihinta 211 582 €</description>
+    <description>Velaton 529 000 €</description>
     <company_name>As Oy Tampereen Hatanpään Fredrika B 49</company_name>
     <neighborhood>Hatanpää</neighborhood>
+    <location>Hatanpää, Tampere</location>
+    <room_type>3h+kt+s+p</room_type>
     <highlights>Kulmahuoneisto · Avarat näkymät</highlights>
     <highlight_1>Kulmahuoneisto</highlight_1>
     <highlight_2>Avarat näkymät</highlight_2>
@@ -2070,16 +2123,19 @@
       <component name="country">FI</component>
     </address>
     <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20261020134956_131803_fredrika_b49_maisemat.jpeg</url>
+    </image>
+    <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20261008123141_926223_b32-malliasunto-keitti____.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260611114305_093506_fredrika-tyyli2-visualisointi.jpg</url>
     </image>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20261008123149_965724_b32-malliasunto-kt-oh.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20261008123200_389023_b32-malliasunto-ruokailu-oh-kt.jpg</url>
     </image>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20261008123200_389023_b32-malliasunto-ruokailu-oh-kt.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20261008123149_965724_b32-malliasunto-kt-oh.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20261008123157_613863_b32-malliasunto-ruokailu-oh.jpg</url>
@@ -2095,9 +2151,6 @@
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20261008123144_654284_b32-malliasunto-khh.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20261008123147_408832_b32-malliasunto-kph.jpg</url>
     </image>
   </listing>
   <listing>
@@ -2116,9 +2169,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2026</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 348 000 € · Myyntihinta 139 207 €</description>
+    <description>Velaton 348 000 €</description>
     <company_name>As Oy Tampereen Hatanpään Fredrika C 63</company_name>
     <neighborhood>Hatanpää</neighborhood>
+    <location>Hatanpää, Tampere</location>
+    <room_type>3h+kt+s+p</room_type>
     <highlights>Terassi etelään · Lasitettu parveke</highlights>
     <highlight_1>Terassi etelään</highlight_1>
     <highlight_2>Lasitettu parveke</highlight_2>
@@ -2135,10 +2190,13 @@
       <component name="country">FI</component>
     </address>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20261020140702_322057_b32-malliasunto-ruokailu-oh-kt.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260807085404_160306_fredrika_c63.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260203132523_888926_c61_makuuhuone_fredrika_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20261020140702_322057_b32-malliasunto-ruokailu-oh-kt.jpg</url>
     </image>
   </listing>
   <listing>
@@ -2157,9 +2215,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2026</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 584 000 € · Myyntihinta 233 663 €</description>
+    <description>Velaton 584 000 €</description>
     <company_name>As Oy Tampereen Hatanpään Fredrika C 64</company_name>
     <neighborhood>Hatanpää</neighborhood>
+    <location>Hatanpää, Tampere</location>
+    <room_type>4h(+tt)+kt+s+p</room_type>
     <highlights>Terassi etelään · Vaatehuone</highlights>
     <highlight_1>Terassi etelään</highlight_1>
     <highlight_2>Vaatehuone</highlight_2>
@@ -2176,16 +2236,74 @@
       <component name="country">FI</component>
     </address>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260127151122_632443_c61_ke_2.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260615105119_285342_fredrika_c64.jpg</url>
     </image>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251021105353_975924_c61_kylpyhuone_fredrika_web.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260127151122_632443_c61_ke_2.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251021105357_759643_c61_makuuhuone_fredrika_web.jpg</url>
     </image>
     <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251021105353_975924_c61_kylpyhuone_fredrika_web.jpg</url>
+    </image>
+    <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20261020140603_585895_b32-malliasunto-ruokailu-oh-kt.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <home_listing_id>ta2337</home_listing_id>
+    <name>5h, 109,5 m² · Vatiala, Kangasala</name>
+    <availability>for_sale</availability>
+    <listing_type>for_sale_by_agent</listing_type>
+    <url>https://www.arkta.fi/asunnot/villavalo/ta2337/</url>
+    <price>379000 EUR</price>
+    <sales_price>151567 EUR</sales_price>
+    <property_type>house</property_type>
+    <num_beds>4</num_beds>
+    <num_rooms>5</num_rooms>
+    <rooms_label>5h</rooms_label>
+    <area_size>109</area_size>
+    <area_size_unit>sqm</area_size_unit>
+    <year_built>2027</year_built>
+    <first_seen>2026-09-24</first_seen>
+    <description>Velaton 379 000 €</description>
+    <company_name>As Oy Kangasalan Villa Valo C16</company_name>
+    <neighborhood>Vatiala</neighborhood>
+    <location>Vatiala, Kangasala</location>
+    <room_type>5h+k+s</room_type>
+    <highlights>Päätyhuoneisto · Vaatehuone</highlights>
+    <highlight_1>Päätyhuoneisto</highlight_1>
+    <highlight_2>Vaatehuone</highlight_2>
+    <custom_label_0>Villa Valo</custom_label_0>
+    <custom_label_1>Pirkanmaa</custom_label_1>
+    <custom_label_2>ei</custom_label_2>
+    <custom_label_3>300-400k</custom_label_3>
+    <custom_label_4>valmistuu 2027</custom_label_4>
+    <address>
+      <component name="addr1">Varikontie 12 C16</component>
+      <component name="city">Kangasala</component>
+      <component name="region">Pirkanmaa</component>
+      <component name="postal_code">36240</component>
+      <component name="country">FI</component>
+    </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250526141727_838726_a5__b6__c16.png</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082102_532965_arkta_villa_valo_keittio_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082106_840487_arkta_villa_valo_olohuone_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082058_034468_250207_sisakuva_ilman_leluja_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082112_874056_arkta_villa_valo_kylpyhuone_web_vesileima.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250528082104_714183_arkta_villa_valo_makuuhuone_web_vesileima.jpg</url>
     </image>
   </listing>
   <listing>
@@ -2204,9 +2322,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2026</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 225 000 € · Myyntihinta 90 006 €</description>
+    <description>Velaton 225 000 €</description>
     <company_name>As Oy Tampereen Hatanpään Fredrika B 38</company_name>
     <neighborhood>Hatanpää</neighborhood>
+    <location>Hatanpää, Tampere</location>
+    <room_type>2h+kt+p</room_type>
     <highlights>Kulmahuoneisto · Lasitettu parveke</highlights>
     <highlight_1>Kulmahuoneisto</highlight_1>
     <highlight_2>Lasitettu parveke</highlight_2>
@@ -2222,6 +2342,9 @@
       <component name="postal_code">33900</component>
       <component name="country">FI</component>
     </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251229102639_544800_fredrika_b38.png</url>
+    </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260127151519_408328_b59_olohuone_fredrika_web.jpg</url>
     </image>
@@ -2251,9 +2374,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2026</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 265 000 € · Myyntihinta 105 959 €</description>
+    <description>Velaton 265 000 €</description>
     <company_name>As Oy Tampereen Hatanpään Fredrika B 31</company_name>
     <neighborhood>Hatanpää</neighborhood>
+    <location>Hatanpää, Tampere</location>
+    <room_type>3h+kt+s+p</room_type>
     <highlights>Kulmahuoneisto · Lasitettu parveke · Avarat näkymät</highlights>
     <highlight_1>Kulmahuoneisto</highlight_1>
     <highlight_2>Lasitettu parveke</highlight_2>
@@ -2271,10 +2396,13 @@
       <component name="country">FI</component>
     </address>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250930174649_742319_b56_parveke_fredrika_web.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251229102445_279479_fredrika_b31.png</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20261020142704_672327_b55_olohuone_fredrika_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20250930174649_742319_b56_parveke_fredrika_web.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20261020141820_663701_b32-malliasunto.jpg</url>
@@ -2299,9 +2427,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2026</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 430 000 € · Myyntihinta 172 036 €</description>
+    <description>Velaton 430 000 €</description>
     <company_name>As Oy Tampereen Hatanpään Fredrika B 32</company_name>
     <neighborhood>Hatanpää</neighborhood>
+    <location>Hatanpää, Tampere</location>
+    <room_type>4h+kt+s+p</room_type>
     <highlights>Kulmahuoneisto · Terassi · Lasitettu parveke etelään</highlights>
     <highlight_1>Kulmahuoneisto</highlight_1>
     <highlight_2>Terassi</highlight_2>
@@ -2350,6 +2480,55 @@
     </image>
   </listing>
   <listing>
+    <home_listing_id>ta2369</home_listing_id>
+    <name>4h, 97 m² · Hatanpää, Tampere</name>
+    <availability>for_sale</availability>
+    <listing_type>for_sale_by_agent</listing_type>
+    <url>https://www.arkta.fi/asunnot/fredrika/ta2369/</url>
+    <price>596000 EUR</price>
+    <sales_price>238366 EUR</sales_price>
+    <property_type>apartment</property_type>
+    <num_beds>3</num_beds>
+    <num_rooms>4</num_rooms>
+    <rooms_label>4h</rooms_label>
+    <area_size>97</area_size>
+    <area_size_unit>sqm</area_size_unit>
+    <year_built>2026</year_built>
+    <first_seen>2026-10-23</first_seen>
+    <description>Velaton 596 000 €</description>
+    <company_name>As Oy Tampereen Hatanpään Fredrika C 61</company_name>
+    <neighborhood>Hatanpää</neighborhood>
+    <location>Hatanpää, Tampere</location>
+    <room_type>4h(+tt)+kt+s+p</room_type>
+    <highlights>Terassi etelään · Vaatehuone</highlights>
+    <highlight_1>Terassi etelään</highlight_1>
+    <highlight_2>Vaatehuone</highlight_2>
+    <custom_label_0>Fredrika</custom_label_0>
+    <custom_label_1>Pirkanmaa</custom_label_1>
+    <custom_label_2>ei</custom_label_2>
+    <custom_label_3>yli 400k</custom_label_3>
+    <custom_label_4>valmistuu 2026</custom_label_4>
+    <address>
+      <component name="addr1">Boijenkatu 5 C 61</component>
+      <component name="city">Tampere</component>
+      <component name="region">Pirkanmaa</component>
+      <component name="postal_code">33900</component>
+      <component name="country">FI</component>
+    </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260127151235_782409_c61_ke_2.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251021104632_125459_c61_makuuhuone_fredrika_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251021104628_455391_c61_kylpyhuone_fredrika_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20261020140740_257441_b32-malliasunto-ruokailu-oh-kt.jpg</url>
+    </image>
+  </listing>
+  <listing>
     <home_listing_id>ta2396</home_listing_id>
     <name>1h, 23 m² · Tapiola, Espoo</name>
     <availability>for_sale</availability>
@@ -2364,9 +2543,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 161 000 € · Myyntihinta 64 371 €</description>
+    <description>Velaton 161 000 €</description>
     <company_name>Asunto Oy Espoon Tapiolan Elissa A2</company_name>
     <neighborhood>Tapiola</neighborhood>
+    <location>Tapiola, Espoo</location>
+    <room_type>1h+alk.+kt+p</room_type>
     <highlights>Lasitettu parveke länteen</highlights>
     <highlight_1>Lasitettu parveke länteen</highlight_1>
     <custom_label_0>Elissa</custom_label_0>
@@ -2382,6 +2563,9 @@
       <component name="country">FI</component>
     </address>
     <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409183612_433734_elissa_a2.jpg</url>
+    </image>
+    <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411150735_749933_a8_olohuone_tapiolan_elissa_web.jpg</url>
     </image>
     <image>
@@ -2389,48 +2573,6 @@
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411150605_870028_a12_kylpyhuone_tapiolan_elissa_web.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <home_listing_id>ta2398</home_listing_id>
-    <name>1h, 23 m² · Tapiola, Espoo</name>
-    <availability>sale_pending</availability>
-    <listing_type>for_sale_by_agent</listing_type>
-    <url>https://www.arkta.fi/asunnot/elissa/ta2398/</url>
-    <price>165000 EUR</price>
-    <sales_price>65989 EUR</sales_price>
-    <property_type>apartment</property_type>
-    <num_rooms>1</num_rooms>
-    <rooms_label>1h</rooms_label>
-    <area_size>23</area_size>
-    <area_size_unit>sqm</area_size_unit>
-    <year_built>2027</year_built>
-    <first_seen>2026-09-24</first_seen>
-    <description>Velaton 165 000 € · Myyntihinta 65 989 €</description>
-    <company_name>Asunto Oy Espoon Tapiolan Elissa A5</company_name>
-    <neighborhood>Tapiola</neighborhood>
-    <highlights>Lasitettu parveke länteen</highlights>
-    <highlight_1>Lasitettu parveke länteen</highlight_1>
-    <custom_label_0>Elissa</custom_label_0>
-    <custom_label_1>Uusimaa</custom_label_1>
-    <custom_label_2>ei</custom_label_2>
-    <custom_label_3>alle 200k</custom_label_3>
-    <custom_label_4>valmistuu 2027</custom_label_4>
-    <address>
-      <component name="addr1">Metsäpirtintie 19 A5</component>
-      <component name="city">Espoo</component>
-      <component name="region">Uusimaa</component>
-      <component name="postal_code">02130</component>
-      <component name="country">FI</component>
-    </address>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411152735_142590_elissa_sisustuskuva_kuvakaruselliin_1.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411152727_927405_a8_olohuone_tapiolan_elissa_web.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411152730_329066_a12_kylpyhuone_tapiolan_elissa_web.jpg</url>
     </image>
   </listing>
   <listing>
@@ -2448,9 +2590,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 168 000 € · Myyntihinta 67 186 €</description>
+    <description>Velaton 168 000 €</description>
     <company_name>Asunto Oy Espoon Tapiolan Elissa A9</company_name>
     <neighborhood>Tapiola</neighborhood>
+    <location>Tapiola, Espoo</location>
+    <room_type>1h+alk.+kt+p</room_type>
     <highlights>Lasitettu parveke länteen</highlights>
     <highlight_1>Lasitettu parveke länteen</highlight_1>
     <custom_label_0>Elissa</custom_label_0>
@@ -2466,6 +2610,9 @@
       <component name="country">FI</component>
     </address>
     <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409205930_741800_elissa_a9.jpg</url>
+    </image>
+    <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411153008_031462_a8_olohuone_tapiolan_elissa_web.jpg</url>
     </image>
     <image>
@@ -2473,6 +2620,53 @@
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411153005_624382_a12_kylpyhuone_tapiolan_elissa_web.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <home_listing_id>ta2398</home_listing_id>
+    <name>1h, 23 m² · Tapiola, Espoo</name>
+    <availability>sale_pending</availability>
+    <listing_type>for_sale_by_agent</listing_type>
+    <url>https://www.arkta.fi/asunnot/elissa/ta2398/</url>
+    <price>165000 EUR</price>
+    <sales_price>65989 EUR</sales_price>
+    <property_type>apartment</property_type>
+    <num_rooms>1</num_rooms>
+    <rooms_label>1h</rooms_label>
+    <area_size>23</area_size>
+    <area_size_unit>sqm</area_size_unit>
+    <year_built>2027</year_built>
+    <first_seen>2026-09-24</first_seen>
+    <description>Velaton 165 000 €</description>
+    <company_name>Asunto Oy Espoon Tapiolan Elissa A5</company_name>
+    <neighborhood>Tapiola</neighborhood>
+    <location>Tapiola, Espoo</location>
+    <room_type>1h+alk.+kt+p</room_type>
+    <highlights>Lasitettu parveke länteen</highlights>
+    <highlight_1>Lasitettu parveke länteen</highlight_1>
+    <custom_label_0>Elissa</custom_label_0>
+    <custom_label_1>Uusimaa</custom_label_1>
+    <custom_label_2>ei</custom_label_2>
+    <custom_label_3>alle 200k</custom_label_3>
+    <custom_label_4>valmistuu 2027</custom_label_4>
+    <address>
+      <component name="addr1">Metsäpirtintie 19 A5</component>
+      <component name="city">Espoo</component>
+      <component name="region">Uusimaa</component>
+      <component name="postal_code">02130</component>
+      <component name="country">FI</component>
+    </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409205313_313766_elissa_a5.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411152727_927405_a8_olohuone_tapiolan_elissa_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411152735_142590_elissa_sisustuskuva_kuvakaruselliin_1.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411152730_329066_a12_kylpyhuone_tapiolan_elissa_web.jpg</url>
     </image>
   </listing>
   <listing>
@@ -2491,9 +2685,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 217 000 € · Myyntihinta 86 831 €</description>
+    <description>Velaton 217 000 €</description>
     <company_name>Asunto Oy Espoon Tapiolan Elissa A3</company_name>
     <neighborhood>Tapiola</neighborhood>
+    <location>Tapiola, Espoo</location>
+    <room_type>2h+kt+vh+p+terassi</room_type>
     <highlights>Terassi länteen · Lasitettu parveke länteen · Vaatehuone</highlights>
     <highlight_1>Terassi länteen</highlight_1>
     <highlight_2>Lasitettu parveke länteen</highlight_2>
@@ -2510,6 +2706,9 @@
       <component name="postal_code">02130</component>
       <component name="country">FI</component>
     </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409213005_843997_elissa_a3.jpg</url>
+    </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411153846_811131_elissa_sisustuskuva_kuvakaruselliin_1.jpg</url>
     </image>
@@ -2539,9 +2738,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 227 000 € · Myyntihinta 90 779 €</description>
+    <description>Velaton 227 000 €</description>
     <company_name>Asunto Oy Espoon Tapiolan Elissa A10</company_name>
     <neighborhood>Tapiola</neighborhood>
+    <location>Tapiola, Espoo</location>
+    <room_type>2h+kt+vh+p</room_type>
     <highlights>Lasitettu parveke länteen · Vaatehuone</highlights>
     <highlight_1>Lasitettu parveke länteen</highlight_1>
     <highlight_2>Vaatehuone</highlight_2>
@@ -2558,10 +2759,13 @@
       <component name="country">FI</component>
     </address>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154620_071413_b24_makuuhuone_tapiolan_elissa_web.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409214441_663086_elissa_a10.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154617_944066_a12_olohuone2_2_tapiolan_elissa_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154620_071413_b24_makuuhuone_tapiolan_elissa_web.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154608_016942_elissa_sisustuskuva_kuvakaruselliin_2.jpg</url>
@@ -2586,9 +2790,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 223 000 € · Myyntihinta 89 226 €</description>
+    <description>Velaton 223 000 €</description>
     <company_name>Asunto Oy Espoon Tapiolan Elissa A6</company_name>
     <neighborhood>Tapiola</neighborhood>
+    <location>Tapiola, Espoo</location>
+    <room_type>2h+kt+vh+p</room_type>
     <highlights>Lasitettu parveke länteen · Vaatehuone</highlights>
     <highlight_1>Lasitettu parveke länteen</highlight_1>
     <highlight_2>Vaatehuone</highlight_2>
@@ -2605,13 +2811,16 @@
       <component name="country">FI</component>
     </address>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154252_608933_b24_makuuhuone_tapiolan_elissa_web.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409214143_186491_elissa_a6.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154246_633371_elissa_sisustuskuva_kuvakaruselliin_2.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154244_546273_a12_olohuone2_2_tapiolan_elissa_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154252_608933_b24_makuuhuone_tapiolan_elissa_web.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260411154242_274868_a12_kylpyhuone_tapiolan_elissa_web.jpg</url>
@@ -2633,9 +2842,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 244 000 € · Myyntihinta 97 608 €</description>
+    <description>Velaton 244 000 €</description>
     <company_name>Asunto Oy Espoon Tapiolan Elissa B14</company_name>
     <neighborhood>Tapiola</neighborhood>
+    <location>Tapiola, Espoo</location>
+    <room_type>2h+kt+vh+p+terassi</room_type>
     <highlights>Terassi länteen · Lasitettu parveke länteen · Vaatehuone</highlights>
     <highlight_1>Terassi länteen</highlight_1>
     <highlight_2>Lasitettu parveke länteen</highlight_2>
@@ -2652,6 +2863,9 @@
       <component name="postal_code">02130</component>
       <component name="country">FI</component>
     </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409215557_477942_elissa_b14.jpg</url>
+    </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409215530_914884_b23_keittio___tapiolan_elissa_web.jpg</url>
     </image>
@@ -2678,9 +2892,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 249 000 € · Myyntihinta 99 582 €</description>
+    <description>Velaton 249 000 €</description>
     <company_name>Asunto Oy Espoon Tapiolan Elissa B17</company_name>
     <neighborhood>Tapiola</neighborhood>
+    <location>Tapiola, Espoo</location>
+    <room_type>2h+kt+vh+p</room_type>
     <highlights>Lasitettu parveke länteen · Vaatehuone</highlights>
     <highlight_1>Lasitettu parveke länteen</highlight_1>
     <highlight_2>Vaatehuone</highlight_2>
@@ -2697,58 +2913,16 @@
       <component name="country">FI</component>
     </address>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413131212_730197_elissa_sisustuskuva_kuvakaruselliin_2.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260728135151_596558_elissa_b17.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409215757_090043_b23_keittio___tapiolan_elissa_web.jpg</url>
     </image>
     <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413131212_730197_elissa_sisustuskuva_kuvakaruselliin_2.jpg</url>
+    </image>
+    <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413131221_259875_a12_kylpyhuone_tapiolan_elissa_web.jpg</url>
-    </image>
-  </listing>
-  <listing>
-    <home_listing_id>ta2405</home_listing_id>
-    <name>2h, 48,5 m² · Tapiola, Espoo</name>
-    <availability>for_sale</availability>
-    <listing_type>for_sale_by_agent</listing_type>
-    <url>https://www.arkta.fi/asunnot/elissa/ta2405/</url>
-    <price>263000 EUR</price>
-    <sales_price>105213 EUR</sales_price>
-    <property_type>apartment</property_type>
-    <num_beds>1</num_beds>
-    <num_rooms>2</num_rooms>
-    <rooms_label>2h</rooms_label>
-    <area_size>48</area_size>
-    <area_size_unit>sqm</area_size_unit>
-    <year_built>2027</year_built>
-    <first_seen>2026-09-24</first_seen>
-    <description>Velaton 263 000 € · Myyntihinta 105 213 €</description>
-    <company_name>Asunto Oy Espoon Tapiolan Elissa B23</company_name>
-    <neighborhood>Tapiola</neighborhood>
-    <highlights>Ylin kerros · Lasitettu parveke länteen · Vaatehuone</highlights>
-    <highlight_1>Ylin kerros</highlight_1>
-    <highlight_2>Lasitettu parveke länteen</highlight_2>
-    <highlight_3>Vaatehuone</highlight_3>
-    <custom_label_0>Elissa</custom_label_0>
-    <custom_label_1>Uusimaa</custom_label_1>
-    <custom_label_2>ei</custom_label_2>
-    <custom_label_3>200-300k</custom_label_3>
-    <custom_label_4>valmistuu 2027</custom_label_4>
-    <address>
-      <component name="addr1">Metsäpirtintie 19 B23</component>
-      <component name="city">Espoo</component>
-      <component name="region">Uusimaa</component>
-      <component name="postal_code">02130</component>
-      <component name="country">FI</component>
-    </address>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409220204_350776_b23_keittio___tapiolan_elissa_web.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413131547_106399_elissa_sisustuskuva_kuvakaruselliin_2.jpg</url>
-    </image>
-    <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413131554_846225_a12_kylpyhuone_tapiolan_elissa_web.jpg</url>
     </image>
   </listing>
   <listing>
@@ -2767,9 +2941,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2026</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 235 000 € · Myyntihinta 94 036 €</description>
+    <description>Velaton 235 000 €</description>
     <company_name>As Oy Tampereen Hatanpään Fredrika B 45</company_name>
     <neighborhood>Hatanpää</neighborhood>
+    <location>Hatanpää, Tampere</location>
+    <room_type>2h+kt+p</room_type>
     <highlights>Kulmahuoneisto · Lasitettu parveke</highlights>
     <highlight_1>Kulmahuoneisto</highlight_1>
     <highlight_2>Lasitettu parveke</highlight_2>
@@ -2786,7 +2962,7 @@
       <component name="country">FI</component>
     </address>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20261020141822_596713_b32-malliasunto-ruokailu-oh-kt.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20251229101546_493433_fredrika_b45.png</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260127151552_280138_b59_olohuone_fredrika_web.jpg</url>
@@ -2796,6 +2972,9 @@
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20261020141820_663701_b32-malliasunto.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20261020141822_596713_b32-malliasunto-ruokailu-oh-kt.jpg</url>
     </image>
   </listing>
   <listing>
@@ -2814,9 +2993,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2026</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 255 000 € · Myyntihinta 102 013 €</description>
+    <description>Velaton 255 000 €</description>
     <company_name>As Oy Tampereen Hatanpään Fredrika B 59</company_name>
     <neighborhood>Hatanpää</neighborhood>
+    <location>Hatanpää, Tampere</location>
+    <room_type>2h+kt+p</room_type>
     <highlights>Kulmahuoneisto · Ylin kerros · Lasitettu parveke</highlights>
     <highlight_1>Kulmahuoneisto</highlight_1>
     <highlight_2>Ylin kerros</highlight_2>
@@ -2856,9 +3037,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 392 000 € · Myyntihinta 156 833 €</description>
+    <description>Velaton 392 000 €</description>
     <company_name>Asunto Oy Espoon Tapiolan Elissa B19</company_name>
     <neighborhood>Tapiola</neighborhood>
+    <location>Tapiola, Espoo</location>
+    <room_type>3h+kt+vh+wc+s+p</room_type>
     <highlights>Oma sauna · Lasitettu parveke länteen · Läpitalon koti</highlights>
     <highlight_1>Oma sauna</highlight_1>
     <highlight_2>Lasitettu parveke länteen</highlight_2>
@@ -2876,10 +3059,13 @@
       <component name="country">FI</component>
     </address>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413133129_217217_elissa_sisustuskuva_kuvakaruselliin_1.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409222009_717487_elissa_b19.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409222004_502717_a11_olohuone-keittio_tapiolan_elissa_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413133129_217217_elissa_sisustuskuva_kuvakaruselliin_1.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413133131_365782_a12_keittio2_tapiolan_elissa_web__1_.jpg</url>
@@ -2907,9 +3093,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 403 000 € · Myyntihinta 161 202 €</description>
+    <description>Velaton 403 000 €</description>
     <company_name>Asunto Oy Espoon Tapiolan Elissa B22</company_name>
     <neighborhood>Tapiola</neighborhood>
+    <location>Tapiola, Espoo</location>
+    <room_type>3h+kt+vh+wc+s+p</room_type>
     <highlights>Ylin kerros · Oma sauna · Lasitettu parveke länteen</highlights>
     <highlight_1>Ylin kerros</highlight_1>
     <highlight_2>Oma sauna</highlight_2>
@@ -2927,13 +3115,16 @@
       <component name="country">FI</component>
     </address>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413133628_026777_a12_makuuhuone_tapiolan_elissa_web__1_.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409222230_451050_elissa_b22.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409222238_743809_a11_olohuone-keittio_tapiolan_elissa_web.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413133619_666589_elissa_sisustuskuva_kuvakaruselliin_1.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413133628_026777_a12_makuuhuone_tapiolan_elissa_web__1_.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413133625_554707_a12_kylpyhuone_tapiolan_elissa_web.jpg</url>
@@ -2955,9 +3146,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 449 000 € · Myyntihinta 179 584 €</description>
+    <description>Velaton 449 000 €</description>
     <company_name>Asunto Oy Espoon Tapiolan Elissa A1</company_name>
     <neighborhood>Tapiola</neighborhood>
+    <location>Tapiola, Espoo</location>
+    <room_type>4h+kt+vh+wc+s+p+terassi+piha</room_type>
     <highlights>Oma sauna · Oma piha · Lasitettu parveke</highlights>
     <highlight_1>Oma sauna</highlight_1>
     <highlight_2>Oma piha</highlight_2>
@@ -2974,6 +3167,9 @@
       <component name="postal_code">02130</component>
       <component name="country">FI</component>
     </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409182050_670898_elissa_a1.jpg</url>
+    </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409182052_872618_a8_olohuone_tapiolan_elissa_web.jpg</url>
     </image>
@@ -3003,9 +3199,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 449 000 € · Myyntihinta 179 584 €</description>
+    <description>Velaton 449 000 €</description>
     <company_name>Asunto Oy Espoon Tapiolan Elissa A4</company_name>
     <neighborhood>Tapiola</neighborhood>
+    <location>Tapiola, Espoo</location>
+    <room_type>4h+kt+vh+wc+s+p</room_type>
     <highlights>Oma sauna · Lasitettu parveke · Vaatehuone</highlights>
     <highlight_1>Oma sauna</highlight_1>
     <highlight_2>Lasitettu parveke</highlight_2>
@@ -3023,10 +3221,13 @@
       <component name="country">FI</component>
     </address>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410112658_901309_elissa_sisustuskuva_kuvakaruselliin_2.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409182830_319334_elissa_a4.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409182837_975676_a8_olohuone_tapiolan_elissa_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410112658_901309_elissa_sisustuskuva_kuvakaruselliin_2.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410112700_910356_a12_olohuone_tapiolan_elissa_web.jpg</url>
@@ -3051,9 +3252,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 459 000 € · Myyntihinta 183 597 €</description>
+    <description>Velaton 459 000 €</description>
     <company_name>Asunto Oy Espoon Tapiolan Elissa A8</company_name>
     <neighborhood>Tapiola</neighborhood>
+    <location>Tapiola, Espoo</location>
+    <room_type>4h+kt+vh+wc+s+p</room_type>
     <highlights>Oma sauna · Lasitettu parveke · Vaatehuone</highlights>
     <highlight_1>Oma sauna</highlight_1>
     <highlight_2>Lasitettu parveke</highlight_2>
@@ -3071,13 +3274,13 @@
       <component name="country">FI</component>
     </address>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410112908_374222_elissa_sisustuskuva_kuvakaruselliin_1.jpg</url>
-    </image>
-    <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409183159_896958_a8_olohuone_tapiolan_elissa_web.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410112903_715372_a12_olohuone_tapiolan_elissa_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410112908_374222_elissa_sisustuskuva_kuvakaruselliin_1.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410112905_866950_a12_kylpyhuone_tapiolan_elissa_web.jpg</url>
@@ -3099,9 +3302,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 599 000 € · Myyntihinta 239 586 €</description>
+    <description>Velaton 599 000 €</description>
     <company_name>Asunto Oy Espoon Tapiolan Elissa A13</company_name>
     <neighborhood>Tapiola</neighborhood>
+    <location>Tapiola, Espoo</location>
+    <room_type>5h+kt+vh+wc+khh+s+p</room_type>
     <highlights>Ylin kerros · Oma sauna · Läpitalon koti</highlights>
     <highlight_1>Ylin kerros</highlight_1>
     <highlight_2>Oma sauna</highlight_2>
@@ -3119,13 +3324,16 @@
       <component name="country">FI</component>
     </address>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410113342_814157_a12_keittio_tapiolan_elissa_web.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260615135154_507303_elissa_a13.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410113340_735523_a11_olohuone-keittio_tapiolan_elissa_web.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410113349_436757_a12_makuuhuone_tapiolan_elissa_web__1_.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410113342_814157_a12_keittio_tapiolan_elissa_web.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410113538_102994_elissa_sisustuskuva_kuvakaruselliin_1.jpg</url>
@@ -3150,9 +3358,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 609 000 € · Myyntihinta 243 599 €</description>
+    <description>Velaton 609 000 €</description>
     <company_name>Asunto Oy Espoon Tapiolan Elissa A12</company_name>
     <neighborhood>Tapiola</neighborhood>
+    <location>Tapiola, Espoo</location>
+    <room_type>5h+kt+vh+wc+khh+s+p</room_type>
     <highlights>Ylin kerros · Oma sauna · Lasitettu parveke</highlights>
     <highlight_1>Ylin kerros</highlight_1>
     <highlight_2>Oma sauna</highlight_2>
@@ -3170,16 +3380,13 @@
       <component name="country">FI</component>
     </address>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410113129_968064_a12_makuuhuone_tapiolan_elissa_web__1_.jpg</url>
-    </image>
-    <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410113125_619721_a12_keittio2_tapiolan_elissa_web__1_.jpg</url>
     </image>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410113123_664339_a12_keittio_tapiolan_elissa_web.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410113129_968064_a12_makuuhuone_tapiolan_elissa_web__1_.jpg</url>
     </image>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410113121_756370_elissa_sisustuskuva_kuvakaruselliin_2.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410113123_664339_a12_keittio_tapiolan_elissa_web.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410113133_321590_a12_olohuone_tapiolan_elissa_web.jpg</url>
@@ -3189,6 +3396,9 @@
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410113127_740638_a12_kylpyhuone_tapiolan_elissa_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260410113121_756370_elissa_sisustuskuva_kuvakaruselliin_2.jpg</url>
     </image>
   </listing>
   <listing>
@@ -3207,9 +3417,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 392 000 € · Myyntihinta 156 833 €</description>
+    <description>Velaton 392 000 €</description>
     <company_name>Asunto Oy Espoon Tapiolan Elissa B15</company_name>
     <neighborhood>Tapiola</neighborhood>
+    <location>Tapiola, Espoo</location>
+    <room_type>3h+kt+vh+wc+s+p+terassi+piha</room_type>
     <highlights>Oma sauna · Oma piha länteen · Lasitettu parveke länteen</highlights>
     <highlight_1>Oma sauna</highlight_1>
     <highlight_2>Oma piha länteen</highlight_2>
@@ -3227,13 +3439,16 @@
       <component name="country">FI</component>
     </address>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409222751_444396_b24_makuuhuone_tapiolan_elissa_web.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409222802_965404_elissa_b15.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409222756_313697_b24_olohuone_tapiolan_elissa_web.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413134234_255129_elissa_sisustuskuva_kuvakaruselliin_1.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409222751_444396_b24_makuuhuone_tapiolan_elissa_web.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413134231_840176_a12_kylpyhuone_tapiolan_elissa_web.jpg</url>
@@ -3255,9 +3470,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 392 000 € · Myyntihinta 156 833 €</description>
+    <description>Velaton 392 000 €</description>
     <company_name>Asunto Oy Espoon Tapiolan Elissa B18</company_name>
     <neighborhood>Tapiola</neighborhood>
+    <location>Tapiola, Espoo</location>
+    <room_type>3h+kt+vh+wc+s+p</room_type>
     <highlights>Oma sauna · Lasitettu parveke länteen · Vaatehuone</highlights>
     <highlight_1>Oma sauna</highlight_1>
     <highlight_2>Lasitettu parveke länteen</highlight_2>
@@ -3275,10 +3492,13 @@
       <component name="country">FI</component>
     </address>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409223425_504477_b24_makuuhuone_tapiolan_elissa_web.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409223423_488970_elissa_b18.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409223428_108470_b24_olohuone_tapiolan_elissa_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409223425_504477_b24_makuuhuone_tapiolan_elissa_web.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413135030_255280_elissa_sisustuskuva_kuvakaruselliin_1.jpg</url>
@@ -3306,9 +3526,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 399 000 € · Myyntihinta 159 584 €</description>
+    <description>Velaton 399 000 €</description>
     <company_name>Asunto Oy Espoon Tapiolan Elissa B21</company_name>
     <neighborhood>Tapiola</neighborhood>
+    <location>Tapiola, Espoo</location>
+    <room_type>3h+kt+vh+wc+s+p</room_type>
     <highlights>Oma sauna · Lasitettu parveke länteen · Vaatehuone</highlights>
     <highlight_1>Oma sauna</highlight_1>
     <highlight_2>Lasitettu parveke länteen</highlight_2>
@@ -3326,7 +3548,7 @@
       <component name="country">FI</component>
     </address>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413135314_924030_elissa_sisustuskuva_kuvakaruselliin_1.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409223714_774147_elissa_b21.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409223725_149866_b24_makuuhuone_tapiolan_elissa_web.jpg</url>
@@ -3335,10 +3557,60 @@
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409223727_659172_b24_olohuone_tapiolan_elissa_web.jpg</url>
     </image>
     <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413135314_924030_elissa_sisustuskuva_kuvakaruselliin_1.jpg</url>
+    </image>
+    <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413135312_780817_a12_kylpyhuone_tapiolan_elissa_web.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413135310_668029_a8_olohuone_tapiolan_elissa_web.jpg</url>
+    </image>
+  </listing>
+  <listing>
+    <home_listing_id>ta2405</home_listing_id>
+    <name>2h, 48,5 m² · Tapiola, Espoo</name>
+    <availability>for_sale</availability>
+    <listing_type>for_sale_by_agent</listing_type>
+    <url>https://www.arkta.fi/asunnot/elissa/ta2405/</url>
+    <price>263000 EUR</price>
+    <sales_price>105213 EUR</sales_price>
+    <property_type>apartment</property_type>
+    <num_beds>1</num_beds>
+    <num_rooms>2</num_rooms>
+    <rooms_label>2h</rooms_label>
+    <area_size>48</area_size>
+    <area_size_unit>sqm</area_size_unit>
+    <year_built>2027</year_built>
+    <first_seen>2026-09-24</first_seen>
+    <description>Velaton 263 000 €</description>
+    <company_name>Asunto Oy Espoon Tapiolan Elissa B23</company_name>
+    <neighborhood>Tapiola</neighborhood>
+    <location>Tapiola, Espoo</location>
+    <room_type>2h+kt+vh+p</room_type>
+    <highlights>Ylin kerros · Lasitettu parveke länteen · Vaatehuone</highlights>
+    <highlight_1>Ylin kerros</highlight_1>
+    <highlight_2>Lasitettu parveke länteen</highlight_2>
+    <highlight_3>Vaatehuone</highlight_3>
+    <custom_label_0>Elissa</custom_label_0>
+    <custom_label_1>Uusimaa</custom_label_1>
+    <custom_label_2>ei</custom_label_2>
+    <custom_label_3>200-300k</custom_label_3>
+    <custom_label_4>valmistuu 2027</custom_label_4>
+    <address>
+      <component name="addr1">Metsäpirtintie 19 B23</component>
+      <component name="city">Espoo</component>
+      <component name="region">Uusimaa</component>
+      <component name="postal_code">02130</component>
+      <component name="country">FI</component>
+    </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409220204_350776_b23_keittio___tapiolan_elissa_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413131547_106399_elissa_sisustuskuva_kuvakaruselliin_2.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413131554_846225_a12_kylpyhuone_tapiolan_elissa_web.jpg</url>
     </image>
   </listing>
   <listing>
@@ -3357,9 +3629,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 408 000 € · Myyntihinta 163 176 €</description>
+    <description>Velaton 408 000 €</description>
     <company_name>Asunto Oy Espoon Tapiolan Elissa B24</company_name>
     <neighborhood>Tapiola</neighborhood>
+    <location>Tapiola, Espoo</location>
+    <room_type>3h+kt+vh+wc+s+p</room_type>
     <highlights>Oma sauna · Lasitettu parveke länteen · Vaatehuone</highlights>
     <highlight_1>Oma sauna</highlight_1>
     <highlight_2>Lasitettu parveke länteen</highlight_2>
@@ -3377,9 +3651,6 @@
       <component name="country">FI</component>
     </address>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413135944_755484_a12_olohuone_tapiolan_elissa_web.jpg</url>
-    </image>
-    <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409224036_143728_b24_olohuone_tapiolan_elissa_web.jpg</url>
     </image>
     <image>
@@ -3390,6 +3661,9 @@
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413135942_589581_a12_kylpyhuone_tapiolan_elissa_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413135944_755484_a12_olohuone_tapiolan_elissa_web.jpg</url>
     </image>
   </listing>
   <listing>
@@ -3408,9 +3682,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 254 000 € · Myyntihinta 101 621 €</description>
+    <description>Velaton 254 000 €</description>
     <company_name>Asunto Oy Espoon Tapiolan Elissa B20</company_name>
     <neighborhood>Tapiola</neighborhood>
+    <location>Tapiola, Espoo</location>
+    <room_type>2h+kt+vh+p</room_type>
     <highlights>Lasitettu parveke länteen · Vaatehuone</highlights>
     <highlight_1>Lasitettu parveke länteen</highlight_1>
     <highlight_2>Vaatehuone</highlight_2>
@@ -3427,10 +3703,13 @@
       <component name="country">FI</component>
     </address>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413131357_042807_elissa_sisustuskuva_kuvakaruselliin_2.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260728135431_951036_elissa_b20.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409220020_514141_b23_keittio___tapiolan_elissa_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413131357_042807_elissa_sisustuskuva_kuvakaruselliin_2.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413131354_687938_a12_kylpyhuone_tapiolan_elissa_web.jpg</url>
@@ -3452,9 +3731,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 382 000 € · Myyntihinta 152 820 €</description>
+    <description>Velaton 382 000 €</description>
     <company_name>Asunto Oy Espoon Tapiolan Elissa A7</company_name>
     <neighborhood>Tapiola</neighborhood>
+    <location>Tapiola, Espoo</location>
+    <room_type>3h+kt+tt+wc+s+p</room_type>
     <highlights>Oma sauna · Lasitettu parveke länteen · Läpitalon koti</highlights>
     <highlight_1>Oma sauna</highlight_1>
     <highlight_2>Lasitettu parveke länteen</highlight_2>
@@ -3472,10 +3753,13 @@
       <component name="country">FI</component>
     </address>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413131913_723591_elissa_sisustuskuva_kuvakaruselliin_1.jpg</url>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409220455_026205_elissa_a7.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409220503_095904_a11_olohuone-keittio_tapiolan_elissa_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413131913_723591_elissa_sisustuskuva_kuvakaruselliin_1.jpg</url>
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413131910_402175_a12_makuuhuone_tapiolan_elissa_web__1_.jpg</url>
@@ -3500,9 +3784,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 389 000 € · Myyntihinta 155 571 €</description>
+    <description>Velaton 389 000 €</description>
     <company_name>Asunto Oy Espoon Tapiolan Elissa A11</company_name>
     <neighborhood>Tapiola</neighborhood>
+    <location>Tapiola, Espoo</location>
+    <room_type>3h+kt+tt+wc+s+p</room_type>
     <highlights>Oma sauna · Lasitettu parveke länteen · Läpitalon koti</highlights>
     <highlight_1>Oma sauna</highlight_1>
     <highlight_2>Lasitettu parveke länteen</highlight_2>
@@ -3520,9 +3806,6 @@
       <component name="country">FI</component>
     </address>
     <image>
-      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413132333_839137_a8_olohuone_tapiolan_elissa_web.jpg</url>
-    </image>
-    <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409220735_961195_a11_olohuone-keittio_tapiolan_elissa_web.jpg</url>
     </image>
     <image>
@@ -3533,6 +3816,9 @@
     </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413132231_519308_a12_kylpyhuone_tapiolan_elissa_web.jpg</url>
+    </image>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260413132333_839137_a8_olohuone_tapiolan_elissa_web.jpg</url>
     </image>
   </listing>
   <listing>
@@ -3551,9 +3837,11 @@
     <area_size_unit>sqm</area_size_unit>
     <year_built>2027</year_built>
     <first_seen>2026-09-24</first_seen>
-    <description>Velaton 384 000 € · Myyntihinta 153 597 €</description>
+    <description>Velaton 384 000 €</description>
     <company_name>Asunto Oy Espoon Tapiolan Elissa B16</company_name>
     <neighborhood>Tapiola</neighborhood>
+    <location>Tapiola, Espoo</location>
+    <room_type>3h+kt+vh+wc+s+p</room_type>
     <highlights>Oma sauna · Lasitettu parveke länteen · Läpitalon koti</highlights>
     <highlight_1>Oma sauna</highlight_1>
     <highlight_2>Lasitettu parveke länteen</highlight_2>
@@ -3570,6 +3858,9 @@
       <component name="postal_code">02130</component>
       <component name="country">FI</component>
     </address>
+    <image>
+      <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409221739_819391_elissa_b16.jpg</url>
+    </image>
     <image>
       <url>https://www.arkta.fi/wp-content/uploads/pdx/full/20260409221748_160811_a11_olohuone-keittio_tapiolan_elissa_web.jpg</url>
     </image>
