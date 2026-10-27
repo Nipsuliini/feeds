@@ -4,7 +4,39 @@
     <title>kauppakeskuswilla</title>
     <link>https://www.kauppakeskuswilla.fi/</link>
     <description>Product feed – kauppakeskuswilla</description>
-    <lastBuildDate>Mon, 26 Oct 2026 00:04:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 01:27:04 +0000</lastBuildDate>
+    <item>
+            <g:id>offer-8917</g:id>
+            <g:title>Pitkä takki | Euro Moda</g:title>
+            <g:description>koot S-XXXL</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2023/10/17714F5C-4725-4AC6-96A1-B4E6B521551B.jpeg</g:image_link>
+            <g:price>99.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Euro Moda</g:brand>
+            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
+            <g:custom_label_0>Euro Moda</g:custom_label_0>
+            <g:custom_label_1>99 €</g:custom_label_1>
+            <g:custom_label_2>99 €</g:custom_label_2>
+            <g:custom_label_3>27.10.–31.10.2026</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>offer-31811</g:id>
+            <g:title>Neule | Euro Moda</g:title>
+            <g:description>uutuuksia</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/03/e226eb9e-2700-46d6-b97a-03e21abe675a.jpeg</g:image_link>
+            <g:price>39.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Euro Moda</g:brand>
+            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
+            <g:custom_label_0>Euro Moda</g:custom_label_0>
+            <g:custom_label_1>39 €</g:custom_label_1>
+            <g:custom_label_2>39 €</g:custom_label_2>
+            <g:custom_label_3>27.10.–31.10.2026</g:custom_label_3>
+    </item>
     <item>
             <g:id>offer-23278</g:id>
             <g:title>Huivit | Euro Moda</g:title>
@@ -186,6 +218,22 @@
             <g:custom_label_3>20.10.–31.10.2026</g:custom_label_3>
     </item>
     <item>
+            <g:id>offer-32250</g:id>
+            <g:title>Patonkiateria | Picnic</g:title>
+            <g:description>Valitsemasi patonki, pieni salaatti sekä 0,33 l virvoitusjuoma yhteishintaan 14,00 €</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/picnic</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2025/11/Patonkiateria.png</g:image_link>
+            <g:price>14.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Picnic</g:brand>
+            <g:product_type>Tarjoukset &gt; Ruoka ja juoma</g:product_type>
+            <g:custom_label_0>Picnic</g:custom_label_0>
+            <g:custom_label_1>14 €</g:custom_label_1>
+            <g:custom_label_2>14 €</g:custom_label_2>
+            <g:custom_label_3>19.10.–31.12.2026</g:custom_label_3>
+    </item>
+    <item>
             <g:id>offer-28949</g:id>
             <g:title>Kuukauden patonki | Picnic</g:title>
             <g:description>Kuukauden patonki Picnic äpillä hintaan 6,90€</g:description>
@@ -271,6 +319,22 @@
             <g:custom_label_3>19.10.2026–31.1.2027</g:custom_label_3>
     </item>
     <item>
+            <g:id>offer-18703</g:id>
+            <g:title>Alpakkasukat | Euro Moda</g:title>
+            <g:description>Useita värejä</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2025/11/6b820f38-2ee2-4963-93f4-afede8f00623.jpeg</g:image_link>
+            <g:price>15.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Euro Moda</g:brand>
+            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
+            <g:custom_label_0>Euro Moda</g:custom_label_0>
+            <g:custom_label_1>15 €</g:custom_label_1>
+            <g:custom_label_2>15 €</g:custom_label_2>
+            <g:custom_label_3>19.10.–31.10.2026</g:custom_label_3>
+    </item>
+    <item>
             <g:id>offer-35597</g:id>
             <g:title>All day breakfast 9,90€ | Picnic</g:title>
             <g:description>Valitse kahvi/tee ja kaksi aamiaistuotetta (aamiaisleipä/kulho/smoothie)</g:description>
@@ -288,22 +352,6 @@
             <g:custom_label_3>19.10.2026–31.1.2027</g:custom_label_3>
     </item>
     <item>
-            <g:id>offer-18703</g:id>
-            <g:title>Alpakkasukat | Euro Moda</g:title>
-            <g:description>Useita värejä</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2025/11/6b820f38-2ee2-4963-93f4-afede8f00623.jpeg</g:image_link>
-            <g:price>15.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>15 €</g:custom_label_1>
-            <g:custom_label_2>15 €</g:custom_label_2>
-            <g:custom_label_3>19.10.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
             <g:id>offer-32248</g:id>
             <g:title>Juoma aterian ostajalle 2,50€ | Picnic</g:title>
             <g:description>Ostaessasi patongin, salaatin tai uuniperunan, 0,33 l juoma / kahvi tarjoushintaan 2,50 €</g:description>
@@ -318,22 +366,6 @@
             <g:custom_label_0>Picnic</g:custom_label_0>
             <g:custom_label_1>2,50 €</g:custom_label_1>
             <g:custom_label_2>2,50 €</g:custom_label_2>
-            <g:custom_label_3>19.10.–31.12.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-32250</g:id>
-            <g:title>Patonkiateria | Picnic</g:title>
-            <g:description>Valitsemasi patonki, pieni salaatti sekä 0,33 l virvoitusjuoma yhteishintaan 14,00 €</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/picnic</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2025/11/Patonkiateria.png</g:image_link>
-            <g:price>14.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Picnic</g:brand>
-            <g:product_type>Tarjoukset &gt; Ruoka ja juoma</g:product_type>
-            <g:custom_label_0>Picnic</g:custom_label_0>
-            <g:custom_label_1>14 €</g:custom_label_1>
-            <g:custom_label_2>14 €</g:custom_label_2>
             <g:custom_label_3>19.10.–31.12.2026</g:custom_label_3>
     </item>
     <item>
@@ -452,6 +484,22 @@
             <g:custom_label_3>16.10.–31.10.2026</g:custom_label_3>
     </item>
     <item>
+            <g:id>offer-19501</g:id>
+            <g:title>Lapaset | Euro Moda</g:title>
+            <g:description>useita värejä</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2025/11/d188ce52-dbfd-4179-979c-5edbbbfa8fad.jpeg</g:image_link>
+            <g:price>20.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Euro Moda</g:brand>
+            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
+            <g:custom_label_0>Euro Moda</g:custom_label_0>
+            <g:custom_label_1>20 €</g:custom_label_1>
+            <g:custom_label_2>20 €</g:custom_label_2>
+            <g:custom_label_3>16.10.–30.10.2026</g:custom_label_3>
+    </item>
+    <item>
             <g:id>offer-32092</g:id>
             <g:title>Thermo housut | Euro Moda</g:title>
             <g:description>Useita väreja</g:description>
@@ -467,22 +515,6 @@
             <g:custom_label_1>29 €</g:custom_label_1>
             <g:custom_label_2>29 €</g:custom_label_2>
             <g:custom_label_3>16.10.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-19501</g:id>
-            <g:title>Lapaset | Euro Moda</g:title>
-            <g:description>useita värejä</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2025/11/d188ce52-dbfd-4179-979c-5edbbbfa8fad.jpeg</g:image_link>
-            <g:price>20.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>20 €</g:custom_label_1>
-            <g:custom_label_2>20 €</g:custom_label_2>
-            <g:custom_label_3>16.10.–30.10.2026</g:custom_label_3>
     </item>
     <item>
             <g:id>offer-28559</g:id>
@@ -685,23 +717,6 @@
             <g:custom_label_3>12.10.–15.11.2026</g:custom_label_3>
     </item>
     <item>
-            <g:id>offer-19749</g:id>
-            <g:title>Erä Invigo Premium -tuotteita | Kampaamo-myymälä Clips</g:title>
-            <g:description>Invigo-tuotesarjasta löydät monipuoliset shampoot ja hoitoaineet moniin tarpeisiin.</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/kampaamo-myymala-clips</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/05/Wella-FUSION-SHAMPOO_250ml-pieni.jpg</g:image_link>
-            <g:price>19.95 EUR</g:price>
-            <g:sale_price>11.97 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Kampaamo-myymälä Clips</g:brand>
-            <g:product_type>Tarjoukset &gt; Kauneus ja hyvinvointi</g:product_type>
-            <g:custom_label_0>Kampaamo-myymälä Clips</g:custom_label_0>
-            <g:custom_label_1>11,97 €</g:custom_label_1>
-            <g:custom_label_2>14,97 €</g:custom_label_2>
-            <g:custom_label_3>12.10.–15.11.2026</g:custom_label_3>
-    </item>
-    <item>
             <g:id>offer-8676</g:id>
             <g:title>Erä Paul Mitchell -hiustuotteita | Kampaamo-myymälä Clips</g:title>
             <g:description>Paul Mitchell on sarja ammattimaisia hiustuotteita, jotka ovat kampaajien suunnittelemia, eettisesti tuotettuja ja kuluttajien arvostamia. Laajassa valikoimassa yhdistyvät yli 40-vuotisen uran aikana kertynyt tekninen osaaminen ja luonnonmukaisuus.</g:description>
@@ -716,6 +731,23 @@
             <g:custom_label_0>Kampaamo-myymälä Clips</g:custom_label_0>
             <g:custom_label_1>17,46 €</g:custom_label_1>
             <g:custom_label_2>27,96 €</g:custom_label_2>
+            <g:custom_label_3>12.10.–15.11.2026</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>offer-19749</g:id>
+            <g:title>Erä Invigo Premium -tuotteita | Kampaamo-myymälä Clips</g:title>
+            <g:description>Invigo-tuotesarjasta löydät monipuoliset shampoot ja hoitoaineet moniin tarpeisiin.</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/kampaamo-myymala-clips</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/05/Wella-FUSION-SHAMPOO_250ml-pieni.jpg</g:image_link>
+            <g:price>19.95 EUR</g:price>
+            <g:sale_price>11.97 EUR</g:sale_price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Kampaamo-myymälä Clips</g:brand>
+            <g:product_type>Tarjoukset &gt; Kauneus ja hyvinvointi</g:product_type>
+            <g:custom_label_0>Kampaamo-myymälä Clips</g:custom_label_0>
+            <g:custom_label_1>11,97 €</g:custom_label_1>
+            <g:custom_label_2>14,97 €</g:custom_label_2>
             <g:custom_label_3>12.10.–15.11.2026</g:custom_label_3>
     </item>
     <item>
@@ -785,19 +817,21 @@
             <g:custom_label_3>12.10.–30.10.2026</g:custom_label_3>
     </item>
     <item>
-            <g:id>offer-33767</g:id>
-            <g:title>NOMINATION ITALY palat | Laatukoru</g:title>
-            <g:description>Suositut NOMINATION palat Willan myymälästä.Tervetuloa.</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/laatukoru</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/09/WILLITYS.jpg</g:image_link>
-            <g:price>27.00 EUR</g:price>
+            <g:id>offer-20407</g:id>
+            <g:title>Carmolis yrttitipat 80 ml | BioPro</g:title>
+            <g:description>Carmolis yrttitipat tukkoiseen oloon, ylikylläiseen oloon sekä löylyveteen kiukaalle!</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/biopro</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2024/05/Carmolis.png</g:image_link>
+            <g:price>15.90 EUR</g:price>
+            <g:sale_price>12.90 EUR</g:sale_price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>Laatukoru</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Laatukoru</g:custom_label_0>
-            <g:custom_label_1>27 €</g:custom_label_1>
-            <g:custom_label_3>5.10.–1.11.2026</g:custom_label_3>
+            <g:brand>BioPro</g:brand>
+            <g:product_type>Tarjoukset &gt; Kauneus ja hyvinvointi</g:product_type>
+            <g:custom_label_0>BioPro</g:custom_label_0>
+            <g:custom_label_1>12,90 €</g:custom_label_1>
+            <g:custom_label_2>12,90 €</g:custom_label_2>
+            <g:custom_label_3>5.10.–30.10.2026</g:custom_label_3>
     </item>
     <item>
             <g:id>offer-34895</g:id>
@@ -817,21 +851,19 @@
             <g:custom_label_3>5.10.–31.10.2026</g:custom_label_3>
     </item>
     <item>
-            <g:id>offer-20407</g:id>
-            <g:title>Carmolis yrttitipat 80 ml | BioPro</g:title>
-            <g:description>Carmolis yrttitipat tukkoiseen oloon, ylikylläiseen oloon sekä löylyveteen kiukaalle!</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/biopro</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2024/05/Carmolis.png</g:image_link>
-            <g:price>15.90 EUR</g:price>
-            <g:sale_price>12.90 EUR</g:sale_price>
+            <g:id>offer-33767</g:id>
+            <g:title>NOMINATION ITALY palat | Laatukoru</g:title>
+            <g:description>Suositut NOMINATION palat Willan myymälästä.Tervetuloa.</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/laatukoru</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/09/WILLITYS.jpg</g:image_link>
+            <g:price>27.00 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>BioPro</g:brand>
-            <g:product_type>Tarjoukset &gt; Kauneus ja hyvinvointi</g:product_type>
-            <g:custom_label_0>BioPro</g:custom_label_0>
-            <g:custom_label_1>12,90 €</g:custom_label_1>
-            <g:custom_label_2>12,90 €</g:custom_label_2>
-            <g:custom_label_3>5.10.–30.10.2026</g:custom_label_3>
+            <g:brand>Laatukoru</g:brand>
+            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
+            <g:custom_label_0>Laatukoru</g:custom_label_0>
+            <g:custom_label_1>27 €</g:custom_label_1>
+            <g:custom_label_3>5.10.–1.11.2026</g:custom_label_3>
     </item>
     <item>
             <g:id>offer-29261</g:id>
@@ -935,23 +967,6 @@
             <g:custom_label_3>28.9.–30.10.2026</g:custom_label_3>
     </item>
     <item>
-            <g:id>offer-13992</g:id>
-            <g:title>Bio-Qinon Q10 gold 100mg 180 kaps | BioPro</g:title>
-            <g:description>Ubikinoni Q10 100mg 150 + 30 kaps, lisää energiaa, vähentää väsymystä &amp; uupumusta</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/biopro</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2022/11/FI_Q10_Gold_150_301.jpg</g:image_link>
-            <g:price>89.50 EUR</g:price>
-            <g:sale_price>74.90 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>BioPro</g:brand>
-            <g:product_type>Tarjoukset &gt; Kauneus ja hyvinvointi</g:product_type>
-            <g:custom_label_0>BioPro</g:custom_label_0>
-            <g:custom_label_1>74,90 €</g:custom_label_1>
-            <g:custom_label_2>74,90 €</g:custom_label_2>
-            <g:custom_label_3>28.9.–30.10.2026</g:custom_label_3>
-    </item>
-    <item>
             <g:id>offer-35319</g:id>
             <g:title>D-vitamiinit 200 kaps | BioPro</g:title>
             <g:description>Laadukas sveitsiläinen D-vitamiini öljykapselissa, vahvuudet 50ug sekä 100ug 200kaps</g:description>
@@ -969,21 +984,21 @@
             <g:custom_label_3>28.9.–30.10.2026</g:custom_label_3>
     </item>
     <item>
-            <g:id>offer-35384</g:id>
-            <g:title>Vivobarefoot Taracker Forest ESC | BrandStore</g:title>
-            <g:description>Ehkäpä kaikkien aikojen paras talvi-/vaelluskenkä</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/brandstore</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/09/04-1.jpg</g:image_link>
-            <g:price>264.00 EUR</g:price>
-            <g:sale_price>228.00 EUR</g:sale_price>
+            <g:id>offer-13992</g:id>
+            <g:title>Bio-Qinon Q10 gold 100mg 180 kaps | BioPro</g:title>
+            <g:description>Ubikinoni Q10 100mg 150 + 30 kaps, lisää energiaa, vähentää väsymystä &amp; uupumusta</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/biopro</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2022/11/FI_Q10_Gold_150_301.jpg</g:image_link>
+            <g:price>89.50 EUR</g:price>
+            <g:sale_price>74.90 EUR</g:sale_price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>BrandStore</g:brand>
-            <g:product_type>Tarjoukset &gt; Vapaa-aika ja urheilu</g:product_type>
-            <g:custom_label_0>BrandStore</g:custom_label_0>
-            <g:custom_label_1>228 €</g:custom_label_1>
-            <g:custom_label_2>228 €</g:custom_label_2>
-            <g:custom_label_3>24.9.–31.12.2026</g:custom_label_3>
+            <g:brand>BioPro</g:brand>
+            <g:product_type>Tarjoukset &gt; Kauneus ja hyvinvointi</g:product_type>
+            <g:custom_label_0>BioPro</g:custom_label_0>
+            <g:custom_label_1>74,90 €</g:custom_label_1>
+            <g:custom_label_2>74,90 €</g:custom_label_2>
+            <g:custom_label_3>28.9.–30.10.2026</g:custom_label_3>
     </item>
     <item>
             <g:id>offer-35379</g:id>
@@ -1000,6 +1015,23 @@
             <g:custom_label_1>350 €</g:custom_label_1>
             <g:custom_label_2>350 €</g:custom_label_2>
             <g:custom_label_3>24.9.–31.10.2026</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>offer-35384</g:id>
+            <g:title>Vivobarefoot Taracker Forest ESC | BrandStore</g:title>
+            <g:description>Ehkäpä kaikkien aikojen paras talvi-/vaelluskenkä</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/brandstore</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/09/04-1.jpg</g:image_link>
+            <g:price>264.00 EUR</g:price>
+            <g:sale_price>228.00 EUR</g:sale_price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>BrandStore</g:brand>
+            <g:product_type>Tarjoukset &gt; Vapaa-aika ja urheilu</g:product_type>
+            <g:custom_label_0>BrandStore</g:custom_label_0>
+            <g:custom_label_1>228 €</g:custom_label_1>
+            <g:custom_label_2>228 €</g:custom_label_2>
+            <g:custom_label_3>24.9.–31.12.2026</g:custom_label_3>
     </item>
     <item>
             <g:id>offer-35316</g:id>
@@ -1330,38 +1362,6 @@
             <g:custom_label_3>30.3.–31.12.2026</g:custom_label_3>
     </item>
     <item>
-            <g:id>offer-33325</g:id>
-            <g:title>Pitkä Subi ja juoma lounasmaksuedulla | Subway</g:title>
-            <g:description>Lounasmaksutavoilla (e-passi, Edenred, Smartum) mikä tahansa Rakenna omasi Subi 30 cm + 0,33 L tölkkijuoma 12,90 €. Voimassa kaikkina aukioloaikoina, myös viikonloppuisin.</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/subway</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/02/subway-lounasetu-2026.png</g:image_link>
-            <g:price>12.90 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Subway</g:brand>
-            <g:product_type>Tarjoukset &gt; Ruoka ja juoma</g:product_type>
-            <g:custom_label_0>Subway</g:custom_label_0>
-            <g:custom_label_1>12,90 €</g:custom_label_1>
-            <g:custom_label_2>12,90 €</g:custom_label_2>
-            <g:custom_label_3>23.2.–31.12.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-33328</g:id>
-            <g:title>Pitkä Subi ja juoma lounasmaksuedulla | Subway</g:title>
-            <g:description>Lounasmaksutavoilla (e-passi, Edenred, Smartum) mikä tahansa 30 cm Subi suosituksemme (valmiiksi suunnitellut) tai Submelts listalta + 0,33 L tölkkijuoma 13,50 €. Voimassa kaikkina aukioloaikoina, myös viikonloppuisin.</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/subway</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/02/subway-lounasetu-2026-1.png</g:image_link>
-            <g:price>13.50 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Subway</g:brand>
-            <g:product_type>Tarjoukset &gt; Ruoka ja juoma</g:product_type>
-            <g:custom_label_0>Subway</g:custom_label_0>
-            <g:custom_label_1>13,50 €</g:custom_label_1>
-            <g:custom_label_2>13,50 €</g:custom_label_2>
-            <g:custom_label_3>23.2.–31.12.2026</g:custom_label_3>
-    </item>
-    <item>
             <g:id>offer-33331</g:id>
             <g:title>Päivän Subi | Subway</g:title>
             <g:description>Päivän Subi puolikas 4,90 € ja kokonainen 9,80 €! Ateria vain 7,90/12,80 € Maanantai: Kana Fajita Tiistai: Tonnikala Keskiviikko: Spicy Italian Torstai: Nacho Kana Perjantai: Nochicken Teryaki Lauantai: Italian BMT Sunnuntai: American Steakhouse Melt</g:description>
@@ -1391,6 +1391,38 @@
             <g:custom_label_0>Subway</g:custom_label_0>
             <g:custom_label_1>12,90 €</g:custom_label_1>
             <g:custom_label_2>12,90 €</g:custom_label_2>
+            <g:custom_label_3>23.2.–31.12.2026</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>offer-33325</g:id>
+            <g:title>Pitkä Subi ja juoma lounasmaksuedulla | Subway</g:title>
+            <g:description>Lounasmaksutavoilla (e-passi, Edenred, Smartum) mikä tahansa Rakenna omasi Subi 30 cm + 0,33 L tölkkijuoma 12,90 €. Voimassa kaikkina aukioloaikoina, myös viikonloppuisin.</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/subway</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/02/subway-lounasetu-2026.png</g:image_link>
+            <g:price>12.90 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Subway</g:brand>
+            <g:product_type>Tarjoukset &gt; Ruoka ja juoma</g:product_type>
+            <g:custom_label_0>Subway</g:custom_label_0>
+            <g:custom_label_1>12,90 €</g:custom_label_1>
+            <g:custom_label_2>12,90 €</g:custom_label_2>
+            <g:custom_label_3>23.2.–31.12.2026</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>offer-33328</g:id>
+            <g:title>Pitkä Subi ja juoma lounasmaksuedulla | Subway</g:title>
+            <g:description>Lounasmaksutavoilla (e-passi, Edenred, Smartum) mikä tahansa 30 cm Subi suosituksemme (valmiiksi suunnitellut) tai Submelts listalta + 0,33 L tölkkijuoma 13,50 €. Voimassa kaikkina aukioloaikoina, myös viikonloppuisin.</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/subway</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/02/subway-lounasetu-2026-1.png</g:image_link>
+            <g:price>13.50 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Subway</g:brand>
+            <g:product_type>Tarjoukset &gt; Ruoka ja juoma</g:product_type>
+            <g:custom_label_0>Subway</g:custom_label_0>
+            <g:custom_label_1>13,50 €</g:custom_label_1>
+            <g:custom_label_2>13,50 €</g:custom_label_2>
             <g:custom_label_3>23.2.–31.12.2026</g:custom_label_3>
     </item>
     <item>
