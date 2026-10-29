@@ -4,7 +4,23 @@
     <title>kauppakeskuswilla</title>
     <link>https://www.kauppakeskuswilla.fi/</link>
     <description>Product feed – kauppakeskuswilla</description>
-    <lastBuildDate>Wed, 28 Oct 2026 01:20:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 01:56:31 +0000</lastBuildDate>
+    <item>
+            <g:id>offer-25640</g:id>
+            <g:title>Huivi,käsineet | Euro Moda</g:title>
+            <g:description>Useita värejä</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2024/01/no_change.jpeg</g:image_link>
+            <g:price>20.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Euro Moda</g:brand>
+            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
+            <g:custom_label_0>Euro Moda</g:custom_label_0>
+            <g:custom_label_1>20 €</g:custom_label_1>
+            <g:custom_label_2>20 €</g:custom_label_2>
+            <g:custom_label_3>29.10.–31.10.2026</g:custom_label_3>
+    </item>
     <item>
             <g:id>offer-23092</g:id>
             <g:title>Takit | Euro Moda</g:title>
@@ -20,6 +36,39 @@
             <g:custom_label_0>Euro Moda</g:custom_label_0>
             <g:custom_label_1>59 €</g:custom_label_1>
             <g:custom_label_2>59 €</g:custom_label_2>
+            <g:custom_label_3>28.10.–31.10.2026</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>offer-11256</g:id>
+            <g:title>Neulepanta | Euro Moda</g:title>
+            <g:description>Eri värejä</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2022/03/465E9F6A-4982-4967-B137-18C500B3BDA8.jpeg</g:image_link>
+            <g:price>10.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Euro Moda</g:brand>
+            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
+            <g:custom_label_0>Euro Moda</g:custom_label_0>
+            <g:custom_label_1>10 €</g:custom_label_1>
+            <g:custom_label_2>10 €</g:custom_label_2>
+            <g:custom_label_3>28.10.–31.10.2026</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>offer-35681</g:id>
+            <g:title>Stressilelu | Euro Moda</g:title>
+            <g:description>Useita värejä</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/10/IMG_8368.jpeg</g:image_link>
+            <g:price>15.00 EUR</g:price>
+            <g:sale_price>10.00 EUR</g:sale_price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Euro Moda</g:brand>
+            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
+            <g:custom_label_0>Euro Moda</g:custom_label_0>
+            <g:custom_label_1>10 €</g:custom_label_1>
+            <g:custom_label_2>10 €</g:custom_label_2>
             <g:custom_label_3>28.10.–31.10.2026</g:custom_label_3>
     </item>
     <item>
@@ -134,22 +183,6 @@
             <g:custom_label_1>29 €</g:custom_label_1>
             <g:custom_label_2>29 €</g:custom_label_2>
             <g:custom_label_3>24.10.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-11256</g:id>
-            <g:title>Neulepanta | Euro Moda</g:title>
-            <g:description>Eri värejä</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2022/03/465E9F6A-4982-4967-B137-18C500B3BDA8.jpeg</g:image_link>
-            <g:price>10.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>10 €</g:custom_label_1>
-            <g:custom_label_2>10 €</g:custom_label_2>
-            <g:custom_label_3>23.10.–31.10.2026</g:custom_label_3>
     </item>
     <item>
             <g:id>offer-27730</g:id>
@@ -734,23 +767,6 @@
             <g:custom_label_3>12.10.–15.11.2026</g:custom_label_3>
     </item>
     <item>
-            <g:id>offer-26916</g:id>
-            <g:title>Erä Color Fresh Mask -tuotteita | Kampaamo-myymälä Clips</g:title>
-            <g:description>Wellan Color Fresh Mask -hiusnaamio toimii kuin puolikestävä sävyte ─ se ei vahingoita hiuksia, vaan antaa hiusvärillesi lisää elinvoimaa kotona. Hiusnaamio antaa väliaikaisen lopputuloksen.</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/kampaamo-myymala-clips</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/03/Color-Fresh-Mask-ryhma-2026-pieni.jpg</g:image_link>
-            <g:price>19.95 EUR</g:price>
-            <g:sale_price>14.95 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Kampaamo-myymälä Clips</g:brand>
-            <g:product_type>Tarjoukset &gt; Kauneus ja hyvinvointi</g:product_type>
-            <g:custom_label_0>Kampaamo-myymälä Clips</g:custom_label_0>
-            <g:custom_label_1>14,95 €</g:custom_label_1>
-            <g:custom_label_2>14,95 €</g:custom_label_2>
-            <g:custom_label_3>12.10.–15.11.2026</g:custom_label_3>
-    </item>
-    <item>
             <g:id>offer-2758</g:id>
             <g:title>Erä System4-tuotteita | Kampaamo-myymälä Clips</g:title>
             <g:description>Sarja hiusten ja hiuspohjan hyvinvointiin.</g:description>
@@ -765,6 +781,23 @@
             <g:custom_label_0>Kampaamo-myymälä Clips</g:custom_label_0>
             <g:custom_label_1>11,37 €</g:custom_label_1>
             <g:custom_label_2>14,37 €</g:custom_label_2>
+            <g:custom_label_3>12.10.–15.11.2026</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>offer-26916</g:id>
+            <g:title>Erä Color Fresh Mask -tuotteita | Kampaamo-myymälä Clips</g:title>
+            <g:description>Wellan Color Fresh Mask -hiusnaamio toimii kuin puolikestävä sävyte ─ se ei vahingoita hiuksia, vaan antaa hiusvärillesi lisää elinvoimaa kotona. Hiusnaamio antaa väliaikaisen lopputuloksen.</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/kampaamo-myymala-clips</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/03/Color-Fresh-Mask-ryhma-2026-pieni.jpg</g:image_link>
+            <g:price>19.95 EUR</g:price>
+            <g:sale_price>14.95 EUR</g:sale_price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Kampaamo-myymälä Clips</g:brand>
+            <g:product_type>Tarjoukset &gt; Kauneus ja hyvinvointi</g:product_type>
+            <g:custom_label_0>Kampaamo-myymälä Clips</g:custom_label_0>
+            <g:custom_label_1>14,95 €</g:custom_label_1>
+            <g:custom_label_2>14,95 €</g:custom_label_2>
             <g:custom_label_3>12.10.–15.11.2026</g:custom_label_3>
     </item>
     <item>
