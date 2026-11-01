@@ -4,7 +4,22 @@
     <title>kauppakeskuswilla</title>
     <link>https://www.kauppakeskuswilla.fi/</link>
     <description>Product feed – kauppakeskuswilla</description>
-    <lastBuildDate>Sat, 31 Oct 2026 01:42:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 01:04:05 +0000</lastBuildDate>
+    <item>
+            <g:id>offer-33678</g:id>
+            <g:title>Powerbankit | Fonum</g:title>
+            <g:description>Lisää virtaa puhelimeesi missä ja milloin vain! Saatavilla 5 000 mAh:n, 10 000 mAh:n ja 20 000 mAh:n kapasiteetilla. Valikoima vaihtelee myymälöittäin.</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/fonum</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/10/fonum_kktuote_1080x1080.jpg</g:image_link>
+            <g:price>14.99 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Fonum</g:brand>
+            <g:product_type>Tarjoukset &gt; Palvelut</g:product_type>
+            <g:custom_label_0>Fonum</g:custom_label_0>
+            <g:custom_label_1>14,99 €</g:custom_label_1>
+            <g:custom_label_3>1.11.–30.11.2026</g:custom_label_3>
+    </item>
     <item>
             <g:id>offer-13911</g:id>
             <g:title>Pipo | Euro Moda</g:title>
@@ -20,72 +35,6 @@
             <g:custom_label_1>20 €</g:custom_label_1>
             <g:custom_label_2>20 €</g:custom_label_2>
             <g:custom_label_3>31.10.–8.11.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-9309</g:id>
-            <g:title>Käsineet | Euro Moda</g:title>
-            <g:description>Eri värejä</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2021/10/384D4488-649F-4BC2-BAE0-3117D7ACCFBB.jpeg</g:image_link>
-            <g:price>20.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>20 €</g:custom_label_1>
-            <g:custom_label_2>20 €</g:custom_label_2>
-            <g:custom_label_3>30.10.–8.11.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-35722</g:id>
-            <g:title>Rieker Tex-kävelykenkä | Click Shoes</g:title>
-            <g:description>vettähylkivällä kalvolla olevat kävelykengät pitävällä pohjalla</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/click-shoes</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/10/Rieker-Z4263-00_Rieker-Z4265-00.jpg</g:image_link>
-            <g:price>119.90 EUR</g:price>
-            <g:sale_price>79.90 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Click Shoes</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Click Shoes</g:custom_label_0>
-            <g:custom_label_1>79,90 €</g:custom_label_1>
-            <g:custom_label_2>79,90 €</g:custom_label_2>
-            <g:custom_label_3>30.10.–15.11.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-35724</g:id>
-            <g:title>Musse Efany | Click Shoes</g:title>
-            <g:description>Nahkainen maihari</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/click-shoes</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/10/Efany.jpg</g:image_link>
-            <g:price>119.90 EUR</g:price>
-            <g:sale_price>99.90 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Click Shoes</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Click Shoes</g:custom_label_0>
-            <g:custom_label_1>99,90 €</g:custom_label_1>
-            <g:custom_label_2>99,90 €</g:custom_label_2>
-            <g:custom_label_3>30.10.–15.11.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-35726</g:id>
-            <g:title>Tossut Naisille | Click Shoes</g:title>
-            <g:description>karvavuorelliset tossut</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/click-shoes</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/10/Naisten-aamutossut.jpg</g:image_link>
-            <g:price>59.90 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Click Shoes</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Click Shoes</g:custom_label_0>
-            <g:custom_label_1>59,90 €</g:custom_label_1>
-            <g:custom_label_2>59,90 €</g:custom_label_2>
-            <g:custom_label_3>30.10.–15.11.2026</g:custom_label_3>
     </item>
     <item>
             <g:id>offer-35729</g:id>
@@ -155,28 +104,61 @@
             <g:custom_label_3>30.10.–15.11.2026</g:custom_label_3>
     </item>
     <item>
-            <g:id>offer-35708</g:id>
-            <g:title>Nacho Plate | Pancho Villa</g:title>
-            <g:description>Nacho Plate täytteen kanssa-25 % pääruoan ostajalle! Valitse pieni tai iso Nacho Plate ja suosikkitäytteesi: paneroitu kana, Cajun-kana, ylikypsä porsaankylki, Chili con Carne tai Chili con Vege. 😋 Etu voimassa Hyvinkään Pancho Villassa 30.10.–1.11. Edun saat käyttöösi Pancho Appilla!</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/pancho-villa</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/10/Nacho-Plate-iso-1-1.jpg</g:image_link>
-            <g:price>12.00 EUR</g:price>
-            <g:sale_price>9.00 EUR</g:sale_price>
+            <g:id>offer-35722</g:id>
+            <g:title>Rieker Tex-kävelykenkä | Click Shoes</g:title>
+            <g:description>vettähylkivällä kalvolla olevat kävelykengät pitävällä pohjalla</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/click-shoes</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/10/Rieker-Z4263-00_Rieker-Z4265-00.jpg</g:image_link>
+            <g:price>119.90 EUR</g:price>
+            <g:sale_price>79.90 EUR</g:sale_price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>Pancho Villa</g:brand>
-            <g:product_type>Tarjoukset &gt; Ruoka ja juoma</g:product_type>
-            <g:custom_label_0>Pancho Villa</g:custom_label_0>
-            <g:custom_label_1>9 €</g:custom_label_1>
-            <g:custom_label_2>11,25 €</g:custom_label_2>
-            <g:custom_label_3>30.10.–31.10.2026</g:custom_label_3>
+            <g:brand>Click Shoes</g:brand>
+            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
+            <g:custom_label_0>Click Shoes</g:custom_label_0>
+            <g:custom_label_1>79,90 €</g:custom_label_1>
+            <g:custom_label_2>79,90 €</g:custom_label_2>
+            <g:custom_label_3>30.10.–15.11.2026</g:custom_label_3>
     </item>
     <item>
-            <g:id>offer-25640</g:id>
-            <g:title>Huivi,käsineet | Euro Moda</g:title>
-            <g:description>Useita värejä</g:description>
+            <g:id>offer-35724</g:id>
+            <g:title>Musse Efany | Click Shoes</g:title>
+            <g:description>Nahkainen maihari</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/click-shoes</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/10/Efany.jpg</g:image_link>
+            <g:price>119.90 EUR</g:price>
+            <g:sale_price>99.90 EUR</g:sale_price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Click Shoes</g:brand>
+            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
+            <g:custom_label_0>Click Shoes</g:custom_label_0>
+            <g:custom_label_1>99,90 €</g:custom_label_1>
+            <g:custom_label_2>99,90 €</g:custom_label_2>
+            <g:custom_label_3>30.10.–15.11.2026</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>offer-35726</g:id>
+            <g:title>Tossut Naisille | Click Shoes</g:title>
+            <g:description>karvavuorelliset tossut</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/click-shoes</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/10/Naisten-aamutossut.jpg</g:image_link>
+            <g:price>59.90 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Click Shoes</g:brand>
+            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
+            <g:custom_label_0>Click Shoes</g:custom_label_0>
+            <g:custom_label_1>59,90 €</g:custom_label_1>
+            <g:custom_label_2>59,90 €</g:custom_label_2>
+            <g:custom_label_3>30.10.–15.11.2026</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>offer-9309</g:id>
+            <g:title>Käsineet | Euro Moda</g:title>
+            <g:description>Eri värejä</g:description>
             <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2024/01/no_change.jpeg</g:image_link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2021/10/384D4488-649F-4BC2-BAE0-3117D7ACCFBB.jpeg</g:image_link>
             <g:price>20.00 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
@@ -185,122 +167,7 @@
             <g:custom_label_0>Euro Moda</g:custom_label_0>
             <g:custom_label_1>20 €</g:custom_label_1>
             <g:custom_label_2>20 €</g:custom_label_2>
-            <g:custom_label_3>29.10.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-23092</g:id>
-            <g:title>Takit | Euro Moda</g:title>
-            <g:description>Useita värejä</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2023/10/373CDBBD-A756-4F94-B8A8-4B2179E9A324.jpeg</g:image_link>
-            <g:price>69.00 EUR</g:price>
-            <g:sale_price>59.00 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>59 €</g:custom_label_1>
-            <g:custom_label_2>59 €</g:custom_label_2>
-            <g:custom_label_3>28.10.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-11256</g:id>
-            <g:title>Neulepanta | Euro Moda</g:title>
-            <g:description>Eri värejä</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2022/03/465E9F6A-4982-4967-B137-18C500B3BDA8.jpeg</g:image_link>
-            <g:price>10.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>10 €</g:custom_label_1>
-            <g:custom_label_2>10 €</g:custom_label_2>
-            <g:custom_label_3>28.10.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-35681</g:id>
-            <g:title>Stressilelu | Euro Moda</g:title>
-            <g:description>Useita värejä</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/10/IMG_8368.jpeg</g:image_link>
-            <g:price>15.00 EUR</g:price>
-            <g:sale_price>10.00 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>10 €</g:custom_label_1>
-            <g:custom_label_2>10 €</g:custom_label_2>
-            <g:custom_label_3>28.10.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-8917</g:id>
-            <g:title>Pitkä takki | Euro Moda</g:title>
-            <g:description>koot S-XXXL</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2023/10/17714F5C-4725-4AC6-96A1-B4E6B521551B.jpeg</g:image_link>
-            <g:price>99.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>99 €</g:custom_label_1>
-            <g:custom_label_2>99 €</g:custom_label_2>
-            <g:custom_label_3>27.10.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-31811</g:id>
-            <g:title>Neule | Euro Moda</g:title>
-            <g:description>uutuuksia</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/03/e226eb9e-2700-46d6-b97a-03e21abe675a.jpeg</g:image_link>
-            <g:price>39.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>39 €</g:custom_label_1>
-            <g:custom_label_2>39 €</g:custom_label_2>
-            <g:custom_label_3>27.10.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-35696</g:id>
-            <g:title>Pyjamahousut | Dressmann</g:title>
-            <g:description>100% puuvillaa.</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/dressmann</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/10/Q4_w44-45_Fathers_1080x1080_F-6.jpg</g:image_link>
-            <g:price>29.95 EUR</g:price>
-            <g:sale_price>19.95 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Dressmann</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Dressmann</g:custom_label_0>
-            <g:custom_label_1>19,95 €</g:custom_label_1>
-            <g:custom_label_2>19,95 €</g:custom_label_2>
-            <g:custom_label_3>26.10.–8.11.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-23278</g:id>
-            <g:title>Huivit | Euro Moda</g:title>
-            <g:description>Useita värejä</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2023/11/E4405028-3AE1-4239-AC6E-AB4D91DEE545.jpeg</g:image_link>
-            <g:price>25.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>25 €</g:custom_label_1>
-            <g:custom_label_2>25 €</g:custom_label_2>
-            <g:custom_label_3>26.10.–31.10.2026</g:custom_label_3>
+            <g:custom_label_3>30.10.–8.11.2026</g:custom_label_3>
     </item>
     <item>
             <g:id>offer-35694</g:id>
@@ -320,252 +187,21 @@
             <g:custom_label_3>26.10.–8.11.2026</g:custom_label_3>
     </item>
     <item>
-            <g:id>offer-14181</g:id>
-            <g:title>Glittermekko | Euro Moda</g:title>
-            <g:description>useita värejä</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2023/11/18556ADF-062B-4515-9EC6-DD748194DF2C.jpeg</g:image_link>
-            <g:price>59.00 EUR</g:price>
+            <g:id>offer-35696</g:id>
+            <g:title>Pyjamahousut | Dressmann</g:title>
+            <g:description>100% puuvillaa.</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/dressmann</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/10/Q4_w44-45_Fathers_1080x1080_F-6.jpg</g:image_link>
+            <g:price>29.95 EUR</g:price>
+            <g:sale_price>19.95 EUR</g:sale_price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
+            <g:brand>Dressmann</g:brand>
             <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>59 €</g:custom_label_1>
-            <g:custom_label_2>59 €</g:custom_label_2>
-            <g:custom_label_3>25.10.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-28739</g:id>
-            <g:title>Mekot | Euro Moda</g:title>
-            <g:description>Euro Modassa nyt hyviä löytöjä vaikkapa pikkujoulujen viettoon! Normaalihintaiset puserot ja mekot -20%, voimassa 31.10.asti. Tervetuloa, meillä on laaja valikoima, ja plus-kokojakin löytyy.</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2024/11/IMG_0096.jpeg</g:image_link>
-            <g:price>59.00 EUR</g:price>
-            <g:sale_price>49.00 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>49 €</g:custom_label_1>
-            <g:custom_label_2>49 €</g:custom_label_2>
-            <g:custom_label_3>25.10.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-9323</g:id>
-            <g:title>Pipot | Euro Moda</g:title>
-            <g:description>Eri värejä</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2021/10/918AAA86-0241-414D-BE43-2977CDAF37B4.jpeg</g:image_link>
-            <g:price>10.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>10 €</g:custom_label_1>
-            <g:custom_label_3>24.10.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-30851</g:id>
-            <g:title>Lampaanvilla -tossut | Euro Moda</g:title>
-            <g:description>Useita värejä</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/01/2eb273c5-4478-4e10-bf74-d0723d878b81.jpeg</g:image_link>
-            <g:price>39.00 EUR</g:price>
-            <g:sale_price>29.00 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>29 €</g:custom_label_1>
-            <g:custom_label_2>29 €</g:custom_label_2>
-            <g:custom_label_3>24.10.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-27730</g:id>
-            <g:title>Neuletunika | Euro Moda</g:title>
-            <g:description>useita värejä</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2025/12/Photoroom_20251210_195610.jpeg</g:image_link>
-            <g:price>59.00 EUR</g:price>
-            <g:sale_price>39.00 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>39 €</g:custom_label_1>
-            <g:custom_label_2>39 €</g:custom_label_2>
-            <g:custom_label_3>23.10.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-27723</g:id>
-            <g:title>Huppari | Euro Moda</g:title>
-            <g:description>Useitä värejä</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2024/09/05772195-9b96-4173-8c19-fdf8e5581b0a.jpeg</g:image_link>
-            <g:price>49.00 EUR</g:price>
-            <g:sale_price>39.00 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>39 €</g:custom_label_1>
-            <g:custom_label_2>39 €</g:custom_label_2>
-            <g:custom_label_3>22.10.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-7637</g:id>
-            <g:title>Huiveja | Euro Moda</g:title>
-            <g:description>Eri värejä</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2021/08/12E3E194-CEDA-40EB-8CB6-CA43E2C46E1D.jpeg</g:image_link>
-            <g:price>10.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>10 €</g:custom_label_1>
-            <g:custom_label_3>21.10.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-29127</g:id>
-            <g:title>Huivi | Euro Moda</g:title>
-            <g:description>Useita värejä</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2024/12/b038053f-b3d4-4b9c-9ca4-c2454863602e.jpeg</g:image_link>
-            <g:price>29.00 EUR</g:price>
-            <g:sale_price>20.00 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>20 €</g:custom_label_1>
-            <g:custom_label_2>20 €</g:custom_label_2>
-            <g:custom_label_3>20.10.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-35595</g:id>
-            <g:title>All day breakfast 6,90€ | Picnic</g:title>
-            <g:description>Valitse kahvi/tee ja yksi aamiaistuote (aamiaisleipä/kulho/smoothie)</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/picnic</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/10/Aamupala-2.png</g:image_link>
-            <g:price>8.10 EUR</g:price>
-            <g:sale_price>6.90 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Picnic</g:brand>
-            <g:product_type>Tarjoukset &gt; Ruoka ja juoma</g:product_type>
-            <g:custom_label_0>Picnic</g:custom_label_0>
-            <g:custom_label_1>6,90 €</g:custom_label_1>
-            <g:custom_label_2>6,90 €</g:custom_label_2>
-            <g:custom_label_3>19.10.2026–31.1.2027</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-35597</g:id>
-            <g:title>All day breakfast 9,90€ | Picnic</g:title>
-            <g:description>Valitse kahvi/tee ja kaksi aamiaistuotetta (aamiaisleipä/kulho/smoothie)</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/picnic</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/10/Aamupala-1.png</g:image_link>
-            <g:price>13.00 EUR</g:price>
-            <g:sale_price>9.90 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Picnic</g:brand>
-            <g:product_type>Tarjoukset &gt; Ruoka ja juoma</g:product_type>
-            <g:custom_label_0>Picnic</g:custom_label_0>
-            <g:custom_label_1>9,90 €</g:custom_label_1>
-            <g:custom_label_2>9,90 €</g:custom_label_2>
-            <g:custom_label_3>19.10.2026–31.1.2027</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-2017</g:id>
-            <g:title>Crestol Fantasy Color | Hairlekiini</g:title>
-            <g:description>Parturi-kampaamo Hairlekiinista kaikki Crestol suoravärituotteet -20%.</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/hairlekiini</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2025/10/Screenshot-2025-10-01-at-15-58-12-crestol-fantasy-color-Google-haku.png</g:image_link>
-            <g:price>16.90 EUR</g:price>
-            <g:sale_price>13.52 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Hairlekiini</g:brand>
-            <g:product_type>Tarjoukset &gt; Kauneus ja hyvinvointi</g:product_type>
-            <g:custom_label_0>Hairlekiini</g:custom_label_0>
-            <g:custom_label_1>13,52 €</g:custom_label_1>
-            <g:custom_label_2>13,52 €</g:custom_label_2>
-            <g:custom_label_3>23.10.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-2484</g:id>
-            <g:title>Spray hiusväri | Hairlekiini</g:title>
-            <g:description>Sibel Haircolour Sprayt nyt Halloweenin kunniaksi 1kpl 7,90€ 2kpl 12,90€! Valikoima vaihtelee myymälöittäin.</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/hairlekiini</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2020/10/sibel-kleurspray-hair-color-125ml.jpg</g:image_link>
-            <g:price>8.90 EUR</g:price>
-            <g:sale_price>7.90 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Hairlekiini</g:brand>
-            <g:product_type>Tarjoukset &gt; Kauneus ja hyvinvointi</g:product_type>
-            <g:custom_label_0>Hairlekiini</g:custom_label_0>
-            <g:custom_label_1>7,90 €</g:custom_label_1>
-            <g:custom_label_2>12,90 €</g:custom_label_2>
-            <g:custom_label_3>23.10.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-32248</g:id>
-            <g:title>Juoma aterian ostajalle 2,50€ | Picnic</g:title>
-            <g:description>Ostaessasi patongin, salaatin tai uuniperunan, 0,33 l juoma / kahvi tarjoushintaan 2,50 €</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/picnic</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2025/11/Juoma-aterian-ostajalle.png</g:image_link>
-            <g:price>3.20 EUR</g:price>
-            <g:sale_price>2.50 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Picnic</g:brand>
-            <g:product_type>Tarjoukset &gt; Ruoka ja juoma</g:product_type>
-            <g:custom_label_0>Picnic</g:custom_label_0>
-            <g:custom_label_1>2,50 €</g:custom_label_1>
-            <g:custom_label_2>2,50 €</g:custom_label_2>
-            <g:custom_label_3>19.10.–31.12.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-32250</g:id>
-            <g:title>Patonkiateria | Picnic</g:title>
-            <g:description>Valitsemasi patonki, pieni salaatti sekä 0,33 l virvoitusjuoma yhteishintaan 14,00 €</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/picnic</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2025/11/Patonkiateria.png</g:image_link>
-            <g:price>14.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Picnic</g:brand>
-            <g:product_type>Tarjoukset &gt; Ruoka ja juoma</g:product_type>
-            <g:custom_label_0>Picnic</g:custom_label_0>
-            <g:custom_label_1>14 €</g:custom_label_1>
-            <g:custom_label_2>14 €</g:custom_label_2>
-            <g:custom_label_3>19.10.–31.12.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-18703</g:id>
-            <g:title>Alpakkasukat | Euro Moda</g:title>
-            <g:description>Useita värejä</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2025/11/6b820f38-2ee2-4963-93f4-afede8f00623.jpeg</g:image_link>
-            <g:price>15.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>15 €</g:custom_label_1>
-            <g:custom_label_2>15 €</g:custom_label_2>
-            <g:custom_label_3>19.10.–31.10.2026</g:custom_label_3>
+            <g:custom_label_0>Dressmann</g:custom_label_0>
+            <g:custom_label_1>19,95 €</g:custom_label_1>
+            <g:custom_label_2>19,95 €</g:custom_label_2>
+            <g:custom_label_3>26.10.–8.11.2026</g:custom_label_3>
     </item>
     <item>
             <g:id>offer-28949</g:id>
@@ -585,218 +221,88 @@
             <g:custom_label_3>19.10.–31.12.2026</g:custom_label_3>
     </item>
     <item>
-            <g:id>offer-9110</g:id>
-            <g:title>Flanellipaita | Euro Moda</g:title>
-            <g:description>Eri värejä</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2022/09/191E2528-DE6C-4D3A-88CB-309E76230E1F.jpeg</g:image_link>
-            <g:price>20.00 EUR</g:price>
+            <g:id>offer-35595</g:id>
+            <g:title>All day breakfast 6,90€ | Picnic</g:title>
+            <g:description>Valitse kahvi/tee ja yksi aamiaistuote (aamiaisleipä/kulho/smoothie)</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/picnic</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/10/Aamupala-2.png</g:image_link>
+            <g:price>8.10 EUR</g:price>
+            <g:sale_price>6.90 EUR</g:sale_price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>20 €</g:custom_label_1>
-            <g:custom_label_2>20 €</g:custom_label_2>
-            <g:custom_label_3>18.10.–31.10.2026</g:custom_label_3>
+            <g:brand>Picnic</g:brand>
+            <g:product_type>Tarjoukset &gt; Ruoka ja juoma</g:product_type>
+            <g:custom_label_0>Picnic</g:custom_label_0>
+            <g:custom_label_1>6,90 €</g:custom_label_1>
+            <g:custom_label_2>6,90 €</g:custom_label_2>
+            <g:custom_label_3>19.10.2026–31.1.2027</g:custom_label_3>
     </item>
     <item>
-            <g:id>offer-28326</g:id>
-            <g:title>Pipot | Euro Moda</g:title>
-            <g:description>Useita värejä</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2024/10/57296260-bf41-4ca7-8287-b36516415347.jpeg</g:image_link>
-            <g:price>20.00 EUR</g:price>
+            <g:id>offer-32248</g:id>
+            <g:title>Juoma aterian ostajalle 2,50€ | Picnic</g:title>
+            <g:description>Ostaessasi patongin, salaatin tai uuniperunan, 0,33 l juoma / kahvi tarjoushintaan 2,50 €</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/picnic</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2025/11/Juoma-aterian-ostajalle.png</g:image_link>
+            <g:price>3.20 EUR</g:price>
+            <g:sale_price>2.50 EUR</g:sale_price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>20 €</g:custom_label_1>
-            <g:custom_label_2>20 €</g:custom_label_2>
-            <g:custom_label_3>18.10.–31.10.2026</g:custom_label_3>
+            <g:brand>Picnic</g:brand>
+            <g:product_type>Tarjoukset &gt; Ruoka ja juoma</g:product_type>
+            <g:custom_label_0>Picnic</g:custom_label_0>
+            <g:custom_label_1>2,50 €</g:custom_label_1>
+            <g:custom_label_2>2,50 €</g:custom_label_2>
+            <g:custom_label_3>19.10.–31.12.2026</g:custom_label_3>
     </item>
     <item>
-            <g:id>offer-25426</g:id>
-            <g:title>Alpakka sukat Tulossa | Euro Moda</g:title>
-            <g:description>Koot 35-42</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2023/12/no_change-1.jpeg</g:image_link>
-            <g:price>15.00 EUR</g:price>
+            <g:id>offer-35597</g:id>
+            <g:title>All day breakfast 9,90€ | Picnic</g:title>
+            <g:description>Valitse kahvi/tee ja kaksi aamiaistuotetta (aamiaisleipä/kulho/smoothie)</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/picnic</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/10/Aamupala-1.png</g:image_link>
+            <g:price>13.00 EUR</g:price>
+            <g:sale_price>9.90 EUR</g:sale_price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>15 €</g:custom_label_1>
-            <g:custom_label_2>15 €</g:custom_label_2>
-            <g:custom_label_3>17.10.–31.10.2026</g:custom_label_3>
+            <g:brand>Picnic</g:brand>
+            <g:product_type>Tarjoukset &gt; Ruoka ja juoma</g:product_type>
+            <g:custom_label_0>Picnic</g:custom_label_0>
+            <g:custom_label_1>9,90 €</g:custom_label_1>
+            <g:custom_label_2>9,90 €</g:custom_label_2>
+            <g:custom_label_3>19.10.2026–31.1.2027</g:custom_label_3>
     </item>
     <item>
-            <g:id>offer-35591</g:id>
-            <g:title>Lomapakko | Euro Moda</g:title>
-            <g:description>Useita värejä</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/10/b45f2adc-f933-4742-8e68-9f64e55f1b32.jpeg</g:image_link>
-            <g:price>25.00 EUR</g:price>
+            <g:id>offer-32250</g:id>
+            <g:title>Patonkiateria | Picnic</g:title>
+            <g:description>Valitsemasi patonki, pieni salaatti sekä 0,33 l virvoitusjuoma yhteishintaan 14,00 €</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/picnic</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2025/11/Patonkiateria.png</g:image_link>
+            <g:price>14.00 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>25 €</g:custom_label_1>
-            <g:custom_label_2>25 €</g:custom_label_2>
-            <g:custom_label_3>17.10.–31.10.2026</g:custom_label_3>
+            <g:brand>Picnic</g:brand>
+            <g:product_type>Tarjoukset &gt; Ruoka ja juoma</g:product_type>
+            <g:custom_label_0>Picnic</g:custom_label_0>
+            <g:custom_label_1>14 €</g:custom_label_1>
+            <g:custom_label_2>14 €</g:custom_label_2>
+            <g:custom_label_3>19.10.–31.12.2026</g:custom_label_3>
     </item>
     <item>
-            <g:id>offer-6652</g:id>
-            <g:title>Alpakka sukat | Euro Moda</g:title>
-            <g:description>koot 35-47</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2021/12/72BE1DF9-74D0-4351-8EBE-D595043BEB88.jpeg</g:image_link>
-            <g:price>15.00 EUR</g:price>
-            <g:sale_price>10.00 EUR</g:sale_price>
+            <g:id>offer-34828</g:id>
+            <g:title>Rieker Kävelykenkiä | Click Shoes</g:title>
+            <g:description>Riekerin mukavat ja leveähkö lestiset kävelykengät. Naisille malleja nyt todella edullisesti.</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/click-shoes</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/08/Rieker-kavelykenkia.jpg</g:image_link>
+            <g:price>94.90 EUR</g:price>
+            <g:sale_price>69.90 EUR</g:sale_price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
+            <g:brand>Click Shoes</g:brand>
             <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>10 €</g:custom_label_1>
-            <g:custom_label_2>10 €</g:custom_label_2>
-            <g:custom_label_3>17.10.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-29246</g:id>
-            <g:title>Kääntötakki | Euro Moda</g:title>
-            <g:description>Useita värejä</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2025/01/9d073814-d898-413c-91f3-1a76d181a18f.jpeg</g:image_link>
-            <g:price>79.00 EUR</g:price>
-            <g:sale_price>59.00 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>59 €</g:custom_label_1>
-            <g:custom_label_2>59 €</g:custom_label_2>
-            <g:custom_label_3>17.10.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-10602</g:id>
-            <g:title>Pipo | Euro Moda</g:title>
-            <g:description>100% akryyli Useita eri värejä</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2022/02/11C38BAE-7248-42A4-9C93-FAC6879084E1.jpeg</g:image_link>
-            <g:price>20.00 EUR</g:price>
-            <g:sale_price>10.00 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>10 €</g:custom_label_1>
-            <g:custom_label_2>10 €</g:custom_label_2>
-            <g:custom_label_3>16.10.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-32092</g:id>
-            <g:title>Thermo housut | Euro Moda</g:title>
-            <g:description>Useita väreja</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/10/7412d3dc-2790-4950-9030-9818c700a209.jpeg</g:image_link>
-            <g:price>39.00 EUR</g:price>
-            <g:sale_price>29.00 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>29 €</g:custom_label_1>
-            <g:custom_label_2>29 €</g:custom_label_2>
-            <g:custom_label_3>16.10.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-28559</g:id>
-            <g:title>Thermo legging | Euro Moda</g:title>
-            <g:description>Koot S-6XL</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/10/51455ffa-b2d5-4931-97e5-1d06c434bdde.jpeg</g:image_link>
-            <g:price>29.00 EUR</g:price>
-            <g:sale_price>20.00 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>20 €</g:custom_label_1>
-            <g:custom_label_2>20 €</g:custom_label_2>
-            <g:custom_label_3>16.10.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-12693</g:id>
-            <g:title>Lompakko | Euro Moda</g:title>
-            <g:description>Eri värejä</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2023/11/3A25164F-D770-465F-8152-5B3E363A6C5A.jpeg</g:image_link>
-            <g:price>20.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>20 €</g:custom_label_1>
-            <g:custom_label_2>20 €</g:custom_label_2>
-            <g:custom_label_3>15.10.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-28395</g:id>
-            <g:title>Thermosukkahousut | Euro Moda</g:title>
-            <g:description>Thermosukkahousut Eri kokoja.</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2024/10/EM_facebook.jpg</g:image_link>
-            <g:price>29.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>29 €</g:custom_label_1>
-            <g:custom_label_2>29 €</g:custom_label_2>
-            <g:custom_label_3>15.10.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-8736</g:id>
-            <g:title>Pipo | Euro Moda</g:title>
-            <g:description>Eri värejä</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2022/10/D4E94CAD-5777-4647-ACA2-6761EE761736.jpg</g:image_link>
-            <g:price>10.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>10 €</g:custom_label_1>
-            <g:custom_label_2>10 €</g:custom_label_2>
-            <g:custom_label_3>15.10.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-28267</g:id>
-            <g:title>Laukut | Euro Moda</g:title>
-            <g:description>Laukku, useita värejä.</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/09/IMG_7488.jpeg</g:image_link>
-            <g:price>33.00 EUR</g:price>
-            <g:sale_price>29.00 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>29 €</g:custom_label_1>
-            <g:custom_label_2>29 €</g:custom_label_2>
-            <g:custom_label_3>14.10.–31.10.2026</g:custom_label_3>
+            <g:custom_label_0>Click Shoes</g:custom_label_0>
+            <g:custom_label_1>69,90 €</g:custom_label_1>
+            <g:custom_label_2>69,90 €</g:custom_label_2>
+            <g:custom_label_3>13.10.–15.11.2026</g:custom_label_3>
     </item>
     <item>
             <g:id>offer-35578</g:id>
@@ -816,37 +322,38 @@
             <g:custom_label_3>13.10.–15.11.2026</g:custom_label_3>
     </item>
     <item>
-            <g:id>offer-11070</g:id>
-            <g:title>Huivit | Euro Moda</g:title>
-            <g:description>Monia eri sävyjä.</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2022/03/1DE69413-ABDC-4975-9359-391E3B1D9CF4.jpeg</g:image_link>
-            <g:price>10.00 EUR</g:price>
+            <g:id>offer-19749</g:id>
+            <g:title>Erä Invigo Premium -tuotteita | Kampaamo-myymälä Clips</g:title>
+            <g:description>Invigo-tuotesarjasta löydät monipuoliset shampoot ja hoitoaineet moniin tarpeisiin.</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/kampaamo-myymala-clips</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/05/Wella-FUSION-SHAMPOO_250ml-pieni.jpg</g:image_link>
+            <g:price>19.95 EUR</g:price>
+            <g:sale_price>11.97 EUR</g:sale_price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>10 €</g:custom_label_1>
-            <g:custom_label_2>10 €</g:custom_label_2>
-            <g:custom_label_3>13.10.–31.10.2026</g:custom_label_3>
+            <g:brand>Kampaamo-myymälä Clips</g:brand>
+            <g:product_type>Tarjoukset &gt; Kauneus ja hyvinvointi</g:product_type>
+            <g:custom_label_0>Kampaamo-myymälä Clips</g:custom_label_0>
+            <g:custom_label_1>11,97 €</g:custom_label_1>
+            <g:custom_label_2>14,97 €</g:custom_label_2>
+            <g:custom_label_3>12.10.–15.11.2026</g:custom_label_3>
     </item>
     <item>
-            <g:id>offer-34828</g:id>
-            <g:title>Rieker Kävelykenkiä | Click Shoes</g:title>
-            <g:description>Riekerin mukavat ja leveähkö lestiset kävelykengät. Naisille malleja nyt todella edullisesti.</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/click-shoes</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/08/Rieker-kavelykenkia.jpg</g:image_link>
-            <g:price>94.90 EUR</g:price>
-            <g:sale_price>69.90 EUR</g:sale_price>
+            <g:id>offer-19752</g:id>
+            <g:title>Erä FR No Nothing -tuotteita | Kampaamo-myymälä Clips</g:title>
+            <g:description>Hajusteeton Four Reasons No Nothing ei sisällä yleisesti herkistäviä eikä ärsyttäviä raaka-aineita, joten sarjan tuotteet sopivat herkkäihoisten lisäksi kaikille, jotka tahtovat vähentää elimistönsä hajuste- ja kemikaalikuormitusta.</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/kampaamo-myymala-clips</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/05/FR-No-Nothing-ryhma-2026.jpg</g:image_link>
+            <g:price>14.95 EUR</g:price>
+            <g:sale_price>8.97 EUR</g:sale_price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>Click Shoes</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Click Shoes</g:custom_label_0>
-            <g:custom_label_1>69,90 €</g:custom_label_1>
-            <g:custom_label_2>69,90 €</g:custom_label_2>
-            <g:custom_label_3>13.10.–15.11.2026</g:custom_label_3>
+            <g:brand>Kampaamo-myymälä Clips</g:brand>
+            <g:product_type>Tarjoukset &gt; Kauneus ja hyvinvointi</g:product_type>
+            <g:custom_label_0>Kampaamo-myymälä Clips</g:custom_label_0>
+            <g:custom_label_1>8,97 €</g:custom_label_1>
+            <g:custom_label_2>9,57 €</g:custom_label_2>
+            <g:custom_label_3>12.10.–15.11.2026</g:custom_label_3>
     </item>
     <item>
             <g:id>offer-26916</g:id>
@@ -900,23 +407,6 @@
             <g:custom_label_3>12.10.–15.11.2026</g:custom_label_3>
     </item>
     <item>
-            <g:id>offer-19749</g:id>
-            <g:title>Erä Invigo Premium -tuotteita | Kampaamo-myymälä Clips</g:title>
-            <g:description>Invigo-tuotesarjasta löydät monipuoliset shampoot ja hoitoaineet moniin tarpeisiin.</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/kampaamo-myymala-clips</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/05/Wella-FUSION-SHAMPOO_250ml-pieni.jpg</g:image_link>
-            <g:price>19.95 EUR</g:price>
-            <g:sale_price>11.97 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Kampaamo-myymälä Clips</g:brand>
-            <g:product_type>Tarjoukset &gt; Kauneus ja hyvinvointi</g:product_type>
-            <g:custom_label_0>Kampaamo-myymälä Clips</g:custom_label_0>
-            <g:custom_label_1>11,97 €</g:custom_label_1>
-            <g:custom_label_2>14,97 €</g:custom_label_2>
-            <g:custom_label_3>12.10.–15.11.2026</g:custom_label_3>
-    </item>
-    <item>
             <g:id>offer-8674</g:id>
             <g:title>Erä Cutrin MUOTO -tuotteita | Kampaamo-myymälä Clips</g:title>
             <g:description>Cutrinin MUOTO -sarjasta löydät kotimaiset muotoilutuotteet pohjoismaiselle hiukselle.</g:description>
@@ -931,23 +421,6 @@
             <g:custom_label_0>Kampaamo-myymälä Clips</g:custom_label_0>
             <g:custom_label_1>10,17 €</g:custom_label_1>
             <g:custom_label_2>10,17 €</g:custom_label_2>
-            <g:custom_label_3>12.10.–15.11.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-19752</g:id>
-            <g:title>Erä FR No Nothing -tuotteita | Kampaamo-myymälä Clips</g:title>
-            <g:description>Hajusteeton Four Reasons No Nothing ei sisällä yleisesti herkistäviä eikä ärsyttäviä raaka-aineita, joten sarjan tuotteet sopivat herkkäihoisten lisäksi kaikille, jotka tahtovat vähentää elimistönsä hajuste- ja kemikaalikuormitusta.</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/kampaamo-myymala-clips</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/05/FR-No-Nothing-ryhma-2026.jpg</g:image_link>
-            <g:price>14.95 EUR</g:price>
-            <g:sale_price>8.97 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Kampaamo-myymälä Clips</g:brand>
-            <g:product_type>Tarjoukset &gt; Kauneus ja hyvinvointi</g:product_type>
-            <g:custom_label_0>Kampaamo-myymälä Clips</g:custom_label_0>
-            <g:custom_label_1>8,97 €</g:custom_label_1>
-            <g:custom_label_2>9,57 €</g:custom_label_2>
             <g:custom_label_3>12.10.–15.11.2026</g:custom_label_3>
     </item>
     <item>
@@ -968,22 +441,6 @@
             <g:custom_label_3>12.10.–15.11.2026</g:custom_label_3>
     </item>
     <item>
-            <g:id>offer-30275</g:id>
-            <g:title>Glitter Lsukku | Euro Moda</g:title>
-            <g:description>useita värejä</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/08/95ef6d9a-f04c-4388-8a92-9c272a159a85.jpeg</g:image_link>
-            <g:price>49.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>49 €</g:custom_label_1>
-            <g:custom_label_2>49 €</g:custom_label_2>
-            <g:custom_label_3>11.10.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
             <g:id>offer-33767</g:id>
             <g:title>NOMINATION ITALY palat | Laatukoru</g:title>
             <g:description>Suositut NOMINATION palat Willan myymälästä.Tervetuloa.</g:description>
@@ -997,73 +454,6 @@
             <g:custom_label_0>Laatukoru</g:custom_label_0>
             <g:custom_label_1>27 €</g:custom_label_1>
             <g:custom_label_3>5.10.–1.11.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-34895</g:id>
-            <g:title>Goldwell Dualsenses | Hairlekiini</g:title>
-            <g:description>Nyt kaikki Goldwell dualsenses Shampoo ja hoitotuotteet -30%. Tarjous voimassa niin kauan kun tavaraa riittää. (Tuotesarja uudistuu)</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/hairlekiini</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/08/original-400C059F-4404-4B90-979D-8F9F50A3221D.jpeg</g:image_link>
-            <g:price>19.20 EUR</g:price>
-            <g:sale_price>13.44 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Hairlekiini</g:brand>
-            <g:product_type>Tarjoukset &gt; Kauneus ja hyvinvointi</g:product_type>
-            <g:custom_label_0>Hairlekiini</g:custom_label_0>
-            <g:custom_label_1>13,44 €</g:custom_label_1>
-            <g:custom_label_2>17,29 €</g:custom_label_2>
-            <g:custom_label_3>5.10.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-29261</g:id>
-            <g:title>Magneettiset suojakuoret | Fonum</g:title>
-            <g:description>Magneettiset suojakuoret tarjoavat täydellisen yhdistelmän suojaa, käytännöllisyyttä ja tyylikkyyttä. Fonumilta löydät magneettisia suojakuoria eri väreissä iPhone 12-18 -sarjan malleille sekä useille Android-puhelimille.</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/fonum</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/09/fonum_kktuote_1080x1080.jpg</g:image_link>
-            <g:price>24.99 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Fonum</g:brand>
-            <g:product_type>Tarjoukset &gt; Palvelut</g:product_type>
-            <g:custom_label_0>Fonum</g:custom_label_0>
-            <g:custom_label_1>24,99 €</g:custom_label_1>
-            <g:custom_label_2>24,99 €</g:custom_label_2>
-            <g:custom_label_3>1.10.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-30189</g:id>
-            <g:title>Four Reasons The Original Take Away Color -30% | Hairlekiini</g:title>
-            <g:description>Four Reasons The Original Take Away Color -30%. Normaali hinta 14,90€ (alennuksen jälkeen 10,43€).</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/hairlekiini</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/08/medium_FR-TAC-Group-all-1.jpg</g:image_link>
-            <g:price>14.90 EUR</g:price>
-            <g:sale_price>10.43 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Hairlekiini</g:brand>
-            <g:product_type>Tarjoukset &gt; Kauneus ja hyvinvointi</g:product_type>
-            <g:custom_label_0>Hairlekiini</g:custom_label_0>
-            <g:custom_label_1>10,43 €</g:custom_label_1>
-            <g:custom_label_2>10,43 €</g:custom_label_2>
-            <g:custom_label_3>1.10.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-35435</g:id>
-            <g:title>Sävytys ja Föönaus | Hairlekiini</g:title>
-            <g:description>Lokakuun ajan parturi-kampaamo Hairlekiinistä sävytys ja föönaus tarjoushintaan! Lyhyet: 67€ (norm. 82€) Puolipitkät: 77€ (norm. 92€) Pitkät: 87€ (norm. 87€</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/hairlekiini</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/09/a99a2ae0-d7c0-45ed-9ff8-64c207b54ef9.jpeg</g:image_link>
-            <g:price>82.00 EUR</g:price>
-            <g:sale_price>67.00 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Hairlekiini</g:brand>
-            <g:product_type>Tarjoukset &gt; Kauneus ja hyvinvointi</g:product_type>
-            <g:custom_label_0>Hairlekiini</g:custom_label_0>
-            <g:custom_label_1>67 €</g:custom_label_1>
-            <g:custom_label_2>87 €</g:custom_label_2>
-            <g:custom_label_3>1.10.–31.10.2026</g:custom_label_3>
     </item>
     <item>
             <g:id>offer-35058</g:id>
@@ -1081,39 +471,6 @@
             <g:custom_label_1>39,90 €</g:custom_label_1>
             <g:custom_label_2>39,90 €</g:custom_label_2>
             <g:custom_label_3>30.10.–15.11.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-34900</g:id>
-            <g:title>Four Reasons Base | Hairlekiini</g:title>
-            <g:description>Four Reasons Base tuotteet -25%.</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/hairlekiini</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/08/FRBase-templates_06_1080-x-1350.jpg</g:image_link>
-            <g:price>19.90 EUR</g:price>
-            <g:sale_price>14.93 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Hairlekiini</g:brand>
-            <g:product_type>Tarjoukset &gt; Kauneus ja hyvinvointi</g:product_type>
-            <g:custom_label_0>Hairlekiini</g:custom_label_0>
-            <g:custom_label_1>14,93 €</g:custom_label_1>
-            <g:custom_label_2>26,18 €</g:custom_label_2>
-            <g:custom_label_3>1.10.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-35379</g:id>
-            <g:title>SWAROVSKI Hyperbola bangle rannekello kristallit 5689432 | Laatukoru</g:title>
-            <g:description>Swarovski Hyberbola bangle -rannekellossa on tyylikäs muotoilu, jossa kehys ja ranneke yhdistyvät toisiinsa. Kehyksen ja rannekkeen yhdistelmässä on 176 kirkasta prinsessa- ja pyöreähiontaista kristallia. Vaaleassa kellotaulussa on kirkkaat kristallit ja Swarovskin joutsenlogo. Kellon vesitiiveysluokka on 50 m ja kellossa on kvartsikoneisto. Tyylikäs Swarovski Hyperbola -malliston kello sopii yhdistettäväksi muiden Swarovski-korujen kanssa. Tervetuloa myymälään,Willan 3 krs.</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/laatukoru</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/09/Swarovski_Hyperbola_bangle_rannekello_hopeanvari_ja_kirkkaat_kristallit_5689432_700x.webp</g:image_link>
-            <g:price>350.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Laatukoru</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Laatukoru</g:custom_label_0>
-            <g:custom_label_1>350 €</g:custom_label_1>
-            <g:custom_label_2>350 €</g:custom_label_2>
-            <g:custom_label_3>24.9.–31.10.2026</g:custom_label_3>
     </item>
     <item>
             <g:id>offer-35384</g:id>
@@ -1212,108 +569,6 @@
             <g:custom_label_3>29.8.–31.12.2026</g:custom_label_3>
     </item>
     <item>
-            <g:id>offer-35063</g:id>
-            <g:title>Catmandoo Capella | Click Shoes</g:title>
-            <g:description>Vedenpitävä. Naisille beige ja miehille graniitin harmaa värinen</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/click-shoes</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/08/Capella-bei.jpg</g:image_link>
-            <g:price>69.90 EUR</g:price>
-            <g:sale_price>59.90 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Click Shoes</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Click Shoes</g:custom_label_0>
-            <g:custom_label_1>59,90 €</g:custom_label_1>
-            <g:custom_label_2>59,90 €</g:custom_label_2>
-            <g:custom_label_3>25.8.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-35065</g:id>
-            <g:title>Catmandoo Chandler | Click Shoes</g:title>
-            <g:description>Miehille ruskea ja musta kävelykenkä</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/click-shoes</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/08/CHANDLER-CAM.jpg</g:image_link>
-            <g:price>49.90 EUR</g:price>
-            <g:sale_price>39.90 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Click Shoes</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Click Shoes</g:custom_label_0>
-            <g:custom_label_1>39,90 €</g:custom_label_1>
-            <g:custom_label_2>39,90 €</g:custom_label_2>
-            <g:custom_label_3>25.8.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-35067</g:id>
-            <g:title>Catmandoo Lavon | Click Shoes</g:title>
-            <g:description>Miehille vedenkestävä nilkkuri karvavuorella. Värit ruskea ja musta</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/click-shoes</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/08/LAVON-CAM.jpg</g:image_link>
-            <g:price>79.90 EUR</g:price>
-            <g:sale_price>69.90 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Click Shoes</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Click Shoes</g:custom_label_0>
-            <g:custom_label_1>69,90 €</g:custom_label_1>
-            <g:custom_label_2>69,90 €</g:custom_label_2>
-            <g:custom_label_3>25.8.–15.11.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-35048</g:id>
-            <g:title>2MOONS KYLA | Click Shoes</g:title>
-            <g:description>Paksupohjainen nilkkuri. Musta ja ruskea.</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/click-shoes</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/08/KYLA-BROWN.jpg</g:image_link>
-            <g:price>79.90 EUR</g:price>
-            <g:sale_price>49.90 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Click Shoes</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Click Shoes</g:custom_label_0>
-            <g:custom_label_1>49,90 €</g:custom_label_1>
-            <g:custom_label_2>49,90 €</g:custom_label_2>
-            <g:custom_label_3>25.8.–15.11.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-35065</g:id>
-            <g:title>Catmandoo Chandler | Click Shoes</g:title>
-            <g:description>Miehille ruskea ja musta kävelykenkä</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/click-shoes</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/08/CHANDLER-CAM.jpg</g:image_link>
-            <g:price>49.90 EUR</g:price>
-            <g:sale_price>39.90 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Click Shoes</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Click Shoes</g:custom_label_0>
-            <g:custom_label_1>39,90 €</g:custom_label_1>
-            <g:custom_label_2>39,90 €</g:custom_label_2>
-            <g:custom_label_3>25.8.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-35067</g:id>
-            <g:title>Catmandoo Lavon | Click Shoes</g:title>
-            <g:description>Miehille vedenkestävä nilkkuri karvavuorella. Värit ruskea ja musta</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/click-shoes</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/08/LAVON-CAM.jpg</g:image_link>
-            <g:price>79.90 EUR</g:price>
-            <g:sale_price>69.90 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Click Shoes</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Click Shoes</g:custom_label_0>
-            <g:custom_label_1>69,90 €</g:custom_label_1>
-            <g:custom_label_2>69,90 €</g:custom_label_2>
-            <g:custom_label_3>25.8.–15.11.2026</g:custom_label_3>
-    </item>
-    <item>
             <g:id>offer-35048</g:id>
             <g:title>2MOONS KYLA | Click Shoes</g:title>
             <g:description>Paksupohjainen nilkkuri. Musta ja ruskea.</g:description>
@@ -1345,6 +600,40 @@
             <g:custom_label_0>Click Shoes</g:custom_label_0>
             <g:custom_label_1>59,90 €</g:custom_label_1>
             <g:custom_label_2>59,90 €</g:custom_label_2>
+            <g:custom_label_3>25.8.–15.11.2026</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>offer-35054</g:id>
+            <g:title>2MOONS KRISTIE | Click Shoes</g:title>
+            <g:description>Musta venyke nilkkuri</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/click-shoes</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/08/KRISTIE-BLACK.jpg</g:image_link>
+            <g:price>79.90 EUR</g:price>
+            <g:sale_price>49.90 EUR</g:sale_price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Click Shoes</g:brand>
+            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
+            <g:custom_label_0>Click Shoes</g:custom_label_0>
+            <g:custom_label_1>49,90 €</g:custom_label_1>
+            <g:custom_label_2>49,90 €</g:custom_label_2>
+            <g:custom_label_3>25.8.–15.11.2026</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>offer-35067</g:id>
+            <g:title>Catmandoo Lavon | Click Shoes</g:title>
+            <g:description>Miehille vedenkestävä nilkkuri karvavuorella. Värit ruskea ja musta</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/click-shoes</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/08/LAVON-CAM.jpg</g:image_link>
+            <g:price>79.90 EUR</g:price>
+            <g:sale_price>69.90 EUR</g:sale_price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Click Shoes</g:brand>
+            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
+            <g:custom_label_0>Click Shoes</g:custom_label_0>
+            <g:custom_label_1>69,90 €</g:custom_label_1>
+            <g:custom_label_2>69,90 €</g:custom_label_2>
             <g:custom_label_3>25.8.–15.11.2026</g:custom_label_3>
     </item>
     <item>
@@ -1428,23 +717,6 @@
             <g:custom_label_3>11.5.–31.12.2026</g:custom_label_3>
     </item>
     <item>
-            <g:id>offer-33759</g:id>
-            <g:title>Iso Hamam-kylpypyyhe | Lyhtytalo</g:title>
-            <g:description>Poistuva malli, nyt vain 5 € (norm. 14,90 €)! ECO-puuvillaa, koko 90×170 cm. Useampi eri malli.</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/lyhtytalo</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/09/hamam-pyyhe-aura-eco-vihrea-90x170cm-jarvimaisema-willa.jpg</g:image_link>
-            <g:price>14.90 EUR</g:price>
-            <g:sale_price>5.00 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Lyhtytalo</g:brand>
-            <g:product_type>Tarjoukset &gt; Koti ja sisustaminen</g:product_type>
-            <g:custom_label_0>Lyhtytalo</g:custom_label_0>
-            <g:custom_label_1>5 €</g:custom_label_1>
-            <g:custom_label_2>5 €</g:custom_label_2>
-            <g:custom_label_3>4.4.–31.10.2026</g:custom_label_3>
-    </item>
-    <item>
             <g:id>offer-33704</g:id>
             <g:title>Uuniperuna 1 tai 2 täytettä | Robert’s Coffee</g:title>
             <g:description>Kuvittele höyryävän kuuma, sisältä pehmeä ja ulkoa rapea uuniperuna… 🥔 Täytettynä runsailla, herkullisilla täytteillä – raikkaalla salaatilla ja täyteläisellä kastikkeella.</g:description>
@@ -1459,22 +731,6 @@
             <g:custom_label_1>11,50 €</g:custom_label_1>
             <g:custom_label_2>13,70 €</g:custom_label_2>
             <g:custom_label_3>30.3.–31.12.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-33325</g:id>
-            <g:title>Pitkä Subi ja juoma lounasmaksuedulla | Subway</g:title>
-            <g:description>Lounasmaksutavoilla (e-passi, Edenred, Smartum) mikä tahansa Rakenna omasi Subi 30 cm + 0,33 L tölkkijuoma 12,90 €. Voimassa kaikkina aukioloaikoina, myös viikonloppuisin.</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/subway</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/02/subway-lounasetu-2026.png</g:image_link>
-            <g:price>12.90 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Subway</g:brand>
-            <g:product_type>Tarjoukset &gt; Ruoka ja juoma</g:product_type>
-            <g:custom_label_0>Subway</g:custom_label_0>
-            <g:custom_label_1>12,90 €</g:custom_label_1>
-            <g:custom_label_2>12,90 €</g:custom_label_2>
-            <g:custom_label_3>23.2.–31.12.2026</g:custom_label_3>
     </item>
     <item>
             <g:id>offer-33328</g:id>
@@ -1514,6 +770,22 @@
             <g:description>Lounastarjous Todella pitkä lounaamme sisältää 0,4L hanajuoman, 30 cm Subin täytteenä valintasi mukaan Kana Fajita, Spicy Italian tai Tonnikala, herkullisen keksin sekä kahvin hintaan 12,90 € Lounastarjouksemme on voimassa arkisin (ma-pe) kello 10:30-14:30</g:description>
             <g:link>https://www.kauppakeskuswilla.fi/liike/subway</g:link>
             <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/02/Subway-lounas-1.jpg</g:image_link>
+            <g:price>12.90 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Subway</g:brand>
+            <g:product_type>Tarjoukset &gt; Ruoka ja juoma</g:product_type>
+            <g:custom_label_0>Subway</g:custom_label_0>
+            <g:custom_label_1>12,90 €</g:custom_label_1>
+            <g:custom_label_2>12,90 €</g:custom_label_2>
+            <g:custom_label_3>23.2.–31.12.2026</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>offer-33325</g:id>
+            <g:title>Pitkä Subi ja juoma lounasmaksuedulla | Subway</g:title>
+            <g:description>Lounasmaksutavoilla (e-passi, Edenred, Smartum) mikä tahansa Rakenna omasi Subi 30 cm + 0,33 L tölkkijuoma 12,90 €. Voimassa kaikkina aukioloaikoina, myös viikonloppuisin.</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/subway</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/02/subway-lounasetu-2026.png</g:image_link>
             <g:price>12.90 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
