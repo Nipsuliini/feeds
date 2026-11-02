@@ -4,7 +4,7 @@
     <title>kauppakeskuswilla</title>
     <link>https://www.kauppakeskuswilla.fi/</link>
     <description>Product feed – kauppakeskuswilla</description>
-    <lastBuildDate>Sun, 01 Nov 2026 01:04:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 01:38:32 +0000</lastBuildDate>
     <item>
             <g:id>offer-33678</g:id>
             <g:title>Powerbankit | Fonum</g:title>
@@ -35,39 +35,6 @@
             <g:custom_label_1>20 €</g:custom_label_1>
             <g:custom_label_2>20 €</g:custom_label_2>
             <g:custom_label_3>31.10.–8.11.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-35729</g:id>
-            <g:title>Tossut Miehille | Click Shoes</g:title>
-            <g:description>Karvavuoriset tossut miehille</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/click-shoes</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/10/Miesten-aamutossut.jpg</g:image_link>
-            <g:price>59.90 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Click Shoes</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Click Shoes</g:custom_label_0>
-            <g:custom_label_1>59,90 €</g:custom_label_1>
-            <g:custom_label_2>59,90 €</g:custom_label_2>
-            <g:custom_label_3>30.10.–15.11.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-35732</g:id>
-            <g:title>2Moons Kordelia | Click Shoes</g:title>
-            <g:description>klassinen nilkkuri mustana ja ruskeana</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/click-shoes</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/10/KORDELIA.jpg</g:image_link>
-            <g:price>79.90 EUR</g:price>
-            <g:sale_price>49.90 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Click Shoes</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Click Shoes</g:custom_label_0>
-            <g:custom_label_1>49,90 €</g:custom_label_1>
-            <g:custom_label_2>49,90 €</g:custom_label_2>
-            <g:custom_label_3>30.10.–15.11.2026</g:custom_label_3>
     </item>
     <item>
             <g:id>offer-35734</g:id>
@@ -102,6 +69,22 @@
             <g:custom_label_1>29,90 €</g:custom_label_1>
             <g:custom_label_2>29,90 €</g:custom_label_2>
             <g:custom_label_3>30.10.–15.11.2026</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>offer-9309</g:id>
+            <g:title>Käsineet | Euro Moda</g:title>
+            <g:description>Eri värejä</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2021/10/384D4488-649F-4BC2-BAE0-3117D7ACCFBB.jpeg</g:image_link>
+            <g:price>20.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Euro Moda</g:brand>
+            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
+            <g:custom_label_0>Euro Moda</g:custom_label_0>
+            <g:custom_label_1>20 €</g:custom_label_1>
+            <g:custom_label_2>20 €</g:custom_label_2>
+            <g:custom_label_3>30.10.–8.11.2026</g:custom_label_3>
     </item>
     <item>
             <g:id>offer-35722</g:id>
@@ -154,20 +137,37 @@
             <g:custom_label_3>30.10.–15.11.2026</g:custom_label_3>
     </item>
     <item>
-            <g:id>offer-9309</g:id>
-            <g:title>Käsineet | Euro Moda</g:title>
-            <g:description>Eri värejä</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2021/10/384D4488-649F-4BC2-BAE0-3117D7ACCFBB.jpeg</g:image_link>
-            <g:price>20.00 EUR</g:price>
+            <g:id>offer-35729</g:id>
+            <g:title>Tossut Miehille | Click Shoes</g:title>
+            <g:description>Karvavuoriset tossut miehille</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/click-shoes</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/10/Miesten-aamutossut.jpg</g:image_link>
+            <g:price>59.90 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
+            <g:brand>Click Shoes</g:brand>
             <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>20 €</g:custom_label_1>
-            <g:custom_label_2>20 €</g:custom_label_2>
-            <g:custom_label_3>30.10.–8.11.2026</g:custom_label_3>
+            <g:custom_label_0>Click Shoes</g:custom_label_0>
+            <g:custom_label_1>59,90 €</g:custom_label_1>
+            <g:custom_label_2>59,90 €</g:custom_label_2>
+            <g:custom_label_3>30.10.–15.11.2026</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>offer-35732</g:id>
+            <g:title>2Moons Kordelia | Click Shoes</g:title>
+            <g:description>klassinen nilkkuri mustana ja ruskeana</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/click-shoes</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/10/KORDELIA.jpg</g:image_link>
+            <g:price>79.90 EUR</g:price>
+            <g:sale_price>49.90 EUR</g:sale_price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Click Shoes</g:brand>
+            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
+            <g:custom_label_0>Click Shoes</g:custom_label_0>
+            <g:custom_label_1>49,90 €</g:custom_label_1>
+            <g:custom_label_2>49,90 €</g:custom_label_2>
+            <g:custom_label_3>30.10.–15.11.2026</g:custom_label_3>
     </item>
     <item>
             <g:id>offer-35694</g:id>
@@ -204,20 +204,36 @@
             <g:custom_label_3>26.10.–8.11.2026</g:custom_label_3>
     </item>
     <item>
-            <g:id>offer-28949</g:id>
-            <g:title>Kuukauden patonki | Picnic</g:title>
-            <g:description>Kuukauden patonki Picnic äpillä hintaan 6,90€</g:description>
+            <g:id>offer-32248</g:id>
+            <g:title>Juoma aterian ostajalle 2,50€ | Picnic</g:title>
+            <g:description>Ostaessasi patongin, salaatin tai uuniperunan, 0,33 l juoma / kahvi tarjoushintaan 2,50 €</g:description>
             <g:link>https://www.kauppakeskuswilla.fi/liike/picnic</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2024/12/taytetyt-patongit.jpg</g:image_link>
-            <g:price>8.50 EUR</g:price>
-            <g:sale_price>6.90 EUR</g:sale_price>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2025/11/Juoma-aterian-ostajalle.png</g:image_link>
+            <g:price>3.20 EUR</g:price>
+            <g:sale_price>2.50 EUR</g:sale_price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
             <g:brand>Picnic</g:brand>
             <g:product_type>Tarjoukset &gt; Ruoka ja juoma</g:product_type>
             <g:custom_label_0>Picnic</g:custom_label_0>
-            <g:custom_label_1>6,90 €</g:custom_label_1>
-            <g:custom_label_2>6,90 €</g:custom_label_2>
+            <g:custom_label_1>2,50 €</g:custom_label_1>
+            <g:custom_label_2>2,50 €</g:custom_label_2>
+            <g:custom_label_3>19.10.–31.12.2026</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>offer-32250</g:id>
+            <g:title>Patonkiateria | Picnic</g:title>
+            <g:description>Valitsemasi patonki, pieni salaatti sekä 0,33 l virvoitusjuoma yhteishintaan 14,00 €</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/picnic</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2025/11/Patonkiateria.png</g:image_link>
+            <g:price>14.00 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Picnic</g:brand>
+            <g:product_type>Tarjoukset &gt; Ruoka ja juoma</g:product_type>
+            <g:custom_label_0>Picnic</g:custom_label_0>
+            <g:custom_label_1>14 €</g:custom_label_1>
+            <g:custom_label_2>14 €</g:custom_label_2>
             <g:custom_label_3>19.10.–31.12.2026</g:custom_label_3>
     </item>
     <item>
@@ -238,20 +254,20 @@
             <g:custom_label_3>19.10.2026–31.1.2027</g:custom_label_3>
     </item>
     <item>
-            <g:id>offer-32248</g:id>
-            <g:title>Juoma aterian ostajalle 2,50€ | Picnic</g:title>
-            <g:description>Ostaessasi patongin, salaatin tai uuniperunan, 0,33 l juoma / kahvi tarjoushintaan 2,50 €</g:description>
+            <g:id>offer-28949</g:id>
+            <g:title>Kuukauden patonki | Picnic</g:title>
+            <g:description>Kuukauden patonki Picnic äpillä hintaan 6,90€</g:description>
             <g:link>https://www.kauppakeskuswilla.fi/liike/picnic</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2025/11/Juoma-aterian-ostajalle.png</g:image_link>
-            <g:price>3.20 EUR</g:price>
-            <g:sale_price>2.50 EUR</g:sale_price>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2024/12/taytetyt-patongit.jpg</g:image_link>
+            <g:price>8.50 EUR</g:price>
+            <g:sale_price>6.90 EUR</g:sale_price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
             <g:brand>Picnic</g:brand>
             <g:product_type>Tarjoukset &gt; Ruoka ja juoma</g:product_type>
             <g:custom_label_0>Picnic</g:custom_label_0>
-            <g:custom_label_1>2,50 €</g:custom_label_1>
-            <g:custom_label_2>2,50 €</g:custom_label_2>
+            <g:custom_label_1>6,90 €</g:custom_label_1>
+            <g:custom_label_2>6,90 €</g:custom_label_2>
             <g:custom_label_3>19.10.–31.12.2026</g:custom_label_3>
     </item>
     <item>
@@ -272,20 +288,21 @@
             <g:custom_label_3>19.10.2026–31.1.2027</g:custom_label_3>
     </item>
     <item>
-            <g:id>offer-32250</g:id>
-            <g:title>Patonkiateria | Picnic</g:title>
-            <g:description>Valitsemasi patonki, pieni salaatti sekä 0,33 l virvoitusjuoma yhteishintaan 14,00 €</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/picnic</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2025/11/Patonkiateria.png</g:image_link>
-            <g:price>14.00 EUR</g:price>
+            <g:id>offer-35578</g:id>
+            <g:title>Rieker Kävelykenkiä | Click Shoes</g:title>
+            <g:description>Riekerin kävelykenkiä miehille nyt edullisesti.</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/click-shoes</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/10/WhatsApp-Image-2026-08-04-at-13.11.44.jpeg</g:image_link>
+            <g:price>119.90 EUR</g:price>
+            <g:sale_price>99.90 EUR</g:sale_price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>Picnic</g:brand>
-            <g:product_type>Tarjoukset &gt; Ruoka ja juoma</g:product_type>
-            <g:custom_label_0>Picnic</g:custom_label_0>
-            <g:custom_label_1>14 €</g:custom_label_1>
-            <g:custom_label_2>14 €</g:custom_label_2>
-            <g:custom_label_3>19.10.–31.12.2026</g:custom_label_3>
+            <g:brand>Click Shoes</g:brand>
+            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
+            <g:custom_label_0>Click Shoes</g:custom_label_0>
+            <g:custom_label_1>99,90 €</g:custom_label_1>
+            <g:custom_label_2>99,90 €</g:custom_label_2>
+            <g:custom_label_3>13.10.–15.11.2026</g:custom_label_3>
     </item>
     <item>
             <g:id>offer-34828</g:id>
@@ -305,21 +322,55 @@
             <g:custom_label_3>13.10.–15.11.2026</g:custom_label_3>
     </item>
     <item>
-            <g:id>offer-35578</g:id>
-            <g:title>Rieker Kävelykenkiä | Click Shoes</g:title>
-            <g:description>Riekerin kävelykenkiä miehille nyt edullisesti.</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/click-shoes</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/10/WhatsApp-Image-2026-08-04-at-13.11.44.jpeg</g:image_link>
-            <g:price>119.90 EUR</g:price>
-            <g:sale_price>99.90 EUR</g:sale_price>
+            <g:id>offer-6364</g:id>
+            <g:title>Erä Cutrin AINOA -tuotteita | Kampaamo-myymälä Clips</g:title>
+            <g:description>Uudistunut CUTRIN AINOA tarjoaa räätälöityjä ratkaisuja kaikille hiustyypeille: syväkosteuttaen, vahvistaen ja suojaten hiuksiasi samalla korostaen niiden luonnollista kauneutta.</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/kampaamo-myymala-clips</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/03/AINOA-ryhma-pieni-2026.jpg</g:image_link>
+            <g:price>16.95 EUR</g:price>
+            <g:sale_price>10.17 EUR</g:sale_price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
-            <g:brand>Click Shoes</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Click Shoes</g:custom_label_0>
-            <g:custom_label_1>99,90 €</g:custom_label_1>
-            <g:custom_label_2>99,90 €</g:custom_label_2>
-            <g:custom_label_3>13.10.–15.11.2026</g:custom_label_3>
+            <g:brand>Kampaamo-myymälä Clips</g:brand>
+            <g:product_type>Tarjoukset &gt; Kauneus ja hyvinvointi</g:product_type>
+            <g:custom_label_0>Kampaamo-myymälä Clips</g:custom_label_0>
+            <g:custom_label_1>10,17 €</g:custom_label_1>
+            <g:custom_label_2>11,37 €</g:custom_label_2>
+            <g:custom_label_3>12.10.–15.11.2026</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>offer-8674</g:id>
+            <g:title>Erä Cutrin MUOTO -tuotteita | Kampaamo-myymälä Clips</g:title>
+            <g:description>Cutrinin MUOTO -sarjasta löydät kotimaiset muotoilutuotteet pohjoismaiselle hiukselle.</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/kampaamo-myymala-clips</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/05/Muoto-ryhma-2026.png</g:image_link>
+            <g:price>16.95 EUR</g:price>
+            <g:sale_price>10.17 EUR</g:sale_price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Kampaamo-myymälä Clips</g:brand>
+            <g:product_type>Tarjoukset &gt; Kauneus ja hyvinvointi</g:product_type>
+            <g:custom_label_0>Kampaamo-myymälä Clips</g:custom_label_0>
+            <g:custom_label_1>10,17 €</g:custom_label_1>
+            <g:custom_label_2>10,17 €</g:custom_label_2>
+            <g:custom_label_3>12.10.–15.11.2026</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>offer-8676</g:id>
+            <g:title>Erä Paul Mitchell -hiustuotteita | Kampaamo-myymälä Clips</g:title>
+            <g:description>Paul Mitchell on sarja ammattimaisia hiustuotteita, jotka ovat kampaajien suunnittelemia, eettisesti tuotettuja ja kuluttajien arvostamia. Laajassa valikoimassa yhdistyvät yli 40-vuotisen uran aikana kertynyt tekninen osaaminen ja luonnonmukaisuus.</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/kampaamo-myymala-clips</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/08/Paul-Mitchell-ryhma-UUSI-elo-2026.png</g:image_link>
+            <g:price>24.95 EUR</g:price>
+            <g:sale_price>17.46 EUR</g:sale_price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Kampaamo-myymälä Clips</g:brand>
+            <g:product_type>Tarjoukset &gt; Kauneus ja hyvinvointi</g:product_type>
+            <g:custom_label_0>Kampaamo-myymälä Clips</g:custom_label_0>
+            <g:custom_label_1>17,46 €</g:custom_label_1>
+            <g:custom_label_2>27,96 €</g:custom_label_2>
+            <g:custom_label_3>12.10.–15.11.2026</g:custom_label_3>
     </item>
     <item>
             <g:id>offer-19749</g:id>
@@ -390,72 +441,6 @@
             <g:custom_label_3>12.10.–15.11.2026</g:custom_label_3>
     </item>
     <item>
-            <g:id>offer-6364</g:id>
-            <g:title>Erä Cutrin AINOA -tuotteita | Kampaamo-myymälä Clips</g:title>
-            <g:description>Uudistunut CUTRIN AINOA tarjoaa räätälöityjä ratkaisuja kaikille hiustyypeille: syväkosteuttaen, vahvistaen ja suojaten hiuksiasi samalla korostaen niiden luonnollista kauneutta.</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/kampaamo-myymala-clips</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/03/AINOA-ryhma-pieni-2026.jpg</g:image_link>
-            <g:price>16.95 EUR</g:price>
-            <g:sale_price>10.17 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Kampaamo-myymälä Clips</g:brand>
-            <g:product_type>Tarjoukset &gt; Kauneus ja hyvinvointi</g:product_type>
-            <g:custom_label_0>Kampaamo-myymälä Clips</g:custom_label_0>
-            <g:custom_label_1>10,17 €</g:custom_label_1>
-            <g:custom_label_2>11,37 €</g:custom_label_2>
-            <g:custom_label_3>12.10.–15.11.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-8674</g:id>
-            <g:title>Erä Cutrin MUOTO -tuotteita | Kampaamo-myymälä Clips</g:title>
-            <g:description>Cutrinin MUOTO -sarjasta löydät kotimaiset muotoilutuotteet pohjoismaiselle hiukselle.</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/kampaamo-myymala-clips</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/05/Muoto-ryhma-2026.png</g:image_link>
-            <g:price>16.95 EUR</g:price>
-            <g:sale_price>10.17 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Kampaamo-myymälä Clips</g:brand>
-            <g:product_type>Tarjoukset &gt; Kauneus ja hyvinvointi</g:product_type>
-            <g:custom_label_0>Kampaamo-myymälä Clips</g:custom_label_0>
-            <g:custom_label_1>10,17 €</g:custom_label_1>
-            <g:custom_label_2>10,17 €</g:custom_label_2>
-            <g:custom_label_3>12.10.–15.11.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-8676</g:id>
-            <g:title>Erä Paul Mitchell -hiustuotteita | Kampaamo-myymälä Clips</g:title>
-            <g:description>Paul Mitchell on sarja ammattimaisia hiustuotteita, jotka ovat kampaajien suunnittelemia, eettisesti tuotettuja ja kuluttajien arvostamia. Laajassa valikoimassa yhdistyvät yli 40-vuotisen uran aikana kertynyt tekninen osaaminen ja luonnonmukaisuus.</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/kampaamo-myymala-clips</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/08/Paul-Mitchell-ryhma-UUSI-elo-2026.png</g:image_link>
-            <g:price>24.95 EUR</g:price>
-            <g:sale_price>17.46 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Kampaamo-myymälä Clips</g:brand>
-            <g:product_type>Tarjoukset &gt; Kauneus ja hyvinvointi</g:product_type>
-            <g:custom_label_0>Kampaamo-myymälä Clips</g:custom_label_0>
-            <g:custom_label_1>17,46 €</g:custom_label_1>
-            <g:custom_label_2>27,96 €</g:custom_label_2>
-            <g:custom_label_3>12.10.–15.11.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-33767</g:id>
-            <g:title>NOMINATION ITALY palat | Laatukoru</g:title>
-            <g:description>Suositut NOMINATION palat Willan myymälästä.Tervetuloa.</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/laatukoru</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/09/WILLITYS.jpg</g:image_link>
-            <g:price>27.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Laatukoru</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Laatukoru</g:custom_label_0>
-            <g:custom_label_1>27 €</g:custom_label_1>
-            <g:custom_label_3>5.10.–1.11.2026</g:custom_label_3>
-    </item>
-    <item>
             <g:id>offer-35058</g:id>
             <g:title>2MOONS MELINA ja MINAH | Click Shoes</g:title>
             <g:description>Ohut vuoriset nilkkurit useissa eri väreissä</g:description>
@@ -506,38 +491,6 @@
             <g:custom_label_3>22.9.–31.12.2026</g:custom_label_3>
     </item>
     <item>
-            <g:id>offer-35228</g:id>
-            <g:title>Juusto, Pekoni tai Kana Quesadilla | Kulmakonditoria</g:title>
-            <g:description>Muistatko Kulman Quesadillat? Nyt ne ovat taas täällä hetken aikaa! Valitse suosikkisi: juusto, kana tai pekoni. Päälle jalapeñoa, korianteria ja kevätsipulia. Ja tietenkin lisädippi kylkeen, jos siltä tuntuu. Joskus klassikko on klassikko ihan vain syystä. www.kulmis.menu tai tilaa ovelle: order.site/kulma</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/kulmakonditoria</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/09/0926QuesadillatWILLA.jpg</g:image_link>
-            <g:price>8.90 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Kulmakonditoria</g:brand>
-            <g:product_type>Tarjoukset &gt; Ruoka ja juoma</g:product_type>
-            <g:custom_label_0>Kulmakonditoria</g:custom_label_0>
-            <g:custom_label_1>8,90 €</g:custom_label_1>
-            <g:custom_label_2>8,90 €</g:custom_label_2>
-            <g:custom_label_3>7.9.–1.11.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-35230</g:id>
-            <g:title>Suklaakahvikakkupala | Kulmakonditoria</g:title>
-            <g:description>Kulma täyttää ensi kuussa 30 vuotta, joka tarkoittaa yhtä monta vuotta makumuistoja. Ja jotkut niistä ansaitsevat ehdottomasti uuden kierroksen. 💛 Tällä kertaa nostalgian makealta puolelta löytyy Suklaakahvikakku 5,90 € / pala. Suklaapohja ja kahvisuklaakuorrutus – yksinkertainen yhdistelmä, joka osuu suoraan ysärimuistoihin. www.kulmis.menu tai tilaa ovelle: order.site/kulma</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/kulmakonditoria</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/09/0926SuklaakahvikakkuWILLA.jpg</g:image_link>
-            <g:price>5.90 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Kulmakonditoria</g:brand>
-            <g:product_type>Tarjoukset &gt; Ruoka ja juoma</g:product_type>
-            <g:custom_label_0>Kulmakonditoria</g:custom_label_0>
-            <g:custom_label_1>5,90 €</g:custom_label_1>
-            <g:custom_label_2>5,90 €</g:custom_label_2>
-            <g:custom_label_3>7.9.–1.11.2026</g:custom_label_3>
-    </item>
-    <item>
             <g:id>offer-34565</g:id>
             <g:title>Silván Solitaire ovaali timanttisormus 1,50 ct labratimantilla 001815150KKLG | Laatukoru</g:title>
             <g:description>Näyttävä keltakultainen Silván-timanttisormus ovaali-hiotulla timantilla Upeassa Silván Solitaire timanttisormuksessa on näyttävä 1,50ct ovaali-hiottu timantti ja siro, trendikäs runko. Sormuksen runko on valmistettu kokonaan 14 karaatin kierrätetystä kullasta. Silván Solitaire ovaali-timanttisormus on hienostunut, trendikäs ja minimalistinen valinta nykypäivän morsiamelle. Lämpimästi tervetuloa tutustumaan myymälään.</g:description>
@@ -567,40 +520,6 @@
             <g:custom_label_0>Laatukoru</g:custom_label_0>
             <g:custom_label_1>160 €</g:custom_label_1>
             <g:custom_label_3>29.8.–31.12.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-35048</g:id>
-            <g:title>2MOONS KYLA | Click Shoes</g:title>
-            <g:description>Paksupohjainen nilkkuri. Musta ja ruskea.</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/click-shoes</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/08/KYLA-BROWN.jpg</g:image_link>
-            <g:price>79.90 EUR</g:price>
-            <g:sale_price>49.90 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Click Shoes</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Click Shoes</g:custom_label_0>
-            <g:custom_label_1>49,90 €</g:custom_label_1>
-            <g:custom_label_2>49,90 €</g:custom_label_2>
-            <g:custom_label_3>25.8.–15.11.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-35050</g:id>
-            <g:title>2MOONS AVATARA | Click Shoes</g:title>
-            <g:description>Kukkakuvioinen nilkkuri .Punainen ja ruskea.</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/click-shoes</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/08/AVATARA-RED.jpg</g:image_link>
-            <g:price>89.90 EUR</g:price>
-            <g:sale_price>59.90 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Click Shoes</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Click Shoes</g:custom_label_0>
-            <g:custom_label_1>59,90 €</g:custom_label_1>
-            <g:custom_label_2>59,90 €</g:custom_label_2>
-            <g:custom_label_3>25.8.–15.11.2026</g:custom_label_3>
     </item>
     <item>
             <g:id>offer-35054</g:id>
@@ -634,6 +553,40 @@
             <g:custom_label_0>Click Shoes</g:custom_label_0>
             <g:custom_label_1>69,90 €</g:custom_label_1>
             <g:custom_label_2>69,90 €</g:custom_label_2>
+            <g:custom_label_3>25.8.–15.11.2026</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>offer-35048</g:id>
+            <g:title>2MOONS KYLA | Click Shoes</g:title>
+            <g:description>Paksupohjainen nilkkuri. Musta ja ruskea.</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/click-shoes</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/08/KYLA-BROWN.jpg</g:image_link>
+            <g:price>79.90 EUR</g:price>
+            <g:sale_price>49.90 EUR</g:sale_price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Click Shoes</g:brand>
+            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
+            <g:custom_label_0>Click Shoes</g:custom_label_0>
+            <g:custom_label_1>49,90 €</g:custom_label_1>
+            <g:custom_label_2>49,90 €</g:custom_label_2>
+            <g:custom_label_3>25.8.–15.11.2026</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>offer-35050</g:id>
+            <g:title>2MOONS AVATARA | Click Shoes</g:title>
+            <g:description>Kukkakuvioinen nilkkuri .Punainen ja ruskea.</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/click-shoes</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/08/AVATARA-RED.jpg</g:image_link>
+            <g:price>89.90 EUR</g:price>
+            <g:sale_price>59.90 EUR</g:sale_price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Click Shoes</g:brand>
+            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
+            <g:custom_label_0>Click Shoes</g:custom_label_0>
+            <g:custom_label_1>59,90 €</g:custom_label_1>
+            <g:custom_label_2>59,90 €</g:custom_label_2>
             <g:custom_label_3>25.8.–15.11.2026</g:custom_label_3>
     </item>
     <item>
@@ -733,6 +686,22 @@
             <g:custom_label_3>30.3.–31.12.2026</g:custom_label_3>
     </item>
     <item>
+            <g:id>offer-33325</g:id>
+            <g:title>Pitkä Subi ja juoma lounasmaksuedulla | Subway</g:title>
+            <g:description>Lounasmaksutavoilla (e-passi, Edenred, Smartum) mikä tahansa Rakenna omasi Subi 30 cm + 0,33 L tölkkijuoma 12,90 €. Voimassa kaikkina aukioloaikoina, myös viikonloppuisin.</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/subway</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/02/subway-lounasetu-2026.png</g:image_link>
+            <g:price>12.90 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Subway</g:brand>
+            <g:product_type>Tarjoukset &gt; Ruoka ja juoma</g:product_type>
+            <g:custom_label_0>Subway</g:custom_label_0>
+            <g:custom_label_1>12,90 €</g:custom_label_1>
+            <g:custom_label_2>12,90 €</g:custom_label_2>
+            <g:custom_label_3>23.2.–31.12.2026</g:custom_label_3>
+    </item>
+    <item>
             <g:id>offer-33328</g:id>
             <g:title>Pitkä Subi ja juoma lounasmaksuedulla | Subway</g:title>
             <g:description>Lounasmaksutavoilla (e-passi, Edenred, Smartum) mikä tahansa 30 cm Subi suosituksemme (valmiiksi suunnitellut) tai Submelts listalta + 0,33 L tölkkijuoma 13,50 €. Voimassa kaikkina aukioloaikoina, myös viikonloppuisin.</g:description>
@@ -770,22 +739,6 @@
             <g:description>Lounastarjous Todella pitkä lounaamme sisältää 0,4L hanajuoman, 30 cm Subin täytteenä valintasi mukaan Kana Fajita, Spicy Italian tai Tonnikala, herkullisen keksin sekä kahvin hintaan 12,90 € Lounastarjouksemme on voimassa arkisin (ma-pe) kello 10:30-14:30</g:description>
             <g:link>https://www.kauppakeskuswilla.fi/liike/subway</g:link>
             <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/02/Subway-lounas-1.jpg</g:image_link>
-            <g:price>12.90 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Subway</g:brand>
-            <g:product_type>Tarjoukset &gt; Ruoka ja juoma</g:product_type>
-            <g:custom_label_0>Subway</g:custom_label_0>
-            <g:custom_label_1>12,90 €</g:custom_label_1>
-            <g:custom_label_2>12,90 €</g:custom_label_2>
-            <g:custom_label_3>23.2.–31.12.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-33325</g:id>
-            <g:title>Pitkä Subi ja juoma lounasmaksuedulla | Subway</g:title>
-            <g:description>Lounasmaksutavoilla (e-passi, Edenred, Smartum) mikä tahansa Rakenna omasi Subi 30 cm + 0,33 L tölkkijuoma 12,90 €. Voimassa kaikkina aukioloaikoina, myös viikonloppuisin.</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/subway</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/02/subway-lounasetu-2026.png</g:image_link>
             <g:price>12.90 EUR</g:price>
             <g:availability>in stock</g:availability>
             <g:condition>new</g:condition>
