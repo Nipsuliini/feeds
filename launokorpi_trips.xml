@@ -4,7 +4,7 @@
     <title>launokorpi</title>
     <link>https://launokorpi.com/</link>
     <description>Travel catalog feed – launokorpi</description>
-    <lastBuildDate>Thu, 05 Nov 2026 02:17:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 02:19:34 +0000</lastBuildDate>
     <item>
       <g:id>martin-markkinat-tallinnassa-2026</g:id>
       <g:title>Martin markkinat Tallinnassa 2026 6.-7.11.2026</g:title>
@@ -124,7 +124,7 @@
       <g:custom_label_0>Kotimaan matkat</g:custom_label_0>
       <g:custom_label_1>Kulttuurimatkat</g:custom_label_1>
       <g:custom_label_2>Päivämatka</g:custom_label_2>
-      <g:custom_label_3>15-30 pv</g:custom_label_3>
+      <g:custom_label_3>0-14 pv</g:custom_label_3>
       <g:custom_label_4>20.11.2026</g:custom_label_4>
     </item>
     <item>
@@ -359,9 +359,9 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Matka-Launokorpi</g:brand>
-      <g:product_type>Matkat &gt; Laivamatkat &gt; Risteilyt</g:product_type>
+      <g:product_type>Matkat &gt; Laivamatkat &gt; Saaristomatkat</g:product_type>
       <g:custom_label_0>Laivamatkat</g:custom_label_0>
-      <g:custom_label_1>Risteilyt</g:custom_label_1>
+      <g:custom_label_1>Saaristomatkat, Risteilyt</g:custom_label_1>
       <g:custom_label_2>2-3 pv</g:custom_label_2>
       <g:custom_label_3>31-90 pv</g:custom_label_3>
       <g:custom_label_4>24.-25.12.2026</g:custom_label_4>
@@ -530,6 +530,26 @@
       <g:product_type>Matkat &gt; Kotimaan matkat &gt; Kulttuurimatkat</g:product_type>
       <g:custom_label_0>Kotimaan matkat</g:custom_label_0>
       <g:custom_label_1>Kulttuurimatkat</g:custom_label_1>
+      <g:custom_label_2>Päivämatka</g:custom_label_2>
+      <g:custom_label_3>yli 90 pv</g:custom_label_3>
+      <g:custom_label_4>27.2.2027</g:custom_label_4>
+    </item>
+    <item>
+      <g:id>storfinnhovan-maanalainen-savusauna</g:id>
+      <g:title>Storfinnhovan maanalainen savusauna 27.2.2027</g:title>
+      <g:description>la 27.2.2027 · alk. 99 €/hlö. Storfinnhovan maanalainen savusauna tarjoaa mieleenpainuvan saunaelämyksen. Matkaohjelma: Kemiönsaarella sijaitsee yksi Suomen ainutlaatuisimmista savusaunoista. Tuikuin valaistu graniittinen savusauna huokuu tunnelmaa ja saunan läpi virtaa virkistävä puro , johon voi myös kastautua. Lähdemme matkalle matkaohjelman loppuosassa olevan aikataulun mukaan. Ajamme Kemiönsaarelle Storfinnhovan tilalle, jonne saavumme noin klo 15.00. Metsään rakennetun taianomaisen metsäkylän yhteydessä on ainutlaatuinen, suuri maanalainen graniittinen savusauna, joka sijaitsee kauniin metsäpuron varrella. Sauna on rakennettu suurista graniittilohkareista ja sen löylyistä voi kerralla nauttia n. 40 saunojaa. Saunan edustalla soljuva metsäpuro kulkeutuu osaksi saunan läpi. Se muodostaa saunaan vesiputouksen ja kaksi vesiallasta, joista toinen toimii saunojien vilvoittelualtaana. Saunomiseen on varattu noin 2,5 tuntia aikaa. Löylyjen jälkeen siirrymme nauttimaan noutopöydän herkuista tunnelmalliseen ritarisaliin, joka on saunan välittömässä läheisyydessä. Ruokailun jälkeen, noin klo 19, lähdemme paluumatkalle takaisin Turun seudulle, jonne saavumme noin klo 20.30 mennessä. Saunaretken hinta on 99 €/hlö Hinta sisältää: bussimatkan saunomisen ruokailun Lisämaksusta: Bussin paikkavaraukset, 1 rivi 20 €/hlö ja rivit 2-3 10 €/hlö Tietoa matkan ruokailuista: Matkan ruokailut ovat usein etukäteen valittuja ryhmämenuja. Ruokarajoitteet huomioidaan mahdollisuuksien mukaan…</g:description>
+      <g:link>https://launokorpi.com/fi/matka/storfinnhovan-maanalainen-savusauna</g:link>
+      <g:image_link>https://launokorpi.com/sites/default/files/2023-04/Storfinnhovan%20sauna.jpg</g:image_link>
+      <g:additional_image_link>https://launokorpi.com/sites/default/files/2024-01/Storfinnhova%20maisema.jpg</g:additional_image_link>
+      <g:additional_image_link>https://launokorpi.com/sites/default/files/2024-01/Storfinnhova%20ruokailu.jpg</g:additional_image_link>
+      <g:additional_image_link>https://launokorpi.com/sites/default/files/2024-01/Storfinnhova%20puro.jpg</g:additional_image_link>
+      <g:price>99.00 EUR</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Matka-Launokorpi</g:brand>
+      <g:product_type>Matkat &gt; Kotimaan matkat &gt; Saaristomatkat</g:product_type>
+      <g:custom_label_0>Kotimaan matkat</g:custom_label_0>
+      <g:custom_label_1>Saaristomatkat</g:custom_label_1>
       <g:custom_label_2>Päivämatka</g:custom_label_2>
       <g:custom_label_3>yli 90 pv</g:custom_label_3>
       <g:custom_label_4>27.2.2027</g:custom_label_4>
