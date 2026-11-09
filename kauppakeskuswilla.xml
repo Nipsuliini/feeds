@@ -4,7 +4,7 @@
     <title>kauppakeskuswilla</title>
     <link>https://www.kauppakeskuswilla.fi/</link>
     <description>Product feed – kauppakeskuswilla</description>
-    <lastBuildDate>Sun, 08 Nov 2026 01:29:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 01:46:35 +0000</lastBuildDate>
     <item>
             <g:id>offer-35804</g:id>
             <g:title>3 pizza slicea + hanajuoma | Rax Pizzabuffet</g:title>
@@ -103,22 +103,6 @@
             <g:custom_label_3>1.11.–30.11.2026</g:custom_label_3>
     </item>
     <item>
-            <g:id>offer-13911</g:id>
-            <g:title>Pipo | Euro Moda</g:title>
-            <g:description>Euro Modaan on saapunut runsaasti uusia sesongin tuotteita. Lämmintä kylmään vuodenaikaan niin sisätiloihin kuin ulos. Paljon erilaisia käsineitä, pipoja, kaulahuiveja ja takkeja. Lämpimiä yläosia ja vuorillisia housuja.!</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2022/10/AEF2F9AB-DAF4-485D-8E26-8D8722E66186.jpeg</g:image_link>
-            <g:price>20.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>20 €</g:custom_label_1>
-            <g:custom_label_2>20 €</g:custom_label_2>
-            <g:custom_label_3>31.10.–8.11.2026</g:custom_label_3>
-    </item>
-    <item>
             <g:id>offer-35722</g:id>
             <g:title>Rieker Tex-kävelykenkä | Click Shoes</g:title>
             <g:description>vettähylkivällä kalvolla olevat kävelykengät pitävällä pohjalla</g:description>
@@ -168,22 +152,6 @@
             <g:custom_label_1>39,90 €</g:custom_label_1>
             <g:custom_label_2>39,90 €</g:custom_label_2>
             <g:custom_label_3>30.10.–15.11.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-9309</g:id>
-            <g:title>Käsineet | Euro Moda</g:title>
-            <g:description>Eri värejä</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/euromoda</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2021/10/384D4488-649F-4BC2-BAE0-3117D7ACCFBB.jpeg</g:image_link>
-            <g:price>20.00 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Euro Moda</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Euro Moda</g:custom_label_0>
-            <g:custom_label_1>20 €</g:custom_label_1>
-            <g:custom_label_2>20 €</g:custom_label_2>
-            <g:custom_label_3>30.10.–8.11.2026</g:custom_label_3>
     </item>
     <item>
             <g:id>offer-35729</g:id>
@@ -252,40 +220,6 @@
             <g:custom_label_1>29,90 €</g:custom_label_1>
             <g:custom_label_2>29,90 €</g:custom_label_2>
             <g:custom_label_3>30.10.–15.11.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-35694</g:id>
-            <g:title>Flanellipaidat | Dressmann</g:title>
-            <g:description>100% puuvillaa.</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/dressmann</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/10/Q4_w44-45_Fathers_1080x1080_F.jpg</g:image_link>
-            <g:price>39.95 EUR</g:price>
-            <g:sale_price>19.95 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Dressmann</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Dressmann</g:custom_label_0>
-            <g:custom_label_1>19,95 €</g:custom_label_1>
-            <g:custom_label_2>19,95 €</g:custom_label_2>
-            <g:custom_label_3>26.10.–8.11.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-35696</g:id>
-            <g:title>Pyjamahousut | Dressmann</g:title>
-            <g:description>100% puuvillaa.</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/dressmann</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/10/Q4_w44-45_Fathers_1080x1080_F-6.jpg</g:image_link>
-            <g:price>29.95 EUR</g:price>
-            <g:sale_price>19.95 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Dressmann</g:brand>
-            <g:product_type>Tarjoukset &gt; Muoti ja pukeutuminen</g:product_type>
-            <g:custom_label_0>Dressmann</g:custom_label_0>
-            <g:custom_label_1>19,95 €</g:custom_label_1>
-            <g:custom_label_2>19,95 €</g:custom_label_2>
-            <g:custom_label_3>26.10.–8.11.2026</g:custom_label_3>
     </item>
     <item>
             <g:id>offer-28949</g:id>
@@ -404,6 +338,40 @@
             <g:custom_label_3>13.10.–15.11.2026</g:custom_label_3>
     </item>
     <item>
+            <g:id>offer-19749</g:id>
+            <g:title>Erä Invigo Premium -tuotteita | Kampaamo-myymälä Clips</g:title>
+            <g:description>Invigo-tuotesarjasta löydät monipuoliset shampoot ja hoitoaineet moniin tarpeisiin.</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/kampaamo-myymala-clips</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/05/Wella-FUSION-SHAMPOO_250ml-pieni.jpg</g:image_link>
+            <g:price>19.95 EUR</g:price>
+            <g:sale_price>11.97 EUR</g:sale_price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Kampaamo-myymälä Clips</g:brand>
+            <g:product_type>Tarjoukset &gt; Kauneus ja hyvinvointi</g:product_type>
+            <g:custom_label_0>Kampaamo-myymälä Clips</g:custom_label_0>
+            <g:custom_label_1>11,97 €</g:custom_label_1>
+            <g:custom_label_2>14,97 €</g:custom_label_2>
+            <g:custom_label_3>12.10.–15.11.2026</g:custom_label_3>
+    </item>
+    <item>
+            <g:id>offer-19752</g:id>
+            <g:title>Erä FR No Nothing -tuotteita | Kampaamo-myymälä Clips</g:title>
+            <g:description>Hajusteeton Four Reasons No Nothing ei sisällä yleisesti herkistäviä eikä ärsyttäviä raaka-aineita, joten sarjan tuotteet sopivat herkkäihoisten lisäksi kaikille, jotka tahtovat vähentää elimistönsä hajuste- ja kemikaalikuormitusta.</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/kampaamo-myymala-clips</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/05/FR-No-Nothing-ryhma-2026.jpg</g:image_link>
+            <g:price>14.95 EUR</g:price>
+            <g:sale_price>8.97 EUR</g:sale_price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Kampaamo-myymälä Clips</g:brand>
+            <g:product_type>Tarjoukset &gt; Kauneus ja hyvinvointi</g:product_type>
+            <g:custom_label_0>Kampaamo-myymälä Clips</g:custom_label_0>
+            <g:custom_label_1>8,97 €</g:custom_label_1>
+            <g:custom_label_2>9,57 €</g:custom_label_2>
+            <g:custom_label_3>12.10.–15.11.2026</g:custom_label_3>
+    </item>
+    <item>
             <g:id>offer-26916</g:id>
             <g:title>Erä Color Fresh Mask -tuotteita | Kampaamo-myymälä Clips</g:title>
             <g:description>Wellan Color Fresh Mask -hiusnaamio toimii kuin puolikestävä sävyte ─ se ei vahingoita hiuksia, vaan antaa hiusvärillesi lisää elinvoimaa kotona. Hiusnaamio antaa väliaikaisen lopputuloksen.</g:description>
@@ -486,40 +454,6 @@
             <g:custom_label_0>Kampaamo-myymälä Clips</g:custom_label_0>
             <g:custom_label_1>17,46 €</g:custom_label_1>
             <g:custom_label_2>27,96 €</g:custom_label_2>
-            <g:custom_label_3>12.10.–15.11.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-19749</g:id>
-            <g:title>Erä Invigo Premium -tuotteita | Kampaamo-myymälä Clips</g:title>
-            <g:description>Invigo-tuotesarjasta löydät monipuoliset shampoot ja hoitoaineet moniin tarpeisiin.</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/kampaamo-myymala-clips</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/05/Wella-FUSION-SHAMPOO_250ml-pieni.jpg</g:image_link>
-            <g:price>19.95 EUR</g:price>
-            <g:sale_price>11.97 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Kampaamo-myymälä Clips</g:brand>
-            <g:product_type>Tarjoukset &gt; Kauneus ja hyvinvointi</g:product_type>
-            <g:custom_label_0>Kampaamo-myymälä Clips</g:custom_label_0>
-            <g:custom_label_1>11,97 €</g:custom_label_1>
-            <g:custom_label_2>14,97 €</g:custom_label_2>
-            <g:custom_label_3>12.10.–15.11.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-19752</g:id>
-            <g:title>Erä FR No Nothing -tuotteita | Kampaamo-myymälä Clips</g:title>
-            <g:description>Hajusteeton Four Reasons No Nothing ei sisällä yleisesti herkistäviä eikä ärsyttäviä raaka-aineita, joten sarjan tuotteet sopivat herkkäihoisten lisäksi kaikille, jotka tahtovat vähentää elimistönsä hajuste- ja kemikaalikuormitusta.</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/kampaamo-myymala-clips</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/05/FR-No-Nothing-ryhma-2026.jpg</g:image_link>
-            <g:price>14.95 EUR</g:price>
-            <g:sale_price>8.97 EUR</g:sale_price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Kampaamo-myymälä Clips</g:brand>
-            <g:product_type>Tarjoukset &gt; Kauneus ja hyvinvointi</g:product_type>
-            <g:custom_label_0>Kampaamo-myymälä Clips</g:custom_label_0>
-            <g:custom_label_1>8,97 €</g:custom_label_1>
-            <g:custom_label_2>9,57 €</g:custom_label_2>
             <g:custom_label_3>12.10.–15.11.2026</g:custom_label_3>
     </item>
     <item>
@@ -785,6 +719,22 @@
             <g:custom_label_3>30.3.–31.12.2026</g:custom_label_3>
     </item>
     <item>
+            <g:id>offer-33333</g:id>
+            <g:title>Lounastarjous | Subway</g:title>
+            <g:description>Lounastarjous Todella pitkä lounaamme sisältää 0,4L hanajuoman, 30 cm Subin täytteenä valintasi mukaan Kana Fajita, Spicy Italian tai Tonnikala, herkullisen keksin sekä kahvin hintaan 12,90 € Lounastarjouksemme on voimassa arkisin (ma-pe) kello 10:30-14:30</g:description>
+            <g:link>https://www.kauppakeskuswilla.fi/liike/subway</g:link>
+            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/02/Subway-lounas-1.jpg</g:image_link>
+            <g:price>12.90 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Subway</g:brand>
+            <g:product_type>Tarjoukset &gt; Ruoka ja juoma</g:product_type>
+            <g:custom_label_0>Subway</g:custom_label_0>
+            <g:custom_label_1>12,90 €</g:custom_label_1>
+            <g:custom_label_2>12,90 €</g:custom_label_2>
+            <g:custom_label_3>23.2.–31.12.2026</g:custom_label_3>
+    </item>
+    <item>
             <g:id>offer-33325</g:id>
             <g:title>Pitkä Subi ja juoma lounasmaksuedulla | Subway</g:title>
             <g:description>Lounasmaksutavoilla (e-passi, Edenred, Smartum) mikä tahansa Rakenna omasi Subi 30 cm + 0,33 L tölkkijuoma 12,90 €. Voimassa kaikkina aukioloaikoina, myös viikonloppuisin.</g:description>
@@ -830,22 +780,6 @@
             <g:custom_label_0>Subway</g:custom_label_0>
             <g:custom_label_1>4,90 €</g:custom_label_1>
             <g:custom_label_2>4,90 €</g:custom_label_2>
-            <g:custom_label_3>23.2.–31.12.2026</g:custom_label_3>
-    </item>
-    <item>
-            <g:id>offer-33333</g:id>
-            <g:title>Lounastarjous | Subway</g:title>
-            <g:description>Lounastarjous Todella pitkä lounaamme sisältää 0,4L hanajuoman, 30 cm Subin täytteenä valintasi mukaan Kana Fajita, Spicy Italian tai Tonnikala, herkullisen keksin sekä kahvin hintaan 12,90 € Lounastarjouksemme on voimassa arkisin (ma-pe) kello 10:30-14:30</g:description>
-            <g:link>https://www.kauppakeskuswilla.fi/liike/subway</g:link>
-            <g:image_link>https://d2ms7h5k0ql8pz.cloudfront.net/content/uploads/2026/02/Subway-lounas-1.jpg</g:image_link>
-            <g:price>12.90 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Subway</g:brand>
-            <g:product_type>Tarjoukset &gt; Ruoka ja juoma</g:product_type>
-            <g:custom_label_0>Subway</g:custom_label_0>
-            <g:custom_label_1>12,90 €</g:custom_label_1>
-            <g:custom_label_2>12,90 €</g:custom_label_2>
             <g:custom_label_3>23.2.–31.12.2026</g:custom_label_3>
     </item>
     <item>
