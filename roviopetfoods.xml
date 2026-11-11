@@ -4,20 +4,7 @@
     <title>roviopetfoods</title>
     <link>https://roviopetfoods.fi/</link>
     <description>Product feed – roviopetfoods</description>
-    <lastBuildDate>Tue, 10 Nov 2026 04:24:28 +0000</lastBuildDate>
-    <item>
-            <g:id>3f4a66cefa6f</g:id>
-            <g:title>Vuosikalenteri 2025</g:title>
-            <g:description>VUODEN 2025 KOVIN KALENTERI!</g:description>
-            <g:link>https://roviopetfoods.fi/tuote/werraton-vuosikalenteri-2025/</g:link>
-            <g:image_link>https://roviopetfoods.fi/wp-content/uploads/2025/01/Kalenteri2025.jpg</g:image_link>
-            <g:price>7.99 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Vuosikalenteri</g:brand>
-            <g:product_type>Koirat &gt; Werraton</g:product_type>
-            <g:custom_label_0>fi</g:custom_label_0>
-    </item>
+    <lastBuildDate>Wed, 11 Nov 2026 02:00:06 +0000</lastBuildDate>
     <item>
             <g:id>202010</g:id>
             <g:title>Werraton Viljaton kissa: 500 g</g:title>
@@ -45,6 +32,19 @@
             <g:mpn>202020</g:mpn>
             <g:product_type>Kissat &gt; Werraton</g:product_type>
             <g:item_group_id>11124</g:item_group_id>
+    </item>
+    <item>
+            <g:id>3f4a66cefa6f</g:id>
+            <g:title>Vuosikalenteri 2025</g:title>
+            <g:description>VUODEN 2025 KOVIN KALENTERI!</g:description>
+            <g:link>https://roviopetfoods.fi/tuote/werraton-vuosikalenteri-2025/</g:link>
+            <g:image_link>https://roviopetfoods.fi/wp-content/uploads/2025/01/Kalenteri2025.jpg</g:image_link>
+            <g:price>7.99 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Vuosikalenteri</g:brand>
+            <g:product_type>Koirat &gt; Werraton</g:product_type>
+            <g:custom_label_0>fi</g:custom_label_0>
     </item>
     <item>
             <g:id>105040</g:id>
@@ -467,6 +467,48 @@
             <g:item_group_id>11121</g:item_group_id>
     </item>
     <item>
+            <g:id>104050</g:id>
+            <g:title>Werraton Aktiivi: 5 kg</g:title>
+            <g:description>AKTIIVISEN AIKUISEN KOIRAN TÄYSRAVINTO Vihdoinkin on tarjolla aktiiviselle koiralle täysin kotimaista täysravintoa! Ruoassa on runsaasti hyvin sulavaa, arvokasta ideaaliproteiinia kananmunasta koiran liikuntasuorituksiin. Ravinto- ja aminohappokoostumus sekä sulavuus ovat juuri aktiiviselle koiralle sopivaksi suunniteltuja. Raaka-aineina ovat tuoreet kananmunat, siipikarjaproteiini sekä ohra ja kuorittu kaura. Ei sisällä papua tai hernettä. Hyviä kuituja pellavasta ja melassileikkeestä. Werraton Aktiivi -täysravinto sisältää myös glukosamiinia ja kondroitiinisulfaattia nivelten hyväksi. Werraton-täysravinnot ovat saaneet Hyvää Suomesta -merkin käyttöoikeuden lokakuussa 2024. Merkkiä saa käyttää ruoissa, joissa kaikki liha, kala, kananmuna ovat 100 % suomalaisia. Kaikki käyttämämme raaka-aineet ovat kotimaisia, lukuunottamatta tuotteeseen lisättyjä vitamiineja ja kivennäisiä, sekä melassileikettä. Ne joudutaan hankkimaan ulkomailta, koska niitä ei tällä hetkellä valmisteta Suomessa. Werraton on laadukasta lähiruokaa Loimaalta!</g:description>
+            <g:link>https://roviopetfoods.fi/tuote/werraton-aktiivi-koiralle/</g:link>
+            <g:image_link>https://roviopetfoods.fi/wp-content/uploads/2025/05/C250520_Tuotepakkaus_WERRATON_Aktiivi_12kg_Hyvaa_Suomesta.jpg</g:image_link>
+            <g:price>26.20 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Werraton</g:brand>
+            <g:mpn>104050</g:mpn>
+            <g:product_type>Koirat &gt; Werraton</g:product_type>
+            <g:item_group_id>11104</g:item_group_id>
+    </item>
+    <item>
+            <g:id>104120</g:id>
+            <g:title>Werraton Aktiivi: 12 kg</g:title>
+            <g:description>AKTIIVISEN AIKUISEN KOIRAN TÄYSRAVINTO Vihdoinkin on tarjolla aktiiviselle koiralle täysin kotimaista täysravintoa! Ruoassa on runsaasti hyvin sulavaa, arvokasta ideaaliproteiinia kananmunasta koiran liikuntasuorituksiin. Ravinto- ja aminohappokoostumus sekä sulavuus ovat juuri aktiiviselle koiralle sopivaksi suunniteltuja. Raaka-aineina ovat tuoreet kananmunat, siipikarjaproteiini sekä ohra ja kuorittu kaura. Ei sisällä papua tai hernettä. Hyviä kuituja pellavasta ja melassileikkeestä. Werraton Aktiivi -täysravinto sisältää myös glukosamiinia ja kondroitiinisulfaattia nivelten hyväksi. Werraton-täysravinnot ovat saaneet Hyvää Suomesta -merkin käyttöoikeuden lokakuussa 2024. Merkkiä saa käyttää ruoissa, joissa kaikki liha, kala, kananmuna ovat 100 % suomalaisia. Kaikki käyttämämme raaka-aineet ovat kotimaisia, lukuunottamatta tuotteeseen lisättyjä vitamiineja ja kivennäisiä, sekä melassileikettä. Ne joudutaan hankkimaan ulkomailta, koska niitä ei tällä hetkellä valmisteta Suomessa. Werraton on laadukasta lähiruokaa Loimaalta!</g:description>
+            <g:link>https://roviopetfoods.fi/tuote/werraton-aktiivi-koiralle/</g:link>
+            <g:image_link>https://roviopetfoods.fi/wp-content/uploads/2025/05/C250520_Tuotepakkaus_WERRATON_Aktiivi_12kg_Hyvaa_Suomesta.jpg</g:image_link>
+            <g:price>53.90 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Werraton</g:brand>
+            <g:mpn>104120</g:mpn>
+            <g:product_type>Koirat &gt; Werraton</g:product_type>
+            <g:item_group_id>11104</g:item_group_id>
+    </item>
+    <item>
+            <g:id>104123</g:id>
+            <g:title>Werraton Aktiivi: 12 kg (28 kpl lava)</g:title>
+            <g:description>AKTIIVISEN AIKUISEN KOIRAN TÄYSRAVINTO Vihdoinkin on tarjolla aktiiviselle koiralle täysin kotimaista täysravintoa! Ruoassa on runsaasti hyvin sulavaa, arvokasta ideaaliproteiinia kananmunasta koiran liikuntasuorituksiin. Ravinto- ja aminohappokoostumus sekä sulavuus ovat juuri aktiiviselle koiralle sopivaksi suunniteltuja. Raaka-aineina ovat tuoreet kananmunat, siipikarjaproteiini sekä ohra ja kuorittu kaura. Ei sisällä papua tai hernettä. Hyviä kuituja pellavasta ja melassileikkeestä. Werraton Aktiivi -täysravinto sisältää myös glukosamiinia ja kondroitiinisulfaattia nivelten hyväksi. Werraton-täysravinnot ovat saaneet Hyvää Suomesta -merkin käyttöoikeuden lokakuussa 2024. Merkkiä saa käyttää ruoissa, joissa kaikki liha, kala, kananmuna ovat 100 % suomalaisia. Kaikki käyttämämme raaka-aineet ovat kotimaisia, lukuunottamatta tuotteeseen lisättyjä vitamiineja ja kivennäisiä, sekä melassileikettä. Ne joudutaan hankkimaan ulkomailta, koska niitä ei tällä hetkellä valmisteta Suomessa. Werraton on laadukasta lähiruokaa Loimaalta!</g:description>
+            <g:link>https://roviopetfoods.fi/tuote/werraton-aktiivi-koiralle/</g:link>
+            <g:image_link>https://roviopetfoods.fi/wp-content/uploads/2025/05/C250520_Tuotepakkaus_WERRATON_Aktiivi_12kg_Hyvaa_Suomesta.jpg</g:image_link>
+            <g:price>1509.20 EUR</g:price>
+            <g:availability>in stock</g:availability>
+            <g:condition>new</g:condition>
+            <g:brand>Werraton</g:brand>
+            <g:mpn>104123</g:mpn>
+            <g:product_type>Koirat &gt; Werraton</g:product_type>
+            <g:item_group_id>11104</g:item_group_id>
+    </item>
+    <item>
             <g:id>102020</g:id>
             <g:title>Werraton Viljaton: 2 kg</g:title>
             <g:description>AIKUISEN KOIRAN VILJATON TÄYSRAVINTO Täysin viljaton ja ravitsemuksellisesti ylivertainen aikuisen koiran täysravinto soveltuu kuluttajatestien perusteella erinomaisesti herkkien koirien ruokintaan (Taloustutkimus 2019). Hyvältä maistuva kananmuna on parasta proteiinia koiralle, eli ideaaliproteiinia, sillä kananmunassa on koiran tarpeita parhaiten vastaava aminohappokoostumus. Valmistusaineina lisäksi siipikarjaproteiini, peruna, kuorittu härkäpapu ja pellava. Werraton-täysravinnot ovat saaneet Hyvää Suomesta -merkin käyttöoikeuden lokakuussa 2024. Merkkiä saa käyttää ruoissa, joissa kaikki liha, kala, kananmuna ovat 100 % suomalaisia. Kaikki käyttämämme raaka-aineet ovat kotimaisia, lukuunottamatta tuotteeseen lisättyjä vitamiineja ja kivennäisiä, sekä melassileikettä. Ne joudutaan hankkimaan ulkomailta, koska niitä ei tällä hetkellä valmisteta Suomessa. Werraton on laadukasta lähiruokaa Loimaalta! Lue lisää Werraton Viljaton -koiranruoan herkullisen reseptin raaka-aineista!</g:description>
@@ -563,48 +605,6 @@
             <g:mpn>301011</g:mpn>
             <g:product_type>Koirat &gt; Werraton</g:product_type>
             <g:item_group_id>11127</g:item_group_id>
-    </item>
-    <item>
-            <g:id>104050</g:id>
-            <g:title>Werraton Aktiivi: 5 kg</g:title>
-            <g:description>AKTIIVISEN AIKUISEN KOIRAN TÄYSRAVINTO Vihdoinkin on tarjolla aktiiviselle koiralle täysin kotimaista täysravintoa! Ruoassa on runsaasti hyvin sulavaa, arvokasta ideaaliproteiinia kananmunasta koiran liikuntasuorituksiin. Ravinto- ja aminohappokoostumus sekä sulavuus ovat juuri aktiiviselle koiralle sopivaksi suunniteltuja. Raaka-aineina ovat tuoreet kananmunat, siipikarjaproteiini sekä ohra ja kuorittu kaura. Ei sisällä papua tai hernettä. Hyviä kuituja pellavasta ja melassileikkeestä. Werraton Aktiivi -täysravinto sisältää myös glukosamiinia ja kondroitiinisulfaattia nivelten hyväksi. Werraton-täysravinnot ovat saaneet Hyvää Suomesta -merkin käyttöoikeuden lokakuussa 2024. Merkkiä saa käyttää ruoissa, joissa kaikki liha, kala, kananmuna ovat 100 % suomalaisia. Kaikki käyttämämme raaka-aineet ovat kotimaisia, lukuunottamatta tuotteeseen lisättyjä vitamiineja ja kivennäisiä, sekä melassileikettä. Ne joudutaan hankkimaan ulkomailta, koska niitä ei tällä hetkellä valmisteta Suomessa. Werraton on laadukasta lähiruokaa Loimaalta!</g:description>
-            <g:link>https://roviopetfoods.fi/tuote/werraton-aktiivi-koiralle/</g:link>
-            <g:image_link>https://roviopetfoods.fi/wp-content/uploads/2025/05/C250520_Tuotepakkaus_WERRATON_Aktiivi_12kg_Hyvaa_Suomesta.jpg</g:image_link>
-            <g:price>26.20 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Werraton</g:brand>
-            <g:mpn>104050</g:mpn>
-            <g:product_type>Koirat &gt; Werraton</g:product_type>
-            <g:item_group_id>11104</g:item_group_id>
-    </item>
-    <item>
-            <g:id>104120</g:id>
-            <g:title>Werraton Aktiivi: 12 kg</g:title>
-            <g:description>AKTIIVISEN AIKUISEN KOIRAN TÄYSRAVINTO Vihdoinkin on tarjolla aktiiviselle koiralle täysin kotimaista täysravintoa! Ruoassa on runsaasti hyvin sulavaa, arvokasta ideaaliproteiinia kananmunasta koiran liikuntasuorituksiin. Ravinto- ja aminohappokoostumus sekä sulavuus ovat juuri aktiiviselle koiralle sopivaksi suunniteltuja. Raaka-aineina ovat tuoreet kananmunat, siipikarjaproteiini sekä ohra ja kuorittu kaura. Ei sisällä papua tai hernettä. Hyviä kuituja pellavasta ja melassileikkeestä. Werraton Aktiivi -täysravinto sisältää myös glukosamiinia ja kondroitiinisulfaattia nivelten hyväksi. Werraton-täysravinnot ovat saaneet Hyvää Suomesta -merkin käyttöoikeuden lokakuussa 2024. Merkkiä saa käyttää ruoissa, joissa kaikki liha, kala, kananmuna ovat 100 % suomalaisia. Kaikki käyttämämme raaka-aineet ovat kotimaisia, lukuunottamatta tuotteeseen lisättyjä vitamiineja ja kivennäisiä, sekä melassileikettä. Ne joudutaan hankkimaan ulkomailta, koska niitä ei tällä hetkellä valmisteta Suomessa. Werraton on laadukasta lähiruokaa Loimaalta!</g:description>
-            <g:link>https://roviopetfoods.fi/tuote/werraton-aktiivi-koiralle/</g:link>
-            <g:image_link>https://roviopetfoods.fi/wp-content/uploads/2025/05/C250520_Tuotepakkaus_WERRATON_Aktiivi_12kg_Hyvaa_Suomesta.jpg</g:image_link>
-            <g:price>53.90 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Werraton</g:brand>
-            <g:mpn>104120</g:mpn>
-            <g:product_type>Koirat &gt; Werraton</g:product_type>
-            <g:item_group_id>11104</g:item_group_id>
-    </item>
-    <item>
-            <g:id>104123</g:id>
-            <g:title>Werraton Aktiivi: 12 kg (28 kpl lava)</g:title>
-            <g:description>AKTIIVISEN AIKUISEN KOIRAN TÄYSRAVINTO Vihdoinkin on tarjolla aktiiviselle koiralle täysin kotimaista täysravintoa! Ruoassa on runsaasti hyvin sulavaa, arvokasta ideaaliproteiinia kananmunasta koiran liikuntasuorituksiin. Ravinto- ja aminohappokoostumus sekä sulavuus ovat juuri aktiiviselle koiralle sopivaksi suunniteltuja. Raaka-aineina ovat tuoreet kananmunat, siipikarjaproteiini sekä ohra ja kuorittu kaura. Ei sisällä papua tai hernettä. Hyviä kuituja pellavasta ja melassileikkeestä. Werraton Aktiivi -täysravinto sisältää myös glukosamiinia ja kondroitiinisulfaattia nivelten hyväksi. Werraton-täysravinnot ovat saaneet Hyvää Suomesta -merkin käyttöoikeuden lokakuussa 2024. Merkkiä saa käyttää ruoissa, joissa kaikki liha, kala, kananmuna ovat 100 % suomalaisia. Kaikki käyttämämme raaka-aineet ovat kotimaisia, lukuunottamatta tuotteeseen lisättyjä vitamiineja ja kivennäisiä, sekä melassileikettä. Ne joudutaan hankkimaan ulkomailta, koska niitä ei tällä hetkellä valmisteta Suomessa. Werraton on laadukasta lähiruokaa Loimaalta!</g:description>
-            <g:link>https://roviopetfoods.fi/tuote/werraton-aktiivi-koiralle/</g:link>
-            <g:image_link>https://roviopetfoods.fi/wp-content/uploads/2025/05/C250520_Tuotepakkaus_WERRATON_Aktiivi_12kg_Hyvaa_Suomesta.jpg</g:image_link>
-            <g:price>1509.20 EUR</g:price>
-            <g:availability>in stock</g:availability>
-            <g:condition>new</g:condition>
-            <g:brand>Werraton</g:brand>
-            <g:mpn>104123</g:mpn>
-            <g:product_type>Koirat &gt; Werraton</g:product_type>
-            <g:item_group_id>11104</g:item_group_id>
     </item>
   </channel>
 </rss>
