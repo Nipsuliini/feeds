@@ -4,7 +4,7 @@
     <title>launokorpi</title>
     <link>https://launokorpi.com/</link>
     <description>Travel catalog feed – launokorpi</description>
-    <lastBuildDate>Fri, 13 Nov 2026 02:40:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 02:17:14 +0000</lastBuildDate>
     <item>
       <g:id>matkainspiraatiota-merella-risteily-naantalista</g:id>
       <g:title>Matkainspiraatiota merellä – risteily Naantalista 18.11.2026</g:title>
@@ -125,7 +125,7 @@
       <g:product_type>Matkat &gt; Kotimaan matkat</g:product_type>
       <g:custom_label_0>Kotimaan matkat</g:custom_label_0>
       <g:custom_label_2>Päivämatka</g:custom_label_2>
-      <g:custom_label_3>15-30 pv</g:custom_label_3>
+      <g:custom_label_3>0-14 pv</g:custom_label_3>
       <g:custom_label_4>28.11.2026</g:custom_label_4>
     </item>
     <item>
@@ -149,7 +149,7 @@
       <g:custom_label_0>Laivamatkat</g:custom_label_0>
       <g:custom_label_1>Matkat Pohjoismaihin, Risteilyt</g:custom_label_1>
       <g:custom_label_2>2-3 pv</g:custom_label_2>
-      <g:custom_label_3>15-30 pv</g:custom_label_3>
+      <g:custom_label_3>0-14 pv</g:custom_label_3>
       <g:custom_label_4>28.-30.11.2026</g:custom_label_4>
     </item>
     <item>
@@ -364,27 +364,6 @@
       <g:custom_label_2>Päivämatka</g:custom_label_2>
       <g:custom_label_3>31-90 pv</g:custom_label_3>
       <g:custom_label_4>8.1.2027</g:custom_label_4>
-    </item>
-    <item>
-      <g:id>gallen-kallelan-tarvaspaa</g:id>
-      <g:title>Gallen-Kallelan Tarvaspää 16.1.2027</g:title>
-      <g:description>la 16.1.2027 · alk. 112 €/hlö. Ihmeestä ihmeeseen -näyttely, opastettu museokierros ja lounas Tarvaspäässä. Cafe Zoceria, keittolounas jälkiruoalla Gallen-Kallelan museo, näyttelyopastus ja omaa aikaa Menomatkalla pidämme omakustanteisen tauon. Tarvaspäässä nautimme ensin lounaan Cafe Zoceriassa, joka sijaitsee Akseli Gallen-Kallelan museon pihapiirissä. Lounaan jälkeen tutustumme Gallen-Kallelan museoon ja Tarvaspään ateljeelinnaan opastetulla noin 45 minuutin kierroksella. Yli 25 hengen ryhmä jaetaan kahteen osaan. Toinen ryhmä nauttii lounasta toisen osallistuessa opastukselle, minkä jälkeen ryhmät vaihtavat osia klo 13. Opastuksella perehdymme Akseli Gallen-Kallelan elämään, taiteeseen ja Tarvaspään historiaan sekä tutustumme näyttelyyn Ihmeestä ihmeeseen – Akseli Gallen-Kallela keräilijänä. Näyttelyssä pääsemme kurkistamaan taiteilijan keräämiin eksoottisiin matkamuistoihin ja kulttuurihistoriallisiin aarteisiin sekä hänen matkoihinsa liittyviin teoksiin. Ihmeestä ihmeeseen – Akseli Gallen-Kallela keräilijänä - Gallen-Kallelan Museo Opastuksen jälkeen jää omaa aikaa tutustua museoon, näyttelyyn ja Tarvaspään ainutlaatuiseen ateljeelinnaan omassa tahdissa. Kulttuuripäivän jälkeen aloitamme kotimatkan Turun seudulle. Matkalla pidämme vielä omakustanteisen jaloittelutauon ja olemme takaisin Turussa noin 17.30 paikkeilla. Matkan hinta: ilman museokorttia 112 €/hlö museokortilla 103 €/hlö (museokortin on oltava matkalla mukana) Hinta sisältää: bussimatkan keittolounaan…</g:description>
-      <g:link>https://launokorpi.com/fi/matka/gallen-kallelan-tarvaspaa</g:link>
-      <g:image_link>https://launokorpi.com/sites/default/files/2026-10/Gallen-Kallelan%20museo%20Tarvasp%C3%A4%C3%A4.jpg</g:image_link>
-      <g:additional_image_link>https://launokorpi.com/sites/default/files/2026-10/Ihme_nettikuva.jpg</g:additional_image_link>
-      <g:additional_image_link>https://launokorpi.com/sites/default/files/2026-10/D-DEP-Horsmia_Tarvaspaan_pihalla-scaled-portrait-60444393e5fc59d77ee8cfc10a213aee-.jpg</g:additional_image_link>
-      <g:additional_image_link>https://launokorpi.com/sites/default/files/2026-10/Cafe%20Zoceria.jpg</g:additional_image_link>
-      <g:additional_image_link>https://launokorpi.com/sites/default/files/2026-10/Cafe%20Zokeria%20sis%C3%A4lt%C3%A4.jpg</g:additional_image_link>
-      <g:price>112.00 EUR</g:price>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Matka-Launokorpi</g:brand>
-      <g:product_type>Matkat &gt; Kotimaan matkat &gt; Kulttuurimatkat</g:product_type>
-      <g:custom_label_0>Kotimaan matkat</g:custom_label_0>
-      <g:custom_label_1>Kulttuurimatkat</g:custom_label_1>
-      <g:custom_label_2>Päivämatka</g:custom_label_2>
-      <g:custom_label_3>31-90 pv</g:custom_label_3>
-      <g:custom_label_4>16.1.2027</g:custom_label_4>
     </item>
     <item>
       <g:id>tammikuun-sokkomatka</g:id>
@@ -1147,6 +1126,33 @@
       <g:custom_label_4>20-21.7.2027</g:custom_label_4>
     </item>
     <item>
+      <g:id>paijanteen-maisemista-keski-suomen-kulttuuriaarteisiin</g:id>
+      <g:title>Päijänteen maisemista Keski-Suomen kulttuuriaarteisiin 2.-4.8.2027</g:title>
+      <g:description>ma-ke 2.-4.8.2027 · alk. 489 €/hlö · 3 pv. Lähde nauttimaan Keski-Suomen kauniista järvimaisemista, viehättävistä pikkupaikkakunnista ja kiinnostavista kulttuurikohteista! Kolmen päivän matkalla tutustumme Vääksyn ja Sysmän idyllisiin maisemiin, Jyväskylän nähtävyyksiin sekä Petäjäveden ja Mäntän kulttuuriaarteisiin. Matkan kruunaavat tunnelmallinen kesäillan risteily Päijänteellä ja unohtumattomat maisemat sekä kulttuurikohteet. Matkaohjelma Ma 2.8.2027 – Vääksyn ja Sysmän kautta Jyväskylään Vääksyn kanava ja pikkuputiikit Sysmän seutu Pilkkilanharju Illaksi Jyväskylään Matkamme alkaa aamulla Turusta kohti Päijät-Hämettä. Matkalla pidämme omakustanteisen tauon ennen saapumistamme Vääksyyn, jossa nautimme lounaan Majakkapaviljongissa. Lounaan jälkeen on aikaa tutustua Vanhan Vääksyn idylliseen kanavamiljööseen ja viehättäviin putiikkeihin. Matka jatkuu upeiden järvimaisemien halki Pulkkilanharjua pitkin Sysmään. Tutustumme oppaan johdolla alueen historiaan ja nähtävyyksiin sekä nautimme iltapäiväkahvit. Tämän jälkeen jatkamme Korpilahden kautta Jyväskylään, jossa majoitumme Solo Sokos Hotel Paviljonkiin. Loppuilta on vapaata aikaa. Ti 3.8.2027 – Jyväskylän nähtävyyksiä ja kesäillan risteily Jyväskylän kaupunkikierros Pandan tehtaanmyymälä Aalto 2 -museokeskus Risteily Päijänteellä Aamiaisen jälkeen lähdemme opastetulle kaupunkikierrokselle Jyväskylään, joka tunnetaan erityisesti Alvar Aallon arkkitehtuurista ja kauniista järvimaisemistaan. Kierroksella tutustumme kaupungin…</g:description>
+      <g:link>https://launokorpi.com/fi/matka/paijanteen-maisemista-keski-suomen-kulttuuriaarteisiin</g:link>
+      <g:image_link>https://launokorpi.com/sites/default/files/2026-11/hilden%20risteily.jpg</g:image_link>
+      <g:additional_image_link>https://launokorpi.com©Hilden ." typeof="foaf:Image" /&gt;</g:additional_image_link>
+      <g:additional_image_link>https://launokorpi.com/sites/default/files/2026-11/kuokkalansilta%2003%20Juhana%20konttinen.jpg</g:additional_image_link>
+      <g:additional_image_link>https://launokorpi.comJyväskylä. ©Visit Jyväskylä</g:additional_image_link>
+      <g:additional_image_link>https://launokorpi.comJuhana Konttinen." typeof="foaf:Image" /&gt;</g:additional_image_link>
+      <g:additional_image_link>https://launokorpi.com/sites/default/files/2026-11/Aalto2_extension_Photo_Maija_Holma_1.jpg</g:additional_image_link>
+      <g:additional_image_link>https://launokorpi.com©Aalto2</g:additional_image_link>
+      <g:additional_image_link>https://launokorpi.comMaija Holma." typeof="foaf:Image" /&gt;</g:additional_image_link>
+      <g:additional_image_link>https://launokorpi.com/sites/default/files/2026-11/007-UNESCO-PETAJAVESI%20OLD%20CHURCH%20-%20PHOTO%20TERO%20TAKALO-ESKOLA.jpg</g:additional_image_link>
+      <g:additional_image_link>https://launokorpi.com©Visit Jyväskylä</g:additional_image_link>
+      <g:additional_image_link>https://launokorpi.comTero Takalo-Eskola." typeof="foaf:Image" /&gt;</g:additional_image_link>
+      <g:price>489.00 EUR</g:price>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>Matka-Launokorpi</g:brand>
+      <g:product_type>Matkat &gt; Kotimaan matkat &gt; Kulttuurimatkat</g:product_type>
+      <g:custom_label_0>Kotimaan matkat</g:custom_label_0>
+      <g:custom_label_1>Kulttuurimatkat</g:custom_label_1>
+      <g:custom_label_2>2-3 pv</g:custom_label_2>
+      <g:custom_label_3>yli 90 pv</g:custom_label_3>
+      <g:custom_label_4>2.-4.8.2027</g:custom_label_4>
+    </item>
+    <item>
       <g:id>wien-ja-rigoletto-ooppera</g:id>
       <g:title>Wien ja Rigoletto-ooppera 12.–15.8.2027</g:title>
       <g:description>to–su 12.–15.8.2027 · alk. 1490 €/hlö · 4 pv. Koe Wienin kulttuurihistoria, tutustu säveltäjien jalanjälkiin ja nauti Verdin Rigoletto-oopperasta ainutlaatuisessa roomalaisaikaisessa kivilouhimossa Itävallassa. Wienin kulttuuria ja oopperan taikaa Wienin-matka yhdistää klassisen musiikin, historialliset nähtävyydet ja itävaltalaiset kulttuurielämykset. Matkan kohokohtana on St. Margarethenin oopperafestivaali ja Giuseppe Verdin Rigoletto-ooppera vaikuttavassa ulkoilmateatterissa. Ohjelmaan kuuluu myös Wienin opastettu kaupunkikierros, Esterházy-linna, Joseph Haydnin historiaan tutustuminen sekä retki Wienerwaldin metsämaisemiin, Heiligenkreuzin luostariin ja Badenin kylpyläkaupunkiin. Matkaohjelma to 12.8. | Wienin nähtävyydet ja kaupunkikierros Saapuminen Helsinki-Vantaan lentokentälle joko bussikuljetuksella Turun alueelta tai itsenäisesti. Itsenäisesti saapuvat liittyvät mukaan lentokentällä klo 7.25, minkä jälkeen check-in. Finnairin suora lento (AY1471) Wieniin lähtee 9.25 ja laskeutuu perillä 10.50 (aikaero -1 h). Wienin lentokentällä meitä vastassa ovat suomenkielinen opas ja bussi. Tutustumme Itävallan pääkaupunkiin kiertoajelulla, jonka aikana näemme muun muassa Ring-kadun historialliset rakennukset, Valtionoopperan, parlamenttitalon, kaupungintalon ja Hofburgin talvipalatsin. Reitti kulkee myös modernin Tonavan alueen, Karlsplatzin aukion ja perinteisen Naschmarktin torin kautta. Kaupunkikierroksen aikana saamme hyvän yleiskuvan Wienin nähtävyyksistä ja…</g:description>
@@ -1176,7 +1182,7 @@
     <item>
       <g:id>atlantic-road-norjan-vuonojen-lumoissa</g:id>
       <g:title>The Atlantic Road – Norjan vuonojen lumoissa 16.-24.8.2027</g:title>
-      <g:description>ma-ti 16.-24.8.2027 · alk. 2190 €/hlö · 9 pv. Lähde mukaan unohtumattomalle kiertomatkalle, jossa kohtaavat Norjan jylhät vuoret, syvät vuonot, viehättävät kylät ja yksi maailman kuuluisimmista maisemateistä – The Atlantic Road. Matkan aikana näemme upeita luonnonihmeitä, tutustumme historiallisiin kohteisiin ja nautimme norjalaisesta tunnelmasta kiireettömästi matkaten. Matkamme vie meidät Geirangerin maailmankuulun vuonon maisemiin, hurmaavalle Peikonpolulle eli Trollstigenille sekä Atlantin rannikon dramaattisiin merimaisemiin. Koemme vuonon risteilyltä käsin, tutustumme Trondheimin historialliseen kaupunkiin ja kuljemme läpi pohjoismaisten maisemien, joissa jokainen päivä tarjoaa jotakin uutta. Matka alkaa Turusta laivamatkalla Tukholmaan ja jatkuu bussilla Ruotsin halki Norjan vuoristoon ja rannikolle. Paluumatkalla palaamme Ruotsin kautta Finnlinesin laivalla Naantaliin. Matkaohjelma: ma 16.8. Turku – Tukholma Viking Linella Saavumme illaksi satamaan, missä nousemme Viking Linen aluksen kyytiin, joka lähtee kohti Tukholmaa klo 20.55. Viking Gracella on aikaa nauttia laivan palveluista, tehdä ostoksia ja viettää rentouttavaa iltaa merellä. Voit nauttia merimaisemista ja valmistautua tulevien päivien upeisiin elämyksiin. Lisämaksusta voit nauttia myös kattavan illallisbuffeen laivalla. ti 17.8. Tukholma – Hamar Nautimme aamiaisen laivalla ja sen jälkeen matkamme jatkuu Tukholmasta bussilla Ruotsin halki kohti Norjaa. Päivä on maisemallinen siirtymämatka, jonka aikana…</g:description>
+      <g:description>ma-ti 16.-24.8.2027 · alk. 2150 €/hlö · 9 pv. Lähde mukaan unohtumattomalle kiertomatkalle, jossa kohtaavat Norjan jylhät vuoret, syvät vuonot, viehättävät kylät ja yksi maailman kuuluisimmista maisemateistä – The Atlantic Road. Matkan aikana näemme upeita luonnonihmeitä, tutustumme historiallisiin kohteisiin ja nautimme norjalaisesta tunnelmasta kiireettömästi matkaten. Matkamme vie meidät Geirangerin maailmankuulun vuonon maisemiin, hurmaavalle Peikonpolulle eli Trollstigenille sekä Atlantin rannikon dramaattisiin merimaisemiin. Koemme vuonon risteilyltä käsin, tutustumme Trondheimin historialliseen kaupunkiin ja kuljemme läpi pohjoismaisten maisemien, joissa jokainen päivä tarjoaa jotakin uutta. Matka alkaa Turusta laivamatkalla Tukholmaan ja jatkuu bussilla Ruotsin halki Norjan vuoristoon ja rannikolle. Paluumatkalla palaamme Ruotsin kautta Finnlinesin laivalla Naantaliin. Matkaohjelma: ma 16.8. Turku – Tukholma Viking Linella Saavumme illaksi satamaan, missä nousemme Viking Linen aluksen kyytiin, joka lähtee kohti Tukholmaa klo 20.55. Viking Gracella on aikaa nauttia laivan palveluista, tehdä ostoksia ja viettää rentouttavaa iltaa merellä. Voit nauttia merimaisemista ja valmistautua tulevien päivien upeisiin elämyksiin. Lisämaksusta voit nauttia myös kattavan illallisbuffeen laivalla. ti 17.8. Tukholma – Hamar Nautimme aamiaisen laivalla ja sen jälkeen matkamme jatkuu Tukholmasta bussilla Ruotsin halki kohti Norjaa. Päivä on maisemallinen siirtymämatka, jonka aikana…</g:description>
       <g:link>https://launokorpi.com/fi/matka/atlantic-road-norjan-vuonojen-lumoissa</g:link>
       <g:image_link>https://launokorpi.com/sites/default/files/2026-10/Geirangerfjord%20in%20autumn_Christne%20Baglo_Visitnorway.com_.jpg</g:image_link>
       <g:additional_image_link>https://launokorpi.comkuva: Visit Norway." typeof="foaf:Image" /&gt;</g:additional_image_link>
@@ -1189,7 +1195,7 @@
       <g:additional_image_link>https://launokorpi.com/sites/default/files/2026-10/Warehouses%20in%20Trondheim_Bernart%20Wood%20-%20Explore%20Tr%C3%B8ndelag.jpg</g:additional_image_link>
       <g:additional_image_link>https://launokorpi.com/sites/default/files/2026-10/Nidaros%20Cathedral%20-%20Trondheim_Sven-Erik%20Knoff%20-%20Visit%20Norway%20.jpg</g:additional_image_link>
       <g:additional_image_link>https://launokorpi.com/sites/default/files/2026-10/Road%20trip%20along%20the%20Atlantic%20road%20-%20Atlanterhavsvegen_Christine%20Baglo_Visitnorway.com_.jpg</g:additional_image_link>
-      <g:price>2190.00 EUR</g:price>
+      <g:price>2150.00 EUR</g:price>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Matka-Launokorpi</g:brand>
